@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Game-List name="S" rom-exists="true">
+    <Game md5="02ed46c41454945f24497ec12de90950" bytes="262160"
+        zhcn="SD快打旋风(中)"
+    />
+    <Game md5="0d5020f2be93fce9b4497544cd73b179" bytes="786464"
+        zhcn="三目童子"
+    />
+    <Game md5="893b732eddcf02b709a49748d34dc65a" bytes="24592"
+        zhcn="三只小猪(中)"
+    />
+    <Game md5="1d64011e42b7e02e7cdf86363ad38dba" bytes="393232"
+        zhcn="沙罗曼蛇(中)"
+    />
+    <Game md5="28489971d1a6bd569395af2adcd257bc" bytes="393232"
+        zhcn="上尉密令(中)"
+    />
+    <Game md5="79aa819580967ffb27a9698efbf493b9" bytes="262160"
+        en="Double Dragon"
+        zhcn="双截龙"
+    />
+    <Game md5="b94be0bf2e861bca19339920cd786f53" bytes="262160"
+        en="Double Dragon II - The Revenge"
+        zhcn="双截龙2"
+    />
+    <Game md5="2d860f72595401c85ac3e7edf1753903" bytes="262288"
+        zhcn="双截龙3(中)"
+    />
+    <Game md5="774e0f994c95d59c916c0070f39d430e" bytes="65552"
+        zhcn="双蛇城"
+    />
+    <Game md5="a68198565714d44193e87eca5a95f7ed" bytes="393232"
+        zhcn="松鼠大作战(中)"
+    />
+    <Game md5="0a3063be23e3c65fdc0e06e8abe6dfc3" bytes="393232"
+        zhcn="松鼠大作战2(中)"
+    />
+</Game-List>

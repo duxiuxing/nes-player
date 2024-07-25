@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Game-List name="Q" rom-exists="true">
+    <Game md5="a0f67004f123da9836c9c1e15e7b143c" bytes="262160"
+        zhcn="Q版沙罗曼蛇(中)"
+    />
+    <Game md5="460d3e6805496c35d630f538d01e68e4" bytes="49168"
+        en="Goonies"
+        zhcn="七宝奇谋"
+    />
+    <Game md5="0855314a0dc5b5e2d0724351f808e311" bytes="24592"
+        zhcn="气球大战(中)"
+    />
+    <Game md5="a42aeef83bffbe78b9b38434426f2141" bytes="24592"
+        zhcn="前线(中)"
+    />
+    <Game md5="c1c5a52fe4455355a15aca9026731c49" bytes="24592"
+        zhcn="敲冰块(中)"
+    />
+</Game-List>

@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Game-List name="T" rom-exists="true">
+    <Game md5="4b6e6230abcdd4c8e2d0ad416a19766e" bytes="40976"
+        zhcn="淘金者"
+    />
+    <Game md5="00d39f706953ba112d627877becf5286" bytes="262160"
+        zhcn="踢王"
+    />
+    <Game md5="ec7ab2717c262d298714fe64e8411631" bytes="40976"
+        zhcn="铁板阵(中)"
+    />
+    <Game md5="21285200ec175fbad7ed09bc207e6d6e" bytes="262160"
+        zhcn="脱狱"
+    />
+    <Game md5="0b786839b41525b4758704a7f976834c" bytes="262160"
+        zhcn="脱狱2"
+    />
+</Game-List>
