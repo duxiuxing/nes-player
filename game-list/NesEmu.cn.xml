@@ -47,6 +47,14 @@
                 zhcn="脱狱2"
             />
         </Folder>
+        <Folder name="【系列游戏-西游记世界】">
+            <Game md5="f8088ce845064f57117e0107495d3615"
+                zhcn="西游记世界(中)"
+            />
+            <Game md5="158d70217b339f60ca765d8ded494670"
+                zhcn="西游记世界2(中)"
+            />
+        </Folder>
         <Game md5="8f0d73f773f15e89fa6cf7b1c82d3906"
             zhcn="8只眼(中)"
         />
@@ -145,7 +153,7 @@
             zhcn="越野摩托"
         />
     </Folder>
-    <Folder name="【精选合集-忍者主题】">
+    <Folder name="【精选合集-忍者游戏】">
         <Folder name="【系列游戏-假面忍者】">
             <Game md5="2abb958b6f7dc9fb706afe5717c248ab"
                 zhcn="假面忍者花丸(中)"
@@ -382,6 +390,9 @@
         <Game md5="c1911ab698877b98ae6bebcbce356774"
             zhcn="外星战将(中)"
         />
+        <Game md5="5857a199cce8cfd425e967fd72b7c336"
+            zhcn="新人类"
+        />
         <Game md5="c75cf9d1f0aac7343be5ef0e03c98795"
             zhcn="勇士们"
         />
@@ -509,7 +520,7 @@
             zhcn="冒险岛4(中)"
         />
     </Folder>
-    <Folder name="【系列游戏-热血主题】">
+    <Folder name="【系列游戏-热血系列】">
         <Game md5="854eb21c6eeabef589091c086c4c32ef"
             zhcn="热血高校躲避球部 足球篇(中)"
         />

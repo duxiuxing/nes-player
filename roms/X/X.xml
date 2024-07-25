@@ -1,14 +1,31 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Folder name="X" rom-exists="true">
+    <Game md5="f8088ce845064f57117e0107495d3615" bytes="262160"
+        zhcn="西游记世界(中)"
+    />
+    <Game md5="158d70217b339f60ca765d8ded494670" bytes="262160"
+        zhcn="西游记世界2(中)"
+    />
+    <Game md5="232f5ba4f96f753834188a2a03dc5da8" bytes="262160"
+        zhcn="西游记世界2(中)"
+    />
     <Game md5="ed081b5c6dbddd623a845f0d27b4a288" bytes="24592"
         en="Donkey Kong Jr. Math"
         zhcn="小金刚算术"
+    />
+    <Game md5="5857a199cce8cfd425e967fd72b7c336" bytes="65552"
+        zhcn="新人类"
     />
     <Game md5="708d707f8858b16511fd32be45b31372" bytes="524304"
         zhcn="星际魂斗罗(改)"
         zhtw="星際魂斗羅(改)"
     />
     <Game md5="407b5151f2642523cba218f927926e9c" bytes="262160"
+        en="Journey to Silius"
+        zhcn="星际魂斗罗"
+        zhtw="星際魂斗羅"
+    />
+    <Game md5="62792b02a4070b21e95fab39dfe9c6d5" bytes="262160"
         en="Journey to Silius"
         zhcn="星际魂斗罗"
         zhtw="星際魂斗羅"
