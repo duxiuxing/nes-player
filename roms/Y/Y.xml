@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Game-List name="Y" rom-exists="true">
+    <Game md5="fe02f55e4d21971d9c05772ba33911af" bytes="81936"
+        zhcn="影子传说(中)"
+    />
+    <Game md5="c75cf9d1f0aac7343be5ef0e03c98795" bytes="131088"
+        en="Cabal"
+        zhcn="勇士们"
+    />
+    <Game md5="5e6719b309a9f522135e5b889f326f4c" bytes="65552"
+        zhcn="宇宙巡航机"
+    />
+    <Game md5="6dd42d8da20a20aa0760745bc9207f3f" bytes="262160"
+        zhcn="宇宙巡航机2"
+    />
+    <Game md5="2777e88f5742c4332d3c736ed8816342" bytes="41104"
+        zhcn="越野摩托"
+    />
+</Game-List>

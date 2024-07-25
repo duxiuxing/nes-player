@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Game-List name="Z" rom-exists="true">
+    <Game md5="64db5f086f0bcfaf22055f3d6f4e2f88" bytes="24592"
+        zhcn="炸弹人(中)"
+    />
+    <Game md5="faecf470626db4aec646708043fce390" bytes="262288"
+        zhcn="战斗原始人"
+    />
+    <Game md5="85f98cdc050e7d03822b2517c455d564" bytes="393232"
+        zhcn="中东战争(中)"
+    />
+    <Game md5="efc8d60bfa874e95b9b7672edfcba220" bytes="40976"
+        zhcn="中国象棋(中)"
+    />
+    <Game md5="02b9809bf7f0c982a32572e480406717" bytes="262160"
+        en="Jurassic Park"
+        zhcn="侏罗纪公园"
+    />
+</Game-List>
