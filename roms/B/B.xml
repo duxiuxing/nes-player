@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Game-List name="B" rom-exists="true">
+    <Game md5="ecebb393dc687d78995a20a90754aef3" bytes="40976"
+        zhcn="B计划"
+    />
+    <Game md5="b3b3a91e1044cd130cc04d6136b9f26d" bytes="65552"
+        zhcn="北斗神拳"
+    />
+    <Game md5="2068b2e5a7a9ec1e85d1f20e4786a9af" bytes="393232"
+        zhcn="蝙蝠侠(中)"
+        zhtw="蝙蝠俠(中)"
+    />
+    <Game md5="2e9f52556273aa735d0e75649541d812" bytes="262160"
+        en="Batman - The Video Game"
+        zhcn="蝙蝠侠"
+        zhtw="蝙蝠俠"
+    />
+    <Game md5="d229eab8a56783be1af66d1fec169f92" bytes="393232"
+        en="Batman - Return of the Joker"
+        zhcn="蝙蝠侠2"
+        zhtw="蝙蝠俠2"
+    />
+    <Game md5="9941436d8544f27bffd03684357168c3" bytes="393232"
+        en="Batman - Return of the Joker"
+        zhcn="蝙蝠侠2"
+        zhtw="蝙蝠俠2"
+    />
+    <Game md5="1fe9c970c5c04aec359a833820718e6a" bytes="393232"
+        name="Batman Returns"
+        zhcn="蝙蝠侠3"
+        zhtw="蝙蝠俠3"
+    />
+    <Game md5="915671fb78c61393ead2e8969a066bb5" bytes="393232"
+        name="Batman Returns"
+        zhcn="蝙蝠侠3"
+        zhtw="蝙蝠俠3"
+    />
+    <Game md5="0f23edc2d538019b61bd97a395d6d4f4" bytes="40976"
+        en="Thexder"
+        zhcn="变形战机"
+    />
+    <Game md5="a077d8582d280c1f014cadc7322b5bc2" bytes="24592"
+        zhcn="变形战机Z"
+    />
+    <Game md5="da3233c219c84a9771c0e3078baf5796" bytes="49168"
+        zhcn="兵蜂(中)"
+    />
+    <Game md5="a8bc764aabc1812f016d300baeccd4ff" bytes="131088"
+        en="Stinger"
+        zhcn="兵蜂2"
+    />
+    <Game md5="8196efa434f85bc50e19a35235bf151b" bytes="262160"
+        zhcn="兵蜂3(中)"
+    />
+</Game-List>

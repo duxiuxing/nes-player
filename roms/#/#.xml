@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Game-List name="#" rom-exists="true">
+    <Game md5="a44f5ddcce474311e091490fa16baf03" bytes="262672"
+        zhcn="1943(中)"
+    />
+    <Game md5="32708d8475af0bf2d1102d9b7dd59ba1" bytes="131088"
+        zhcn="1944(中)"
+    />
+</Game-List>

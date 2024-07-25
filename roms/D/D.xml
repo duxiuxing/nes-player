@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Game-List name="D" rom-exists="true">
+    <Game md5="b335e805dde69e63a66cd5eaf5b01ad1" bytes="24592"
+        en="Dig Dug"
+        zhcn="打空气"
+    />
+    <Game md5="7f4d3cea6c410538995e462e11b68871" bytes="40976"
+        en="Dig Dug II - Trouble in Paradise"
+        zhcn="打空气2"
+    />
+    <Game md5="6c95dc4035ff5c0ed3e44132235fb0b4" bytes="40976"
+        zhcn="打砖块"
+    />
+    <Game md5="f2aac7764dce8ace2375c47510925884" bytes="24592"
+        zhcn="大金刚(中)"
+    />
+    <Game md5="40319cad12c80fc095901eb0182df838" bytes="24592"
+        en="Donkey Kong"
+        zhcn="大金刚"
+    />
+    <Game md5="074fea160b7ec513bdaf2c0bb042c262" bytes="49168"
+        en="Donkey Kong Classics"
+        zhcn="大金刚1加2合集"
+    />
+    <Game md5="879d0494786fbd4f9e5be056bd488e1f" bytes="24592"
+        en="Donkey Kong Jr"
+        zhcn="大金刚2"
+    />
+    <Game md5="f2124d8595da011d78cd655ac6fa9f0b" bytes="24592"
+        en="Donkey Kong Jr"
+        zhcn="大金刚2"
+    />
+    <Game md5="a267179a14c89ee73b0031de07c9e5c7" bytes="24592"
+        en="Donkey Kong 3"
+        zhcn="大金刚3"
+    />
+    <Game md5="ca5d456824f802b007ba5d2d2b17aeb5" bytes="393232"
+        zhcn="大力工头(中)"
+    />
+    <Game md5="9dacce8f21b63e72c9fb3c8d763c2346" bytes="524304"
+        zhcn="大力工头2(中)"
+    />
+    <Game md5="49a52916ed9a979faf1bd9b76e773496" bytes="24592"
+        zhcn="大力水手(中)"
+    />
+    <Game md5="536abf725e3fdf1b8e31d4deadd4795b" bytes="24592"
+        zhcn="大蜜蜂(中)"
+    />
+    <Game md5="28885b2c5e36e930bf1193b6126f31f1" bytes="24592"
+        zhcn="弹珠台(中)"
+    />
+    <Game md5="9b38e0826f35f1354fbd15e6639712b2" bytes="393232"
+        zhcn="刀锋战机"
+    />
+    <Game md5="c22da3e41976cd061e9105c565720766" bytes="393232"
+        zhcn="地狱极乐丸(中)"
+    />
+    <Game md5="bac351406b5acf1f4c8ce94fecf6a426" bytes="262160"
+        zhcn="帝国战机"
+    />
+    <Game md5="390124aa9b8811b2c0e5a35295cff50b" bytes="40976"
+        en="Elevator Action"
+        zhcn="电梯大战"
+    />
+</Game-List>

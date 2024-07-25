@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Game-List name="C" rom-exists="true">
+    <Game md5="7a10466a0473fadd5bb74176664b20f3" bytes="131088"
+        zhcn="彩虹岛"
+    />
+    <Game md5="2710398e27f67ef136f1fb1219091ca2" bytes="262160"
+        zhcn="超惑星战记(中)"
+    />
+    <Game md5="4f01b951df3393d1048ef15bdab546d4" bytes="262160"
+        zhcn="超级魂斗罗(改)"
+        zhtw="超級魂斗羅(改)"
+    />
+    <Game md5="9ac7936d1c50276c5191226367f63e55" bytes="393232"
+        zhcn="超级魂斗罗(中)"
+        zhtw="超級魂斗羅(中)"
+    />
+    <Game md5="5fef80625f484fca06fdb58ebff9d8bb" bytes="262160"
+        en="Super C"
+        zhcn="超级魂斗罗"
+        zhtw="超級魂斗羅"
+    />
+    <Game md5="51119c9442135066f1b74ac2aba789ef" bytes="786448"
+        zhcn="超级马里奥世界"
+    />
+    <Game md5="8eed628200fd9607812708cf98e998b8" bytes="196624"
+        zhcn="超级马里奥无限豪华版"
+    />
+    <Game md5="673913a23cd612daf5ad32d4085e0760" bytes="40976"
+        zhcn="超级马里奥兄弟"
+    />
+    <Game md5="64ea2f5a93bde3aefdbc07efe0a62c18" bytes="131088"
+        zhcn="超级马里奥兄弟2 失落的关卡"
+    />
+    <Game md5="e1a51ef1c4e1d1de021e6f02d7f1ee9c" bytes="262160"
+        zhcn="超级马里奥兄弟2"
+    />
+    <Game md5="62c7d04dc805fadefa91f749c21a316d" bytes="458768"
+        zhcn="超级马里奥兄弟3(中)"
+    />
+    <Game md5="1d3bb1559a848d0a5ab2faa52f63add6" bytes="163856"
+        zhcn="超级铁板阵"
+    />
+    <Game md5="07ac56b630bc7ec402abce58e2947529" bytes="24592"
+        zhcn="超时空要塞(中)"
+    />
+    <Game md5="d5e95ed2f0bb0df45424e736e067b9d9" bytes="40976"
+        zhcn="成龙踢馆(中)"
+    />
+    <Game md5="e8051bec80c0f1a38b64200431cd77ec" bytes="262160"
+        zhcn="成龙踢馆2"
+    />
+    <Game md5="6838b09b2b9a7eca6196c6fdebde69d4" bytes="262160"
+        zhcn="成龙之龙(中)"
+    />
+    <Game md5="e300df875430695a5f8680ee1c16b5a4" bytes="262160"
+        en="The Punisher"
+        zhcn="惩罚者"
+    />
+    <Game md5="cac7f8b8079454feee213cd6e4f1cd02" bytes="24592"
+        zhcn="吃豆小精灵(中)"
+    />
+    <Game md5="6efefd9c6278c431c438777b07871ed1" bytes="262160"
+        zhcn="赤色要塞(中)"
+    />
+    <Game md5="bc5ccad764082062beba16d9b5f82d91" bytes="524304"
+        zhcn="赤影战士(改)"
+        zhtw="赤影戰士(改)"
+    />
+    <Game md5="a4d8bc3f18580eef8d386f89ef7106d9" bytes="270352"
+        zhcn="赤影战士(中)"
+        zhtw="赤影戰士(中)"
+    />
+    <Game md5="d459bae7337c21ce0d380efa86cbbde9" bytes="262160"
+        en="Shadow of the Ninja"
+        zhcn="赤影战士"
+        zhtw="赤影戰士"
+    />
+</Game-List>

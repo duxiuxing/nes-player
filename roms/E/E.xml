@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Game-List name="E" rom-exists="true">
+    <Game md5="fd1bd126cf2762b101089b206fff11f2" bytes="65552"
+        zhcn="俄罗斯方块"
+    />
+    <Game md5="61b503dbbca19cda23f531af5f3e7449" bytes="131088"
+        zhcn="俄罗斯方块2"
+    />
+    <Game md5="e40367947f4cd132da236ef3dd0cc96b" bytes="131088"
+       en="Castlevania - Blood Moon"
+       zhcn="恶魔城 血月"
+    />
+    <Game md5="ab0a5a2e3b60a156c20f181af7fe718d" bytes="131088"
+        zhcn="恶魔城(中)"
+    />
+    <Game md5="52eb3f7e2c5fc765aa71f21c85f0770e" bytes="131088"
+        en="Castlevania"
+        zhcn="恶魔城"
+    />
+    <Game md5="1b827c602c904d8c846499c9f54b93e0" bytes="262160"
+        en="Castlevania II - Simon's Quest"
+        zhcn="恶魔城2"
+    />
+    <Game md5="d16a502d0125f23cc3d980ddc6b6f2e8" bytes="393232"
+        en="Castlevania III - Dracula's Curse"
+        zhcn="恶魔城3"
+    />
+    <Game md5="195726a5588621d6a4cd57dc6b1dda76" bytes="786464"
+        zhcn="恶魔城外传 王子传奇"
+    />
+    <Game md5="c5686434024008971ce0b47c0543ca9c" bytes="393232"
+        zhcn="鳄鱼先生(中)"
+    />
+</Game-List>

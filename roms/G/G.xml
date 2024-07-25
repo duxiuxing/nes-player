@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Game-List name="G" rom-exists="true">
+    <Game md5="9d9755334112d1030827e5011ef5b643" bytes="24592"
+        zhcn="功夫(中)"
+    />
+    <Game md5="5f34af56fd022c6197a60d89be33b42e" bytes="262160"
+        zhcn="古巴英雄(中)"
+    />
+    <Game md5="459837f4e8fcbaf29bd66ed926b6882e" bytes="262160"
+        en="Darkwing Duck"
+        zhcn="怪鸭历险记"
+    />
+</Game-List>

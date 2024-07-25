@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Game-List name="F" rom-exists="true">
+    <Game md5="faddcc37282ef457291896c4c1ed21c0" bytes="24592"
+        zhcn="F1赛车(中)"
+    />
+    <Game md5="7fc0f7035484ef190fa2f0c9a6cd9007" bytes="393232"
+        zhcn="FC原人"
+    />
+    <Game md5="c20b630cec2ff87f796e9f1004d8bc5e" bytes="262160"
+        en="Astyanax"
+        zhcn="斧王"
+    />
+</Game-List>
