@@ -28,6 +28,9 @@
     <Game md5="673913a23cd612daf5ad32d4085e0760" bytes="40976"
         zhcn="超级马里奥兄弟"
     />
+    <Game md5="811b027eaf99c2def7b933c5208636de" bytes="40976"
+        zhcn="超级马里奥兄弟"
+    />
     <Game md5="64ea2f5a93bde3aefdbc07efe0a62c18" bytes="131088"
         zhcn="超级马里奥兄弟2 失落的关卡"
     />
@@ -42,6 +45,9 @@
     />
     <Game md5="07ac56b630bc7ec402abce58e2947529" bytes="24592"
         zhcn="超时空要塞(中)"
+    />
+    <Game md5="97b8aad61ed09352ebbc975b93202ae8" bytes="262160"
+        zhcn="超越地平线(中)"
     />
     <Game md5="d5e95ed2f0bb0df45424e736e067b9d9" bytes="40976"
         zhcn="成龙踢馆(中)"
@@ -69,6 +75,11 @@
     <Game md5="a4d8bc3f18580eef8d386f89ef7106d9" bytes="270352"
         zhcn="赤影战士(中)"
         zhtw="赤影戰士(中)"
+    />
+    <Game md5="9fa464c22e19bf9ab2e0af86a2d5c181" bytes="262160"
+        en="Shadow of the Ninja"
+        zhcn="赤影战士"
+        zhtw="赤影戰士"
     />
     <Game md5="d459bae7337c21ce0d380efa86cbbde9" bytes="262160"
         en="Shadow of the Ninja"

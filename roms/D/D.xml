@@ -11,6 +11,12 @@
     <Game md5="6c95dc4035ff5c0ed3e44132235fb0b4" bytes="40976"
         zhcn="打砖块"
     />
+    <Game md5="fc20c839905ef751398d6ed4a4dc6f6e" bytes="262160"
+        zhcn="大盗伍佑卫门"
+    />
+    <Game md5="de660969cf51255ce30b951e0f71683d" bytes="262160"
+        zhcn="大盗伍佑卫门2"
+    />
     <Game md5="f2aac7764dce8ace2375c47510925884" bytes="24592"
         zhcn="大金刚(中)"
     />
@@ -45,6 +51,9 @@
     />
     <Game md5="536abf725e3fdf1b8e31d4deadd4795b" bytes="24592"
         zhcn="大蜜蜂(中)"
+    />
+    <Game md5="884b23376f26e1a2da7e658f8c97abc5" bytes="262160"
+        zhcn="大坦克"
     />
     <Game md5="28885b2c5e36e930bf1193b6126f31f1" bytes="24592"
         zhcn="弹珠台(中)"
