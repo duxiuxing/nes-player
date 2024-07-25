@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Game-List name="H" rom-exists="true">
+    <Game md5="5dff8ed1e38d0a7ec746c8f5a7849c40" bytes="24592"
+        zhcn="红巾特攻队(中)"
+    />
+    <Game md5="9e9e968fed807982eb0a66e801b2751f" bytes="262160"
+        en="Contra - Revenge of the Red Falcon"
+        zhcn="魂斗罗 红隼的复仇"
+        zhtw="魂斗羅 紅隼的復仇"
+    />
+    <Game md5="406b6c76132ed9e41afd89b108bd405f" bytes="393232"
+        zhcn="魂斗罗(改)"
+        zhtw="魂斗羅(改)"
+    />
+    <Game md5="7e9b74e6b2f0f4ca91d2e32fce356867" bytes="393232"
+        zhcn="魂斗罗(中)"
+        zhtw="魂斗羅(中)"
+    />
+    <Game md5="7bdad8b4a7a56a634c9649d20bd3011b" bytes="131088"
+        en="Contra"
+        zhcn="魂斗罗"
+        zhtw="魂斗羅"
+    />
+    <Game md5="82f2703bc593cacae792e92120385e66" bytes="262160"
+        zhcn="魂斗罗7 超级战魂(改)"
+    />
+    <Game md5="925cc277e18b1b4f6a9929c4cc1fe277" bytes="262160"
+       zhcn="魂斗罗7 超级战魂(中)"
+    />
+    <Game md5="79c2bba85e94d4cfaa8054e7c7e92c6e" bytes="278544"
+        zhcn="魂斗罗力量(中)"
+        zhtw="魂斗羅力量(中)"
+    />
+    <Game md5="af7bb9a170ba5728829c3080035e897a" bytes="262160"
+        en="Contra Force"
+        zhcn="魂斗罗力量"
+        zhtw="魂斗羅力量"
+    />
+    <Game md5="d602de6f90c301f2deea26d41ff8ad1c" bytes="24592"
+        zhcn="火凤凰"
+    />
+    <Game md5="7e91813a9ca491f5a4d06334d18a6c80" bytes="24592"
+        zhcn="火箭车"
+    />
+    <Game md5="780ffdcb1ecf18a090719704a7c35f0b" bytes="131088"
+        zhcn="火之鸟"
+    />
+</Game-List>

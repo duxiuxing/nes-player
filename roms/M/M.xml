@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Game-List name="M" rom-exists="true">
+    <Game md5="21a3ab789f065433c9701d194b176ce3" bytes="98320"
+        zhcn="马里奥兄弟拆屋工(中)"
+    />
+    <Game md5="51647f474e95677b465b7bc452c0a01d" bytes="49168"
+        zhcn="马里奥兄弟水管工(中)"
+    />
+    <Game md5="11a02a9184d9737a7615b5795fe5164f" bytes="65552"
+        zhcn="马里奥医生(中)"
+    />
+    <Game md5="8486048c48f40f3787e4b7d9f1788659" bytes="24592"
+        zhcn="马戏团"
+    />
+    <Game md5="b0ba60bc0866efc73ccd62defc0120d5" bytes="24592"
+        zhcn="猫抓老鼠"
+    />
+    <Game md5="8c44073ae5dcbc5f92b700480365f5b8" bytes="65552"
+        zhcn="冒险岛"
+    />
+    <Game md5="2c1aea1e2051536b4eea304997652b78" bytes="786464"
+        zhcn="冒险岛2"
+    />
+    <Game md5="b44674e3be5e383e45fb532d9886cc0d" bytes="286736"
+        zhcn="冒险岛3(中)"
+    />
+    <Game md5="11830871070ed91a747e9a67116abaf7" bytes="393232"
+        zhcn="冒险岛4(中)"
+    />
+</Game-List>

@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Game-List name="L" rom-exists="true">
+    <Game md5="436919bea511a04eb23d0fb126787d41" bytes="131088"
+        zhcn="龙牙"
+    />
+    <Game md5="cf7d1c85f9f3078a37862dae919692a1" bytes="131088"
+        zhcn="洛克人(中)"
+    />
+    <Game md5="c92d612c2953a5b2c7d4ed6ecc410baf" bytes="262160"
+        zhcn="洛克人2(中)"
+    />
+    <Game md5="0dd91f902edd77ae87dea44126c986de" bytes="393232"
+        zhcn="洛克人3(中)"
+    />
+    <Game md5="783dbe7d5a8cde95d1677a73f380ef6f" bytes="524304"
+        zhcn="洛克人4(中)"
+    />
+    <Game md5="e6617e9d7a9d4eba00bae75df122a475" bytes="524304"
+        zhcn="洛克人5(中)"
+    />
+    <Game md5="dfdc1ecd1b115e050ee156437285b899" bytes="1048608"
+        zhcn="洛克人6(中)"
+    />
+    <Game md5="ba2876f34aced15ec95ba592e394469f" bytes="131088"
+        zhcn="绿色兵团(中)"
+    />
+</Game-List>

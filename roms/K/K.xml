@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Game-List name="K" rom-exists="true">
+    <Game md5="36810c924688fee01659968d7e582bdd" bytes="196624"
+        en="Karnov"
+        zhcn="卡诺夫"
+    />
+    <Game md5="2765b898dcf4ee6156e89e555811c55c" bytes="524304"
+        zhcn="空中魂斗罗(改)"
+        zhtw="空中魂斗羅(改)"
+    />
+    <Game md5="d8cbc5f2dbf44fae5239a170ad6a092d" bytes="262160"
+        en="Special Cybernetic Attack Team"
+        zhcn="空中魂斗罗(美)"
+        zhtw="空中魂斗羅(美)"
+    />
+    <Game md5="2cb0aa64636440b4f26c8defe44c8125" bytes="262160"
+        en="Action in New York"
+        zhcn="空中魂斗罗(欧)"
+        zhtw="空中魂斗羅(歐)"
+    />
+    <Game md5="ac7f06d5e13c80f490bd93e3a8ab7212" bytes="262160"
+        zhcn="空中魂斗罗(中)"
+        zhtw="空中魂斗羅(中)"
+    />
+</Game-List>

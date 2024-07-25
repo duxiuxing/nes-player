@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Game-List name="J" rom-exists="true">
+    <Game md5="61231fbd95a1ef7c67eb96dd6f94b92a" bytes="393232"
+        zhcn="机械战警(中)"
+    />
+    <Game md5="ad20426b20942679c12794f3f7c6a681" bytes="262160"
+        en="RoboCop"
+        zhcn="机械战警"
+    />
+    <Game md5="bae0ed17227f4484df8d98b004c04750" bytes="262160"
+        en="RoboCop 2"
+        zhcn="机械战警2"
+    />
+    <Game md5="d7904d82e8c57377ec0ec70e2fb7b89b" bytes="262160"
+        en="RoboCop 2"
+        zhcn="机械战警2"
+    />
+    <Game md5="0400e6872131e81c52a4e55352359f8c" bytes="262160"
+        en="RoboCop 3"
+        zhcn="机械战警3"
+    />
+    <Game md5="09643d3d3a5d2eb830fa9902f950dbf2" bytes="262160"
+        en="RoboCop 3"
+        zhcn="机械战警3"
+    />
+    <Game md5="53039bfb54af532b8271a999df6be870" bytes="262160"
+        en="RoboCop versus The Terminator"
+        zhcn="机械战警对终结者"
+    />
+    <Game md5="372f1120d77214ace6bb9c6fdf85955d" bytes="393232"
+        zhcn="加纳战机(中)"
+    />
+    <Game md5="e4556d6e908e03600f991f285cedfe95" bytes="131088"
+        zhcn="假面忍者赤影(中)"
+    />
+    <Game md5="2abb958b6f7dc9fb706afe5717c248ab" bytes="262160"
+        zhcn="假面忍者花丸(中)"
+    />
+    <Game md5="4bc4edf3dbbdb4301eb92084378968e6" bytes="24592"
+        zhcn="街头小子(中)"
+    />
+    <Game md5="ffcc769cfa84f98cd2d8aee81f7fbb15" bytes="24592"
+        zhcn="筋肉人摔角"
+    />
+    <Game md5="bb103aa3883fb8e40f71e6ee6eb01592" bytes="262160"
+        zhcn="究极虎"
+    />
+    <Game md5="1ff10a40af91754ecb7d2d0a75451735" bytes="655376"
+        zhcn="九人街霸(中)"
+    />
+    <Game md5="e877da3661d394f5b8322d8f61eb52fb" bytes="262160"
+        zhcn="绝对合体(中)"
+    />
+</Game-List>

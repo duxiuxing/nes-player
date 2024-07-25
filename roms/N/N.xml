@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Game-List name="N" rom-exists="true">
+    <Game md5="121ab23dd0b5601e201ef5c7fd1a8c14" bytes="24720"
+        zhcn="南极大冒险(中)"
+    />
+    <Game md5="03dafe96828e4a4ef8717bc1390a6d13" bytes="262160"
+        zhcn="鸟人战队(中)"
+    />
+    <Game md5="93fa9447a160a704fe69835326923212" bytes="262287"
+        zhcn="怒3代"
+    />
+</Game-List>
