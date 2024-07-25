@@ -1,5 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Game-List name="J" rom-exists="true">
+    <Game md5="490af7dd76518e52a45725d99ad6c9b1" bytes="40976"
+        zhcn="机车大赛"
+    />
     <Game md5="61231fbd95a1ef7c67eb96dd6f94b92a" bytes="393232"
         zhcn="机械战警(中)"
     />

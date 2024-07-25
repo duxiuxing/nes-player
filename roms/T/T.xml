@@ -1,5 +1,11 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Game-List name="T" rom-exists="true">
+    <Game md5="fd86f0c65852503a5c1d817e83fdf504" bytes="40976"
+        zhcn="坦克大战 烟山1990"
+    />
+    <Game md5="cd4fe2e78df0696dbe652f02c19541a1" bytes="24592"
+        zhcn="坦克大战"
+    />
     <Game md5="4b6e6230abcdd4c8e2d0ad416a19766e" bytes="40976"
         zhcn="淘金者"
     />
