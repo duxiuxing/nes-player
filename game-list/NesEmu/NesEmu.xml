@@ -98,7 +98,7 @@
             zhcn="鸟人战队(中)"
         />
         <Game md5="93fa9447a160a704fe69835326923212"
-            zhcn="怒3代"
+            zhcn="怒三代"
         />
         <Game md5="0d5020f2be93fce9b4497544cd73b179"
             zhcn="三目童子"
@@ -217,6 +217,14 @@
                 zhcn="俄罗斯方块2"
             />
         </Folder>
+        <Folder name="【系列游戏-猫抓老鼠】">
+            <Game md5="b0ba60bc0866efc73ccd62defc0120d5"
+                zhcn="猫抓老鼠"
+            />
+            <Game md5="567b6ce1ea542cb829155f35519bcaf9"
+                zhcn="猫抓老鼠2(中)"
+            />
+        </Folder>
         <Game md5="a4a8f9f9a4caaa5259ccfab1778edbee"
             zhcn="爱的小屋(中)"
         />
@@ -232,11 +240,14 @@
         <Game md5="28885b2c5e36e930bf1193b6126f31f1"
             zhcn="弹珠台(中)"
         />
+        <Game md5="a53086064c297d0206fccbb7094759bd"
+            zhcn="黑白棋(中)"
+        />
+        <Game md5="7c7e9fde2f1a29d4d36e7f0cc1811e32"
+            zhcn="花式撞球(中)"
+        />
         <Game md5="8486048c48f40f3787e4b7d9f1788659"
             zhcn="马戏团"
-        />
-        <Game md5="b0ba60bc0866efc73ccd62defc0120d5"
-            zhcn="猫抓老鼠"
         />
         <Game md5="460d3e6805496c35d630f538d01e68e4"
             zhcn="七宝奇谋"
@@ -334,6 +345,9 @@
         />
         <Game md5="bac351406b5acf1f4c8ce94fecf6a426"
             zhcn="帝国战机"
+        />
+        <Game md5="f93bebc2a48066b89c1d8e4aa94e5e4e"
+            zhcn="飞翔鲛"
         />
         <Game md5="5dff8ed1e38d0a7ec746c8f5a7849c40"
             zhcn="红巾特攻队(中)"

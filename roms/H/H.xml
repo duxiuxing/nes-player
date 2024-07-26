@@ -1,7 +1,13 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Game-List name="H" rom-exists="true">
+    <Game md5="a53086064c297d0206fccbb7094759bd" bytes="40976"
+        zhcn="黑白棋(中)"
+    />
     <Game md5="5dff8ed1e38d0a7ec746c8f5a7849c40" bytes="24592"
         zhcn="红巾特攻队(中)"
+    />
+    <Game md5="7c7e9fde2f1a29d4d36e7f0cc1811e32" bytes="188432"
+        zhcn="花式撞球(中)"
     />
     <Game md5="9e9e968fed807982eb0a66e801b2751f" bytes="262160"
         en="Contra - Revenge of the Red Falcon"
@@ -25,7 +31,7 @@
         zhcn="魂斗罗7 超级战魂(改)"
     />
     <Game md5="925cc277e18b1b4f6a9929c4cc1fe277" bytes="262160"
-       zhcn="魂斗罗7 超级战魂(中)"
+        zhcn="魂斗罗7 超级战魂(中)"
     />
     <Game md5="79c2bba85e94d4cfaa8054e7c7e92c6e" bytes="278544"
         zhcn="魂斗罗力量(中)"
