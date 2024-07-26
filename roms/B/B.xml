@@ -1,7 +1,14 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Game-List name="B" rom-exists="true">
+    <Game md5="ca6daa9dc1e0cc6e723d232f3c895b42" bytes="40976"
+        zhcn="B计划(中)"
+    />
     <Game md5="ecebb393dc687d78995a20a90754aef3" bytes="40976"
+        en="B-Wing"
         zhcn="B计划"
+    />
+    <Game md5="5b214362008572ff0b0479fcd6bbff59" bytes="65552"
+        zhcn="北斗神拳(中)"
     />
     <Game md5="b3b3a91e1044cd130cc04d6136b9f26d" bytes="65552"
         zhcn="北斗神拳"
@@ -35,9 +42,15 @@
         zhcn="蝙蝠侠3"
         zhtw="蝙蝠俠3"
     />
+    <Game md5="6d24de4d29e4563d5f88bb0d5c6dfd11" bytes="40976"
+        zhcn="变形战机(中)"
+    />
     <Game md5="0f23edc2d538019b61bd97a395d6d4f4" bytes="40976"
         en="Thexder"
         zhcn="变形战机"
+    />
+    <Game md5="40be75d90db90135904211dd2955dee7" bytes="49168"
+        zhcn="变形战机Z(中)"
     />
     <Game md5="a077d8582d280c1f014cadc7322b5bc2" bytes="24592"
         zhcn="变形战机Z"
