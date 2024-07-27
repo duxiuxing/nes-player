@@ -39,7 +39,10 @@
                 zhcn="大力工头2(中)"
             />
         </Folder>
-        <Folder name="【系列游戏-唐老鸭大冒险】">
+        <Folder name="【系列游戏-唐老鸭】">
+            <Game md5="459837f4e8fcbaf29bd66ed926b6882e"
+                zhcn="怪鸭历险记"
+            />
             <Game md5="834cff8ae425f02a210d5971ea649828"
                 zhcn="唐老鸭大冒险"
             />
@@ -47,15 +50,13 @@
                 zhcn="唐老鸭大冒险2(中)"
             />
         </Folder>
-        <Folder name="【系列游戏-兔八哥】">
+        <Folder name="【系列游戏-兔八哥和兔宝宝】">
             <Game md5="9ae4058cced0d2514a169eca3311e5d0"
                 zhcn="兔八哥 疯狂城堡"
             />
             <Game md5="96ae665d902eaa69c7a36979b7ef530d"
                 zhcn="兔八哥 生日快乐"
             />
-        </Folder>
-        <Folder name="【系列游戏-兔宝宝】">
             <Game md5="b9082397fb67ce0b9bb6a092c4a867ae"
                 zhcn="兔宝宝"
             />
@@ -82,6 +83,22 @@
                 zhcn="西游记世界2(中)"
             />
         </Folder>
+        <Folder name="【系列游戏-小超人帕门】">
+            <Game md5="99d794a33d760c0668839fbef7ff8125"
+                zhcn="小超人帕门"
+            />
+            <Game md5="37a236dac80e8c1a64b05795b748e02e"
+                zhcn="小超人帕门2"
+            />
+        </Folder>
+        <Folder name="【系列游戏-小魔星达鲁鲁】">
+            <Game md5="ebba99ea6b9003f2a98e1fbb64dfdb19"
+                zhcn="小魔星达鲁鲁"
+            />
+            <Game md5="d9656398c9e2f66c94f690e0a2446d10"
+                zhcn="小魔星达鲁鲁2"
+            />
+        </Folder>
         <Game md5="8f0d73f773f15e89fa6cf7b1c82d3906"
             zhcn="8只眼(中)"
         />
@@ -105,9 +122,6 @@
         />
         <Game md5="c20b630cec2ff87f796e9f1004d8bc5e"
             zhcn="斧王"
-        />
-        <Game md5="459837f4e8fcbaf29bd66ed926b6882e"
-            zhcn="怪鸭历险记"
         />
         <Game md5="780ffdcb1ecf18a090719704a7c35f0b"
             zhcn="火之鸟"
@@ -141,6 +155,21 @@
         />
         <Game md5="00d39f706953ba112d627877becf5286"
             zhcn="踢王"
+        />
+        <Game md5="2ac82902cbd1bcb2526508822a290550"
+            zhcn="西部小子"
+        />
+        <Game md5="88aa384d916a7d513198af250c4e8f48"
+            zhcn="香蕉王子大冒险"
+        />
+        <Game md5="52c6aff708fa0578d56531cbaf387d2a"
+            zhcn="小鬼Q太郎"
+        />
+        <Game md5="b401daab414ba157fc562aabf2b5f5a2"
+            zhcn="小美人鱼(中)"
+        />
+        <Game md5="582ffbd982a91f5abbea251c2d7eda13"
+            zhcn="星之卡比 梦之泉物语"
         />
         <Game md5="faecf470626db4aec646708043fce390"
             zhcn="战斗原始人"
@@ -315,8 +344,14 @@
         <Game md5="4b6e6230abcdd4c8e2d0ad416a19766e"
             zhcn="淘金者"
         />
+        <Game md5="b7f96d2a894b322375f7309daef9a0cb"
+            zhcn="五子棋"
+        />
         <Game md5="d559b5e40ef26996e9c27755d5d949f5"
             zhcn="雪人兄弟(中)"
+        />
+        <Game md5="64a0943232e805272dcdbe93e2cd62a3"
+            zhcn="寻宝大进击(中)"
         />
         <Game md5="64db5f086f0bcfaf22055f3d6f4e2f88"
             zhcn="炸弹人(中)"
@@ -412,6 +447,9 @@
         <Game md5="e877da3661d394f5b8322d8f61eb52fb"
             zhcn="绝对合体(中)"
         />
+        <Game md5="288ca9ea7b01880534cfa8a0766da16a"
+            zhcn="小蜜蜂(中)"
+        />
         <Game md5="85f98cdc050e7d03822b2517c455d564"
             zhcn="中东战争(中)"
         />
@@ -455,8 +493,11 @@
         <Game md5="c1911ab698877b98ae6bebcbce356774"
             zhcn="外星战将(中)"
         />
-        <Game md5="5857a199cce8cfd425e967fd72b7c336"
-            zhcn="新人类"
+        <Game md5="e77e439d6aebcd58dfa3578d7c01122b"
+            zhcn="希魔复活"
+        />
+        <Game md5="99173cf76235e9a7bebbff79464cef09"
+            zhcn="新人类(中)"
         />
         <Game md5="c75cf9d1f0aac7343be5ef0e03c98795"
             zhcn="勇士们"
