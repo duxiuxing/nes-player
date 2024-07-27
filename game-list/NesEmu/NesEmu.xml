@@ -1,6 +1,214 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Game-List>
-    <Folder name="【精选合集-动作游戏】">
+    <Folder name="【精选射击游戏-飞行类】">
+        <Folder name="【系列游戏-变形战机】">
+            <Game md5="6d24de4d29e4563d5f88bb0d5c6dfd11"
+                zhcn="变形战机(中)"
+            />
+            <Game md5="40be75d90db90135904211dd2955dee7"
+                zhcn="变形战机Z(中)"
+            />
+        </Folder>
+        <Folder name="【系列游戏-兵蜂】">
+            <Game md5="da3233c219c84a9771c0e3078baf5796"
+                zhcn="兵蜂(中)"
+            />
+            <Game md5="a8bc764aabc1812f016d300baeccd4ff"
+                zhcn="兵蜂2"
+            />
+            <Game md5="8196efa434f85bc50e19a35235bf151b"
+                zhcn="兵蜂3(中)"
+            />
+        </Folder>
+        <Folder name="【系列游戏-铁板阵】">
+            <Game md5="1d3bb1559a848d0a5ab2faa52f63add6"
+                zhcn="超级铁板阵"
+            />
+            <Game md5="ec7ab2717c262d298714fe64e8411631"
+                zhcn="铁板阵(中)"
+            />
+        </Folder>
+        <Folder name="【系列游戏-壮志凌云】">
+            <Game md5="fc76d367573c3059cc7f4be7bfc2af39"
+                zhcn="壮志凌云"
+            />
+            <Game md5="c8b4115b7f785c3be959dbba27e869cc"
+                zhcn="壮志凌云2"
+            />
+        </Folder>
+        <Game md5="a44f5ddcce474311e091490fa16baf03"
+            zhcn="1943(中)"
+        />
+        <Game md5="32708d8475af0bf2d1102d9b7dd59ba1"
+            zhcn="1944(中)"
+        />
+        <Game md5="ca6daa9dc1e0cc6e723d232f3c895b42"
+            zhcn="B计划(中)"
+        />
+        <Game md5="07ac56b630bc7ec402abce58e2947529"
+            zhcn="超时空要塞(中)"
+        />
+        <Game md5="97b8aad61ed09352ebbc975b93202ae8"
+            zhcn="超越地平线(中)"
+        />
+        <Game md5="536abf725e3fdf1b8e31d4deadd4795b"
+            zhcn="大蜜蜂(中)"
+        />
+        <Game md5="9b38e0826f35f1354fbd15e6639712b2"
+            zhcn="刀锋战机"
+        />
+        <Game md5="bac351406b5acf1f4c8ce94fecf6a426"
+            zhcn="帝国战机"
+        />
+        <Game md5="f93bebc2a48066b89c1d8e4aa94e5e4e"
+            zhcn="飞翔鲛"
+        />
+        <Game md5="5dff8ed1e38d0a7ec746c8f5a7849c40"
+            zhcn="红巾特攻队(中)"
+        />
+        <Game md5="d602de6f90c301f2deea26d41ff8ad1c"
+            zhcn="火凤凰"
+        />
+        <Game md5="372f1120d77214ace6bb9c6fdf85955d"
+            zhcn="加纳战机(中)"
+        />
+        <Game md5="bb103aa3883fb8e40f71e6ee6eb01592"
+            zhcn="究极虎"
+        />
+        <Game md5="e877da3661d394f5b8322d8f61eb52fb"
+            zhcn="绝对合体(中)"
+        />
+        <Game md5="288ca9ea7b01880534cfa8a0766da16a"
+            zhcn="小蜜蜂(中)"
+        />
+        <Game md5="8277c8027787bdf37e05f28e874cc4ac"
+            zhcn="翼人(中)"
+        />
+        <Game md5="da5ee8bc3f195860ae0dd7e45a881d67"
+            zhcn="银河号"
+        />
+        <Game md5="5ab5fafd4ac5593f1e0ca44073006f9a"
+            zhcn="战斗之星"
+        />
+        <Game md5="85f98cdc050e7d03822b2517c455d564"
+            zhcn="中东战争(中)"
+        />
+        <Game md5="4b0a908db7c213f2f3eed5360f440f8b"
+            zhcn="中华大仙"
+        />
+    </Folder>
+    <Folder name="【精选射击游戏-战车类】">
+        <Game md5="2710398e27f67ef136f1fb1219091ca2"
+            zhcn="超惑星战记(中)"
+        />
+        <Game md5="6efefd9c6278c431c438777b07871ed1"
+            zhcn="赤色要塞(中)"
+        />
+        <Game md5="884b23376f26e1a2da7e658f8c97abc5"
+            zhcn="大坦克"
+        />
+        <Game md5="fd86f0c65852503a5c1d817e83fdf504"
+            zhcn="坦克大战 烟山1990"
+        />
+        <Game md5="cd4fe2e78df0696dbe652f02c19541a1"
+            zhcn="坦克大战"
+        />
+        <Game md5="27f9067cba07b76f18558f380ea0b6cb"
+            zhcn="越野战车"
+        />
+        <Game md5="b9cab2cb36ccff4a97d8ccfce1bce43d"
+            zhcn="终极特技人"
+        />
+    </Folder>
+    <Folder name="【精选射击游戏-战士类】">
+        <Folder name="【系列游戏-机械战警】">
+            <Game md5="61231fbd95a1ef7c67eb96dd6f94b92a"
+                zhcn="机械战警(中)"
+            />
+            <Game md5="bae0ed17227f4484df8d98b004c04750"
+                zhcn="机械战警2"
+            />
+            <Game md5="09643d3d3a5d2eb830fa9902f950dbf2"
+                zhcn="机械战警3"
+            />
+            <Game md5="53039bfb54af532b8271a999df6be870"
+                zhcn="机械战警对终结者"
+            />
+        </Folder>
+        <Folder name="【系列游戏-眼镜蛇特种部队】">
+            <Game md5="13c45cfa08f421655737394539055567"
+                zhcn="眼镜蛇特种部队"
+            />
+            <Game md5="c82eb393a36453cc6ba1270ab33ece3b"
+                zhcn="眼镜蛇特种部队2"
+            />
+        </Folder>
+        <Folder name="【系列游戏-银河战士">
+            <Game md5="d7da4a907be0012abca6625471ef2c9c"
+                zhcn="银河战士"
+            />
+            <Game md5="0a92c8dc3e9a0e7d0d1a45b62912a285"
+                zhcn="银河战士之盗贼多恩"
+            />
+        </Folder>
+        <Folder name="【系列游戏-战地小子">
+            <Game md5="ab93c5b757a258a7cfd43e60533e374a"
+                zhcn="战地小子"
+            />
+            <Game md5="55b0568026324a22fa5ba32c0b922302"
+                zhcn="战地小子2"
+            />
+        </Folder>
+        <Game md5="e300df875430695a5f8680ee1c16b5a4"
+            zhcn="惩罚者"
+        />
+        <Game md5="390124aa9b8811b2c0e5a35295cff50b"
+            zhcn="电梯大战"
+        />
+        <Game md5="5f34af56fd022c6197a60d89be33b42e"
+            zhcn="古巴英雄(中)"
+        />
+        <Game md5="2ad79f6be6d14190c5c5975edf003710"
+            zhcn="霹雳神兵(中)"
+        />
+        <Game md5="a42aeef83bffbe78b9b38434426f2141"
+            zhcn="前线(中)"
+        />
+        <Game md5="ee244efcc246b4f8151e07ee51e381ce"
+            zhcn="人间兵器(中)"
+        />
+        <Game md5="7cad6d1d8d369396b30e24ae82e65999"
+            zhcn="圣铃传说(中)"
+        />
+        <Game md5="c1911ab698877b98ae6bebcbce356774"
+            zhcn="外星战将(中)"
+        />
+        <Game md5="e77e439d6aebcd58dfa3578d7c01122b"
+            zhcn="希魔复活"
+        />
+        <Game md5="99173cf76235e9a7bebbff79464cef09"
+            zhcn="新人类(中)"
+        />
+        <Game md5="0ce795f61f8fc1f23cc36abeafc6a81a"
+            zhcn="义龟报恩"
+        />
+        <Game md5="c75cf9d1f0aac7343be5ef0e03c98795"
+            zhcn="勇士们"
+        />
+        <Game md5="0ce5cc876fcc5e0b1fee86993a72bd3d"
+            zhcn="詹姆斯邦德007"
+        />
+        <Game md5="04763afda47b3d10375059c7dbed8bd2"
+            zhcn="战场之狼"
+        />
+        <Game md5="53a2866007c3fc346b1fc047cd415ccc"
+            zhcn="重力装甲"
+        />
+        <Game md5="02b9809bf7f0c982a32572e480406717"
+            zhcn="侏罗纪公园"
+        />
+    </Folder>
+    <Folder name="【精选游戏-动作类】">
         <Folder name="【系列游戏-蝙蝠侠】">
             <Game md5="2068b2e5a7a9ec1e85d1f20e4786a9af"
                 zhcn="蝙蝠侠(中)"
@@ -180,8 +388,14 @@
         <Game md5="faecf470626db4aec646708043fce390"
             zhcn="战斗原始人"
         />
+        <Game md5="7e7edbc2801aefb931f4cefc638383a7"
+            zhcn="终结者2 审判日"
+        />
+        <Game md5="394535f88fd83c83b36b3ce41441f71f"
+            zhcn="追赶跑跳蹦"
+        />
     </Folder>
-    <Folder name="【精选合集-格斗游戏】">
+    <Folder name="【精选游戏-格斗类】">
         <Game md5="9d9755334112d1030827e5011ef5b643"
             zhcn="功夫(中)"
         />
@@ -201,7 +415,7 @@
             zhcn="四人街霸"
         />
     </Folder>
-    <Folder name="【精选合集-竞速游戏】">
+    <Folder name="【精选游戏-竞速类】">
         <Game md5="faddcc37282ef457291896c4c1ed21c0"
             zhcn="F1赛车(中)"
         />
@@ -221,7 +435,7 @@
             zhcn="越野摩托"
         />
     </Folder>
-    <Folder name="【精选合集-忍者游戏】">
+    <Folder name="【精选游戏-忍者类】">
         <Folder name="【系列游戏-假面忍者】">
             <Game md5="2abb958b6f7dc9fb706afe5717c248ab"
                 zhcn="假面忍者花丸(中)"
@@ -279,12 +493,12 @@
             zhcn="影子传说(中)"
         />
     </Folder>
-    <Folder name="【精选合集-文字游戏】">
+    <Folder name="【精选游戏-文字类】">
         <Game md5="27cfa02ab0ed5494471129ff2488302c"
             zhcn="天使之翼2(中)"
         />
     </Folder>
-    <Folder name="【精选合集-益智游戏】">
+    <Folder name="【精选游戏-益智类】">
         <Folder name="【系列游戏-打空气】">
             <Game md5="b335e805dde69e63a66cd5eaf5b01ad1"
                 zhcn="打空气"
@@ -315,6 +529,17 @@
             />
             <Game md5="d38325cffb9ba2e6f57897c0e9564cc0"
                 zhcn="七宝奇谋2"
+            />
+        </Folder>
+        <Folder name="【系列游戏-炸弹人】">
+            <Game md5="64db5f086f0bcfaf22055f3d6f4e2f88"
+                zhcn="炸弹人(中)"
+            />
+            <Game md5="c2b7ba0303a8e19b218f517d8b6fa487"
+                zhcn="炸弹人2"
+            />
+            <Game md5="f3a5375398f2fcaddf61c70b267477dd"
+                zhcn="炸弹人2002"
             />
         </Folder>
         <Game md5="a4a8f9f9a4caaa5259ccfab1778edbee"
@@ -368,185 +593,8 @@
         <Game md5="60be0b2ff5484e6271c48f5b9e229356"
             zhcn="月宫桌球"
         />
-        <Game md5="64db5f086f0bcfaf22055f3d6f4e2f88"
-            zhcn="炸弹人(中)"
-        />
         <Game md5="efc8d60bfa874e95b9b7672edfcba220"
             zhcn="中国象棋(中)"
-        />
-    </Folder>
-    <Folder name="【精选合集-战车射击游戏】">
-        <Game md5="2710398e27f67ef136f1fb1219091ca2"
-            zhcn="超惑星战记(中)"
-        />
-        <Game md5="6efefd9c6278c431c438777b07871ed1"
-            zhcn="赤色要塞(中)"
-        />
-        <Game md5="884b23376f26e1a2da7e658f8c97abc5"
-            zhcn="大坦克"
-        />
-        <Game md5="fd86f0c65852503a5c1d817e83fdf504"
-            zhcn="坦克大战 烟山1990"
-        />
-        <Game md5="cd4fe2e78df0696dbe652f02c19541a1"
-            zhcn="坦克大战"
-        />
-        <Game md5="27f9067cba07b76f18558f380ea0b6cb"
-            zhcn="越野战车"
-        />
-    </Folder>
-    <Folder name="【精选合集-战机射击游戏】">
-        <Folder name="【系列游戏-变形战机】">
-            <Game md5="6d24de4d29e4563d5f88bb0d5c6dfd11"
-                zhcn="变形战机(中)"
-            />
-            <Game md5="40be75d90db90135904211dd2955dee7"
-                zhcn="变形战机Z(中)"
-            />
-        </Folder>
-        <Folder name="【系列游戏-兵蜂】">
-            <Game md5="da3233c219c84a9771c0e3078baf5796"
-                zhcn="兵蜂(中)"
-            />
-            <Game md5="a8bc764aabc1812f016d300baeccd4ff"
-                zhcn="兵蜂2"
-            />
-            <Game md5="8196efa434f85bc50e19a35235bf151b"
-                zhcn="兵蜂3(中)"
-            />
-        </Folder>
-        <Folder name="【系列游戏-铁板阵】">
-            <Game md5="1d3bb1559a848d0a5ab2faa52f63add6"
-                zhcn="超级铁板阵"
-            />
-            <Game md5="ec7ab2717c262d298714fe64e8411631"
-                zhcn="铁板阵(中)"
-            />
-        </Folder>
-        <Game md5="a44f5ddcce474311e091490fa16baf03"
-            zhcn="1943(中)"
-        />
-        <Game md5="32708d8475af0bf2d1102d9b7dd59ba1"
-            zhcn="1944(中)"
-        />
-        <Game md5="ca6daa9dc1e0cc6e723d232f3c895b42"
-            zhcn="B计划(中)"
-        />
-        <Game md5="07ac56b630bc7ec402abce58e2947529"
-            zhcn="超时空要塞(中)"
-        />
-        <Game md5="97b8aad61ed09352ebbc975b93202ae8"
-            zhcn="超越地平线(中)"
-        />
-        <Game md5="536abf725e3fdf1b8e31d4deadd4795b"
-            zhcn="大蜜蜂(中)"
-        />
-        <Game md5="9b38e0826f35f1354fbd15e6639712b2"
-            zhcn="刀锋战机"
-        />
-        <Game md5="bac351406b5acf1f4c8ce94fecf6a426"
-            zhcn="帝国战机"
-        />
-        <Game md5="f93bebc2a48066b89c1d8e4aa94e5e4e"
-            zhcn="飞翔鲛"
-        />
-        <Game md5="5dff8ed1e38d0a7ec746c8f5a7849c40"
-            zhcn="红巾特攻队(中)"
-        />
-        <Game md5="d602de6f90c301f2deea26d41ff8ad1c"
-            zhcn="火凤凰"
-        />
-        <Game md5="372f1120d77214ace6bb9c6fdf85955d"
-            zhcn="加纳战机(中)"
-        />
-        <Game md5="bb103aa3883fb8e40f71e6ee6eb01592"
-            zhcn="究极虎"
-        />
-        <Game md5="e877da3661d394f5b8322d8f61eb52fb"
-            zhcn="绝对合体(中)"
-        />
-        <Game md5="288ca9ea7b01880534cfa8a0766da16a"
-            zhcn="小蜜蜂(中)"
-        />
-        <Game md5="8277c8027787bdf37e05f28e874cc4ac"
-            zhcn="翼人(中)"
-        />
-        <Game md5="da5ee8bc3f195860ae0dd7e45a881d67"
-            zhcn="银河号"
-        />
-        <Game md5="85f98cdc050e7d03822b2517c455d564"
-            zhcn="中东战争(中)"
-        />
-    </Folder>
-    <Folder name="【精选合集-战士射击游戏】">
-        <Folder name="【系列游戏-机械战警】">
-            <Game md5="61231fbd95a1ef7c67eb96dd6f94b92a"
-                zhcn="机械战警(中)"
-            />
-            <Game md5="bae0ed17227f4484df8d98b004c04750"
-                zhcn="机械战警2"
-            />
-            <Game md5="09643d3d3a5d2eb830fa9902f950dbf2"
-                zhcn="机械战警3"
-            />
-            <Game md5="53039bfb54af532b8271a999df6be870"
-                zhcn="机械战警对终结者"
-            />
-        </Folder>
-        <Folder name="【系列游戏-眼镜蛇特种部队】">
-            <Game md5="13c45cfa08f421655737394539055567" bytes="393232"
-                zhcn="眼镜蛇特种部队"
-            />
-            <Game md5="c82eb393a36453cc6ba1270ab33ece3b" bytes="393232"
-                zhcn="眼镜蛇特种部队2"
-            />
-        </Folder>
-        <Folder name="【系列游戏-银河战士">
-            <Game md5="da5ee8bc3f195860ae0dd7e45a881d67" bytes="131216"
-                zhcn="银河战士"
-            />
-            <Game md5="0a92c8dc3e9a0e7d0d1a45b62912a285" bytes="786448"
-                zhcn="银河战士之盗贼多恩"
-            />
-        </Folder>
-        <Game md5="e300df875430695a5f8680ee1c16b5a4"
-            zhcn="惩罚者"
-        />
-        <Game md5="390124aa9b8811b2c0e5a35295cff50b"
-            zhcn="电梯大战"
-        />
-        <Game md5="5f34af56fd022c6197a60d89be33b42e"
-            zhcn="古巴英雄(中)"
-        />
-        <Game md5="2ad79f6be6d14190c5c5975edf003710"
-            zhcn="霹雳神兵(中)"
-        />
-        <Game md5="a42aeef83bffbe78b9b38434426f2141"
-            zhcn="前线(中)"
-        />
-        <Game md5="ee244efcc246b4f8151e07ee51e381ce"
-            zhcn="人间兵器(中)"
-        />
-        <Game md5="7cad6d1d8d369396b30e24ae82e65999"
-            zhcn="圣铃传说(中)"
-        />
-        <Game md5="c1911ab698877b98ae6bebcbce356774"
-            zhcn="外星战将(中)"
-        />
-        <Game md5="e77e439d6aebcd58dfa3578d7c01122b"
-            zhcn="希魔复活"
-        />
-        <Game md5="99173cf76235e9a7bebbff79464cef09"
-            zhcn="新人类(中)"
-        />
-        <Game md5="0ce795f61f8fc1f23cc36abeafc6a81a"
-            zhcn="义龟报恩"
-        />
-        <Game md5="c75cf9d1f0aac7343be5ef0e03c98795"
-            zhcn="勇士们"
-        />
-        <Game md5="02b9809bf7f0c982a32572e480406717"
-            zhcn="侏罗纪公园"
         />
     </Folder>
     <Folder name="【系列游戏-大金刚】">

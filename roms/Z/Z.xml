@@ -3,8 +3,29 @@
     <Game md5="64db5f086f0bcfaf22055f3d6f4e2f88" bytes="24592"
         zhcn="炸弹人(中)"
     />
+    <Game md5="c2b7ba0303a8e19b218f517d8b6fa487" bytes="131088"
+        zhcn="炸弹人2"
+    />
+    <Game md5="f3a5375398f2fcaddf61c70b267477dd" bytes="40976"
+        zhcn="炸弹人2002"
+    />
+    <Game md5="0ce5cc876fcc5e0b1fee86993a72bd3d" bytes="262160"
+        zhcn="詹姆斯邦德007"
+    />
+    <Game md5="04763afda47b3d10375059c7dbed8bd2" bytes="131088"
+        zhcn="战场之狼"
+    />
+    <Game md5="ab93c5b757a258a7cfd43e60533e374a" bytes="262160"
+        zhcn="战地小子"
+    />
+    <Game md5="55b0568026324a22fa5ba32c0b922302" bytes="524304"
+        zhcn="战地小子2"
+    />
     <Game md5="faecf470626db4aec646708043fce390" bytes="262288"
         zhcn="战斗原始人"
+    />
+    <Game md5="5ab5fafd4ac5593f1e0ca44073006f9a" bytes="524304"
+        zhcn="战斗之星"
     />
     <Game md5="85f98cdc050e7d03822b2517c455d564" bytes="393232"
         zhcn="中东战争(中)"
@@ -12,8 +33,29 @@
     <Game md5="efc8d60bfa874e95b9b7672edfcba220" bytes="40976"
         zhcn="中国象棋(中)"
     />
+    <Game md5="4b0a908db7c213f2f3eed5360f440f8b" bytes="262160"
+        zhcn="中华大仙"
+    />
+    <Game md5="b9cab2cb36ccff4a97d8ccfce1bce43d" bytes="262160"
+        zhcn="终极特技人"
+    />
+    <Game md5="7e7edbc2801aefb931f4cefc638383a7" bytes="262160"
+        zhcn="终结者2 审判日"
+    />
+    <Game md5="53a2866007c3fc346b1fc047cd415ccc" bytes="393232"
+        zhcn="重力装甲"
+    />
     <Game md5="02b9809bf7f0c982a32572e480406717" bytes="262160"
         en="Jurassic Park"
         zhcn="侏罗纪公园"
+    />
+    <Game md5="fc76d367573c3059cc7f4be7bfc2af39" bytes="131088"
+        zhcn="壮志凌云"
+    />
+    <Game md5="c8b4115b7f785c3be959dbba27e869cc" bytes="262160"
+        zhcn="壮志凌云2"
+    />
+    <Game md5="394535f88fd83c83b36b3ce41441f71f" bytes="65552"
+        zhcn="追赶跑跳蹦"
     />
 </Game-List>
