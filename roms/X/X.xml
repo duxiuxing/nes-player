@@ -63,6 +63,12 @@
         zhcn="星际魂斗罗"
         zhtw="星際魂斗羅"
     />
+    <Game md5="f9faebd9c835619b6df05c03c32b5e46" bytes="65552"
+        zhcn="星际力量(美)"
+    />
+    <Game md5="35bfa72db30e474376578c3da5f03e29" bytes="24592"
+        zhcn="星际力量"
+    />
     <Game md5="582ffbd982a91f5abbea251c2d7eda13" bytes="786448"
         zhcn="星之卡比 梦之泉物语"
     />

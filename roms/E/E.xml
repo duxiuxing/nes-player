@@ -1,5 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Game-List name="E" rom-exists="true">
+    <Game md5="1bcb1795a0feed766d6d0681196662fb" bytes="49168"
+        zhcn="俄罗斯方块"
+    />
     <Game md5="fd1bd126cf2762b101089b206fff11f2" bytes="65552"
         zhcn="俄罗斯方块"
     />
@@ -35,7 +38,13 @@
     <Game md5="195726a5588621d6a4cd57dc6b1dda76" bytes="786464"
         zhcn="恶魔城外传 王子传奇"
     />
+    <Game md5="58e2a3b62103c1f4af7aec452caff175" bytes="262160"
+        zhcn="恶魔城外传 王子传奇"
+    />
     <Game md5="c5686434024008971ce0b47c0543ca9c" bytes="393232"
         zhcn="鳄鱼先生(中)"
+    />
+    <Game md5="ceae892a71b63cbf7534c04cd09f2819" bytes="262160"
+        zhcn="鳄鱼先生"
     />
 </Game-List>

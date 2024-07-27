@@ -55,20 +55,38 @@
     <Game md5="1d3bb1559a848d0a5ab2faa52f63add6" bytes="163856"
         zhcn="超级铁板阵"
     />
+    <Game md5="b9ce6bc9c0128205e528058d689a413e" bytes="131088"
+        zhcn="超级星际力量"
+    />
+    <Game md5="6f792f562988362d7bf8d87cab0f58a0" bytes="262160"
+        zhcn="超人狼战记"
+    />
     <Game md5="07ac56b630bc7ec402abce58e2947529" bytes="24592"
         zhcn="超时空要塞(中)"
+    />
+    <Game md5="9540cf70c91352a80b5e067bceada717" bytes="24592"
+        zhcn="超时空要塞"
     />
     <Game md5="97b8aad61ed09352ebbc975b93202ae8" bytes="262160"
         zhcn="超越地平线(中)"
     />
+    <Game md5="e1601a6e4c20da1a70f779a8b4c0b374" bytes="262160"
+        zhcn="超越地平线"
+    />
     <Game md5="d5e95ed2f0bb0df45424e736e067b9d9" bytes="40976"
         zhcn="成龙踢馆(中)"
+    />
+    <Game md5="020d45a8f944085d76500bd6f8f6fe15" bytes="40976"
+        zhcn="成龙踢馆"
     />
     <Game md5="e8051bec80c0f1a38b64200431cd77ec" bytes="262160"
         zhcn="成龙踢馆2"
     />
     <Game md5="6838b09b2b9a7eca6196c6fdebde69d4" bytes="262160"
         zhcn="成龙之龙(中)"
+    />
+    <Game md5="62df83cf62bf2abfb046ed10979f36d4" bytes="262160"
+        zhcn="成龙之龙"
     />
     <Game md5="e300df875430695a5f8680ee1c16b5a4" bytes="262160"
         en="The Punisher"
@@ -77,8 +95,14 @@
     <Game md5="cac7f8b8079454feee213cd6e4f1cd02" bytes="24592"
         zhcn="吃豆小精灵(中)"
     />
+    <Game md5="40b9bd9ec1f9027f9a80bb108acd1e8b" bytes="24592"
+        zhcn="吃豆小精灵"
+    />
     <Game md5="6efefd9c6278c431c438777b07871ed1" bytes="262160"
         zhcn="赤色要塞(中)"
+    />
+    <Game md5="7d02d7a6d89ef993589d1f1d58e2bcda" bytes="131088"
+        zhcn="赤色要塞"
     />
     <Game md5="bc5ccad764082062beba16d9b5f82d91" bytes="524304"
         zhcn="赤影战士(改)"
@@ -87,6 +111,9 @@
     <Game md5="a4d8bc3f18580eef8d386f89ef7106d9" bytes="270352"
         zhcn="赤影战士(中)"
         zhtw="赤影戰士(中)"
+    />
+    <Game md5="8b5addcbacab0dbcf58b3dbc8a311f6f" bytes="262160"
+        zhcn="赤影战士"
     />
     <Game md5="9fa464c22e19bf9ab2e0af86a2d5c181" bytes="262160"
         en="Shadow of the Ninja"

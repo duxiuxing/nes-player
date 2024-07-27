@@ -28,6 +28,14 @@
                 zhcn="铁板阵(中)"
             />
         </Folder>
+        <Folder name="【系列游戏-星际力量】">
+            <Game md5="b9ce6bc9c0128205e528058d689a413e"
+                zhcn="超级星际力量"
+            />
+            <Game md5="f9faebd9c835619b6df05c03c32b5e46"
+                zhcn="星际力量(美)"
+            />
+        </Folder>
         <Folder name="【系列游戏-壮志凌云】">
             <Game md5="fc76d367573c3059cc7f4be7bfc2af39"
                 zhcn="壮志凌云"
@@ -331,6 +339,9 @@
         <Game md5="49a52916ed9a979faf1bd9b76e773496"
             zhcn="大力水手(中)"
         />
+        <Game md5="6f792f562988362d7bf8d87cab0f58a0"
+            zhcn="超人狼战记"
+        />
         <Game md5="c22da3e41976cd061e9105c565720766"
             zhcn="地狱极乐丸(中)"
         />
@@ -521,6 +532,14 @@
                 zhcn="打空气2"
             />
         </Folder>
+        <Folder name="【系列游戏-打砖块】">
+            <Game md5="6c95dc4035ff5c0ed3e44132235fb0b4"
+                zhcn="打砖块"
+            />
+            <Game md5="7c8518af66a21d87557128e4873aef66"
+                zhcn="打砖块2"
+            />
+        </Folder>
         <Folder name="【系列游戏-俄罗斯方块】">
             <Game md5="fd1bd126cf2762b101089b206fff11f2"
                 zhcn="俄罗斯方块"
@@ -564,9 +583,6 @@
         />
         <Game md5="cac7f8b8079454feee213cd6e4f1cd02"
             zhcn="吃豆小精灵(中)"
-        />
-        <Game md5="6c95dc4035ff5c0ed3e44132235fb0b4"
-            zhcn="打砖块"
         />
         <Game md5="28885b2c5e36e930bf1193b6126f31f1"
             zhcn="弹珠台(中)"
