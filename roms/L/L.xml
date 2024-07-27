@@ -1,5 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Game-List name="L" rom-exists="true">
+    <Game md5="ae8a80411101476f7a5983eedd9bc25d" bytes="262160"
+        zhcn="雷鸟号"
+    />
     <Game md5="436919bea511a04eb23d0fb126787d41" bytes="131088"
         zhcn="龙牙"
     />
