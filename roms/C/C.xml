@@ -1,10 +1,16 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Game-List name="C" rom-exists="true">
+    <Game md5="76d8366d74c43e4df27d1882f46b10c1" bytes="131088"
+        zhcn="彩虹岛"
+    />
     <Game md5="7a10466a0473fadd5bb74176664b20f3" bytes="131088"
         zhcn="彩虹岛"
     />
     <Game md5="2710398e27f67ef136f1fb1219091ca2" bytes="262160"
         zhcn="超惑星战记(中)"
+    />
+    <Game md5="dd8d2d5eaf1c41852abd83e2729662d7" bytes="262160"
+        zhcn="超惑星战记"
     />
     <Game md5="4f01b951df3393d1048ef15bdab546d4" bytes="262160"
         zhcn="超级魂斗罗(改)"
@@ -34,11 +40,17 @@
     <Game md5="64ea2f5a93bde3aefdbc07efe0a62c18" bytes="131088"
         zhcn="超级马里奥兄弟2 失落的关卡"
     />
+    <Game md5="71576d8339bd63198fcfc51a92016d58" bytes="262160"
+        zhcn="超级马里奥兄弟2"
+    />
     <Game md5="e1a51ef1c4e1d1de021e6f02d7f1ee9c" bytes="262160"
         zhcn="超级马里奥兄弟2"
     />
     <Game md5="62c7d04dc805fadefa91f749c21a316d" bytes="458768"
         zhcn="超级马里奥兄弟3(中)"
+    />
+    <Game md5="a64e0142986cbb806f8775da877185a8" bytes="393232"
+        zhcn="超级马里奥兄弟3"
     />
     <Game md5="1d3bb1559a848d0a5ab2faa52f63add6" bytes="163856"
         zhcn="超级铁板阵"

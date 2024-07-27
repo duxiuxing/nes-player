@@ -3,6 +3,9 @@
     <Game md5="ca6daa9dc1e0cc6e723d232f3c895b42" bytes="40976"
         zhcn="B计划(中)"
     />
+    <Game md5="1b24f09725092a2526fde24426eb6bc8" bytes="40976"
+        zhcn="B计划"
+    />
     <Game md5="ecebb393dc687d78995a20a90754aef3" bytes="40976"
         en="B-Wing"
         zhcn="B计划"
@@ -22,12 +25,18 @@
         zhcn="蝙蝠侠"
         zhtw="蝙蝠俠"
     />
-    <Game md5="d229eab8a56783be1af66d1fec169f92" bytes="393232"
+    <Game md5="a091c9ed79e98139e51937f48c2bcc73" bytes="262160"
+        zhcn="蝙蝠侠"
+    />
+    <Game md5="9941436d8544f27bffd03684357168c3" bytes="393232"
         en="Batman - Return of the Joker"
         zhcn="蝙蝠侠2"
         zhtw="蝙蝠俠2"
     />
-    <Game md5="9941436d8544f27bffd03684357168c3" bytes="393232"
+    <Game md5="c53c65e2b13a58922ddf58c0b1fcddb7" bytes="393232"
+        zhcn="蝙蝠侠2"
+    />
+    <Game md5="d229eab8a56783be1af66d1fec169f92" bytes="393232"
         en="Batman - Return of the Joker"
         zhcn="蝙蝠侠2"
         zhtw="蝙蝠俠2"
@@ -58,6 +67,12 @@
     <Game md5="da3233c219c84a9771c0e3078baf5796" bytes="49168"
         zhcn="兵蜂(中)"
     />
+    <Game md5="18c3facfdd60c4f4b4e78ecb2c7959cc" bytes="49168"
+        zhcn="兵蜂"
+    />
+    <Game md5="27de176ed56f62f09800701c35361099" bytes="131088"
+        zhcn="兵蜂2"
+    />
     <Game md5="a8bc764aabc1812f016d300baeccd4ff" bytes="131088"
         en="Stinger"
         zhcn="兵蜂2"
@@ -65,7 +80,13 @@
     <Game md5="8196efa434f85bc50e19a35235bf151b" bytes="262160"
         zhcn="兵蜂3(中)"
     />
+    <Game md5="17127aebd4f484036bcc78e80e4c0050" bytes="262160"
+        zhcn="兵蜂3"
+    />
     <Game md5="7c1afc00b993f5896ca363bf3366df06" bytes="262160"
         zhcn="不动明王传(中)"
+    />
+    <Game md5="809fd7213184feae8b5b09e5cf7b8744" bytes="393232"
+        zhcn="不动明王传"
     />
 </Game-List>

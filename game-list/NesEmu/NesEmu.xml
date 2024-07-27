@@ -36,6 +36,9 @@
                 zhcn="壮志凌云2"
             />
         </Folder>
+        <Game md5="4f90905fd77c1c9456bd5dfe1ceddc34"
+            zhcn="1942"
+        />
         <Game md5="a44f5ddcce474311e091490fa16baf03"
             zhcn="1943(中)"
         />
@@ -110,8 +113,8 @@
         <Game md5="884b23376f26e1a2da7e658f8c97abc5"
             zhcn="大坦克"
         />
-        <Game md5="fd86f0c65852503a5c1d817e83fdf504"
-            zhcn="坦克大战 烟山1990"
+        <Game md5="5864b9e32b45f1e3b999cc12c8e0921c"
+            zhcn="坦克大战 烟山1990(中)"
         />
         <Game md5="cd4fe2e78df0696dbe652f02c19541a1"
             zhcn="坦克大战"
@@ -316,6 +319,9 @@
         <Game md5="7fc0f7035484ef190fa2f0c9a6cd9007"
             zhcn="FC原人"
         />
+        <Game md5="d10a98c0aa8e67576f6c807ad3ff43b6"
+            zhcn="Q太郎"
+        />
         <Game md5="02ed46c41454945f24497ec12de90950"
             zhcn="SD快打旋风(中)"
         />
@@ -419,6 +425,14 @@
         />
     </Folder>
     <Folder name="【精选游戏-竞速类】">
+        <Folder name="【系列游戏-遥控赛车】">
+            <Game md5="0c7aa6e5f6a2cc82e90b741ece9995b3"
+                zhcn="遥控赛车"
+            />
+            <Game md5="f6277e4231d802a928bb72c1dadad6fc"
+                zhcn="遥控赛车2"
+            />
+        </Folder>
         <Game md5="faddcc37282ef457291896c4c1ed21c0"
             zhcn="F1赛车(中)"
         />
@@ -430,9 +444,6 @@
         />
         <Game md5="121ab23dd0b5601e201ef5c7fd1a8c14"
             zhcn="南极大冒险(中)"
-        />
-        <Game md5="f6277e4231d802a928bb72c1dadad6fc"
-            zhcn="遥控赛车2"
         />
         <Game md5="2777e88f5742c4332d3c736ed8816342"
             zhcn="越野摩托"

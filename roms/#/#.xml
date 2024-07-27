@@ -4,11 +4,23 @@
         en="8 Eyes"
         zhcn="8只眼(中)"
     />
+    <Game md5="4e0af17f6a4791b629f63a2390ba6ddf" bytes="262160"
+        zhcn="8只眼"
+    />
+    <Game md5="4f90905fd77c1c9456bd5dfe1ceddc34" bytes="40976"
+        zhcn="1942"
+    />
     <Game md5="a44f5ddcce474311e091490fa16baf03" bytes="262672"
         en="1943 - The Battle of Midway"
         zhcn="1943(中)"
     />
+    <Game md5="deeaf9d51fc3f13f11f8e1a65553061a" bytes="131088"
+        zhcn="1943"
+    />
     <Game md5="32708d8475af0bf2d1102d9b7dd59ba1" bytes="131088"
         zhcn="1944(中)"
+    />
+    <Game md5="bf887996c9add45aabe881ceaf1f410a" bytes="131088"
+        zhcn="1944"
     />
 </Game-List>
