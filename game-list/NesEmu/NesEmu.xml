@@ -39,6 +39,33 @@
                 zhcn="大力工头2(中)"
             />
         </Folder>
+        <Folder name="【系列游戏-唐老鸭大冒险】">
+            <Game md5="834cff8ae425f02a210d5971ea649828"
+                zhcn="唐老鸭大冒险"
+            />
+            <Game md5="504da23c0020a98b406b0b1490bf756e"
+                zhcn="唐老鸭大冒险2(中)"
+            />
+        </Folder>
+        <Folder name="【系列游戏-兔八哥】">
+            <Game md5="9ae4058cced0d2514a169eca3311e5d0"
+                zhcn="兔八哥 疯狂城堡"
+            />
+            <Game md5="96ae665d902eaa69c7a36979b7ef530d"
+                zhcn="兔八哥 生日快乐"
+            />
+        </Folder>
+        <Folder name="【系列游戏-兔宝宝】">
+            <Game md5="b9082397fb67ce0b9bb6a092c4a867ae"
+                zhcn="兔宝宝"
+            />
+            <Game md5="84f59a27cb67163b2f319d464aa4dd56"
+                zhcn="兔宝宝2(中)"
+            />
+            <Game md5="ef54e6c462c095c8a5c835026aa9407a"
+                zhcn="兔宝宝6"
+            />
+        </Folder>
         <Folder name="【系列游戏-脱狱】">
             <Game md5="21285200ec175fbad7ed09bc207e6d6e"
                 zhcn="脱狱"
@@ -102,6 +129,9 @@
         />
         <Game md5="0d5020f2be93fce9b4497544cd73b179"
             zhcn="三目童子"
+        />
+        <Game md5="d8d5701f56c4e3f83a106fa8e01c669f"
+            zhcn="闪亮亮星星之夜DX"
         />
         <Game md5="28489971d1a6bd569395af2adcd257bc"
             zhcn="上尉密令(中)"
@@ -206,6 +236,11 @@
         />
         <Game md5="fe02f55e4d21971d9c05772ba33911af"
             zhcn="影子传说(中)"
+        />
+    </Folder>
+    <Folder name="【精选合集-文字游戏】">
+        <Game md5="27cfa02ab0ed5494471129ff2488302c"
+            zhcn="天使之翼2(中)"
         />
     </Folder>
     <Folder name="【精选合集-益智游戏】">
@@ -413,6 +448,9 @@
         />
         <Game md5="ee244efcc246b4f8151e07ee51e381ce"
             zhcn="人间兵器(中)"
+        />
+        <Game md5="7cad6d1d8d369396b30e24ae82e65999"
+            zhcn="圣铃传说(中)"
         />
         <Game md5="c1911ab698877b98ae6bebcbce356774"
             zhcn="外星战将(中)"
