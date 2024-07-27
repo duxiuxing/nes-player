@@ -36,11 +36,20 @@
     <Game md5="ee244efcc246b4f8151e07ee51e381ce" bytes="294944"
         zhcn="人间兵器(中)"
     />
+    <Game md5="80444bfdbcfe2973418500a99693af5d" bytes="262160"
+        zhcn="忍者茶茶丸 银河大作战"
+    />
+    <Game md5="546bde8434c6c1927a8cb9d0385603c7" bytes="32784"
+        zhcn="忍者茶茶丸(中)"
+    />
     <Game md5="0e4978aaab59bb47fb85b094df91ee02" bytes="24592"
         zhcn="忍者大决战"
     />
     <Game md5="3ed008f5279a927d564faad5cbf5cb3a" bytes="24592"
         zhcn="忍者君"
+    />
+    <Game md5="02bb2eca9cab8b8ad0eb67e06678fe7b" bytes="131088"
+        zhcn="忍者君2(中)"
     />
     <Game md5="49e7e5b641d41b4e5d8c919e187647e7" bytes="131088"
         zhcn="忍者君2"

@@ -162,12 +162,20 @@
                 zhcn="假面忍者赤影(中)"
             />
         </Folder>
+        <Folder name="【系列游戏-忍者茶茶丸】">
+            <Game md5="80444bfdbcfe2973418500a99693af5d"
+                zhcn="忍者茶茶丸 银河大作战"
+            />
+            <Game md5="546bde8434c6c1927a8cb9d0385603c7"
+                zhcn="忍者茶茶丸(中)"
+            />
+        </Folder>
         <Folder name="【系列游戏-忍者君】">
             <Game md5="3ed008f5279a927d564faad5cbf5cb3a"
                 zhcn="忍者君"
             />
-            <Game md5="49e7e5b641d41b4e5d8c919e187647e7"
-                zhcn="忍者君2"
+            <Game md5="02bb2eca9cab8b8ad0eb67e06678fe7b"
+                zhcn="忍者君2(中)"
             />
         </Folder>
         <Folder name="【系列游戏-忍者龙剑传】">
@@ -225,6 +233,14 @@
                 zhcn="猫抓老鼠2(中)"
             />
         </Folder>
+        <Folder name="【系列游戏-七宝奇谋】">
+            <Game md5="460d3e6805496c35d630f538d01e68e4"
+                zhcn="七宝奇谋"
+            />
+            <Game md5="d38325cffb9ba2e6f57897c0e9564cc0"
+                zhcn="七宝奇谋2"
+            />
+        </Folder>
         <Game md5="a4a8f9f9a4caaa5259ccfab1778edbee"
             zhcn="爱的小屋(中)"
         />
@@ -248,9 +264,6 @@
         />
         <Game md5="8486048c48f40f3787e4b7d9f1788659"
             zhcn="马戏团"
-        />
-        <Game md5="460d3e6805496c35d630f538d01e68e4"
-            zhcn="七宝奇谋"
         />
         <Game md5="0855314a0dc5b5e2d0724351f808e311"
             zhcn="气球大战(中)"
