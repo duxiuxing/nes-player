@@ -145,9 +145,6 @@
             <Game md5="09643d3d3a5d2eb830fa9902f950dbf2"
                 zhcn="机械战警3"
             />
-            <Game md5="53039bfb54af532b8271a999df6be870"
-                zhcn="机械战警对终结者"
-            />
         </Folder>
         <Folder name="【系列游戏-眼镜蛇特种部队】">
             <Game md5="13c45cfa08f421655737394539055567"
@@ -407,9 +404,6 @@
         />
         <Game md5="faecf470626db4aec646708043fce390"
             zhcn="战斗原始人"
-        />
-        <Game md5="7e7edbc2801aefb931f4cefc638383a7"
-            zhcn="终结者2 审判日"
         />
         <Game md5="394535f88fd83c83b36b3ce41441f71f"
             zhcn="追赶跑跳蹦"
@@ -705,9 +699,6 @@
         />
     </Folder>
     <Folder name="【系列游戏-马里奥】">
-        <Game md5="51119c9442135066f1b74ac2aba789ef"
-            zhcn="超级马里奥世界"
-        />
         <Game md5="8eed628200fd9607812708cf98e998b8"
             zhcn="超级马里奥无限豪华版"
         />
