@@ -375,9 +375,6 @@
         <Game md5="28489971d1a6bd569395af2adcd257bc"
             zhcn="上尉密令(中)"
         />
-        <Game md5="9e95690b3a7394abbcc9c11484f3867b"
-            zhcn="圣斗士星矢 黄金传说完结篇(中)"
-        />
         <Game md5="00d39f706953ba112d627877becf5286"
             zhcn="踢王"
         />
@@ -513,6 +510,9 @@
         />
     </Folder>
     <Folder name="【精选游戏-文字类】">
+        <Game md5="9e95690b3a7394abbcc9c11484f3867b"
+            zhcn="圣斗士星矢 黄金传说完结篇(中)"
+        />
         <Game md5="27cfa02ab0ed5494471129ff2488302c"
             zhcn="天使之翼2(中)"
         />
