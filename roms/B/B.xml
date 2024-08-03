@@ -14,6 +14,7 @@
         zhcn="北斗神拳(中)"
     />
     <Game md5="b3b3a91e1044cd130cc04d6136b9f26d" bytes="65552"
+        en="Hokuto no Ken"
         zhcn="北斗神拳"
     />
     <Game md5="2068b2e5a7a9ec1e85d1f20e4786a9af" bytes="393232"
@@ -62,6 +63,7 @@
         zhcn="变形战机Z(中)"
     />
     <Game md5="a077d8582d280c1f014cadc7322b5bc2" bytes="24592"
+        en="Formation Z"
         zhcn="变形战机Z"
     />
     <Game md5="da3233c219c84a9771c0e3078baf5796" bytes="49168"
@@ -71,22 +73,25 @@
         zhcn="兵蜂"
     />
     <Game md5="27de176ed56f62f09800701c35361099" bytes="131088"
+        en="Moero TwinBee - Cinnamon Hakase o Sukue"
         zhcn="兵蜂2"
     />
     <Game md5="a8bc764aabc1812f016d300baeccd4ff" bytes="131088"
-        en="Stinger"
+        en="Moero TwinBee - Cinnamon Hakase o Sukue"
         zhcn="兵蜂2"
     />
     <Game md5="8196efa434f85bc50e19a35235bf151b" bytes="262160"
         zhcn="兵蜂3(中)"
     />
     <Game md5="17127aebd4f484036bcc78e80e4c0050" bytes="262160"
+        en="TwinBee 3 - Poko Poko Daimaou"
         zhcn="兵蜂3"
     />
     <Game md5="7c1afc00b993f5896ca363bf3366df06" bytes="262160"
         zhcn="不动明王传(中)"
     />
     <Game md5="809fd7213184feae8b5b09e5cf7b8744" bytes="393232"
+        en="Fudou Myouou Den"
         zhcn="不动明王传"
     />
 </Game-List>

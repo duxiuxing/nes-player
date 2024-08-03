@@ -527,11 +527,14 @@
             />
         </Folder>
         <Folder name="【系列游戏-打砖块】">
-            <Game md5="6c95dc4035ff5c0ed3e44132235fb0b4"
-                zhcn="打砖块"
+            <Game md5="5693243f1117f1120624d44c180c5772"
+                zhcn="打砖块(中)"
             />
             <Game md5="7c8518af66a21d87557128e4873aef66"
                 zhcn="打砖块2"
+            />
+            <Game md5="84926f4a2d65a16b0270ed659422262e"
+                zhcn="家庭打砖块"
             />
         </Folder>
         <Folder name="【系列游戏-俄罗斯方块】">
