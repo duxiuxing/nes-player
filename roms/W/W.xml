@@ -1,5 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Game-List name="W" rom-exists="true">
+    <Game md5="562837f31bbc310928d426b7815cb4ac" bytes="524304"
+        en="Wario's Woods"
+        zhcn="瓦里奥森林"
+    />
     <Game md5="c1911ab698877b98ae6bebcbce356774" bytes="426000"
         zhcn="外星战将(中)"
     />

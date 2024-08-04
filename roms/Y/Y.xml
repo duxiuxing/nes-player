@@ -36,9 +36,16 @@
     <Game md5="fe02f55e4d21971d9c05772ba33911af" bytes="81936"
         zhcn="影子传说(中)"
     />
+    <Game md5="726e5a35d4148d15a7cd41f8fd7fcc8b" bytes="106512"
+        en=""
+        zhcn="影子传说"
+    />
     <Game md5="c75cf9d1f0aac7343be5ef0e03c98795" bytes="131088"
         en="Cabal"
         zhcn="勇士们"
+    />
+    <Game md5="3d52cc318e0f96aa84a5b3409f41b8aa" bytes="655376"
+        zhcn="幽游白书 魔界最强列传(中)"
     />
     <Game md5="5e6719b309a9f522135e5b889f326f4c" bytes="65552"
         zhcn="宇宙巡航机"
@@ -54,6 +61,9 @@
     />
     <Game md5="60be0b2ff5484e6271c48f5b9e229356" bytes="24592"
         zhcn="月宫桌球"
+    />
+    <Game md5="12f1bd0bb5af4fbe43992cb4e7c48dc3" bytes="1048608"
+        zhcn="月光宝石"
     />
     <Game md5="2920fef29c5c68b1ef2dc41b25b0591f" bytes="524304"
         zhcn="月光宝石"

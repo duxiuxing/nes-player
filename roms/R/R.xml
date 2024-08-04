@@ -60,6 +60,9 @@
     <Game md5="0dd8770e9d9669d8dfcc79879bd96b05" bytes="335888"
         zhcn="忍者龙剑传2(中)"
     />
+    <Game md5="53b4fb3bc1d75b8f5c00d61a640010f8" bytes="348817"
+        zhcn="忍者龙剑传3(中)"
+    />
     <Game md5="75be7ec69bb2bec76686440c9d1adcf3" bytes="344080"
         zhcn="忍者龙剑传3(中)"
     />
@@ -75,8 +78,14 @@
     <Game md5="4ffab3059c92b272961ed369d216a22b" bytes="786960"
         zhcn="忍者神龟3(中)"
     />
+    <Game md5="974eb26da0b8abda5120a5c0da7525b9" bytes="311312"
+        zhcn="忍者神龟格斗(中)"
+    />
     <Game md5="a1745a16c4b2b2c64772000071600b04" bytes="294928"
         zhcn="忍者神龟格斗(中)"
+    />
+    <Game md5="90dbb091e53eb13b7ae25d48154e80e9" bytes="262160"
+        zhcn="忍者蛙"
     />
     <Game md5="bbafead19c25b38a5a129bb8c51aaf8d" bytes="262160"
         zhcn="忍者蛙"

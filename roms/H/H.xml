@@ -1,5 +1,13 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Game-List name="H" rom-exists="true">
+    <Game md5="9182b9d8a8aa73259e73c863d79ccc73" bytes="262160"
+        en=""
+        zhcn="合金装备(中)"
+    />
+    <Game md5="f59ce6864d1ff43f275c2ff431102d0b" bytes="262287"
+        en=""
+        zhcn="合金装备2"
+    />
     <Game md5="a53086064c297d0206fccbb7094759bd" bytes="40976"
         zhcn="黑白棋(中)"
     />
@@ -17,6 +25,9 @@
     <Game md5="406b6c76132ed9e41afd89b108bd405f" bytes="393232"
         zhcn="魂斗罗(改)"
         zhtw="魂斗羅(改)"
+    />
+    <Game md5="1a70e2040235e9c007efeac666503601" bytes="393232"
+        zhcn="魂斗罗(中)"
     />
     <Game md5="7e9b74e6b2f0f4ca91d2e32fce356867" bytes="393232"
         zhcn="魂斗罗(中)"
@@ -37,6 +48,9 @@
         zhcn="魂斗罗力量(中)"
         zhtw="魂斗羅力量(中)"
     />
+    <Game md5="12be2da81d3fac1442a9ce4d802ec2e3" bytes="262288"
+        zhcn="魂斗罗力量"
+    />
     <Game md5="af7bb9a170ba5728829c3080035e897a" bytes="262160"
         en="Contra Force"
         zhcn="魂斗罗力量"
@@ -47,6 +61,9 @@
     />
     <Game md5="7e91813a9ca491f5a4d06334d18a6c80" bytes="24592"
         zhcn="火箭车"
+    />
+    <Game md5="43bf70e79caf2f1258b583d7cdf38d08" bytes="262160"
+        zhcn="火炮"
     />
     <Game md5="780ffdcb1ecf18a090719704a7c35f0b" bytes="131088"
         zhcn="火之鸟"

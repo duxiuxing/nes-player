@@ -19,6 +19,9 @@
         zhcn="超级魂斗罗(改)"
         zhtw="超級魂斗羅(改)"
     />
+    <Game md5="4c9792ff6a45654b843eeb3edd326ce5" bytes="786464"
+        zhcn="超级魂斗罗(中)"
+    />
     <Game md5="9ac7936d1c50276c5191226367f63e55" bytes="393232"
         zhcn="超级魂斗罗(中)"
         zhtw="超級魂斗羅(中)"
@@ -128,6 +131,9 @@
     <Game md5="bc5ccad764082062beba16d9b5f82d91" bytes="524304"
         zhcn="赤影战士(改)"
         zhtw="赤影戰士(改)"
+    />
+    <Game md5="763b7d6afaddd8f72d4339b718ae6dcf" bytes="270352"
+        zhcn="赤影战士(中)"
     />
     <Game md5="a4d8bc3f18580eef8d386f89ef7106d9" bytes="270352"
         zhcn="赤影战士(中)"

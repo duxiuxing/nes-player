@@ -121,6 +121,9 @@
         <Game md5="884b23376f26e1a2da7e658f8c97abc5"
             zhcn="大坦克"
         />
+        <Game md5="43bf70e79caf2f1258b583d7cdf38d08"
+            zhcn="火炮"
+        />
         <Game md5="5864b9e32b45f1e3b999cc12c8e0921c"
             zhcn="坦克大战 烟山1990(中)"
         />
@@ -354,8 +357,8 @@
         <Game md5="36810c924688fee01659968d7e582bdd"
             zhcn="卡诺夫"
         />
-        <Game md5="436919bea511a04eb23d0fb126787d41"
-            zhcn="龙牙"
+        <Game md5="a08761d206d461b3d2b121579e006e55"
+            zhcn="口袋里的魔鬼(中)"
         />
         <Game md5="ba2876f34aced15ec95ba592e394469f"
             zhcn="绿色兵团(中)"
@@ -366,14 +369,20 @@
         <Game md5="93fa9447a160a704fe69835326923212"
             zhcn="怒三代"
         />
-        <Game md5="0d5020f2be93fce9b4497544cd73b179"
-            zhcn="三目童子"
+        <Game md5="ded42f009dc716e83da569e632cd0d76"
+            zhcn="三目童子(中)"
         />
         <Game md5="d8d5701f56c4e3f83a106fa8e01c669f"
             zhcn="闪亮亮星星之夜DX"
         />
         <Game md5="28489971d1a6bd569395af2adcd257bc"
             zhcn="上尉密令(中)"
+        />
+        <Game md5="fffabd1a9ff45e0ff045c96e3f83c25b"
+            zhcn="汤姆和杰瑞(中)"
+        />
+        <Game md5="8a8bca67edfc9a3fa878e782a8e300bb"
+            zhcn="特救指令(中)"
         />
         <Game md5="00d39f706953ba112d627877becf5286"
             zhcn="踢王"
@@ -424,6 +433,9 @@
         />
         <Game md5="7662efe95d5d8fc2f94584a6d1bfa9a7"
             zhcn="四人街霸"
+        />
+        <Game md5="3d52cc318e0f96aa84a5b3409f41b8aa"
+            zhcn="幽游白书 魔界最强列传(中)"
         />
     </Folder>
     <Folder name="【精选游戏-竞速类】">
@@ -489,6 +501,9 @@
         </Folder>
         <Game md5="7c1afc00b993f5896ca363bf3366df06"
             zhcn="不动明王传(中)"
+        />
+        <Game md5="436919bea511a04eb23d0fb126787d41"
+            zhcn="龙牙"
         />
         <Game md5="0e4978aaab59bb47fb85b094df91ee02"
             zhcn="忍者大决战"
@@ -571,6 +586,9 @@
             <Game md5="f3a5375398f2fcaddf61c70b267477dd"
                 zhcn="炸弹人2002"
             />
+            <Game md5="72b51fc2f8d9194788c59cd49806d093"
+                zhcn="炸弹之王"
+            />
         </Folder>
         <Game md5="a4a8f9f9a4caaa5259ccfab1778edbee"
             zhcn="爱的小屋(中)"
@@ -605,8 +623,8 @@
         <Game md5="774e0f994c95d59c916c0070f39d430e"
             zhcn="双蛇城"
         />
-        <Game md5="4b6e6230abcdd4c8e2d0ad416a19766e"
-            zhcn="淘金者"
+        <Game md5="fe9481bf1e07c768d47c8de6e7036c8c"
+            zhcn="淘金者(中)"
         />
         <Game md5="b7f96d2a894b322375f7309daef9a0cb"
             zhcn="五子棋"
@@ -677,8 +695,8 @@
         <Game md5="ac7f06d5e13c80f490bd93e3a8ab7212"
             zhcn="空中魂斗罗(中)"
         />
-        <Game md5="407b5151f2642523cba218f927926e9c"
-            zhcn="星际魂斗罗"
+        <Game md5="18ba34469f2ea2522d228d3d8fe08019"
+            zhcn="星际魂斗罗(中)"
         />
     </Folder>
     <Folder name="【系列游戏-洛克人】">
@@ -725,6 +743,9 @@
         />
         <Game md5="11a02a9184d9737a7615b5795fe5164f"
             zhcn="马里奥医生(中)"
+        />
+        <Game md5="562837f31bbc310928d426b7815cb4ac"
+            zhcn="瓦里奥森林"
         />
     </Folder>
     <Folder name="【系列游戏-冒险岛】">
@@ -791,8 +812,8 @@
         <Game md5="79aa819580967ffb27a9698efbf493b9"
             zhcn="双截龙"
         />
-        <Game md5="b94be0bf2e861bca19339920cd786f53"
-            zhcn="双截龙2"
+        <Game md5="f1ed2ac7cbdf2cd068645587676bf2a5"
+            zhcn="双截龙2(中)"
         />
         <Game md5="2d860f72595401c85ac3e7edf1753903"
             zhcn="双截龙3(中)"

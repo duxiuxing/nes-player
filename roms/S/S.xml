@@ -3,14 +3,23 @@
     <Game md5="02ed46c41454945f24497ec12de90950" bytes="262160"
         zhcn="SD快打旋风(中)"
     />
+    <Game md5="8160b1a75506dcaf3691a654beea0ac3" bytes="294928"
+        zhcn="SD快打旋风(中)"
+    />
     <Game md5="1355eccce09d3e9554ff9120387f64b0" bytes="262160"
         zhcn="SD快打旋风"
+    />
+    <Game md5="ded42f009dc716e83da569e632cd0d76" bytes="278544"
+        zhcn="三目童子(中)"
     />
     <Game md5="0d5020f2be93fce9b4497544cd73b179" bytes="786464"
         zhcn="三目童子"
     />
     <Game md5="893b732eddcf02b709a49748d34dc65a" bytes="24592"
         zhcn="三只小猪(中)"
+    />
+    <Game md5="311e8a90ba3182294987101b534d1d6e" bytes="24592"
+        zhcn="三只小猪"
     />
     <Game md5="1d64011e42b7e02e7cdf86363ad38dba" bytes="393232"
         zhcn="沙罗曼蛇(中)"
@@ -20,6 +29,9 @@
     />
     <Game md5="28489971d1a6bd569395af2adcd257bc" bytes="393232"
         zhcn="上尉密令(中)"
+    />
+    <Game md5="f8fecf25d3ae13d95ddfd241865e6340" bytes="262160"
+        zhcn="上尉密令"
     />
     <Game md5="9e95690b3a7394abbcc9c11484f3867b" bytes="524304"
         zhcn="圣斗士星矢 黄金传说完结篇(中)"
@@ -35,11 +47,17 @@
         en="Double Dragon"
         zhcn="双截龙"
     />
+    <Game md5="f1ed2ac7cbdf2cd068645587676bf2a5" bytes="327696"
+        zhcn="双截龙2(中)"
+    />
     <Game md5="b94be0bf2e861bca19339920cd786f53" bytes="262160"
         en="Double Dragon II - The Revenge"
         zhcn="双截龙2"
     />
     <Game md5="2d860f72595401c85ac3e7edf1753903" bytes="262288"
+        zhcn="双截龙3(中)"
+    />
+    <Game md5="687ce75c0d83e17100fbb722142f3d4f" bytes="294928"
         zhcn="双截龙3(中)"
     />
     <Game md5="774e0f994c95d59c916c0070f39d430e" bytes="65552"
@@ -52,6 +70,9 @@
         zhcn="松鼠大作战(中)"
     />
     <Game md5="0a3063be23e3c65fdc0e06e8abe6dfc3" bytes="393232"
+        zhcn="松鼠大作战2(中)"
+    />
+    <Game md5="d9410806897d2b1740dce169788677af" bytes="393232"
         zhcn="松鼠大作战2(中)"
     />
 </Game-List>
