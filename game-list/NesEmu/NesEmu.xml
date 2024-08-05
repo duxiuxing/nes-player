@@ -68,8 +68,8 @@
         <Game md5="9b38e0826f35f1354fbd15e6639712b2"
             zhcn="刀锋战机"
         />
-        <Game md5="bac351406b5acf1f4c8ce94fecf6a426"
-            zhcn="帝国战机"
+        <Game md5="357a88b8bc6d3302e76bb05055f4c38f"
+            zhcn="帝国战机(中)"
         />
         <Game md5="f93bebc2a48066b89c1d8e4aa94e5e4e"
             zhcn="飞翔鲛"
@@ -182,6 +182,12 @@
         <Game md5="5f34af56fd022c6197a60d89be33b42e"
             zhcn="古巴战士(中)"
         />
+        <Game md5="b7323d5cf56f4049e20d44815ca6c45a"
+            zhcn="荒野大镖客"
+        />
+        <Game md5="5d8c039d277892f86aebf1afd813392e"
+            zhcn="街头战士2010"
+        />
         <Game md5="2ad79f6be6d14190c5c5975edf003710"
             zhcn="霹雳神兵(中)"
         />
@@ -261,6 +267,22 @@
                 zhcn="大力工头2(中)"
             />
         </Folder>
+        <Folder name="【系列游戏-柯纳米世界】">
+            <Game md5="752353ccc6678c727926b661c7ad5e3f"
+                zhcn="柯纳米世界"
+            />
+            <Game md5="2032e1338bb467970ac18def47ab72b1"
+                zhcn="柯纳米世界2"
+            />
+        </Folder>
+        <Folder name="【系列游戏-能源战士】">
+            <Game md5="bef492e8d35ddb789027781987e70cec"
+                zhcn="能源战士"
+            />
+            <Game md5="7c48ad4d6b511f7ce6530c46f8179d9c"
+                zhcn="能源战士2"
+            />
+        </Folder>
         <Folder name="【系列游戏-唐老鸭】">
             <Game md5="459837f4e8fcbaf29bd66ed926b6882e"
                 zhcn="怪鸭历险记"
@@ -333,6 +355,9 @@
         <Game md5="02ed46c41454945f24497ec12de90950"
             zhcn="SD快打旋风(中)"
         />
+        <Game md5="599f3def0de4fb4e951f694d30c3977f"
+            zhcn="阿尔戈斯战士(中)"
+        />
         <Game md5="5b214362008572ff0b0479fcd6bbff59"
             zhcn="北斗神拳(中)"
         />
@@ -350,6 +375,9 @@
         />
         <Game md5="c20b630cec2ff87f796e9f1004d8bc5e"
             zhcn="斧王"
+        />
+        <Game md5="76d02cda47f28006b3f257a28d2f1ac3"
+            zhcn="火箭人"
         />
         <Game md5="780ffdcb1ecf18a090719704a7c35f0b"
             zhcn="火之鸟"
@@ -449,6 +477,9 @@
         </Folder>
         <Game md5="faddcc37282ef457291896c4c1ed21c0"
             zhcn="F1赛车(中)"
+        />
+        <Game md5="c3e01c2ad7926c824388d1065ad521b8"
+            zhcn="公路之星"
         />
         <Game md5="7e91813a9ca491f5a4d06334d18a6c80"
             zhcn="火箭车"
@@ -723,8 +754,8 @@
         <Game md5="8eed628200fd9607812708cf98e998b8"
             zhcn="超级马里奥无限豪华版"
         />
-        <Game md5="673913a23cd612daf5ad32d4085e0760"
-            zhcn="超级马里奥兄弟"
+        <Game md5="37f51e99297852b77ce931758fe96109"
+            zhcn="超级马里奥兄弟(中)"
         />
         <Game md5="64ea2f5a93bde3aefdbc07efe0a62c18"
             zhcn="超级马里奥兄弟2 失落的关卡"

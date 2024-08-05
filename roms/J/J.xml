@@ -6,6 +6,10 @@
     <Game md5="61231fbd95a1ef7c67eb96dd6f94b92a" bytes="393232"
         zhcn="机械战警(中)"
     />
+    <Game md5="a8fef36bec0161ff03908789f56edf81" bytes="262160"
+        en=""
+        zhcn="机械战警"
+    />
     <Game md5="ad20426b20942679c12794f3f7c6a681" bytes="262160"
         en="RoboCop"
         zhcn="机械战警"
@@ -38,14 +42,29 @@
         en="Family Block"
         zhcn="家庭打砖块"
     />
+    <Game md5="dbbb5477287d51df4e2cd95f81f1cbd2" bytes="262160"
+        zhcn="嘉蒂外传(中)"
+    />
     <Game md5="e4556d6e908e03600f991f285cedfe95" bytes="131088"
         zhcn="假面忍者赤影(中)"
     />
     <Game md5="2abb958b6f7dc9fb706afe5717c248ab" bytes="262160"
         zhcn="假面忍者花丸(中)"
     />
+    <Game md5="1939e3d34cbe68b2519f8b5bd147da25" bytes="262160"
+        en=""
+        zhcn="假面忍者花丸"
+    />
     <Game md5="4bc4edf3dbbdb4301eb92084378968e6" bytes="24592"
         zhcn="街头小子(中)"
+    />
+    <Game md5="5d8c039d277892f86aebf1afd813392e" bytes="262160"
+        en=""
+        zhcn="街头战士2010"
+    />
+    <Game md5="2490b7b99d19a85f27962fdb0f303ae4" bytes="24592"
+        en=""
+        zhcn="筋肉人摔角"
     />
     <Game md5="ffcc769cfa84f98cd2d8aee81f7fbb15" bytes="24592"
         zhcn="筋肉人摔角"

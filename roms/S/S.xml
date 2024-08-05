@@ -24,6 +24,10 @@
     <Game md5="1d64011e42b7e02e7cdf86363ad38dba" bytes="393232"
         zhcn="沙罗曼蛇(中)"
     />
+    <Game md5="7a7039c30d9c5ce48bf9022e894c0ffa" bytes="131088"
+        en=""
+        zhcn="沙罗曼蛇"
+    />
     <Game md5="d8d5701f56c4e3f83a106fa8e01c669f" bytes="524304"
         zhcn="闪亮亮星星之夜DX"
     />
@@ -38,6 +42,10 @@
     />
     <Game md5="7cad6d1d8d369396b30e24ae82e65999" bytes="393232"
         zhcn="圣铃传说(中)"
+    />
+    <Game md5="6bdb58e87ba2494be3ea9afaaa3654ff" bytes="393232"
+        en=""
+        zhcn="圣铃传说"
     />
     <Game md5="768d9a3fb61c9726f6b4ae7d4e134bc0" bytes="262288"
         en="Double Dragon"

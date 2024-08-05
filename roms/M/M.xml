@@ -12,6 +12,9 @@
     <Game md5="11a02a9184d9737a7615b5795fe5164f" bytes="65552"
         zhcn="马里奥医生(中)"
     />
+    <Game md5="d7d542a9d1534c2949cdf413ecd3d3c1" bytes="65552"
+        zhcn="马里奥医生(中)"
+    />
     <Game md5="8486048c48f40f3787e4b7d9f1788659" bytes="24592"
         zhcn="马戏团"
     />
@@ -28,11 +31,23 @@
         en="Adventure Island 2"
         zhcn="冒险岛2"
     />
+    <Game md5="da01f528959b065acbfed341e892d9c0" bytes="262160"
+        en="Adventure Island 2"
+        zhcn="冒险岛2"
+    />
     <Game md5="b44674e3be5e383e45fb532d9886cc0d" bytes="286736"
         en="Adventure Island 3"
         zhcn="冒险岛3(中)"
     />
+    <Game md5="f15d5835041c4b28b98b9551fb3ce764" bytes="262160"
+        en=""
+        zhcn="冒险岛3"
+    />
     <Game md5="11830871070ed91a747e9a67116abaf7" bytes="393232"
         zhcn="冒险岛4(中)"
+    />
+    <Game md5="dd53d022bb0b8d5a8d464690b14a0b30" bytes="393232"
+        en=""
+        zhcn="冒险岛4"
     />
 </Game-List>

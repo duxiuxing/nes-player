@@ -61,6 +61,10 @@
         en="Donkey Kong 3"
         zhcn="大金刚3"
     />
+    <Game md5="dca48d8ac7da3aae9b043c96623c2660" bytes="24592"
+        en="Donkey Kong 3"
+        zhcn="大金刚3"
+    />
     <Game md5="ca5d456824f802b007ba5d2d2b17aeb5" bytes="393232"
         zhcn="大力工头(中)"
     />
@@ -114,6 +118,9 @@
     <Game md5="010a81c8bf313f79a2355e2f1cd46862" bytes="262160"
         en="Jigoku Gokuraku Maru"
         zhcn="地狱极乐丸"
+    />
+    <Game md5="357a88b8bc6d3302e76bb05055f4c38f" bytes="262160"
+        zhcn="帝国战机(中)"
     />
     <Game md5="4cda9b5f7d06f336a3434c9e1adc1c2e" bytes="262160"
         en="Crisis Force"

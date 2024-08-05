@@ -39,6 +39,10 @@
         en="Super Mario Unlimited Deluxe"
         zhcn="超级马里奥无限豪华版"
     />
+    <Game md5="37f51e99297852b77ce931758fe96109" bytes="65552"
+        en=""
+        zhcn="超级马里奥兄弟(中)"
+    />
     <Game md5="673913a23cd612daf5ad32d4085e0760" bytes="40976"
         en="Super Mario Bros"
         zhcn="超级马里奥兄弟"
@@ -60,6 +64,9 @@
         zhcn="超级马里奥兄弟2"
     />
     <Game md5="62c7d04dc805fadefa91f749c21a316d" bytes="458768"
+        zhcn="超级马里奥兄弟3(中)"
+    />
+    <Game md5="7af0083f84c2a81d2087492f087a8bf0" bytes="450576"
         zhcn="超级马里奥兄弟3(中)"
     />
     <Game md5="a64e0142986cbb806f8775da877185a8" bytes="393232"
@@ -125,6 +132,10 @@
         zhcn="赤色要塞(中)"
     />
     <Game md5="7d02d7a6d89ef993589d1f1d58e2bcda" bytes="131088"
+        en="Jackal"
+        zhcn="赤色要塞"
+    />
+    <Game md5="de4579e5184400d61ee1d03eba14b017" bytes="131088"
         en="Jackal"
         zhcn="赤色要塞"
     />
