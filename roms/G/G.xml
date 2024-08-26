@@ -1,24 +1,24 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <Game-List name="G" rom-exists="true">
-    <Game md5="c3e01c2ad7926c824388d1065ad521b8" bytes="655392"
+    <Game crc32="28699CD2" md5="c3e01c2ad7926c824388d1065ad521b8" bytes="655392"
         en="Highway Star"
         zhcn="公路之星"
     />
-    <Game md5="9d9755334112d1030827e5011ef5b643" bytes="24592"
+    <Game crc32="480A29B7" md5="9d9755334112d1030827e5011ef5b643" bytes="24592"
         zhcn="功夫(中)"
     />
-    <Game md5="c6638997160ec76d938e92e38e2e7ed1" bytes="24592"
+    <Game crc32="CB17CAF4" md5="c6638997160ec76d938e92e38e2e7ed1" bytes="24592"
         en="Kung Fu"
         zhcn="功夫"
     />
-    <Game md5="5f34af56fd022c6197a60d89be33b42e" bytes="262160"
+    <Game crc32="77189DD9" md5="5f34af56fd022c6197a60d89be33b42e" bytes="262160"
         zhcn="古巴战士(中)"
     />
-    <Game md5="e9f3d82b1257f4af82f88049f123aeac" bytes="262160"
+    <Game crc32="B558B83E" md5="e9f3d82b1257f4af82f88049f123aeac" bytes="262160"
         en=""
         zhcn="古巴战士(中)"
     />
-    <Game md5="459837f4e8fcbaf29bd66ed926b6882e" bytes="262160"
+    <Game crc32="307D0FC4" md5="459837f4e8fcbaf29bd66ed926b6882e" bytes="262160"
         en="Darkwing Duck"
         zhcn="怪鸭历险记"
     />
