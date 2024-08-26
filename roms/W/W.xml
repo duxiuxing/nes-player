@@ -1,17 +1,17 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <Game-List name="W" rom-exists="true">
-    <Game md5="562837f31bbc310928d426b7815cb4ac" bytes="524304"
+    <Game crc32="2B5083F7" md5="562837f31bbc310928d426b7815cb4ac" bytes="524304"
         en="Wario's Woods"
         zhcn="瓦里奥森林"
     />
-    <Game md5="c1911ab698877b98ae6bebcbce356774" bytes="426000"
+    <Game crc32="505AC4F0" md5="c1911ab698877b98ae6bebcbce356774" bytes="426000"
         zhcn="外星战将(中)"
     />
-    <Game md5="0fdfc1c3ff444f82d682ccf555f154f4" bytes="40976"
+    <Game crc32="3145CED6" md5="0fdfc1c3ff444f82d682ccf555f154f4" bytes="40976"
         en=""
         zhcn="五子棋"
     />
-    <Game md5="b7f96d2a894b322375f7309daef9a0cb" bytes="24592"
+    <Game crc32="28843BB1" md5="b7f96d2a894b322375f7309daef9a0cb" bytes="24592"
         zhcn="五子棋"
     />
 </Game-List>

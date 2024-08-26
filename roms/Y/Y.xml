@@ -1,77 +1,77 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <Game-List name="Y" rom-exists="true">
-    <Game md5="13c45cfa08f421655737394539055567" bytes="393232"
+    <Game crc32="394FD25A" md5="13c45cfa08f421655737394539055567" bytes="393232"
         zhcn="眼镜蛇特种部队"
     />
-    <Game md5="c82eb393a36453cc6ba1270ab33ece3b" bytes="393232"
+    <Game crc32="A8EFAC13" md5="c82eb393a36453cc6ba1270ab33ece3b" bytes="393232"
         zhcn="眼镜蛇特种部队2"
     />
-    <Game md5="0c7aa6e5f6a2cc82e90b741ece9995b3" bytes="65552"
+    <Game crc32="2100D90B" md5="0c7aa6e5f6a2cc82e90b741ece9995b3" bytes="65552"
         zhcn="遥控赛车"
     />
-    <Game md5="f6277e4231d802a928bb72c1dadad6fc" bytes="262160"
+    <Game crc32="03DB5562" md5="f6277e4231d802a928bb72c1dadad6fc" bytes="262160"
         zhcn="遥控赛车2"
     />
-    <Game md5="0ce795f61f8fc1f23cc36abeafc6a81a" bytes="262160"
+    <Game crc32="DCD20EC8" md5="0ce795f61f8fc1f23cc36abeafc6a81a" bytes="262160"
         zhcn="义龟报恩"
     />
-    <Game md5="f447cd7d3122e5feaa02770844cacd82" bytes="262160"
+    <Game crc32="5A2CDDE8" md5="f447cd7d3122e5feaa02770844cacd82" bytes="262160"
         zhcn="异形3(中)"
     />
-    <Game md5="8277c8027787bdf37e05f28e874cc4ac" bytes="131088"
+    <Game crc32="E9E9B7CA" md5="8277c8027787bdf37e05f28e874cc4ac" bytes="131088"
         zhcn="翼人(中)"
     />
-    <Game md5="da5ee8bc3f195860ae0dd7e45a881d67" bytes="131216"
+    <Game crc32="D35E0AAF" md5="da5ee8bc3f195860ae0dd7e45a881d67" bytes="131216"
         zhcn="银河号"
     />
-    <Game md5="f5bd96fed9309d373593d8dad2766738" bytes="524304"
+    <Game crc32="B8E36AEE" md5="f5bd96fed9309d373593d8dad2766738" bytes="524304"
         zhcn="银河忍者(中)"
     />
-    <Game md5="d7da4a907be0012abca6625471ef2c9c" bytes="131216"
+    <Game crc32="4DE6A02B" md5="d7da4a907be0012abca6625471ef2c9c" bytes="131216"
         zhcn="银河战士"
     />
-    <Game md5="0a92c8dc3e9a0e7d0d1a45b62912a285" bytes="786448"
+    <Game crc32="2120DFEA" md5="0a92c8dc3e9a0e7d0d1a45b62912a285" bytes="786448"
         zhcn="银河战士之盗贼多恩"
     />
-    <Game md5="fe02f55e4d21971d9c05772ba33911af" bytes="81936"
+    <Game crc32="46EB0E0C" md5="fe02f55e4d21971d9c05772ba33911af" bytes="81936"
         zhcn="影子传说(中)"
     />
-    <Game md5="726e5a35d4148d15a7cd41f8fd7fcc8b" bytes="106512"
+    <Game crc32="DBBD1D5C" md5="726e5a35d4148d15a7cd41f8fd7fcc8b" bytes="106512"
         en=""
         zhcn="影子传说"
     />
-    <Game md5="c75cf9d1f0aac7343be5ef0e03c98795" bytes="131088"
+    <Game crc32="4D5F2EB0" md5="c75cf9d1f0aac7343be5ef0e03c98795" bytes="131088"
         en="Cabal"
         zhcn="勇士们"
     />
-    <Game md5="3d52cc318e0f96aa84a5b3409f41b8aa" bytes="655376"
+    <Game crc32="1F88FACB" md5="3d52cc318e0f96aa84a5b3409f41b8aa" bytes="655376"
         zhcn="幽游白书 魔界最强列传(中)"
     />
-    <Game md5="5e6719b309a9f522135e5b889f326f4c" bytes="65552"
+    <Game crc32="97C4EAC3" md5="5e6719b309a9f522135e5b889f326f4c" bytes="65552"
         zhcn="宇宙巡航机"
     />
-    <Game md5="db51a8c5c736866792b14acee16285a0" bytes="73744"
+    <Game crc32="EEB4A888" md5="db51a8c5c736866792b14acee16285a0" bytes="73744"
         zhcn="宇宙巡航机"
     />
-    <Game md5="6dd42d8da20a20aa0760745bc9207f3f" bytes="262160"
+    <Game crc32="D213AA0D" md5="6dd42d8da20a20aa0760745bc9207f3f" bytes="262160"
         zhcn="宇宙巡航机2"
     />
-    <Game md5="8493dd87f285a5c34b59d65913596604" bytes="262160"
+    <Game crc32="FF5904B0" md5="8493dd87f285a5c34b59d65913596604" bytes="262160"
         zhcn="宇宙巡航机2"
     />
-    <Game md5="60be0b2ff5484e6271c48f5b9e229356" bytes="24592"
+    <Game crc32="FA96CBA2" md5="60be0b2ff5484e6271c48f5b9e229356" bytes="24592"
         zhcn="月宫桌球"
     />
-    <Game md5="12f1bd0bb5af4fbe43992cb4e7c48dc3" bytes="1048608"
+    <Game crc32="0C4CE713" md5="12f1bd0bb5af4fbe43992cb4e7c48dc3" bytes="1048608"
         zhcn="月光宝石"
     />
-    <Game md5="2920fef29c5c68b1ef2dc41b25b0591f" bytes="524304"
+    <Game crc32="463D5C4C" md5="2920fef29c5c68b1ef2dc41b25b0591f" bytes="524304"
         zhcn="月光宝石"
     />
-    <Game md5="2777e88f5742c4332d3c736ed8816342" bytes="41104"
+    <Game crc32="39A2FA8E" md5="2777e88f5742c4332d3c736ed8816342" bytes="41104"
         zhcn="越野摩托"
     />
-    <Game md5="27f9067cba07b76f18558f380ea0b6cb" bytes="262160"
+    <Game crc32="C85BF3E3" md5="27f9067cba07b76f18558f380ea0b6cb" bytes="262160"
         zhcn="越野战车"
     />
 </Game-List>
