@@ -1,101 +1,101 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <Game-List name="B" rom-exists="true">
-    <Game md5="ca6daa9dc1e0cc6e723d232f3c895b42" bytes="40976"
+    <Game crc32="BA9EF4AC" md5="ca6daa9dc1e0cc6e723d232f3c895b42" bytes="40976"
         zhcn="B计划(中)"
     />
-    <Game md5="1b24f09725092a2526fde24426eb6bc8" bytes="40976"
+    <Game crc32="15A4FACB" md5="1b24f09725092a2526fde24426eb6bc8" bytes="40976"
         en="B-Wing"
         zhcn="B计划"
     />
-    <Game md5="b09caffd4e33cd10b6a4be4cdaf6d91c" bytes="40976"
+    <Game crc32="B7F7A21E" md5="b09caffd4e33cd10b6a4be4cdaf6d91c" bytes="40976"
         en="B-Wing"
         zhcn="B计划"
     />
-    <Game md5="ecebb393dc687d78995a20a90754aef3" bytes="40976"
+    <Game crc32="6DB30701" md5="ecebb393dc687d78995a20a90754aef3" bytes="40976"
         en="B-Wing"
         zhcn="B计划"
     />
-    <Game md5="5b214362008572ff0b0479fcd6bbff59" bytes="65552"
+    <Game crc32="0ECBE6A3" md5="5b214362008572ff0b0479fcd6bbff59" bytes="65552"
         zhcn="北斗神拳(中)"
     />
-    <Game md5="b3b3a91e1044cd130cc04d6136b9f26d" bytes="65552"
+    <Game crc32="2F88A21F" md5="b3b3a91e1044cd130cc04d6136b9f26d" bytes="65552"
         en="Hokuto no Ken"
         zhcn="北斗神拳"
     />
-    <Game md5="2068b2e5a7a9ec1e85d1f20e4786a9af" bytes="393232"
+    <Game crc32="4B2DE665" md5="2068b2e5a7a9ec1e85d1f20e4786a9af" bytes="393232"
         zhcn="蝙蝠侠(中)"
         zhtw="蝙蝠俠(中)"
     />
-    <Game md5="2e9f52556273aa735d0e75649541d812" bytes="262160"
+    <Game crc32="395569EC" md5="2e9f52556273aa735d0e75649541d812" bytes="262160"
         en="Batman - The Video Game"
         zhcn="蝙蝠侠"
         zhtw="蝙蝠俠"
     />
-    <Game md5="a091c9ed79e98139e51937f48c2bcc73" bytes="262160"
+    <Game crc32="15F9A645" md5="a091c9ed79e98139e51937f48c2bcc73" bytes="262160"
         zhcn="蝙蝠侠"
     />
-    <Game md5="9941436d8544f27bffd03684357168c3" bytes="393232"
+    <Game crc32="F974CAB0" md5="9941436d8544f27bffd03684357168c3" bytes="393232"
         en="Batman - Return of the Joker"
         zhcn="蝙蝠侠2"
         zhtw="蝙蝠俠2"
     />
-    <Game md5="c53c65e2b13a58922ddf58c0b1fcddb7" bytes="393232"
+    <Game crc32="ED509C6B" md5="c53c65e2b13a58922ddf58c0b1fcddb7" bytes="393232"
         zhcn="蝙蝠侠2"
     />
-    <Game md5="d229eab8a56783be1af66d1fec169f92" bytes="393232"
+    <Game crc32="E14A7971" md5="d229eab8a56783be1af66d1fec169f92" bytes="393232"
         en="Batman - Return of the Joker"
         zhcn="蝙蝠侠2"
         zhtw="蝙蝠俠2"
     />
-    <Game md5="1fe9c970c5c04aec359a833820718e6a" bytes="393232"
-        name="Batman Returns"
+    <Game crc32="E625E398" md5="1fe9c970c5c04aec359a833820718e6a" bytes="393232"
+        en="Batman Returns"
         zhcn="蝙蝠侠3"
         zhtw="蝙蝠俠3"
     />
-    <Game md5="915671fb78c61393ead2e8969a066bb5" bytes="393232"
-        name="Batman Returns"
+    <Game crc32="E4E95542" md5="915671fb78c61393ead2e8969a066bb5" bytes="393232"
+        en="Batman Returns"
         zhcn="蝙蝠侠3"
         zhtw="蝙蝠俠3"
     />
-    <Game md5="6d24de4d29e4563d5f88bb0d5c6dfd11" bytes="40976"
+    <Game crc32="78F41334" md5="6d24de4d29e4563d5f88bb0d5c6dfd11" bytes="40976"
         zhcn="变形战机(中)"
     />
-    <Game md5="0f23edc2d538019b61bd97a395d6d4f4" bytes="40976"
+    <Game crc32="F82C7789" md5="0f23edc2d538019b61bd97a395d6d4f4" bytes="40976"
         en="Thexder"
         zhcn="变形战机"
     />
-    <Game md5="40be75d90db90135904211dd2955dee7" bytes="49168"
+    <Game crc32="9B4086F5" md5="40be75d90db90135904211dd2955dee7" bytes="49168"
         zhcn="变形战机Z(中)"
     />
-    <Game md5="a077d8582d280c1f014cadc7322b5bc2" bytes="24592"
+    <Game crc32="E8AF1226" md5="a077d8582d280c1f014cadc7322b5bc2" bytes="24592"
         en="Formation Z"
         zhcn="变形战机Z"
     />
-    <Game md5="da3233c219c84a9771c0e3078baf5796" bytes="49168"
+    <Game crc32="CCC1B87B" md5="da3233c219c84a9771c0e3078baf5796" bytes="49168"
         zhcn="兵蜂(中)"
     />
-    <Game md5="18c3facfdd60c4f4b4e78ecb2c7959cc" bytes="49168"
+    <Game crc32="4433BA0A" md5="18c3facfdd60c4f4b4e78ecb2c7959cc" bytes="49168"
         zhcn="兵蜂"
     />
-    <Game md5="27de176ed56f62f09800701c35361099" bytes="131088"
+    <Game crc32="AC0A622B" md5="27de176ed56f62f09800701c35361099" bytes="131088"
         en="Moero TwinBee - Cinnamon Hakase o Sukue"
         zhcn="兵蜂2"
     />
-    <Game md5="a8bc764aabc1812f016d300baeccd4ff" bytes="131088"
+    <Game crc32="F6B9629F" md5="a8bc764aabc1812f016d300baeccd4ff" bytes="131088"
         en="Moero TwinBee - Cinnamon Hakase o Sukue"
         zhcn="兵蜂2"
     />
-    <Game md5="8196efa434f85bc50e19a35235bf151b" bytes="262160"
+    <Game crc32="CB18AEFA" md5="8196efa434f85bc50e19a35235bf151b" bytes="262160"
         zhcn="兵蜂3(中)"
     />
-    <Game md5="17127aebd4f484036bcc78e80e4c0050" bytes="262160"
+    <Game crc32="96529C68" md5="17127aebd4f484036bcc78e80e4c0050" bytes="262160"
         en="TwinBee 3 - Poko Poko Daimaou"
         zhcn="兵蜂3"
     />
-    <Game md5="7c1afc00b993f5896ca363bf3366df06" bytes="262160"
+    <Game crc32="5700A89B" md5="7c1afc00b993f5896ca363bf3366df06" bytes="262160"
         zhcn="不动明王传(中)"
     />
-    <Game md5="809fd7213184feae8b5b09e5cf7b8744" bytes="393232"
+    <Game crc32="6E1F3C62" md5="809fd7213184feae8b5b09e5cf7b8744" bytes="393232"
         en="Fudou Myouou Den"
         zhcn="不动明王传"
     />

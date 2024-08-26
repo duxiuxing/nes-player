@@ -1,10 +1,10 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <Game-List name="A" rom-exists="true">
-    <Game md5="599f3def0de4fb4e951f694d30c3977f" bytes="262160"
+    <Game crc32="A1A22C10" md5="599f3def0de4fb4e951f694d30c3977f" bytes="262160"
         en="Rygar"
         zhcn="阿尔戈斯战士(中)"
     />
-    <Game md5="a4a8f9f9a4caaa5259ccfab1778edbee" bytes="24592"
+    <Game crc32="F51355D3" md5="a4a8f9f9a4caaa5259ccfab1778edbee" bytes="24592"
         en="Nuts &amp; Milk"
         zhcn="爱的小屋(中)"
     />
