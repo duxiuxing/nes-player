@@ -1,51 +1,50 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <Game-List name="L" rom-exists="true">
-    <Game md5="ae8a80411101476f7a5983eedd9bc25d" bytes="262160"
+    <Game crc32="16C1DA8A" md5="ae8a80411101476f7a5983eedd9bc25d" bytes="262160"
         zhcn="雷鸟号"
     />
-    <Game md5="1515475dfec000421b0d6954b0db76d5" bytes="786448"
+    <Game crc32="D2BB8CD3" md5="1515475dfec000421b0d6954b0db76d5" bytes="786448"
         zhcn="龙珠 激斗弗利撒(中)"
     />
-    <Game md5="46e9b94d119d16507ade44bbcd806e3b" bytes="1048608"
+    <Game crc32="0672C807" md5="46e9b94d119d16507ade44bbcd806e3b" bytes="1048608"
         zhcn="龙珠 烈战人造人"
     />
-    <Game md5="870f21042bbc98f13649e5735fba6a4a" bytes="786448"
+    <Game crc32="E7824449" md5="870f21042bbc98f13649e5735fba6a4a" bytes="786448"
         zhcn="龙珠 塞亚人灭绝计划(中)"
     />
-    <Game md5="ca13d1883f7cc3bd5c9e14ae5dc47122" bytes="786448"
+    <Game crc32="08278D88" md5="ca13d1883f7cc3bd5c9e14ae5dc47122" bytes="786448"
         zhcn="龙珠 外星人来袭(中)"
     />
-    <Game md5="436919bea511a04eb23d0fb126787d41" bytes="131088"
+    <Game crc32="A4846CE6" md5="436919bea511a04eb23d0fb126787d41" bytes="131088"
         zhcn="龙牙"
     />
-    <Game md5="fec424efe4f1ad2f214f42d205cb8928" bytes="131088"
+    <Game crc32="547AD500" md5="fec424efe4f1ad2f214f42d205cb8928" bytes="131088"
         zhcn="龙牙"
     />
-    <Game md5="cf7d1c85f9f3078a37862dae919692a1" bytes="131088"
-        zhcn="洛克人(中)"
-    />
-    <Game md5="7c4e4aeda2b18465b78389e3f6a7ca7a" bytes="262160"
+    <Game crc32="5D5C0742" md5="cf7d1c85f9f3078a37862dae919692a1" bytes="131088"
+        zhcn="洛克人(中)" />
+    <Game crc32="9E4081ED" md5="7c4e4aeda2b18465b78389e3f6a7ca7a" bytes="262160"
         zhcn="洛克人2(中)"
     />
-    <Game md5="c92d612c2953a5b2c7d4ed6ecc410baf" bytes="262160"
+    <Game crc32="E9F7C580" md5="c92d612c2953a5b2c7d4ed6ecc410baf" bytes="262160"
         zhcn="洛克人2(中)"
     />
-    <Game md5="0dd91f902edd77ae87dea44126c986de" bytes="393232"
+    <Game crc32="40FF0F53" md5="0dd91f902edd77ae87dea44126c986de" bytes="393232"
         zhcn="洛克人3(中)"
     />
-    <Game md5="783dbe7d5a8cde95d1677a73f380ef6f" bytes="524304"
+    <Game crc32="22C428DF" md5="783dbe7d5a8cde95d1677a73f380ef6f" bytes="524304"
         zhcn="洛克人4(中)"
     />
-    <Game md5="e6617e9d7a9d4eba00bae75df122a475" bytes="524304"
+    <Game crc32="A65B5B33" md5="e6617e9d7a9d4eba00bae75df122a475" bytes="524304"
         zhcn="洛克人5(中)"
     />
-    <Game md5="7ae48bc307d5685423de069e729dd5a5" bytes="524304"
+    <Game crc32="F0759297" md5="7ae48bc307d5685423de069e729dd5a5" bytes="524304"
         zhcn="洛克人6(中)"
     />
-    <Game md5="dfdc1ecd1b115e050ee156437285b899" bytes="1048608"
+    <Game crc32="2565A5CC" md5="dfdc1ecd1b115e050ee156437285b899" bytes="1048608"
         zhcn="洛克人6(中)"
     />
-    <Game md5="ba2876f34aced15ec95ba592e394469f" bytes="131088"
+    <Game crc32="8C0D7E34" md5="ba2876f34aced15ec95ba592e394469f" bytes="131088"
         zhcn="绿色兵团(中)"
     />
 </Game-List>
