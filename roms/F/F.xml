@@ -1,15 +1,19 @@
 <?xml version='1.0' encoding='utf-8'?>
 <Game-List name="F" rom-exists="true">
     <Game crc32="08ABAA73" md5="faddcc37282ef457291896c4c1ed21c0" bytes="24592"
+        en="F1 Race"
         zhcn="F1赛车(中)"
     />
     <Game crc32="827DC0B9" md5="5c7641c1adc213454c9962eb7f307626" bytes="24592"
+        en="F1 Race"
         zhcn="F1赛车"
     />
     <Game crc32="7A03F696" md5="7fc0f7035484ef190fa2f0c9a6cd9007" bytes="393232"
+        en="Bonk's Adventure"
         zhcn="FC原人"
     />
     <Game crc32="31091D1B" md5="f93bebc2a48066b89c1d8e4aa94e5e4e" bytes="262160"
+        en="Sky Shark"
         zhcn="飞翔鲛"
     />
     <Game crc32="2FDFBC79" md5="c20b630cec2ff87f796e9f1004d8bc5e" bytes="262160"

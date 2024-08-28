@@ -1354,7 +1354,7 @@ Adventure Island est le premier opus de la série de jeu de plates-formes sur Ne
     </input>
     <date year=""/>
   </game>
-  <game name="Adventures of Bayou Billy, The">
+  <game name="The Adventures of Bayou Billy">
     <id>1355AA</id>
     <locale lang="EN">
       <title>The Adventures of Bayou Billy</title>
@@ -1375,6 +1375,9 @@ Bayou Billy es un juego de acción arcade con tres modalidades de juego: Peleas,
     </locale>
     <locale lang="JA">
       <title>Mad City</title>
+    </locale>
+    <locale lang="ZHCN">
+      <title>鳄鱼先生</title>
     </locale>
     <developer>Konami</developer>
     <publisher>Konami</publisher>
@@ -2106,10 +2109,10 @@ The game is a traditional Japanese adventure. Instead of a menu with set command
       <control type="gamecube" required="false"/>
     </input>
   </game>
-  <game name="Akumajou Special : Boku Dracula-kun">
+  <game name="Demon Castle Special - I'm Kid Dracula / Akumajou Special - Boku Dracula-kun">
     <id>1489AA</id>
     <locale lang="EN">
-      <title>Demon Castle Special: I'm Kid Dracula</title>
+      <title>Demon Castle Special - I'm Kid Dracula</title>
       <synopsis>Kid Dracula is an unusual side-scroller from Konami.  It's  a parody of the company's popular Castlevania series. Instead of playing as a member of the Belmont family, you play as young Kid Dracula.
 
 You have been woken up from your sleep by the evil demon Garamos, who's been wrecking havoc in Dracula's Castle. It's up to you to stop him by traveling across several different locations, including Dracula's Castle, New York, the Sea, and Egypt!
@@ -2132,6 +2135,9 @@ Nunca salio de japón hasta que Retrousb lo lanzó en ingles con el subtítulo d
     </locale>
     <locale lang="JA">
       <title>Akumajou Special : Boku Dracula-kun</title>
+    </locale>
+    <locale lang="ZHCN">
+      <title>恶魔城外传 王子传奇</title>
     </locale>
     <developer>Konami</developer>
     <publisher>Konami</publisher>
@@ -3069,6 +3075,9 @@ By the mid-80s, power-ups were popular in most types of arcade games, and Arkano
     <locale lang="JA">
       <title>Arkanoid</title>
     </locale>
+    <locale lang="ZHCN">
+      <title>打砖块</title>
+    </locale>
     <developer>Taito</developer>
     <publisher>Taito</publisher>
     <date year="1986" month="12" day="26"/>
@@ -3081,10 +3090,10 @@ By the mid-80s, power-ups were popular in most types of arcade games, and Arkano
       <control type="gamecube" required="false"/>
     </input>
   </game>
-  <game name="Arkanoid 2">
+  <game name="Arkanoid II">
     <id>1673AA</id>
     <locale lang="EN">
-      <title>Arkanoid 2</title>
+      <title>Arkanoid II</title>
       <synopsis>Revenge of Doh is a direct sequel to the original arcade smash Arkanoid. Along with improved graphic engine, better sound and music, better hardware support and more levels, Revenge of Doh also features a built-in editor and allows you to create your own level sets!
 
 Revenge of Doh continues Arkanoid's plot as follows, directly taken (including typoes) from the game:
@@ -3104,6 +3113,9 @@ A long time period passed and the dimension controlling force Doh has again come
     </locale>
     <locale lang="JA">
       <title>Arkanoid II</title>
+    </locale>
+    <locale lang="ZHCN">
+      <title>打砖块2</title>
     </locale>
     <developer>Taito</developer>
     <publisher>Taito</publisher>
@@ -3430,6 +3442,9 @@ Yes, this is your typical fantasy story setting. You must save the realm from Bl
     </locale>
     <locale lang="JA">
       <title>The Lord of King </title>
+    </locale>
+    <locale lang="ZHCN">
+      <title>斧王</title>
     </locale>
     <developer>Jaleco</developer>
     <publisher>Jaleco</publisher>
@@ -6805,6 +6820,9 @@ El juego apenas tiene una sola pantalla en modo time attack que dura 2 minutos, 
       <synopsis>Blade Buster é um jogo shoot 'em up homebrew NES feito pelo grupo doujin High Level Challenge. O jogo baseia-se nos dois modos de contra o tempo do jogo shoot 'em up vertical de 1990 para o PC Engine "Super Star Soldier", no qual você tenta alcançar a maior pontuação possível em 2 ou 5 minutos. Então, há apenas duas pequenas fases no jogo, com as batalhas de chefão no final de cada uma. Além dos inimigos, caixas e gemas padrão, existem vários bônus escondidos que você pode obter para pontos extras.</synopsis>
       <genre>Shoot'em Up / Vertical,Shoot'em Up</genre>
     </locale>
+    <locale lang="ZHCN">
+      <title>刀锋战机</title>
+    </locale>
     <developer>High Level Challenge</developer>
     <publisher>High Level Challenge</publisher>
     <date year="2010" month="" day=""/>
@@ -7015,7 +7033,7 @@ The gameplay in "Bloody Warriors" is similar to  Dragon Quest series: you travel
       <control type="gamecube" required="false"/>
     </input>
   </game>
-  <game name="Blue Shadow">
+  <game name="Shadow of the Ninja">
     <id>1302AA</id>
     <locale lang="EN">
       <title>Shadow of the Ninja</title>
@@ -7045,6 +7063,9 @@ The game allowed two players to play cooperatively, a rare feature for action ga
     <locale lang="JA">
       <title>Kage</title>
     </locale>
+    <locale lang="ZHCN">
+      <title>赤影战士</title>
+    </locale>
     <developer>Natsume</developer>
     <publisher>Natsume</publisher>
     <date year="1990" month="08" day="10"/>
@@ -7057,7 +7078,7 @@ The game allowed two players to play cooperatively, a rare feature for action ga
       <control type="gamecube" required="false"/>
     </input>
   </game>
-  <game name="Blues Brothers, The">
+  <game name="The Blues Brothers">
     <id>1529AA</id>
     <locale lang="EN">
       <title>The Blues Brothers</title>
@@ -7244,6 +7265,9 @@ Bonk ataca a los enemigos golpeándolos con su gran cabeza. El jugador empieza e
     </locale>
     <locale lang="JA">
       <title>FC Genjin : Freakthoropus Computerus</title>
+    </locale>
+    <locale lang="ZHCN">
+      <title>FC原人</title>
     </locale>
     <developer>Red Company</developer>
     <publisher>Hudson</publisher>
@@ -8735,6 +8759,9 @@ Castlevania is a side-scrolling platform action game. The player taking the role
     <locale lang="JA">
       <title>Akumajou Dracula</title>
     </locale>
+    <locale lang="ZHCN">
+      <title>恶魔城</title>
+    </locale>
     <developer>Konami</developer>
     <publisher>Konami</publisher>
     <date year="1987" month="05" day="01"/>
@@ -8765,6 +8792,9 @@ Castlevania is a side-scrolling platform action game. The player taking the role
     </locale>
     <locale lang="PT">
       <genre>Ação</genre>
+    </locale>
+    <locale lang="ZHCN">
+      <title>恶魔城 血月</title>
     </locale>
     <date year="2006" month="01" day="25"/>
     <rating type="NOTE" value="">
@@ -8821,10 +8851,10 @@ Romania, 1800. It's been 3 years since Alucard defeated his father in battle and
     <date year="2011"/>
     <publisher>Romhacking.net</publisher>
   </game>
-  <game name="Castlevania 2 - Simon's Quest">
+  <game name="Castlevania II - Simon's Quest">
     <id>1281AA</id>
     <locale lang="EN">
-      <title>Castlevania II : Simon's Quest</title>
+      <title>Castlevania II - Simon's Quest</title>
       <synopsis>Castlevania II: Simon's Quest is the second one of three Castlevania games released on the NES. After the vampire killer Simon Belmont destroyed Count Dracula in the original Castlevania (1987), an evil curse possessed him. The only way Simon can break the count's curse is to find five of Dracula's body parts (which are mysteriously strewn throughout Transylvania) and burn them. 
 
 Unlike most of the other Castlevania games, Simon's Quest does not feature the traditional stages but allows you to freely roam the land of Transylvania in the style of Nintendo's Metroid. In several towns Simon can talk with NPC's and buy items in shops, adding a touch of role-playing.</synopsis>
@@ -8844,6 +8874,9 @@ Unlike most of the other Castlevania games, Simon's Quest does not feature the t
     <locale lang="PT">
       <genre>Ação,Aventura</genre>
     </locale>
+    <locale lang="ZHCN">
+      <title>恶魔城2</title>
+    </locale>
     <developer>Nintendo</developer>
     <publisher>Konami</publisher>
     <date year="1988" month="12" day="01"/>
@@ -8856,10 +8889,10 @@ Unlike most of the other Castlevania games, Simon's Quest does not feature the t
       <control type="gamecube" required="false"/>
     </input>
   </game>
-  <game name="Castlevania 3 - Dracula's Curse">
+  <game name="Castlevania III - Dracula's Curse">
     <id>1278AA</id>
     <locale lang="EN">
-      <title>Castlevania III : Dracula's Curse</title>
+      <title>Castlevania III - Dracula's Curse</title>
       <synopsis>Taking place 100 years before the events of Castlevania 1 and Castlevania 2, Dracula the Vampire has risen up to threaten the small village of Warakiya. Citizens who had banished the Belmont family now beg for Trevor Belmont's help in slaying Dracula. In </synopsis>
       <genre>Action,Platform</genre>
     </locale>
@@ -8876,6 +8909,9 @@ Unlike most of the other Castlevania games, Simon's Quest does not feature the t
     </locale>
     <locale lang="JA">
       <title>Akumajou Densetsu</title>
+    </locale>
+    <locale lang="ZHCN">
+      <title>恶魔城3</title>
     </locale>
     <developer>Konami</developer>
     <publisher>Konami</publisher>
@@ -9780,6 +9816,9 @@ Originally released for Apple II home computers, Choplifter was later ported to 
     </locale>
     <locale lang="JA">
       <title>Choujikuu Yousai : Macross</title>
+    </locale>
+    <locale lang="ZHCN">
+      <title>超时空要塞</title>
     </locale>
     <developer>Namco</developer>
     <publisher>Bandai</publisher>
@@ -11313,6 +11352,9 @@ Crisis Force was only released in Japan.</synopsis>
     <locale lang="JA">
       <title>Crisis Force</title>
     </locale>
+    <locale lang="ZHCN">
+      <title>帝国战机</title>
+    </locale>
     <developer>Konami</developer>
     <publisher>Konami</publisher>
     <date year="1991" month="08" day="27"/>
@@ -11715,7 +11757,7 @@ Players are always given the exact altitude of each section; they are also shown
       <control type="gamecube" required="false"/>
     </input>
   </game>
-  <game name="Daiku No Gen-san 2 - Akage No Dan No Gyakushuu">
+  <game name="Daiku no Gen-san 2 - Akage no Dan no Gyakushuu">
     <id>65469A</id>
     <locale lang="EN">
       <title>Daiku no Gen-san 2 - Akage no Dan no Gyakushuu</title>
@@ -11724,6 +11766,9 @@ Players are always given the exact altitude of each section; they are also shown
     </locale>
     <locale lang="JA">
       <title>Daiku no Gen-san 2 : Akage no Dan no Gyakushuu</title>
+    </locale>
+    <locale lang="ZHCN">
+      <title>大力工头2</title>
     </locale>
     <publisher>Irem</publisher>
     <date year="1993" month="10" day="22"/>
@@ -13109,6 +13154,9 @@ Hay 40 terroristas diseminados en todo el edificio, y la tarea es limpiar cada p
     <locale lang="JA">
       <title>Dig Dug</title>
     </locale>
+    <locale lang="ZHCN">
+      <title>打空气</title>
+    </locale>
     <developer>Namco</developer>
     <publisher>Namco</publisher>
     <date year="1985" month="06" day="04"/>
@@ -13121,10 +13169,10 @@ Hay 40 terroristas diseminados en todo el edificio, y la tarea es limpiar cada p
       <control type="gamecube" required="false"/>
     </input>
   </game>
-  <game name="Dig Dug 2 - Trouble In Paradise">
+  <game name="Dig Dug II - Trouble in Paradise">
     <id>1771AA</id>
     <locale lang="EN">
-      <title>Dig Dug II : Trouble in Paradise</title>
+      <title>Dig Dug II - Trouble in Paradise</title>
       <synopsis>It is Dig Dug's job to protect 72 different tropical islands from his arch rivals, Pooka and the fire breathing Fygar. Played from an overhead point of view, Dig Dug now has two weapons at his disposal; the first is an air pump and the second is a drill. The pump can be used to inflate and destroy the enemies the same as in the original Dig Dug. At various locations on the islands are stakes, and when the drill is used near a stake a crack will form. If enough cracks become connected that section of the island will fall into the ocean, hopefully taking an enemy (and not Dig Dug!) with it. When all of the Pookas and Fygars have been destroyed, the game moves on to the next, more difficult level.</synopsis>
       <genre>Action,Puzzle</genre>
     </locale>
@@ -13141,6 +13189,9 @@ Hay 40 terroristas diseminados en todo el edificio, y la tarea es limpiar cada p
     </locale>
     <locale lang="JA">
       <title>Dig Dug II</title>
+    </locale>
+    <locale lang="ZHCN">
+      <title>打空气2</title>
     </locale>
     <developer>Namco</developer>
     <publisher>Namco</publisher>
@@ -13314,7 +13365,7 @@ Hay algunos elementos de aventura, así, como el ser capaz de caminar a través 
       <control type="gamecube" required="false"/>
     </input>
   </game>
-  <game name="Disney's Darkwing Duck">
+  <game name="Darkwing Duck">
     <id>71344A</id>
     <locale lang="EN">
       <title>Darkwing Duck</title>
@@ -13334,6 +13385,9 @@ Hay algunos elementos de aventura, así, como el ser capaz de caminar a través 
     </locale>
     <locale lang="PT">
       <genre>Plataforma,Ação</genre>
+    </locale>
+    <locale lang="ZHCN">
+      <title>怪鸭历险记</title>
     </locale>
     <developer>Capcom</developer>
     <publisher>Capcom</publisher>
@@ -13670,6 +13724,9 @@ Donkey Kong is also notable for being one of the first complete narratives in vi
     <locale lang="JA">
       <title>Donkey Kong</title>
     </locale>
+    <locale lang="ZHCN">
+      <title>大金刚</title>
+    </locale>
     <developer>Nintendo</developer>
     <publisher>Nintendo</publisher>
     <date year="1983" month="07" day="15"/>
@@ -13716,6 +13773,9 @@ Una vez que Donkey Kong sea enviado a través de los tres niveles del invernader
     <locale lang="DE">
       <genre>Action</genre>
     </locale>
+    <locale lang="ZHCN">
+      <title>大金刚3</title>
+    </locale>
     <developer>Nintendo</developer>
     <publisher>Nintendo</publisher>
     <date year="1984" month="04" day="07"/>
@@ -13748,6 +13808,9 @@ Una vez que Donkey Kong sea enviado a través de los tres niveles del invernader
     </locale>
     <locale lang="PT">
       <genre>Ação,Compilação</genre>
+    </locale>
+    <locale lang="ZHCN">
+      <title>大金刚1+2合集</title>
     </locale>
     <developer>Nintendo</developer>
     <publisher>Nintendo</publisher>
@@ -13814,6 +13877,9 @@ Donkey Kong Jr. fue originalmente lanzado en los salones recreativos en 1982 com
     </locale>
     <locale lang="DE">
       <genre>Action</genre>
+    </locale>
+    <locale lang="ZHCN">
+      <title>大金刚2</title>
     </locale>
     <developer>Nintendo</developer>
     <publisher>Nintendo</publisher>
@@ -16114,6 +16180,9 @@ If Otto takes too much time to collect the documents, the alarm will go off, and
     <locale lang="JA">
       <title>Elevator Action</title>
     </locale>
+    <locale lang="ZHCN">
+      <title>电梯大战</title>
+    </locale>
     <developer>Micronics</developer>
     <publisher>Taito Corporation</publisher>
     <date year="1985" month="06" day="28"/>
@@ -16855,6 +16924,9 @@ A total of 15 courses are on offer, and there is a World Championship mode, as w
     </locale>
     <locale lang="JA">
       <title>F1 Race</title>
+    </locale>
+    <locale lang="ZHCN">
+      <title>F1赛车</title>
     </locale>
     <developer>Nintendo</developer>
     <publisher>Nintendo</publisher>
@@ -19724,10 +19796,10 @@ La version Japonaise appelée "Papillon" ou "Papillon Gals" comporte des scènes
       <control type="gamecube" required="false"/>
     </input>
   </game>
-  <game name="Galaga">
+  <game name="Galaga - Demons of Death">
     <id>1531AA</id>
     <locale lang="EN">
-      <title>Galaga : Demons of Death</title>
+      <title>Galaga - Demons of Death</title>
       <synopsis>Galaga is a vertical arcade shooter from Namco.  You control a space fighter at the bottom of the screen, scrolling left and right in order to avoid oncoming bombs and kamikaze attacks from alien invaders--and to fire your own missiles to fight back!
 
 There are an infinite number of stages to progress through.  Every third level is a "challenge stage" in which you have a free chance to shoot as many aliens as possible and rack up bonus points.
@@ -19756,6 +19828,9 @@ Aparecerá una pantalla de resumen cuando el juego ha terminado, que te da tanto
     </locale>
     <locale lang="JA">
       <title>Galaga</title>
+    </locale>
+    <locale lang="ZHCN">
+      <title>大蜜蜂</title>
     </locale>
     <developer>Namco</developer>
     <publisher>Namco</publisher>
@@ -20008,6 +20083,9 @@ There also exists a version of the Game Genie for the Family Computer, distribut
     <locale lang="JA">
       <title>Ganbare Goemon 2</title>
     </locale>
+    <locale lang="ZHCN">
+      <title>大盗伍佑卫门2</title>
+    </locale>
     <developer>Konami</developer>
     <publisher>Konami</publisher>
     <date year="1989" month="01" day="04"/>
@@ -20114,6 +20192,9 @@ Armé d'une simple pipe, vous partez explorer différents niveaux dans le Japon 
     </locale>
     <locale lang="JA">
       <title>Ganbare Goemon! : Karakuri Douchuu</title>
+    </locale>
+    <locale lang="ZHCN">
+      <title>大盗伍佑卫门</title>
     </locale>
     <developer>Konami</developer>
     <publisher>Konami</publisher>
@@ -21834,6 +21915,9 @@ The game scrolls vertically, as you move up the screen shooting enemies, finding
     <locale lang="JA">
       <title>Guevara</title>
     </locale>
+    <locale lang="ZHCN">
+      <title>古巴战士</title>
+    </locale>
     <developer>SNK</developer>
     <publisher>SNK</publisher>
     <date year="1988" month="12" day="26"/>
@@ -22124,6 +22208,9 @@ There are four environments in which Harry needs to get through: construction si
     </locale>
     <locale lang="JA">
       <title>Daiku no Gen-san</title>
+    </locale>
+    <locale lang="ZHCN">
+      <title>大力工头</title>
     </locale>
     <developer>Irem</developer>
     <publisher>Irem</publisher>
@@ -24896,6 +24983,9 @@ The game presents bitmapped pictures of the real movie actors, such as Harrison 
     <locale lang="JA">
       <title>Great Tank</title>
     </locale>
+    <locale lang="ZHCN">
+      <title>大坦克</title>
+    </locale>
     <developer>SNK</developer>
     <publisher>SNK</publisher>
     <date year="1988" month="07" day="01"/>
@@ -25218,6 +25308,9 @@ Jackal is an overhead view jeep game for up to 2 players. The controller moves i
     <locale lang="DE">
       <genre>Rennen, Fahren</genre>
     </locale>
+    <locale lang="ZHCN">
+      <title>赤色要塞</title>
+    </locale>
     <developer>Konami</developer>
     <publisher>Konami</publisher>
     <date year="1988" month="09" day="01"/>
@@ -25252,6 +25345,9 @@ Jackie Chan's Action Kung Fu is a side-scrolling fighting game. Jackie's control
     </locale>
     <locale lang="JA">
       <title>Jackie Chan</title>
+    </locale>
+    <locale lang="ZHCN">
+      <title>成龙之龙</title>
     </locale>
     <developer>Hudson</developer>
     <publisher>Hudson</publisher>
@@ -26354,6 +26450,9 @@ rule.</synopsis>
     </locale>
     <locale lang="JA">
       <title>Jigoku Gokuraku Maru</title>
+    </locale>
+    <locale lang="ZHCN">
+      <title>地狱极乐丸</title>
     </locale>
     <developer>Human Entertainment</developer>
     <publisher>HAL Laboratory</publisher>
@@ -28253,6 +28352,9 @@ Thomas es capaz de moverse a la izquierda y derecha, saltar, agacharse, dar puñ
     </locale>
     <locale lang="JA">
       <title>Spartan X</title>
+    </locale>
+    <locale lang="ZHCN">
+      <title>成龙踢馆</title>
     </locale>
     <developer>Irem</developer>
     <publisher>Nintendo</publisher>
@@ -37369,6 +37471,9 @@ The "Edit Mode" presents an unusual feature. In it, players can determine the op
     <locale lang="JA">
       <title>Over Horizon</title>
     </locale>
+    <locale lang="ZHCN">
+      <title>超越地平线</title>
+    </locale>
     <developer>Hot-B Co., Ltd.</developer>
     <publisher>Hot-B Co., Ltd.</publisher>
     <date year="1991" month="04" day="26"/>
@@ -37522,7 +37627,7 @@ There are sixteen rounds to complete, with four trips each. During each round, h
       <control type="gamecube" required="false"/>
     </input>
   </game>
-  <game name="Pac-man (namco)">
+  <game name="Pac-Man (Namco)">
     <id>1327AA</id>
     <locale lang="EN">
       <title>Pac-Man (Namco)</title>
@@ -37549,6 +37654,9 @@ Survive a few rounds of gameplay, and be treated to humorous intermissions betwe
     <locale lang="JA">
       <title>Pac-Man (Namco)</title>
     </locale>
+    <locale lang="ZHCN">
+      <title>吃豆小精灵</title>
+    </locale>
     <developer>Namco</developer>
     <publisher>Namco</publisher>
     <date year="1984" month="11" day="02"/>
@@ -37561,7 +37669,7 @@ Survive a few rounds of gameplay, and be treated to humorous intermissions betwe
       <control type="gamecube" required="false"/>
     </input>
   </game>
-  <game name="Pac-man (tengen)">
+  <game name="Pac-Man (Tengen)">
     <id>112511</id>
     <locale lang="EN">
       <title>Pac-Man (Tengen)</title>
@@ -38666,6 +38774,9 @@ run out of time or land in the hazard zone. Endless fun for everyone!</synopsis>
     <locale lang="PT">
       <genre>Ação,Pinball</genre>
     </locale>
+    <locale lang="ZHCN">
+      <title>弹珠台</title>
+    </locale>
     <developer>Nintendo</developer>
     <publisher>Nintendo</publisher>
     <date year="1985" month="10" day="02"/>
@@ -39317,6 +39428,9 @@ The second scene takes place at the wolves lair.  Here the wolves have reinforce
     <locale lang="JA">
       <title>Popeye</title>
     </locale>
+    <locale lang="ZHCN">
+      <title>大力水手</title>
+    </locale>
     <developer>Nintendo</developer>
     <publisher>Nintendo</publisher>
     <date year="1983" month="07" day="15"/>
@@ -39962,7 +40076,7 @@ Le code pour combattre Mr Dream est 007 373 5963.</synopsis>
       <control type="gamecube" required="false"/>
     </input>
   </game>
-  <game name="Punisher, The">
+  <game name="The Punisher">
     <id>1599AA</id>
     <locale lang="EN">
       <title>The Punisher</title>
@@ -39980,6 +40094,9 @@ The game features six "missions" with a number of varying environments and level
     </locale>
     <locale lang="DE">
       <genre>Action</genre>
+    </locale>
+    <locale lang="ZHCN">
+      <title>惩罚者</title>
     </locale>
     <developer>LJN</developer>
     <publisher>Beam Software</publisher>
@@ -40897,6 +41014,9 @@ Once you've picked your player, it's time to select your court surface. The game
     <locale lang="JA">
       <title>Highway Star</title>
     </locale>
+    <locale lang="ZHCN">
+      <title>公路之星</title>
+    </locale>
     <developer>Square</developer>
     <publisher>Sega</publisher>
     <date year="1987" month="08" day="07"/>
@@ -41108,6 +41228,9 @@ By trapping beasts under your rainbows, then jumping on them to break them you c
     <locale lang="JA">
       <title>Rainbow Islands : The Story of Bubble Bobble 2</title>
     </locale>
+    <locale lang="ZHCN">
+      <title>彩虹岛</title>
+    </locale>
     <developer>Taito</developer>
     <publisher>Taito Software</publisher>
     <date year="1988" month="06" day="26"/>
@@ -41136,6 +41259,9 @@ By trapping beasts under your rainbows, then jumping on them to break them you c
     </locale>
     <locale lang="DE">
       <genre>Action</genre>
+    </locale>
+    <locale lang="ZHCN">
+      <title>彩虹岛</title>
     </locale>
     <developer>Ocean</developer>
     <publisher>Ocean</publisher>
@@ -45485,6 +45611,9 @@ You can only shoot horizontally and diagonally by tilting the plane's nose. When
     <locale lang="PT">
       <genre>Shoot'em Up,Ação</genre>
     </locale>
+    <locale lang="ZHCN">
+      <title>飞翔鲛</title>
+    </locale>
     <developer>Taito</developer>
     <publisher>Taito Software</publisher>
     <date year="1989" month="09" day="02"/>
@@ -46285,6 +46414,9 @@ Story cutscenes are displayed between each level, where Thomas contacts other ch
     </locale>
     <locale lang="JA">
       <title>Spartan X 2</title>
+    </locale>
+    <locale lang="ZHCN">
+      <title>成龙踢馆2</title>
     </locale>
     <developer>Irem</developer>
     <publisher>Irem</publisher>
@@ -47895,6 +48027,9 @@ Un excellent jeu d'action (qui peut se faire à deux joueurs simultanément) ave
     <locale lang="JA">
       <title>Super Contra</title>
     </locale>
+    <locale lang="ZHCN">
+      <title>超级魂斗罗</title>
+    </locale>
     <developer>Konami</developer>
     <publisher>Konami</publisher>
     <date year="1990" month="02" day="02"/>
@@ -48228,6 +48363,9 @@ Les six musiques du jeu sont composées par Koji Kondo. Super Mario Bros. était
     <locale lang="DE">
       <genre>Plattform</genre>
     </locale>
+    <locale lang="ZHCN">
+      <title>超级马里奥兄弟</title>
+    </locale>
     <developer>Nintendo</developer>
     <publisher>Nintendo</publisher>
     <date year="1985" month="09" day="13"/>
@@ -48240,7 +48378,7 @@ Les six musiques du jeu sont composées par Koji Kondo. Super Mario Bros. était
       <control type="gamecube" required="false"/>
     </input>
   </game>
-  <game name="Super Mario Bros. / Duck Hunt / World Class Track Meet">
+  <game name="Super Mario Bros. + Duck Hunt + World Class Track Meet">
     <id>94351A</id>
     <locale lang="EN">
       <title>Super Mario Bros. + Duck Hunt + World Class Track Meet</title>
@@ -48376,6 +48514,9 @@ Une fois un niveau terminé, le joueur participe à un jeu de jackpot dans leque
     <locale lang="JA">
       <title>Super Mario USA</title>
     </locale>
+    <locale lang="ZHCN">
+      <title>超级马里奥兄弟2</title>
+    </locale>
     <developer>Nintendo</developer>
     <publisher>Nintendo</publisher>
     <date year="1988" month="10" day="28"/>
@@ -48418,6 +48559,9 @@ Super Mario Bros. 3 a une option multijoueur qui autorise deux personnes à joue
     <locale lang="JA">
       <title>Super Mario Bros. 3</title>
     </locale>
+    <locale lang="ZHCN">
+      <title>超级马里奥兄弟3</title>
+    </locale>
     <developer>Nintendo</developer>
     <publisher>Nintendo</publisher>
     <date year="1988" month="10" day="23"/>
@@ -48433,7 +48577,7 @@ Super Mario Bros. 3 a une option multijoueur qui autorise deux personnes à joue
   <game name="Super Mario Bros. - The Lost Levels">
     <id>1270AA</id>
     <locale lang="EN">
-      <title>Super Mario Bros. : The Lost Levels</title>
+      <title>Super Mario Bros. - The Lost Levels</title>
       <synopsis>Super Mario Bros.: The Lost Levels is a 1986 side-scrolling, platform video game developed and published by Nintendo as the first sequel to their 1985 smash hit Super Mario Bros. 
 
 This is the FDS Conversion to NES cart conversion.</synopsis>
@@ -48451,6 +48595,9 @@ Le jeu est réédité dans la compilation Super Mario All-Stars en 1993 et prend
     </locale>
     <locale lang="DE">
       <genre>Plattform</genre>
+    </locale>
+    <locale lang="ZHCN">
+      <title>超级马里奥兄弟2 失落的关卡</title>
     </locale>
     <developer>Nintendo</developer>
     <publisher>Nintendo</publisher>
@@ -48470,6 +48617,9 @@ Le jeu est réédité dans la compilation Super Mario All-Stars en 1993 et prend
       <title>Super Mario World</title>
       <synopsis>Super Mario World is a bootleg port of the SNES launch title of the same name, developed by Hummer Team and released in 1995. This is one of the more well-known examples of pirate ports to the NES, as it comparatively manages to retain most of the elements that defined the SNES original without sacrificing too much quality.</synopsis>
       <genre>Platform</genre>
+    </locale>
+    <locale lang="ZHCN">
+      <title>超级马里奥世界</title>
     </locale>
     <publisher>J.Y. Company</publisher>
     <date year="1995" month="" day=""/>
@@ -48870,10 +49020,10 @@ The Super Spy Hunter has a super spy car. It's actually a well-armed car that ca
       <control type="gamecube" required="false"/>
     </input>
   </game>
-  <game name="Super Star Force - Jikuureki No Himitsu">
+  <game name="Super Star Force - Jikuureki no Himitsu">
     <id>71533A</id>
     <locale lang="EN">
-      <title>Super Star Force - Jikuureki No Himitsu</title>
+      <title>Super Star Force - Jikuureki no Himitsu</title>
       <synopsis>In the Almanac dimension, the year 2010 brought in the final destruction of the evil planet Gordess by the space patroller Final Star. However, this doesn't bring closure of what happened in the past and how the planet Gordess came into existence. So now </synopsis>
       <genre>Action,Shooter</genre>
     </locale>
@@ -48889,6 +49039,9 @@ The Super Spy Hunter has a super spy car. It's actually a well-armed car that ca
     </locale>
     <locale lang="JA">
       <title>Super Star Force</title>
+    </locale>
+    <locale lang="ZHCN">
+      <title>超级星际力量</title>
     </locale>
     <developer>Tecmo</developer>
     <publisher>Tecmo</publisher>
@@ -49001,10 +49154,10 @@ Ni cortos ni perezosos, ambos deciden ir al nuevo y reformado Storm Palace para 
       <control type="gamecube" required="false"/>
     </input>
   </game>
-  <game name="Super Xevious - Gamp No Nazo">
+  <game name="Super Xevious - GAMP no Nazo">
     <id>18887A</id>
     <locale lang="EN">
-      <title>Super Xevious - Gamp No Nazo</title>
+      <title>Super Xevious - GAMP no Nazo</title>
       <synopsis>Super Xevious is a 2D shoot 'm up by Namco and is part of the Xevious series. Xevious is known as one of the hardest and fastest shooters around and Super Xevious is even harder and faster!
 
 The enemies of the first Xevious game are back! But this time they are not alone. No, the brought some nasty friends with them!
@@ -49040,6 +49193,9 @@ L'option de mise à niveau vous donne la possibilité de mettre à jour vos bomb
     </locale>
     <locale lang="JA">
       <title>Super Xevious : Gump no Nazo</title>
+    </locale>
+    <locale lang="ZHCN">
+      <title>超级铁板阵</title>
     </locale>
     <developer>Namco</developer>
     <publisher>Namco</publisher>
@@ -50709,7 +50865,7 @@ The game offers two different modes of play, "Type A" and "Type B". "Type A" is 
   <game name="Tetris - The Soviet Mind Game">
     <id>102109</id>
     <locale lang="EN">
-      <title>Tetris: The Soviet Mind Game</title>
+      <title>Tetris - The Soviet Mind Game</title>
       <synopsis>The drama surrounding Tetris is one of the most storied sagas in the history of the NES. Tengen, an ambitious Atari-associated game developer, began releasing official NES games in 1988. Meanwhile, the company worked rapidly behind the scenes to override Nintendo's infamous lockout device that kept unofficial cartridges from being played on its console. When Tengen released its first unofficial games using its new technology, Nintendo quickly sued. This was just the beginning of the Tengen/Nintendo feud. Ignoring Nintendo's claim to the Tetris name in the US a year later, Tengen released its own version of the world's most famous puzzle game on an unlocked, unofficial cartridge. Tengen's tetris was pulled from shelves almost immediately when it was revealed that Nintendo's hold on the Tetris name stateside was legitimate. Unfortunately, almost everyone agrees that Tengen's version of the game was far superior to Nintendo's, even including a two-player mode which Nintendo's version sorely lacked. Today, the game known as Tengen Tetris is a rare title to have in your collection, but it's a worthwhile play. After all, Tetris is one of the classic games not only on the NES, but of all-time.</synopsis>
       <genre>Puzzle-Game</genre>
     </locale>
@@ -50722,6 +50878,9 @@ The game offers two different modes of play, "Type A" and "Type B". "Type A" is 
     </locale>
     <locale lang="DE">
       <genre>Puzzle</genre>
+    </locale>
+    <locale lang="ZHCN">
+      <title>俄罗斯方块</title>
     </locale>
     <developer>Atari</developer>
     <publisher>Tengen</publisher>
@@ -50791,6 +50950,9 @@ BomBliss also includes three different modes of play. Contest mode tasks the pla
     </locale>
     <locale lang="JA">
       <title>Tetris 2 + Bombliss</title>
+    </locale>
+    <locale lang="ZHCN">
+      <title>俄罗斯方块2</title>
     </locale>
     <developer>Chunsoft Co., Ltd.</developer>
     <publisher>Bullet-Proof Software, Inc.</publisher>
@@ -54573,6 +54735,9 @@ There are 5 stages in all. Each with a boss who moves in a distinct pattern.</sy
     <locale lang="JA">
       <title>Choujinrou Senki Warwolf</title>
     </locale>
+    <locale lang="ZHCN">
+      <title>超人狼战记</title>
+    </locale>
     <developer>Data East</developer>
     <publisher>Data East USA, Inc.</publisher>
     <date year="1990" month="11" day="01"/>
@@ -56084,10 +56249,10 @@ At the end of this sequence you will leave the Cyborg Rider, and step onto a flo
     <date year="1992"/>
     <publisher/>
   </game>
-  <game name="Yie Ar Kung-fu">
+  <game name="Yie Ar Kung-Fu">
     <id>1787AA</id>
     <locale lang="EN">
-      <title>Yie Ar Kung-fu</title>
+      <title>Yie Ar Kung-Fu</title>
       <synopsis>Based on the popular arcade game, Yie Ar Kung-Fu follows Oolong's quest to become a Kung-Fu master.  Of course this involves fighting a wide range of opponents in a traditional one-on-one 2D environment.  Oolong has a wide range of attacks he can use to lower his opponent's life bar, including traditional punching and kicking attacks as well as jumping ones.  Opponents are well armed with unique weapons and attacks, so Oolong's task won't be easy.</synopsis>
       <genre>Action,Fighter</genre>
     </locale>
@@ -56103,6 +56268,9 @@ At the end of this sequence you will leave the Cyborg Rider, and step onto a flo
     </locale>
     <locale lang="JA">
       <title>Yie Ar Kung-Fu</title>
+    </locale>
+    <locale lang="ZHCN">
+      <title>功夫</title>
     </locale>
     <developer>Konami</developer>
     <publisher>Konami</publisher>

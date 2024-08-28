@@ -1,46 +1,182 @@
 <?xml version='1.0' encoding='utf-8'?>
-<Game-List name="C" rom-exists="true">
-    <Game crc32="5D56B6A4" md5="76d8366d74c43e4df27d1882f46b10c1" bytes="131088" en="Rainbow Islands" zhcn="彩虹岛" />
-    <Game crc32="CCA37A31" md5="7a10466a0473fadd5bb74176664b20f3" bytes="131088" en="Rainbow Islands - Bubble Bobble 2" zhcn="彩虹岛" />
-    <Game crc32="30541441" md5="2710398e27f67ef136f1fb1219091ca2" bytes="262160" zhcn="超惑星战记(中)" />
-    <Game crc32="6E286BB2" md5="dd8d2d5eaf1c41852abd83e2729662d7" bytes="262160" en="Blaster Master" zhcn="超惑星战记" />
-    <Game crc32="E55562AF" md5="4f01b951df3393d1048ef15bdab546d4" bytes="262160" zhcn="超级魂斗罗(改)" zhtw="超級魂斗羅(改)" />
-    <Game crc32="6FF47215" md5="4c9792ff6a45654b843eeb3edd326ce5" bytes="786464" zhcn="超级魂斗罗(中)" />
-    <Game crc32="048F7DD8" md5="9ac7936d1c50276c5191226367f63e55" bytes="393232" zhcn="超级魂斗罗(中)" zhtw="超級魂斗羅(中)" />
-    <Game crc32="1AC846F0" md5="5fef80625f484fca06fdb58ebff9d8bb" bytes="262160" en="Super C" zhcn="超级魂斗罗" zhtw="超級魂斗羅" />
-    <Game crc32="6D5953A8" md5="51119c9442135066f1b74ac2aba789ef" bytes="786448" zhcn="超级马里奥世界" attention="移植自超任版" en="Super Mario World" />
-    <Game crc32="E4198A92" md5="8eed628200fd9607812708cf98e998b8" bytes="196624" en="Super Mario Unlimited Deluxe" zhcn="超级马里奥无限豪华版" />
-    <Game crc32="678C530B" md5="37f51e99297852b77ce931758fe96109" bytes="65552" en="" zhcn="超级马里奥兄弟(中)" />
-    <Game crc32="7D5FAA58" md5="673913a23cd612daf5ad32d4085e0760" bytes="40976" en="Super Mario Bros." zhcn="超级马里奥兄弟" />
-    <Game crc32="3337EC46" md5="811b027eaf99c2def7b933c5208636de" bytes="40976" en="Super Mario Bros." zhcn="超级马里奥兄弟" />
-    <Game crc32="34C86502" md5="64ea2f5a93bde3aefdbc07efe0a62c18" bytes="131088" en="Super Mario Bros 2 - The Lost Levels" zhcn="超级马里奥兄弟2 失落的关卡" />
-    <Game crc32="7D3F6F3D" md5="71576d8339bd63198fcfc51a92016d58" bytes="262160     " en="Super Mario Bros. 2" zhcn="超级马里奥兄弟2" />
-    <Game crc32="8AA4ACE0" md5="e1a51ef1c4e1d1de021e6f02d7f1ee9c" bytes="262160" en="Super Mario Bros. 2" zhcn="超级马里奥兄弟2" />
-    <Game crc32="B70E97A1" md5="62c7d04dc805fadefa91f749c21a316d" bytes="458768" zhcn="超级马里奥兄弟3(中)" />
-    <Game crc32="F2FCD542" md5="7af0083f84c2a81d2087492f087a8bf0" bytes="450576" zhcn="超级马里奥兄弟3(中)" />
-    <Game crc32="77F59F3E" md5="a64e0142986cbb806f8775da877185a8" bytes="393232" en="Super Mario Bros. 3" zhcn="超级马里奥兄弟3" />
-    <Game crc32="B6C7E249" md5="1d3bb1559a848d0a5ab2faa52f63add6" bytes="163856" en="Super Xevious - Gamp No Nazo" zhcn="超级铁板阵" />
-    <Game crc32="0CA0B143" md5="b9ce6bc9c0128205e528058d689a413e" bytes="131088" en="Super Star Force - Jikuureki No Himitsu" zhcn="超级星际力量" />
-    <Game crc32="AF730199" md5="6f792f562988362d7bf8d87cab0f58a0" bytes="262160" en="Werewolf - The Last Warrior" zhcn="超人狼战记" />
-    <Game crc32="96EE047B" md5="07ac56b630bc7ec402abce58e2947529" bytes="24592" zhcn="超时空要塞(中)" />
-    <Game crc32="A3CA24D2" md5="9540cf70c91352a80b5e067bceada717" bytes="24592" en="Choujikuu Yousai - Macross" zhcn="超时空要塞" />
-    <Game crc32="F47CEA67" md5="97b8aad61ed09352ebbc975b93202ae8" bytes="262160" zhcn="超越地平线(中)" />
-    <Game crc32="E495FA46" md5="e1601a6e4c20da1a70f779a8b4c0b374" bytes="262160" en="Over Horizon" zhcn="超越地平线" />
-    <Game crc32="0D8C4182" md5="d5e95ed2f0bb0df45424e736e067b9d9" bytes="40976" zhcn="成龙踢馆(中)" />
-    <Game crc32="872ADC83" md5="020d45a8f944085d76500bd6f8f6fe15" bytes="40976" en="Kung Fu" zhcn="成龙踢馆" />
-    <Game crc32="09825979" md5="e8051bec80c0f1a38b64200431cd77ec" bytes="262160" en="Spartan X 2" zhcn="成龙踢馆2" />
-    <Game crc32="1C168BA6" md5="6838b09b2b9a7eca6196c6fdebde69d4" bytes="262160" zhcn="成龙之龙(中)" />
-    <Game crc32="73BB037E" md5="62df83cf62bf2abfb046ed10979f36d4" bytes="262160" en="Jackie Chan's Action Kung Fu" zhcn="成龙之龙" />
-    <Game crc32="0D6BD840" md5="e300df875430695a5f8680ee1c16b5a4" bytes="262160" en="The Punisher" zhcn="惩罚者" />
-    <Game crc32="26016B64" md5="cac7f8b8079454feee213cd6e4f1cd02" bytes="24592" zhcn="吃豆小精灵(中)" />
-    <Game crc32="B509243F" md5="40b9bd9ec1f9027f9a80bb108acd1e8b" bytes="24592" en="Pac-Man (Namco)" zhcn="吃豆小精灵" />
-    <Game crc32="0ECA3358" md5="6efefd9c6278c431c438777b07871ed1" bytes="262160" zhcn="赤色要塞(中)" />
-    <Game crc32="2E52D091" md5="7d02d7a6d89ef993589d1f1d58e2bcda" bytes="131088" en="Jackal" zhcn="赤色要塞" />
-    <Game crc32="D7DFA90F" md5="de4579e5184400d61ee1d03eba14b017" bytes="131088" en="Jackal" zhcn="赤色要塞" />
-    <Game crc32="9DCD57AA" md5="bc5ccad764082062beba16d9b5f82d91" bytes="524304" zhcn="赤影战士(改)" zhtw="赤影戰士(改)" />
-    <Game crc32="A481E2BD" md5="763b7d6afaddd8f72d4339b718ae6dcf" bytes="270352" zhcn="赤影战士(中)" />
-    <Game crc32="3747F350" md5="a4d8bc3f18580eef8d386f89ef7106d9" bytes="270352" zhcn="赤影战士(中)" zhtw="赤影戰士(中)" />
-    <Game crc32="B2047D03" md5="8b5addcbacab0dbcf58b3dbc8a311f6f" bytes="262160" en="Shadow of the Ninja" zhcn="赤影战士" />
-    <Game crc32="A756A212" md5="9fa464c22e19bf9ab2e0af86a2d5c181" bytes="262160" en="Shadow of the Ninja" zhcn="赤影战士" zhtw="赤影戰士" />
-    <Game crc32="F74A04AB" md5="d459bae7337c21ce0d380efa86cbbde9" bytes="262160" en="Shadow of the Ninja" zhcn="赤影战士" zhtw="赤影戰士" />
+<Game-List name="C">
+    <Game crc32="5D56B6A4" md5="76d8366d74c43e4df27d1882f46b10c1" bytes="131088"
+        en="Rainbow Islands"
+        zhcn="彩虹岛"
+    />
+    <Game crc32="CCA37A31" md5="7a10466a0473fadd5bb74176664b20f3" bytes="131088"
+        en="Rainbow Islands - Bubble Bobble 2"
+        zhcn="彩虹岛"
+    />
+    <Game crc32="30541441" md5="2710398e27f67ef136f1fb1219091ca2" bytes="262160"
+        en="Blaster Master"
+        zhcn="超惑星战记(中)"
+    />
+    <Game crc32="6E286BB2" md5="dd8d2d5eaf1c41852abd83e2729662d7" bytes="262160"
+        en="Blaster Master"
+        zhcn="超惑星战记"
+    />
+    <Game crc32="E55562AF" md5="4f01b951df3393d1048ef15bdab546d4" bytes="262160"
+        en="Super C"
+        zhcn="超级魂斗罗(改)"
+        zhtw="超級魂斗羅(改)"
+    />
+    <Game crc32="6FF47215" md5="4c9792ff6a45654b843eeb3edd326ce5" bytes="786464"
+        en="Super C"
+        zhcn="超级魂斗罗(中)"
+    />
+    <Game crc32="048F7DD8" md5="9ac7936d1c50276c5191226367f63e55" bytes="393232"
+        en="Super C"
+        zhcn="超级魂斗罗(中)"
+        zhtw="超級魂斗羅(中)"
+    />
+    <Game crc32="1AC846F0" md5="5fef80625f484fca06fdb58ebff9d8bb" bytes="262160"
+        en="Super C"
+        zhcn="超级魂斗罗"
+        zhtw="超級魂斗羅"
+    />
+    <Game crc32="6D5953A8" md5="51119c9442135066f1b74ac2aba789ef" bytes="786448"
+        en="Super Mario World"
+        zhcn="超级马里奥世界" attention="移植自超任版"
+    />
+    <Game crc32="E4198A92" md5="8eed628200fd9607812708cf98e998b8" bytes="196624"
+        en="Super Mario Unlimited Deluxe"
+        zhcn="超级马里奥无限豪华版"
+    />
+    <Game crc32="678C530B" md5="37f51e99297852b77ce931758fe96109" bytes="65552"
+        en="Super Mario Bros."
+        zhcn="超级马里奥兄弟(中)"
+    />
+    <Game crc32="7D5FAA58" md5="673913a23cd612daf5ad32d4085e0760" bytes="40976"
+        en="Super Mario Bros."
+        zhcn="超级马里奥兄弟"
+    />
+    <Game crc32="3337EC46" md5="811b027eaf99c2def7b933c5208636de" bytes="40976"
+        en="Super Mario Bros."
+        zhcn="超级马里奥兄弟"
+    />
+    <Game crc32="34C86502" md5="64ea2f5a93bde3aefdbc07efe0a62c18" bytes="131088"
+        en="Super Mario Bros 2 - The Lost Levels"
+        zhcn="超级马里奥兄弟2 失落的关卡"
+    />
+    <Game crc32="7D3F6F3D" md5="71576d8339bd63198fcfc51a92016d58" bytes="262160"
+        en="Super Mario Bros. 2"
+        zhcn="超级马里奥兄弟2"
+    />
+    <Game crc32="8AA4ACE0" md5="e1a51ef1c4e1d1de021e6f02d7f1ee9c" bytes="262160"
+        en="Super Mario Bros. 2"
+        zhcn="超级马里奥兄弟2"
+    />
+    <Game crc32="B70E97A1" md5="62c7d04dc805fadefa91f749c21a316d" bytes="458768"
+        en="Super Mario Bros. 3"
+        zhcn="超级马里奥兄弟3(中)"
+    />
+    <Game crc32="F2FCD542" md5="7af0083f84c2a81d2087492f087a8bf0" bytes="450576"
+        en="Super Mario Bros. 3"
+        zhcn="超级马里奥兄弟3(中)"
+    />
+    <Game crc32="77F59F3E" md5="a64e0142986cbb806f8775da877185a8" bytes="393232"
+        en="Super Mario Bros. 3"
+        zhcn="超级马里奥兄弟3"
+    />
+    <Game crc32="B6C7E249" md5="1d3bb1559a848d0a5ab2faa52f63add6" bytes="163856"
+        en="Super Xevious - GAMP no Nazo"
+        zhcn="超级铁板阵"
+    />
+    <Game crc32="0CA0B143" md5="b9ce6bc9c0128205e528058d689a413e" bytes="131088"
+        en="Super Star Force - Jikuureki no Himitsu"
+        zhcn="超级星际力量"
+    />
+    <Game crc32="AF730199" md5="6f792f562988362d7bf8d87cab0f58a0" bytes="262160"
+        en="Werewolf - The Last Warrior"
+        zhcn="超人狼战记"
+    />
+    <Game crc32="96EE047B" md5="07ac56b630bc7ec402abce58e2947529" bytes="24592"
+        en="Choujikuu Yousai - Macross"
+        zhcn="超时空要塞(中)"
+    />
+    <Game crc32="A3CA24D2" md5="9540cf70c91352a80b5e067bceada717" bytes="24592"
+        en="Choujikuu Yousai - Macross"
+        zhcn="超时空要塞"
+    />
+    <Game crc32="F47CEA67" md5="97b8aad61ed09352ebbc975b93202ae8" bytes="262160"
+        en="Over Horizon"
+        zhcn="超越地平线(中)"
+    />
+    <Game crc32="E495FA46" md5="e1601a6e4c20da1a70f779a8b4c0b374" bytes="262160"
+        en="Over Horizon"
+        zhcn="超越地平线"
+    />
+    <Game crc32="0D8C4182" md5="d5e95ed2f0bb0df45424e736e067b9d9" bytes="40976"
+        en="Kung Fu"
+        zhcn="成龙踢馆(中)"
+    />
+    <Game crc32="872ADC83" md5="020d45a8f944085d76500bd6f8f6fe15" bytes="40976"
+        en="Kung Fu"
+        zhcn="成龙踢馆"
+    />
+    <Game crc32="09825979" md5="e8051bec80c0f1a38b64200431cd77ec" bytes="262160"
+        en="Spartan X 2"
+        zhcn="成龙踢馆2"
+    />
+    <Game crc32="1C168BA6" md5="6838b09b2b9a7eca6196c6fdebde69d4" bytes="262160"
+        en="Jackie Chan's Action Kung Fu"
+        zhcn="成龙之龙(中)"
+    />
+    <Game crc32="73BB037E" md5="62df83cf62bf2abfb046ed10979f36d4" bytes="262160"
+        en="Jackie Chan's Action Kung Fu"
+        zhcn="成龙之龙"
+    />
+    <Game crc32="0D6BD840" md5="e300df875430695a5f8680ee1c16b5a4" bytes="262160"
+        en="The Punisher"
+        zhcn="惩罚者"
+    />
+    <Game crc32="26016B64" md5="cac7f8b8079454feee213cd6e4f1cd02" bytes="24592"
+        en="Pac-Man (Namco)"
+        zhcn="吃豆小精灵(中)"
+    />
+    <Game crc32="B509243F" md5="40b9bd9ec1f9027f9a80bb108acd1e8b" bytes="24592"
+        en="Pac-Man (Namco)"
+        zhcn="吃豆小精灵"
+    />
+    <Game crc32="0ECA3358" md5="6efefd9c6278c431c438777b07871ed1" bytes="262160"
+        en="Jackal"
+        zhcn="赤色要塞(中)"
+    />
+    <Game crc32="2E52D091" md5="7d02d7a6d89ef993589d1f1d58e2bcda" bytes="131088"
+        en="Jackal"
+        zhcn="赤色要塞"
+    />
+    <Game crc32="D7DFA90F" md5="de4579e5184400d61ee1d03eba14b017" bytes="131088"
+        en="Jackal"
+        zhcn="赤色要塞"
+    />
+    <Game crc32="9DCD57AA" md5="bc5ccad764082062beba16d9b5f82d91" bytes="524304"
+        en="Shadow of the Ninja"
+        zhcn="赤影战士(改)"
+        zhtw="赤影戰士(改)"
+    />
+    <Game crc32="A481E2BD" md5="763b7d6afaddd8f72d4339b718ae6dcf" bytes="270352"
+        en="Shadow of the Ninja"
+        zhcn="赤影战士(中)"
+    />
+    <Game crc32="3747F350" md5="a4d8bc3f18580eef8d386f89ef7106d9" bytes="270352"
+        en="Shadow of the Ninja"
+        zhcn="赤影战士(中)"
+        zhtw="赤影戰士(中)"
+    />
+    <Game crc32="B2047D03" md5="8b5addcbacab0dbcf58b3dbc8a311f6f" bytes="262160"
+        en="Shadow of the Ninja"
+        zhcn="赤影战士"
+    />
+    <Game crc32="A756A212" md5="9fa464c22e19bf9ab2e0af86a2d5c181" bytes="262160"
+        en="Shadow of the Ninja"
+        zhcn="赤影战士"
+        zhtw="赤影戰士"
+    />
+    <Game crc32="F74A04AB" md5="d459bae7337c21ce0d380efa86cbbde9" bytes="262160"
+        en="Shadow of the Ninja"
+        zhcn="赤影战士"
+        zhtw="赤影戰士"
+    />
 </Game-List>
