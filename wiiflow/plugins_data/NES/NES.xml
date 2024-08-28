@@ -91,6 +91,9 @@ La jugabilidad es en un estilo de desplazamiento vertical. No hay jugadas o alin
     <locale lang="PT">
       <genre>Shoot'em Up,Ação</genre>
     </locale>
+    <locale lang="ZHCN">
+      <title>1942</title>
+    </locale>
     <developer>Capcom</developer>
     <publisher>Capcom</publisher>
     <date year="1985" month="12" day="11"/>
@@ -133,10 +136,10 @@ La jugabilidad es en un estilo de desplazamiento vertical. No hay jugadas o alin
     </input>
     <publisher/>
   </game>
-  <game name="1943 - The Battle Of Midway">
+  <game name="1943 - The Battle of Midway">
     <id>1468AA</id>
     <locale lang="EN">
-      <title>1943 : The Battle of Midway</title>
+      <title>1943 - The Battle of Midway</title>
       <synopsis>The sequel to 1942, which is still a vertically scrolling shooter, has the player once again fighting over the clouds during the second world war, this time in an intense battle just off the coast of Midway islands.
 
 Updates to the gameplay include an energy bar, which can be run down by either being hit from incoming fire or using a special weapon. The energy bar can be replenished by picking up power-ups, while special weapons (lightning, cyclones and waves) can knock down all fighters on the screen at the time.</synopsis>
@@ -156,6 +159,9 @@ Updates to the gameplay include an energy bar, which can be run down by either b
     <locale lang="JA">
       <title>1943 : The Battle of Valhalla</title>
     </locale>
+    <locale lang="ZHCN">
+      <title>1943</title>
+    </locale>
     <developer>Capcom</developer>
     <publisher>Capcom</publisher>
     <date year="1988" month="10" day="02"/>
@@ -168,7 +174,7 @@ Updates to the gameplay include an energy bar, which can be run down by either b
       <control type="gamecube" required="false"/>
     </input>
   </game>
-  <game name="1944 (1943 Hack)">
+  <game name="1944">
     <id>141314</id>
     <locale lang="EN">
       <title>1944</title>
@@ -188,6 +194,9 @@ This adds a Hacked English Powerup Menu only that does not change any other elem
     </locale>
     <locale lang="PT">
       <genre>Tiro / Vertical,Shoot'em Up / Vertical,Tiro,Shoot'em Up</genre>
+    </locale>
+    <locale lang="ZHCN">
+      <title>1944</title>
     </locale>
     <date year="1990" month="" day=""/>
     <rating type="NOTE" value="">
@@ -523,6 +532,9 @@ At least two versions of this multicart are known to exist, with the other versi
     </locale>
     <locale lang="JA">
       <title>8 Eye's</title>
+    </locale>
+    <locale lang="ZHCN">
+      <title>8只眼</title>
     </locale>
     <developer>Thinking Rabbit</developer>
     <publisher>Taxan</publisher>
@@ -3838,10 +3850,10 @@ The game is a side-scrolling platform jumping game where the main method of stop
     <date year="1991"/>
     <publisher>Hacker International</publisher>
   </game>
-  <game name="B-wings">
+  <game name="B-Wings">
     <id>1904AA</id>
     <locale lang="EN">
-      <title>B-wings</title>
+      <title>B-Wings</title>
       <synopsis>B-Wings is based on the popular arcade game Battle Wings. It is a vertically scrolling space shooter that owes its name to the space fighter from  Star Wars movies. You have a wide variety of weapons at your disposal: Fire, Cannons, Jump, Hammer, etc. Each weapon has its own advantages and disadvantages. For example, Cannon fires powerful and rapid blasts, but you can only shoot directly in front of you; Van covers several directions, but has slow speed; Anti builds a protective shield around you each time you shoot, but its range is very small, and so on. You can change the weapons every time you are killed, before you run out of lives and lose the game. Typically, at the end of a level you'll have to face a boss enemy.</synopsis>
       <genre>Shoot'em Up,Action</genre>
     </locale>
@@ -3860,6 +3872,9 @@ The game is a side-scrolling platform jumping game where the main method of stop
     </locale>
     <locale lang="JA">
       <title>B-Wings</title>
+    </locale>
+    <locale lang="ZHCN">
+      <title>B计划</title>
     </locale>
     <developer>Data East</developer>
     <publisher>Data East Corp.</publisher>
@@ -5197,10 +5212,10 @@ The game is an action platformer with more emphasis on exploration than on "jump
     <date year=""/>
     <publisher/>
   </game>
-  <game name="Batman - Return Of The Joker">
+  <game name="Batman - Return of the Joker">
     <id>1298AA</id>
     <locale lang="EN">
-      <title>Batman : Return of the Joker</title>
+      <title>Batman - Return of the Joker</title>
       <synopsis>The Joker lives again in SunSoft's sequel to their NES 
 original. The Joker has somehow managed to escape from Arkham Asylum once again, and Batman must fight him across seven stages to restore peace to Gotham City.
 
@@ -5229,6 +5244,9 @@ Batman lleva un guante disparando balas básicas por defecto. Esto puede ser act
     <locale lang="JA">
       <title>Dynamite Batman</title>
     </locale>
+    <locale lang="ZHCN">
+      <title>蝙蝠侠2</title>
+    </locale>
     <developer>Sunsoft</developer>
     <publisher>Sunsoft</publisher>
     <date year="1991" month="12" day="02"/>
@@ -5244,7 +5262,7 @@ Batman lleva un guante disparando balas básicas por defecto. Esto puede ser act
   <game name="Batman - The Video Game">
     <id>1287AA</id>
     <locale lang="EN">
-      <title>Batman : The Video Game</title>
+      <title>Batman - The Video Game</title>
       <synopsis>The NES version of Batman: The Video Game is loosely based on the 1989 movie. It is a side-scrolling game, with a blue dressed Batman fighting enemies such as robots, jet-packed soldiers, ninjas and mutants.
 
 The game consists in five levels somewhat related to the movie: Gotham City streets (with Killer Moth as the final boss), AXIS Chemical Factory (with Machine Intelligence System as boss), Underground Conduit (with Electrocutioner as boss), the Laboratory Ruins (the Dual-Container Alarm as boss) and Gotham's Cathedral (with Firebug as boss) where Batman finally faces the Joker. Before each level, a cutscene with scenes from the movie is displayed.
@@ -5276,6 +5294,9 @@ Batman también puede realizar un "salto en la pared": agarrar una pared al salt
     </locale>
     <locale lang="JA">
       <title>Batman</title>
+    </locale>
+    <locale lang="ZHCN">
+      <title>蝙蝠侠</title>
     </locale>
     <developer>Sunsoft</developer>
     <publisher>Sunsoft</publisher>
@@ -5312,6 +5333,9 @@ The Batmobile is armed with machine guns and bat discs, used to dispatch the ene
     </locale>
     <locale lang="DE">
       <genre>Beat'em Up</genre>
+    </locale>
+    <locale lang="ZHCN">
+      <title>蝙蝠侠3</title>
     </locale>
     <developer>Konami</developer>
     <publisher>Konami</publisher>
@@ -12688,6 +12712,9 @@ En Deja Vu, la acción tiene lugar en Chicago en diciembre de 1941. El nombre de
     <locale lang="JA">
       <title>Fudou Myouou Den</title>
     </locale>
+    <locale lang="ZHCN">
+      <title>不动明王传</title>
+    </locale>
     <developer>Taito</developer>
     <publisher>Nintendo</publisher>
     <date year="1988" month="03" day="29"/>
@@ -19033,6 +19060,9 @@ The player can hold down the Jump button to transform back and forth between a M
     <locale lang="JA">
       <title>Formation Z</title>
     </locale>
+    <locale lang="ZHCN">
+      <title>变形战机Z</title>
+    </locale>
     <developer>Hect Co. Ltd.|Jaleco Ltd.</developer>
     <publisher>Jaleco</publisher>
     <date year="1985" month="04" day="04"/>
@@ -23060,10 +23090,10 @@ Le troisième est un jeu de jonglage avec des cannettes vides.</synopsis>
       <control type="gamecube" required="false"/>
     </input>
   </game>
-  <game name="Hokuto No Ken">
+  <game name="Hokuto no Ken">
     <id>18707A</id>
     <locale lang="EN">
-      <title>Hokuto No Ken</title>
+      <title>Hokuto no Ken</title>
       <synopsis>This is a side-scrolling Beat-'Em-Up based on the animé series of the same name. You control Kenshirou, the series' main character, trying to rescue your girlfriend Julia. Advancing from right to left, you'll notice various doors you can enter. At some of those doors you'll see Julia's image that will point out the correct way for you. Other than entering doors, you'll be busy punching and kicking punk-like enemies that attack you closely or with projectiles. The game features gory animation for the deaths of your foes: their heads get torn away from the bodies and explode.</synopsis>
       <genre>Action,Beat'em Up</genre>
     </locale>
@@ -23079,6 +23109,9 @@ Le troisième est un jeu de jonglage avec des cannettes vides.</synopsis>
     </locale>
     <locale lang="JA">
       <title>Hokuto no Ken</title>
+    </locale>
+    <locale lang="ZHCN">
+      <title>北斗神拳</title>
     </locale>
     <developer>Shouei System</developer>
     <publisher>Toei Animation</publisher>
@@ -36874,10 +36907,10 @@ The game also offers a two-player-mode.</synopsis>
       <control type="gamecube" required="false"/>
     </input>
   </game>
-  <game name="Nuts And Milk">
+  <game name="Nuts &amp; Milk">
     <id>18741A</id>
     <locale lang="EN">
-      <title>Nuts And Milk</title>
+      <title>Nuts &amp; Milk</title>
       <synopsis>In this Arcade game the gameplay is quite simple, the hero, named "Milk" must get all the fruits in the screen in order to free his girlfriend (don't ask me what's the relation) who is captured inside of a house. Your rival "'Nuts" will try to keep you away from your goal. To obtain the fruit, Milk will climb up ladders and jump onto different platforms.
 
 Points are earned by obtaining the fruit, jumping over Nuts and completing the level in the shortest amount of time (obtaining the Bonus score value). Two game modes are included as well as a level editor.</synopsis>
@@ -36894,6 +36927,9 @@ Points are earned by obtaining the fruit, jumping over Nuts and completing the l
     </locale>
     <locale lang="JA">
       <title>Nuts &amp; Milk</title>
+    </locale>
+    <locale lang="ZHCN">
+      <title>爱的小屋</title>
     </locale>
     <developer>Hudson</developer>
     <publisher>Hudson</publisher>
@@ -42645,6 +42681,9 @@ There are four distinct sections of gameplay, taking in a Missile Base, a Harbou
     <locale lang="JA">
       <title>Argos no Senshi</title>
     </locale>
+    <locale lang="ZHCN">
+      <title>阿尔戈斯战士</title>
+    </locale>
     <developer>Tecmo</developer>
     <publisher>Tecmo</publisher>
     <date year="1987" month="04" day="17"/>
@@ -47257,6 +47296,9 @@ En el modo de dos jugadores, Si TwinBee (nave color cian) y GwinBee (nave color 
     <locale lang="JA">
       <title>Moero TwinBee : Cinnamon Hakase o Sukue!</title>
     </locale>
+    <locale lang="ZHCN">
+      <title>兵蜂2</title>
+    </locale>
     <developer>Konami</developer>
     <publisher>Konami</publisher>
     <date year="1987" month="09" day="02"/>
@@ -50856,6 +50898,9 @@ En conjonction avec le travail de RG-Soft, nous avons été en mesure de termine
     <locale lang="JA">
       <title>Thexder</title>
     </locale>
+    <locale lang="ZHCN">
+      <title>变形战机</title>
+    </locale>
     <developer>Game Arts Co., Ltd.</developer>
     <publisher>Square Enix</publisher>
     <date year="1985" month="12" day="19"/>
@@ -52824,6 +52869,9 @@ In the two-player mode, TwinBee (cyan craft) and WinBee (red craft) have the sam
     <locale lang="JA">
       <title>TwinBee</title>
     </locale>
+    <locale lang="ZHCN">
+      <title>兵蜂</title>
+    </locale>
     <developer>Konami</developer>
     <publisher>Konami</publisher>
     <date year="1986" month="01" day="04"/>
@@ -52862,6 +52910,9 @@ If correctly powered-up both ships can join-up to perform a screen-clearing atta
     </locale>
     <locale lang="JA">
       <title>TwinBee 3 : Poko Poko Daimaou</title>
+    </locale>
+    <locale lang="ZHCN">
+      <title>兵蜂3</title>
     </locale>
     <developer>Konami</developer>
     <publisher>Konami</publisher>
