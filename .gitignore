@@ -1,2 +1,4 @@
 game-list/NesEmu/*/*.nes
 game-list/NesEmu/*/*/*.nes
+
+python/__pycache__/*
