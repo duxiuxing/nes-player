@@ -1,81 +1,90 @@
 <?xml version='1.0' encoding='utf-8'?>
 <Game-List name="J" rom-exists="true">
-    <Game crc32="A3D966DB" md5="490af7dd76518e52a45725d99ad6c9b1" bytes="40976"
-        zhcn="机车大赛"
-    />
-    <Game crc32="A568590B" md5="61231fbd95a1ef7c67eb96dd6f94b92a" bytes="393232"
-        zhcn="机械战警(中)"
-    />
-    <Game crc32="B6546EE1" md5="a8fef36bec0161ff03908789f56edf81" bytes="262160"
-        en=""
-        zhcn="机械战警"
-    />
-    <Game crc32="33BE5CFD" md5="ad20426b20942679c12794f3f7c6a681" bytes="262160"
-        en="RoboCop"
-        zhcn="机械战警"
-    />
-    <Game crc32="904082B1" md5="bae0ed17227f4484df8d98b004c04750" bytes="262160"
-        en="RoboCop 2"
-        zhcn="机械战警2"
-    />
-    <Game crc32="F4BAA4EE" md5="d7904d82e8c57377ec0ec70e2fb7b89b" bytes="262160"
-        en="RoboCop 2"
-        zhcn="机械战警2"
-    />
-    <Game crc32="0C209B7B" md5="0400e6872131e81c52a4e55352359f8c" bytes="262160"
-        en="RoboCop 3"
-        zhcn="机械战警3"
-    />
-    <Game crc32="FBBB58A6" md5="09643d3d3a5d2eb830fa9902f950dbf2" bytes="262160"
-        en="RoboCop 3"
-        zhcn="机械战警3"
-    />
-    <Game crc32="F5D0E8E1" md5="53039bfb54af532b8271a999df6be870" bytes="262160"
-        en="RoboCop versus The Terminator"
-        zhcn="机械战警对终结者"
-        attention="有超任版"
-    />
-    <Game crc32="3C63F85A" md5="372f1120d77214ace6bb9c6fdf85955d" bytes="393232"
-        zhcn="加纳战机(中)"
-    />
-    <Game crc32="1FBD10D2" md5="84926f4a2d65a16b0270ed659422262e" bytes="163856"
-        en="Family Block"
-        zhcn="家庭打砖块"
-    />
-    <Game crc32="77DF8D83" md5="dbbb5477287d51df4e2cd95f81f1cbd2" bytes="262160"
-        zhcn="嘉蒂外传(中)"
-    />
-    <Game crc32="C4509884" md5="e4556d6e908e03600f991f285cedfe95" bytes="131088"
-        zhcn="假面忍者赤影(中)"
-    />
-    <Game crc32="C077B87D" md5="2abb958b6f7dc9fb706afe5717c248ab" bytes="262160"
-        zhcn="假面忍者花丸(中)"
-    />
-    <Game crc32="A463A4D4" md5="1939e3d34cbe68b2519f8b5bd147da25" bytes="262160"
-        en=""
-        zhcn="假面忍者花丸"
-    />
-    <Game crc32="4190108D" md5="4bc4edf3dbbdb4301eb92084378968e6" bytes="24592"
-        zhcn="街头小子(中)"
-    />
-    <Game crc32="A7355946" md5="5d8c039d277892f86aebf1afd813392e" bytes="262160"
-        en=""
-        zhcn="街头战士2010"
-    />
-    <Game crc32="CE52C150" md5="2490b7b99d19a85f27962fdb0f303ae4" bytes="24592"
-        en=""
-        zhcn="筋肉人摔角"
-    />
-    <Game crc32="C261904E" md5="ffcc769cfa84f98cd2d8aee81f7fbb15" bytes="24592"
-        zhcn="筋肉人摔角"
-    />
-    <Game crc32="E0509F1D" md5="bb103aa3883fb8e40f71e6ee6eb01592" bytes="262160"
-        zhcn="究极虎"
-    />
-    <Game crc32="52C4F765" md5="1ff10a40af91754ecb7d2d0a75451735" bytes="655376"
-        zhcn="九人街霸(中)"
-    />
-    <Game crc32="C0AEEC28" md5="e877da3661d394f5b8322d8f61eb52fb" bytes="262160"
-        zhcn="绝对合体(中)"
-    />
+	<Game crc32="A3D966DB" bytes="40976"
+		en="Excitebike"
+		zhcn="机车大赛"
+	/>
+	<Game crc32="A568590B" bytes="393232"
+		en="RoboCop"
+		zhcn="机械战警(中)"
+	/>
+	<Game crc32="B6546EE1" bytes="262160"
+		en="RoboCop"
+		zhcn="机械战警"
+	/>
+	<Game crc32="33BE5CFD" bytes="262160"
+		en="RoboCop"
+		zhcn="机械战警"
+	/>
+	<Game crc32="904082B1" bytes="262160"
+		en="RoboCop 2"
+		zhcn="机械战警2"
+	/>
+	<Game crc32="F4BAA4EE" bytes="262160"
+		en="RoboCop 2"
+		zhcn="机械战警2"
+	/>
+	<Game crc32="0C209B7B" bytes="262160"
+		en="RoboCop 3"
+		zhcn="机械战警3"
+	/>
+	<Game crc32="FBBB58A6" bytes="262160"
+		en="RoboCop 3"
+		zhcn="机械战警3"
+	/>
+	<Game crc32="F5D0E8E1" bytes="262160"
+		en="RoboCop versus The Terminator"
+		zhcn="机械战警对终结者" attention="有超任版"
+	/>
+	<Game crc32="3C63F85A" bytes="393232"
+		en="Gun Nac"
+		zhcn="加纳战机(中)"
+	/>
+	<Game crc32="1FBD10D2" bytes="163856"
+		en="Thunder &amp; Lightning"
+		zhcn="家庭打砖块"
+	/>
+	<Game crc32="77DF8D83" bytes="262160"
+		en="The Guardian Legend"
+		zhcn="嘉蒂外传(中)"
+	/>
+	<Game crc32="C4509884" bytes="131088"
+		en="Kamen no Ninja - Akakage"
+		zhcn="假面忍者 赤影(中)"
+	/>
+	<Game crc32="C077B87D" bytes="262160"
+		en="Kamen no Ninja - Hanamaru"
+		zhcn="假面忍者 花丸(中)"
+	/>
+	<Game crc32="A463A4D4" bytes="262160"
+		en="Kamen no Ninja - Hanamaru"
+		zhcn="假面忍者 花丸"
+	/>
+	<Game crc32="4190108D" bytes="24592"
+		en="Urban Champion"
+		zhcn="街头小子(中)"
+	/>
+	<Game crc32="A7355946" bytes="262160"
+		en="Street Fighter 2010 - The Final Fight"
+		zhcn="街头战士2010"
+	/>
+	<Game crc32="CE52C150" bytes="24592"
+		en="M.U.S.C.L.E. - Tag Team Match"
+		zhcn="筋肉人摔角"
+	/>
+	<Game crc32="C261904E" bytes="24592"
+		en="M.U.S.C.L.E. - Tag Team Match"
+		zhcn="筋肉人摔角"
+	/>
+	<Game crc32="E0509F1D" bytes="262160"
+		en="Twin Cobra"
+		zhcn="究极虎"
+	/>
+	<Game crc32="52C4F765" bytes="655376"
+		zhcn="九人街霸(中)"
+	/>
+	<Game crc32="C0AEEC28" bytes="262160"
+		en="Section-Z"
+		zhcn="绝对合体(中)"
+	/>
 </Game-List>

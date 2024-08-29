@@ -1,86 +1,106 @@
 <?xml version='1.0' encoding='utf-8'?>
 <Game-List name="S" rom-exists="true">
-    <Game crc32="BF2F1CF3" md5="02ed46c41454945f24497ec12de90950" bytes="262160"
-        zhcn="SD快打旋风(中)"
-    />
-    <Game crc32="48A8E7EE" md5="8160b1a75506dcaf3691a654beea0ac3" bytes="294928"
-        zhcn="SD快打旋风(中)"
-    />
-    <Game crc32="15EB0BEE" md5="1355eccce09d3e9554ff9120387f64b0" bytes="262160"
-        zhcn="SD快打旋风"
-    />
-    <Game crc32="A8A91912" md5="ded42f009dc716e83da569e632cd0d76" bytes="278544"
-        zhcn="三目童子(中)"
-    />
-    <Game crc32="A6A0146A" md5="0d5020f2be93fce9b4497544cd73b179" bytes="786464"
-        zhcn="三目童子"
-    />
-    <Game crc32="274EB12A" md5="893b732eddcf02b709a49748d34dc65a" bytes="24592"
-        zhcn="三只小猪(中)"
-    />
-    <Game crc32="FBAAB889" md5="311e8a90ba3182294987101b534d1d6e" bytes="24592"
-        zhcn="三只小猪"
-    />
-    <Game crc32="95184260" md5="1d64011e42b7e02e7cdf86363ad38dba" bytes="393232"
-        zhcn="沙罗曼蛇(中)"
-    />
-    <Game crc32="BF822264" md5="7a7039c30d9c5ce48bf9022e894c0ffa" bytes="131088"
-        en=""
-        zhcn="沙罗曼蛇"
-    />
-    <Game crc32="66A30110" md5="d8d5701f56c4e3f83a106fa8e01c669f" bytes="524304"
-        zhcn="闪亮亮星星之夜DX"
-    />
-    <Game crc32="CFDF0DC5" md5="28489971d1a6bd569395af2adcd257bc" bytes="393232"
-        zhcn="上尉密令(中)"
-    />
-    <Game crc32="7254D53D" md5="f8fecf25d3ae13d95ddfd241865e6340" bytes="262160"
-        zhcn="上尉密令"
-    />
-    <Game crc32="90E97A73" md5="9e95690b3a7394abbcc9c11484f3867b" bytes="524304"
-        zhcn="圣斗士星矢 黄金传说完结篇(中)"
-    />
-    <Game crc32="55EB8DDA" md5="7cad6d1d8d369396b30e24ae82e65999" bytes="393232"
-        zhcn="圣铃传说(中)"
-    />
-    <Game crc32="D36393DD" md5="6bdb58e87ba2494be3ea9afaaa3654ff" bytes="393232"
-        en=""
-        zhcn="圣铃传说"
-    />
-    <Game crc32="DDEFFA9F" md5="768d9a3fb61c9726f6b4ae7d4e134bc0" bytes="262288"
-        en="Double Dragon"
-        zhcn="双截龙"
-    />
-    <Game crc32="62AFE166" md5="79aa819580967ffb27a9698efbf493b9" bytes="262160"
-        en="Double Dragon"
-        zhcn="双截龙"
-    />
-    <Game crc32="77FAF439" md5="f1ed2ac7cbdf2cd068645587676bf2a5" bytes="327696"
-        zhcn="双截龙2(中)"
-    />
-    <Game crc32="A0F7027D" md5="b94be0bf2e861bca19339920cd786f53" bytes="262160"
-        en="Double Dragon II - The Revenge"
-        zhcn="双截龙2"
-    />
-    <Game crc32="459520CD" md5="2d860f72595401c85ac3e7edf1753903" bytes="262288"
-        zhcn="双截龙3(中)"
-    />
-    <Game crc32="4CB917BC" md5="687ce75c0d83e17100fbb722142f3d4f" bytes="294928"
-        zhcn="双截龙3(中)"
-    />
-    <Game crc32="558F9A33" md5="774e0f994c95d59c916c0070f39d430e" bytes="65552"
-        zhcn="双蛇城"
-    />
-    <Game crc32="DEDFA5BB" md5="7662efe95d5d8fc2f94584a6d1bfa9a7" bytes="262160"
-        zhcn="四人街霸"
-    />
-    <Game crc32="1C63B350" md5="a68198565714d44193e87eca5a95f7ed" bytes="393232"
-        zhcn="松鼠大作战(中)"
-    />
-    <Game crc32="4ACC32BA" md5="0a3063be23e3c65fdc0e06e8abe6dfc3" bytes="393232"
-        zhcn="松鼠大作战2(中)"
-    />
-    <Game crc32="A1C631FA" md5="d9410806897d2b1740dce169788677af" bytes="393232"
-        zhcn="松鼠大作战2(中)"
-    />
+	<Game crc32="BF2F1CF3" bytes="262160"
+		en="Mighty Final Fight"
+		zhcn="SD快打旋风(中)"
+	/>
+	<Game crc32="48A8E7EE" bytes="294928"
+		en="Mighty Final Fight"
+		zhcn="SD快打旋风(中)"
+	/>
+	<Game crc32="15EB0BEE" bytes="262160"
+		en="Mighty Final Fight"
+		zhcn="SD快打旋风"
+	/>
+	<Game crc32="A8A91912" bytes="278544"
+		en="Mitsume Ga Tooru"
+		zhcn="三目童子(中)"
+	/>
+	<Game crc32="A6A0146A" bytes="786464"
+		en="Mitsume Ga Tooru"
+		zhcn="三目童子"
+	/>
+	<Game crc32="274EB12A" bytes="24592"
+		en="Pooyan"
+		zhcn="三只小猪(中)"
+	/>
+	<Game crc32="FBAAB889" bytes="24592"
+		en="Pooyan"
+		zhcn="三只小猪"
+	/>
+	<Game crc32="95184260" bytes="393232"
+		en="Life Force"
+		zhcn="沙罗曼蛇(中)"
+	/>
+	<Game crc32="BF822264" bytes="131088"
+		en="Life Force"
+		zhcn="沙罗曼蛇"
+	/>
+	<Game crc32="66A30110" bytes="524304"
+		en="Kira Kira Star Night DX"
+		zhcn="闪亮亮星星之夜DX"
+	/>
+	<Game crc32="CFDF0DC5" bytes="393232"
+		en="Captain America and the Avengers"
+		zhcn="上尉密令(中)"
+	/>
+	<Game crc32="7254D53D" bytes="262160"
+		en="Captain America and the Avengers"
+		zhcn="上尉密令"
+	/>
+	<Game crc32="90E97A73" bytes="524304"
+		en="Saint Seiya - Ougon Densetsu Kanketsu Hen"
+		zhcn="圣斗士星矢 黄金传说完结篇(中)"
+	/>
+	<Game crc32="55EB8DDA" bytes="393232"
+		en="Little Samson"
+		zhcn="圣铃传说(中)"
+	/>
+	<Game crc32="D36393DD" bytes="393232"
+		en="Little Samson"
+		zhcn="圣铃传说"
+	/>
+	<Game crc32="DDEFFA9F" bytes="262288"
+		en="Double Dragon"
+		zhcn="双截龙"
+	/>
+	<Game crc32="62AFE166" bytes="262160"
+		en="Double Dragon"
+		zhcn="双截龙"
+	/>
+	<Game crc32="77FAF439" bytes="327696"
+		en="Double Dragon II - The Revenge"
+		zhcn="双截龙2(中)"
+	/>
+	<Game crc32="A0F7027D" bytes="262160"
+		en="Double Dragon II - The Revenge"
+		zhcn="双截龙2"
+	/>
+	<Game crc32="459520CD" bytes="262288"
+		en="Double Dragon III - The Sacred Stones"
+		zhcn="双截龙3(中)"
+	/>
+	<Game crc32="4CB917BC" bytes="294928"
+		en="Double Dragon III - The Sacred Stones"
+		zhcn="双截龙3(中)"
+	/>
+	<Game crc32="558F9A33" bytes="65552"
+		en="Snake Rattle N Roll"
+		zhcn="双蛇城"
+	/>
+	<Game crc32="DEDFA5BB" bytes="262160"
+		zhcn="四人街霸"
+	/>
+	<Game crc32="1C63B350" bytes="393232"
+		en="Chip 'n Dale - Rescue Rangers"
+		zhcn="松鼠大作战(中)"
+	/>
+	<Game crc32="4ACC32BA" bytes="393232"
+		en="Chip 'n Dale - Rescue Rangers 2"
+		zhcn="松鼠大作战2(中)"
+	/>
+	<Game crc32="A1C631FA" bytes="393232"
+		en="Chip 'n Dale - Rescue Rangers 2"
+		zhcn="松鼠大作战2(中)"
+	/>
 </Game-List>

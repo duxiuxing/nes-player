@@ -1,24 +1,27 @@
 <?xml version='1.0' encoding='utf-8'?>
 <Game-List name="N" rom-exists="true">
-    <Game crc32="7C39CAFF" md5="121ab23dd0b5601e201ef5c7fd1a8c14" bytes="24720"
-        zhcn="南极大冒险(中)"
-    />
-    <Game crc32="3D219A56" md5="bef492e8d35ddb789027781987e70cec" bytes="270352"
-        en="Power Blade"
-        zhcn="能源战士"
-    />
-    <Game crc32="F8E0BC9B" md5="7c48ad4d6b511f7ce6530c46f8179d9c" bytes="262160"
-        en="Power Blade 2"
-        zhcn="能源战士2"
-    />
-    <Game crc32="3ADFA2E2" md5="03dafe96828e4a4ef8717bc1390a6d13" bytes="262160"
-        zhcn="鸟人战队(中)"
-    />
-    <Game crc32="9D89760B" md5="2fd91bed775ed59a4e70c913e88e60e6" bytes="786464"
-        en=""
-        zhcn="怒三代"
-    />
-    <Game crc32="A09B854A" md5="93fa9447a160a704fe69835326923212" bytes="262287"
-        zhcn="怒三代"
-    />
+	<Game crc32="7C39CAFF" bytes="24720"
+		en="Kekkyoku Nankyoku Daibouken"
+		zhcn="南极大冒险(中)"
+	/>
+	<Game crc32="3D219A56" bytes="270352"
+		en="Power Blade"
+		zhcn="能源战士"
+	/>
+	<Game crc32="F8E0BC9B" bytes="262160"
+		en="Power Blade 2"
+		zhcn="能源战士2"
+	/>
+	<Game crc32="3ADFA2E2" bytes="262160"
+		en="Choujin Sentai Jetman"
+		zhcn="鸟人战队(中)"
+	/>
+	<Game crc32="9D89760B" bytes="786464"
+		en="Ikari III - The Rescue"
+		zhcn="怒三代"
+	/>
+	<Game crc32="A09B854A" bytes="262287"
+		en="Ikari III - The Rescue"
+		zhcn="怒三代"
+	/>
 </Game-List>

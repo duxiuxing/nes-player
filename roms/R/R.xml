@@ -1,102 +1,121 @@
 <?xml version='1.0' encoding='utf-8'?>
 <Game-List name="R" rom-exists="true">
-    <Game crc32="576BBAA3" md5="854eb21c6eeabef589091c086c4c32ef" bytes="917536"
-        zhcn="热血高校躲避球部 足球篇(中)"
-    />
-    <Game crc32="C1B03E1C" md5="605fe38e1c51dcd3ab73c019c69bdeb7" bytes="262160"
-        zhcn="热血高校躲避球部(中)"
-    />
-    <Game crc32="362C868E" md5="e26b088f3c6857806f7cc4a3050614f1" bytes="786464"
-        zhcn="热血高校躲避球部(中)"
-    />
-    <Game crc32="71CC0E65" md5="746529c23e20e11fc1f0f078ddb1575d" bytes="408768"
-        zhcn="热血格斗传说(中)"
-    />
-    <Game crc32="39735B13" md5="1edf1b61442a747fe4266bdf9f1fac31" bytes="524304"
-        zhcn="热血街头篮球(中)"
-    />
-    <Game crc32="AED05FB2" md5="5bcdd3d3ada10db7d9e252adfc53ce2c" bytes="483344"
-        zhcn="热血进行曲(中)"
-    />
-    <Game crc32="7B7B436B" md5="a57b38baee2110c5b19527ba9df231cf" bytes="524304"
-        zhcn="热血曲棍球部(中)"
-    />
-    <Game crc32="D6E01090" md5="0fd4eca17821d529a4fbc497035d7885" bytes="393232"
-        zhcn="热血时代剧(中)"
-    />
-    <Game crc32="E09E6214" md5="04bcc2a2c1c9c6096784d42bfccb7011" bytes="393232"
-        zhcn="热血物语(中)"
-    />
-    <Game crc32="AD9D4D85" md5="2219657ece9e67abe891f93b8f491df9" bytes="524304"
-        zhcn="热血新记录(中)"
-    />
-    <Game crc32="94DAB06A" md5="24dd759b342ad1eada559176c7e0e195" bytes="131088"
-        zhcn="热血硬派"
-    />
-    <Game crc32="C88B6B38" md5="a7243a5437042393ce4556b931229316" bytes="393232"
-        zhcn="热血足球联盟(中)"
-    />
-    <Game crc32="33CB50EC" md5="d1ea8bf54956bfa5b422da43723bc737" bytes="393232"
-        zhcn="热血足球联盟(中)"
-    />
-    <Game crc32="DDF60E0F" md5="ee244efcc246b4f8151e07ee51e381ce" bytes="294944"
-        zhcn="人间兵器(中)"
-    />
-    <Game crc32="7934C198" md5="80444bfdbcfe2973418500a99693af5d" bytes="262160"
-        zhcn="忍者茶茶丸 银河大作战"
-    />
-    <Game crc32="D0D04A1F" md5="546bde8434c6c1927a8cb9d0385603c7" bytes="32784"
-        zhcn="忍者茶茶丸(中)"
-    />
-    <Game crc32="E00264B5" md5="0e4978aaab59bb47fb85b094df91ee02" bytes="24592"
-        zhcn="忍者大决战"
-    />
-    <Game crc32="29BE6BBA" md5="3ed008f5279a927d564faad5cbf5cb3a" bytes="24592"
-        zhcn="忍者君"
-    />
-    <Game crc32="37063E51" md5="02bb2eca9cab8b8ad0eb67e06678fe7b" bytes="131088"
-        zhcn="忍者君2(中)"
-    />
-    <Game crc32="1294298B" md5="49e7e5b641d41b4e5d8c919e187647e7" bytes="131088"
-        zhcn="忍者君2"
-    />
-    <Game crc32="BA7818A1" md5="8cba2ce8b55408b6c8cd1387467abc07" bytes="262160"
-        zhcn="忍者龙剑传(中)"
-    />
-    <Game crc32="E3F69FA2" md5="0dd8770e9d9669d8dfcc79879bd96b05" bytes="335888"
-        zhcn="忍者龙剑传2(中)"
-    />
-    <Game crc32="2053E431" md5="53b4fb3bc1d75b8f5c00d61a640010f8" bytes="348817"
-        zhcn="忍者龙剑传3(中)"
-    />
-    <Game crc32="BA865119" md5="75be7ec69bb2bec76686440c9d1adcf3" bytes="344080"
-        zhcn="忍者龙剑传3(中)"
-    />
-    <Game crc32="3F59CB21" md5="bb612399f07739e4926f9b852aa132c1" bytes="524304"
-        zhcn="忍者猫(中)"
-    />
-    <Game crc32="83213CA0" md5="5e24ccd733d15e42d847274e7add0a76" bytes="262160"
-        zhcn="忍者神龟"
-    />
-    <Game crc32="E8F95884" md5="d5138292cff72e3800000f3a84a3e818" bytes="524304"
-        zhcn="忍者神龟2(中)"
-    />
-    <Game crc32="480D2753" md5="4ffab3059c92b272961ed369d216a22b" bytes="786960"
-        zhcn="忍者神龟3(中)"
-    />
-    <Game crc32="299D1E7F" md5="974eb26da0b8abda5120a5c0da7525b9" bytes="311312"
-        zhcn="忍者神龟格斗(中)"
-    />
-    <Game crc32="61CC9F53" md5="a1745a16c4b2b2c64772000071600b04" bytes="294928"
-        zhcn="忍者神龟格斗(中)"
-    />
-    <Game crc32="0500BFBF" md5="90dbb091e53eb13b7ae25d48154e80e9" bytes="262160"
-        zhcn="忍者蛙"
-    />
-    <Game crc32="BA9164E7" md5="bbafead19c25b38a5a129bb8c51aaf8d" bytes="262160"
-        zhcn="忍者蛙"
-    />
-    <Game crc32="53B02F3D" md5="35933222cf8658f7c6679fc7de630aaa" bytes="262160"
-        zhcn="忍者蛙和双截龙"
-    />
+	<Game crc32="576BBAA3" bytes="917536"
+		zhcn="热血高校躲避球部 足球篇(中)"
+	/>
+	<Game crc32="C1B03E1C" bytes="262160"
+		zhcn="热血高校躲避球部(中)"
+	/>
+	<Game crc32="362C868E" bytes="786464"
+		zhcn="热血高校躲避球部(中)"
+	/>
+	<Game crc32="71CC0E65" bytes="408768"
+		zhcn="热血格斗传说(中)"
+	/>
+	<Game crc32="39735B13" bytes="524304"
+		zhcn="热血街头篮球(中)"
+	/>
+	<Game crc32="AED05FB2" bytes="483344"
+		zhcn="热血进行曲(中)"
+	/>
+	<Game crc32="7B7B436B" bytes="524304"
+		zhcn="热血曲棍球部(中)"
+	/>
+	<Game crc32="D6E01090" bytes="393232"
+		zhcn="热血时代剧(中)"
+	/>
+	<Game crc32="E09E6214" bytes="393232"
+		zhcn="热血物语(中)"
+	/>
+	<Game crc32="AD9D4D85" bytes="524304"
+		zhcn="热血新记录(中)"
+	/>
+	<Game crc32="94DAB06A" bytes="131088"
+		en="Renegade"
+		zhcn="热血硬派"
+	/>
+	<Game crc32="C88B6B38" bytes="393232"
+		zhcn="热血足球联盟(中)"
+	/>
+	<Game crc32="33CB50EC" bytes="393232"
+		zhcn="热血足球联盟(中)"
+	/>
+	<Game crc32="DDF60E0F" bytes="294944"
+		zhcn="人间兵器(中)"
+	/>
+	<Game crc32="7934C198" bytes="262160"
+		en="Ninja Jajamaru - Ginga Daisakusen"
+		zhcn="忍者茶茶丸 银河大作战"
+	/>
+	<Game crc32="D0D04A1F" bytes="32784"
+		zhcn="忍者茶茶丸(中)"
+	/>
+	<Game crc32="E00264B5" bytes="24592"
+		en="Ikki"
+		zhcn="忍者大决战"
+	/>
+	<Game crc32="29BE6BBA" bytes="24592"
+		en="Ninja-kun - Majou no Bouken"
+		zhcn="忍者君"
+	/>
+	<Game crc32="37063E51" bytes="131088"
+		en="Ninja-kun - Ashura no Shou"
+		zhcn="忍者君2(中)"
+	/>
+	<Game crc32="1294298B" bytes="131088"
+		en="Ninja-kun - Ashura no Shou"
+		zhcn="忍者君2"
+	/>
+	<Game crc32="BA7818A1" bytes="262160"
+		en="Ninja Gaiden"
+		zhcn="忍者龙剑传(中)"
+	/>
+	<Game crc32="E3F69FA2" bytes="335888"
+		en="Ninja Gaiden II - The Dark Sword of Chaos"
+		zhcn="忍者龙剑传2(中)"
+	/>
+	<Game crc32="2053E431" bytes="348817"
+		en="Ninja Gaiden III - The Ancient Ship of Doom"
+		zhcn="忍者龙剑传3(中)"
+	/>
+	<Game crc32="BA865119" bytes="344080"
+		en="Ninja Gaiden III - The Ancient Ship of Doom"
+		zhcn="忍者龙剑传3(中)"
+	/>
+	<Game crc32="3F59CB21" bytes="524304"
+		en="Kyatto Ninden Teyandee"
+		zhcn="忍者猫(中)"
+	/>
+	<Game crc32="83213CA0" bytes="262160"
+		en="Teenage Mutant Ninja Turtles"
+		zhcn="忍者神龟"
+	/>
+	<Game crc32="E8F95884" bytes="524304"
+		en="Teenage Mutant Ninja Turtles II - The Arcade Game"
+		zhcn="忍者神龟2(中)"
+	/>
+	<Game crc32="480D2753" bytes="786960"
+		en="Teenage Mutant Ninja Turtles III - The Manhattan Project"
+		zhcn="忍者神龟3(中)"
+	/>
+	<Game crc32="299D1E7F" bytes="311312"
+		en="Teenage Mutant Ninja Turtles - Tournament Fighters"
+		zhcn="忍者神龟格斗(中)"
+	/>
+	<Game crc32="61CC9F53" bytes="294928"
+		en="Teenage Mutant Ninja Turtles - Tournament Fighters"
+		zhcn="忍者神龟格斗(中)"
+	/>
+	<Game crc32="0500BFBF" bytes="262160"
+		en="Battletoads"
+		zhcn="忍者蛙"
+	/>
+	<Game crc32="BA9164E7" bytes="262160"
+		en="Battletoads"
+		zhcn="忍者蛙"
+	/>
+	<Game crc32="53B02F3D" bytes="262160"
+		en="Battletoads &amp; Double Dragon"
+		zhcn="忍者蛙和双截龙"
+	/>
 </Game-List>

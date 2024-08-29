@@ -1,88 +1,103 @@
 <?xml version='1.0' encoding='utf-8'?>
 <Game-List name="H" rom-exists="true">
-    <Game crc32="B4D15D85" md5="9182b9d8a8aa73259e73c863d79ccc73" bytes="262160"
-        en=""
+    <Game crc32="B4D15D85" bytes="262160"
+        en="Metal Gear"
         zhcn="合金装备(中)"
     />
-    <Game crc32="0D5A8655" md5="f59ce6864d1ff43f275c2ff431102d0b" bytes="262287"
-        en=""
+    <Game crc32="0D5A8655" bytes="262287"
+        en="Snake's Revenge"
         zhcn="合金装备2"
     />
-    <Game crc32="FCEA0FA9" md5="a53086064c297d0206fccbb7094759bd" bytes="40976"
+    <Game crc32="FCEA0FA9" bytes="40976"
+        en="Othello"
         zhcn="黑白棋(中)"
     />
-    <Game crc32="90BBACE9" md5="5dff8ed1e38d0a7ec746c8f5a7849c40" bytes="24592"
+    <Game crc32="90BBACE9" bytes="24592"
+        en="Sky Destroyer"
         zhcn="红巾特攻队(中)"
     />
-    <Game crc32="519E4B83" md5="be03ec65b29caca9244d38e66d99bd5f" bytes="65552"
-        en=""
+    <Game crc32="519E4B83" bytes="65552"
+        en="Sky Destroyer"
         zhcn="红巾特攻队"
     />
-    <Game crc32="183E43FF" md5="56e070670b318a96cd3a7060fdaa9c31" bytes="188432"
+    <Game crc32="183E43FF" bytes="188432"
+        en="Side Pocket"
         zhcn="花式撞球(中)"
     />
-    <Game crc32="E34DA569" md5="7c7e9fde2f1a29d4d36e7f0cc1811e32" bytes="188432"
+    <Game crc32="E34DA569" bytes="188432"
+        en="Side Pocket"
         zhcn="花式撞球(中)"
     />
-    <Game crc32="6B8F23E0" md5="b7323d5cf56f4049e20d44815ca6c45a" bytes="131088"
-        en=""
+    <Game crc32="6B8F23E0" bytes="131088"
+        en="Gun.Smoke"
         zhcn="荒野大镖客"
     />
-    <Game crc32="391E4BA0" md5="9e9e968fed807982eb0a66e801b2751f" bytes="262160"
+    <Game crc32="391E4BA0" bytes="262160"
         en="Contra - Revenge of the Red Falcon"
         zhcn="魂斗罗 红隼的复仇"
         zhtw="魂斗羅 紅隼的復仇"
     />
-    <Game crc32="392E91D1" md5="406b6c76132ed9e41afd89b108bd405f" bytes="393232" zhcn="魂斗罗(改)"
+    <Game crc32="392E91D1" bytes="393232"
+        en="Contra"
+        zhcn="魂斗罗(改)"
         zhtw="魂斗羅(改)"
     />
-    <Game crc32="4D9E53AF" md5="1a70e2040235e9c007efeac666503601" bytes="393232"
+    <Game crc32="4D9E53AF" bytes="393232"
+        en="Contra"
         zhcn="魂斗罗(中)"
     />
-    <Game crc32="2A39628D" md5="7e9b74e6b2f0f4ca91d2e32fce356867" bytes="393232"
+    <Game crc32="2A39628D" bytes="393232"
+        en="Contra"
         zhcn="魂斗罗(中)"
         zhtw="魂斗羅(中)"
     />
-    <Game crc32="C50A8304" md5="7bdad8b4a7a56a634c9649d20bd3011b" bytes="131088"
+    <Game crc32="C50A8304" bytes="131088"
         en="Contra"
         zhcn="魂斗罗"
         zhtw="魂斗羅"
     />
-    <Game crc32="063FCAC7" md5="82f2703bc593cacae792e92120385e66" bytes="262160"
+    <Game crc32="063FCAC7" bytes="262160"
         zhcn="魂斗罗7 超级战魂(改)"
     />
-    <Game crc32="7573F4E2" md5="925cc277e18b1b4f6a9929c4cc1fe277" bytes="262160"
+    <Game crc32="7573F4E2" bytes="262160"
         zhcn="魂斗罗7 超级战魂(中)"
     />
-    <Game crc32="41231542" md5="79c2bba85e94d4cfaa8054e7c7e92c6e" bytes="278544"
+    <Game crc32="41231542" bytes="278544"
+        en="Contra Force"
         zhcn="魂斗罗力量(中)"
         zhtw="魂斗羅力量(中)"
     />
-    <Game crc32="A1CD5D54" md5="12be2da81d3fac1442a9ce4d802ec2e3" bytes="262288"
+    <Game crc32="A1CD5D54" bytes="262288"
+        en="Contra Force"
         zhcn="魂斗罗力量"
     />
-    <Game crc32="83D69922" md5="af7bb9a170ba5728829c3080035e897a" bytes="262160"
+    <Game crc32="83D69922" bytes="262160"
         en="Contra Force"
         zhcn="魂斗罗力量"
         zhtw="魂斗羅力量"
     />
-    <Game crc32="352F9A62" md5="d602de6f90c301f2deea26d41ff8ad1c" bytes="24592"
+    <Game crc32="352F9A62" bytes="24592"
+        en="Exerion"
         zhcn="火凤凰"
     />
-    <Game crc32="EC3C6A5B" md5="7e91813a9ca491f5a4d06334d18a6c80" bytes="24592"
+    <Game crc32="EC3C6A5B" bytes="24592"
+        en="Road Fighter"
         zhcn="火箭车"
     />
-    <Game crc32="133E6A77" md5="e7ba7698a7a27fb20378849e3c5d3373" bytes="65552" en=""
+    <Game crc32="133E6A77" bytes="65552"
+        en="Road Fighter"
         zhcn="火箭车"
     />
-    <Game crc32="BB1F683D" md5="76d02cda47f28006b3f257a28d2f1ac3" bytes="262160"
-        en=""
+    <Game crc32="BB1F683D" bytes="262160"
+        en="The Rocketeer"
         zhcn="火箭人"
     />
-    <Game crc32="BC93215D" md5="43bf70e79caf2f1258b583d7cdf38d08" bytes="262160"
+    <Game crc32="BC93215D" bytes="262160"
+        en="Vice - Project Doom"
         zhcn="火炮"
     />
-    <Game crc32="19CCF008" md5="780ffdcb1ecf18a090719704a7c35f0b" bytes="131088"
+    <Game crc32="19CCF008" bytes="131088"
+        en="Hi no Tori Hououhen - Gaou no Bouken"
         zhcn="火之鸟"
     />
 </Game-List>

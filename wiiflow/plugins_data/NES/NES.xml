@@ -865,10 +865,10 @@ Une suite du jeu The Cheetahmen d'Action 52 fut annoncée. Presque achevé, le j
       <control type="coop" required="true"/>
     </input>
   </game>
-  <game name="Action In New York">
+  <game name="S.C.A.T. - Special Cybernetic Attack Team">
     <id>1988AA</id>
     <locale lang="EN">
-      <title>S.C.A.T. : Special Cybernetic Attack Team</title>
+      <title>S.C.A.T. - Special Cybernetic Attack Team</title>
       <synopsis>In a humorous take on the eighties' sci-fi judgment day films, you either play Arnold or Sigourney in a mission to save the world. The year is 2029 and an alien invasion, led by Supreme Commander Vile Malmort, threatens the earth.
 
 The heroes are equipped with a jet pack and two orbiting cannons. These can be set to fire in one direction or in a fixed pattern. You can fly in all directions and use power-ups to gain new types of weapons or to restore health. Only seven lives per mission are provided, but there is an unlimited amount of continues.</synopsis>
@@ -1218,6 +1218,9 @@ The gameplay and the design haven't much changed since Adventure Island II: Alie
     <locale lang="JA">
       <title>Takahashi Meijin no Bouken-jima III</title>
     </locale>
+    <locale lang="ZHCN">
+      <title>冒险岛3</title>
+    </locale>
     <developer>Hudson</developer>
     <publisher>Hudson</publisher>
     <date year="1992" month="07" day="31"/>
@@ -1230,7 +1233,7 @@ The gameplay and the design haven't much changed since Adventure Island II: Alie
       <control type="gamecube" required="false"/>
     </input>
   </game>
-  <game name="Adventure Island 2">
+  <game name="Adventure Island II">
     <id>1436AA</id>
     <locale lang="EN">
       <title>Adventure Island II</title>
@@ -1256,6 +1259,9 @@ Adventure Island II est un jeu de plate-forme à scrolling horizontal. Le joueur
     </locale>
     <locale lang="JA">
       <title>Takahashi Meijin no Bouken-jima II</title>
+    </locale>
+    <locale lang="ZHCN">
+      <title>冒险岛2</title>
     </locale>
     <developer>Hudson</developer>
     <publisher>Hudson</publisher>
@@ -1293,6 +1299,9 @@ Adventure Island est le premier opus de la série de jeu de plates-formes sur Ne
     </locale>
     <locale lang="JA">
       <title>Takahashi Meijin no Bouken-jima</title>
+    </locale>
+    <locale lang="ZHCN">
+      <title>冒险岛</title>
     </locale>
     <developer>Hudson</developer>
     <publisher>Hudson</publisher>
@@ -4430,6 +4439,9 @@ A player winning 10 consecutive points automatically wins the game.</synopsis>
     <locale lang="JA">
       <title>Balloon Fight</title>
     </locale>
+    <locale lang="ZHCN">
+      <title>气球大战</title>
+    </locale>
     <developer>Nintendo</developer>
     <publisher>Nintendo</publisher>
     <date year="1984" month="" day=""/>
@@ -5490,6 +5502,9 @@ The NES game includes a construction mode, so you can make your own levels when 
     <locale lang="JA">
       <title>Battle City</title>
     </locale>
+    <locale lang="ZHCN">
+      <title>坦克大战</title>
+    </locale>
     <developer>Namco</developer>
     <publisher>Namco</publisher>
     <date year="1985" month="09" day="09"/>
@@ -5750,6 +5765,9 @@ Você precisará lutar enquanto avança, as vezes usando pranchas e foguetes, di
 Ao final você encontrará a Torre da Sombras, onde lhe espera a rainha de escuridão. E aí? Vai encarar Sapo? Vamos ver se você se atreve e tem coragem!</synopsis>
       <genre>Briga de rua,Ação</genre>
     </locale>
+    <locale lang="ZHCN">
+      <title>忍者蛙</title>
+    </locale>
     <developer>Rareware</developer>
     <publisher>Tradewest</publisher>
     <date year="1991" month="06" day="02"/>
@@ -5762,7 +5780,7 @@ Ao final você encontrará a Torre da Sombras, onde lhe espera a rainha de escur
       <control type="gamecube" required="false"/>
     </input>
   </game>
-  <game name="Battletoads And Double Dragon">
+  <game name="Battletoads &amp; Double Dragon">
     <id>1249AA</id>
     <locale lang="EN">
       <title>Battletoads &amp; Double Dragon</title>
@@ -5781,6 +5799,9 @@ The Battletoads, who are well aware of evil forces in the galaxy, join forces wi
     </locale>
     <locale lang="DE">
       <genre>Beat'em Up</genre>
+    </locale>
+    <locale lang="ZHCN">
+      <title>忍者蛙和双截龙</title>
     </locale>
     <developer>Rareware</developer>
     <publisher>Tradewest</publisher>
@@ -7741,10 +7762,10 @@ Bucky O Hare es un juego de acción de desplazamiento lateral basado en la histo
       <control type="gamecube" required="false"/>
     </input>
   </game>
-  <game name="Bugs Bunny Birthday Blowout, The">
+  <game name="The Bugs Bunny Birthday Blowout">
     <id>71546A</id>
     <locale lang="EN">
-      <title>Bugs Bunny Birthday Blowout, The</title>
+      <title>The Bugs Bunny Birthday Blowout</title>
       <synopsis>The Bugs Bunny Birthday Blowout takes place as Bugs is invited to his 50th birthday. Because some of the other Warner Bros. toons weren't invited (including Wile E. Coyote), they decided to stop Bugs from going to this party.
 
 A Warner Bros licensed game, The Bugs Bunny Birthday Blowout is a 2d side-scrolling platform game. Bugs can jump over and on some enemies and try to collect as many carrots as possible. Bugs can use his hammer in order to smash enemies as well as to find some secrets.</synopsis>
@@ -7766,6 +7787,9 @@ A Warner Bros licensed game, The Bugs Bunny Birthday Blowout is a 2d side-scroll
     <locale lang="JA">
       <title>Happy Birthday Bugs</title>
     </locale>
+    <locale lang="ZHCN">
+      <title>兔八哥 生日快乐</title>
+    </locale>
     <developer>Kemco</developer>
     <publisher>Kemco</publisher>
     <date year="1990" month="08" day="03"/>
@@ -7778,7 +7802,7 @@ A Warner Bros licensed game, The Bugs Bunny Birthday Blowout is a 2d side-scroll
       <control type="gamecube" required="false"/>
     </input>
   </game>
-  <game name="Bugs Bunny Crazy Castle, The">
+  <game name="The Bugs Bunny Crazy Castle">
     <id>1498AA</id>
     <locale lang="EN">
       <title>The Bugs Bunny Crazy Castle</title>
@@ -7798,6 +7822,9 @@ A Warner Bros licensed game, The Bugs Bunny Birthday Blowout is a 2d side-scroll
     </locale>
     <locale lang="PT">
       <genre>Ação,Plataforma,Estratégia</genre>
+    </locale>
+    <locale lang="ZHCN">
+      <title>兔八哥 疯狂城堡</title>
     </locale>
     <developer>Kotobuki System</developer>
     <publisher>Kemco</publisher>
@@ -8190,7 +8217,7 @@ Después de que todos los eventos se completan los records mundiales del jugador
       <control type="gamecube" required="false"/>
     </input>
   </game>
-  <game name="Captain America And The Avengers">
+  <game name="Captain America and the Avengers">
     <id>1762AA</id>
     <locale lang="EN">
       <title>Captain America and the Avengers</title>
@@ -8235,6 +8262,9 @@ Luchan entre sí hasta que un jugador ha ganado tres rondas.</synopsis>
     </locale>
     <locale lang="DE">
       <genre>Action</genre>
+    </locale>
+    <locale lang="ZHCN">
+      <title>上尉密令</title>
     </locale>
     <developer>Data East</developer>
     <publisher>Data East</publisher>
@@ -9624,7 +9654,7 @@ Malgré leur nom, les dames chinoises ne sont pas d'origine chinoise. En 1883, l
   <game name="Chip 'n Dale - Rescue Rangers">
     <id>1314AA</id>
     <locale lang="EN">
-      <title>Chip 'N Dale : Rescue Rangers</title>
+      <title>Chip 'n Dale - Rescue Rangers</title>
       <synopsis>The rescue rangers are tiny heroes. Consisting of two chipmunks, two mice and a fly... these heroes may be small but there's no case too big for them to take on. This game starts out simply enough, with a mission to rescue a small kitten, but soon escalates into a wider plot that pits the rescue rangers against their arch-nemesis, the feline kingpin, Fat Cat.</synopsis>
       <genre>Platform</genre>
     </locale>
@@ -9646,6 +9676,9 @@ Malgré leur nom, les dames chinoises ne sont pas d'origine chinoise. En 1883, l
     <locale lang="JA">
       <title>Chip to Dale no Daisakusen</title>
     </locale>
+    <locale lang="ZHCN">
+      <title>松鼠大作战</title>
+    </locale>
     <developer>Capcom</developer>
     <publisher>Capcom</publisher>
     <date year="1990" month="06" day="01"/>
@@ -9661,7 +9694,7 @@ Malgré leur nom, les dames chinoises ne sont pas d'origine chinoise. En 1883, l
   <game name="Chip 'n Dale - Rescue Rangers 2">
     <id>1382AA</id>
     <locale lang="EN">
-      <title>Chip 'N Dale : Rescue Rangers 2</title>
+      <title>Chip 'n Dale - Rescue Rangers 2</title>
       <synopsis>Following the first Rescue Rangers game, the Rangers' overcame the plot of their arch-nemesis Fatcat, and locked him up in the prison/pound. However, Fatcat's henchmen have sprung him from prison by blimp. Suddenly a television news anchor is reporting that there is a bomb threat in a local restaurant. The Rescue Rangers take it upon themselves to save the day only to learn that the whole bomb scare was a diversion in order to allow Fatcat to steal an artifact known as the Urn of the Pharoah. The team must track Fatcat and learn what he has in store for the stolen goods.
 
 Like the previous game, Chip &amp; Dale's Rescue Rangers 2 is a side-scrolling action game where 2 players can play simultaneously as Chip &amp; Dale, or 1 player can control either chipmunk. Our heroes must conquer a series of oversized (from their perspective) stages in order to thwart Fatcat's nefarious schemes. For example, the first stage has the chipmunks hopping across the tables, chairs, and counters of a restaurant, and on through the kitchen. Many enemies try to slow the player's progress. The chipmunks' offensive ability is to pick up any of the copious blocks that litter the landscape and toss it in any of 5 directions (sideways, up, and diagonal-up). Along the way, there are scattered RR blocks for the heroes to collect. The other members of the Rescue Rangers -- Monty, Gadget, and Zipper -- are on hand to lend help out at key junctures.</synopsis>
@@ -9687,6 +9720,9 @@ Como o jogo anterior, Chip 'n Dale Rescue Rangers 2 é um jogo de ação de rola
     </locale>
     <locale lang="JA">
       <title>Chip to Dale no Daisakusen 2</title>
+    </locale>
+    <locale lang="ZHCN">
+      <title>松鼠大作战2</title>
     </locale>
     <developer>Capcom</developer>
     <publisher>Capcom</publisher>
@@ -9856,6 +9892,9 @@ The game features four difficulty levels (2 hidden),  a password system, and a "
     <locale lang="JA">
       <title>Choujin Sentai Jetman</title>
     </locale>
+    <locale lang="ZHCN">
+      <title>鸟人战队</title>
+    </locale>
     <developer>Natsume Co., Ltd.</developer>
     <publisher>Angel</publisher>
     <date year="1991" month="12" day="21"/>
@@ -9953,6 +9992,9 @@ Vous volez à travers les niveaux pour manger plusieurs aliments différents afi
     </locale>
     <locale lang="JA">
       <title>Obake no Q Tarou : Wanwan Panic</title>
+    </locale>
+    <locale lang="ZHCN">
+      <title>Q太郎</title>
     </locale>
     <developer>Tose Co., Ltd.</developer>
     <publisher>Bandai</publisher>
@@ -10159,6 +10201,9 @@ Once you have completed all five stunts, you have to do them again and hopefully
     </locale>
     <locale lang="JA">
       <title>Circus Charlie</title>
+    </locale>
+    <locale lang="ZHCN">
+      <title>马戏团</title>
     </locale>
     <developer>Soft Pro</developer>
     <publisher>Konami</publisher>
@@ -10795,6 +10840,9 @@ As either, Bill (player 1) or Lance (player 2), the player must get to the end o
 
 Controlando Bill(jogador 1) ou Lance(jogador 2), o jogador deverá chegar ao final de cada fase, atirando em tudo que estiver ao alcance, evitando o fogo dos inimigos. O jogador pode melhorar seu rifle padrão com uma das quatro diferentes armas, incluindo o poderoso S(spread shot).</synopsis>
     </locale>
+    <locale lang="ZHCN">
+      <title>魂斗罗</title>
+    </locale>
     <developer>Konami</developer>
     <publisher>Konami</publisher>
     <date year="1988" month="02" day="02"/>
@@ -10844,6 +10892,9 @@ This is the third Contra game for the NES (and was released just after Contra II
     </locale>
     <locale lang="DE">
       <genre>Action</genre>
+    </locale>
+    <locale lang="ZHCN">
+      <title>魂斗罗力量</title>
     </locale>
     <developer>Konami</developer>
     <publisher>Konami</publisher>
@@ -11384,6 +11435,9 @@ Tous les niveaux sont foutus de la même façon : vous commencez en extérieur p
     </locale>
     <locale lang="DE">
       <genre>Action</genre>
+    </locale>
+    <locale lang="ZHCN">
+      <title>脱狱2</title>
     </locale>
     <developer>Kyugo Boueki</developer>
     <publisher>Kyugo Boueki</publisher>
@@ -12953,6 +13007,9 @@ El modo de juego se divide en dos partes. Comienzas en el modo de simulación, c
     <locale lang="JA">
       <title>Devil World</title>
     </locale>
+    <locale lang="ZHCN">
+      <title>恶魔世界</title>
+    </locale>
     <developer>Nintendo</developer>
     <publisher>Nintendo</publisher>
     <date year="1984" month="10" day="05"/>
@@ -14161,6 +14218,9 @@ Pero ahora los dos hermanos se encuentran frente a su reto definitivo. Marian, l
     <locale lang="JA">
       <title>Double Dragon : Sou Setsu Ryuu</title>
     </locale>
+    <locale lang="ZHCN">
+      <title>双截龙</title>
+    </locale>
     <developer>Technos</developer>
     <publisher>Tradewest</publisher>
     <date year="1988" month="04" day="08"/>
@@ -14191,10 +14251,10 @@ Pero ahora los dos hermanos se encuentran frente a su reto definitivo. Marian, l
     <date year=""/>
     <publisher/>
   </game>
-  <game name="Double Dragon 2 - The Revenge">
+  <game name="Double Dragon II - The Revenge">
     <id>1277AA</id>
     <locale lang="EN">
-      <title>Double Dragon II : The Revenge</title>
+      <title>Double Dragon II - The Revenge</title>
       <synopsis>The lovely Marian was rescued from the clutches of the Black Warriors gang by Billy &amp; Jimmy Lee in the first Double Dragon game, but now the gang has killed her in retaliation of their early defeat. The Dragons must now embark on a mission to avenge her death and defeat the Black Warriors for the second and final time.
 
 The original arcade version of "Double Dragon II" was essentially an improved version of the first game. In addition to offering renewed audio and visuals, as well as new traps, moves and enemy characters, "Double Dragon II" discarded the conventional punch and kick buttons in favor of a direction-oriented attacking system similar to the original Technos beat-em-up Renegade.
@@ -14218,6 +14278,9 @@ The Game Boy version of "Double Dragon II" is an English localization of a "Kuni
     <locale lang="JA">
       <title>Sou Setsu Ryuu II : The Revenge</title>
     </locale>
+    <locale lang="ZHCN">
+      <title>双截龙2</title>
+    </locale>
     <developer>Technos Japan</developer>
     <publisher>Acclaim Entertainment</publisher>
     <date year="1989" month="12" day="22"/>
@@ -14230,10 +14293,10 @@ The Game Boy version of "Double Dragon II" is an English localization of a "Kuni
       <control type="gamecube" required="false"/>
     </input>
   </game>
-  <game name="Double Dragon 3 - The Sacred Stones">
+  <game name="Double Dragon III - The Sacred Stones">
     <id>1379AA</id>
     <locale lang="EN">
-      <title>Double Dragon III : The Sacred Stones</title>
+      <title>Double Dragon III - The Sacred Stones</title>
       <synopsis>The final game in the trilogy.
 
 Billy and Jimmy Lee are returning from martial arts training when their paths cross a fortune teller. She tells them of a great evil in Egypt, their strongest adversary yet, and how the Rosetta Stones can aid them.
@@ -14267,6 +14330,9 @@ Los gráficos de los personajes han cambiado, alejándose de gráficos de estilo
     </locale>
     <locale lang="JA">
       <title>Sou Setsu Ryuu III : The Rosetta Stone</title>
+    </locale>
+    <locale lang="ZHCN">
+      <title>双截龙3</title>
     </locale>
     <developer>Technos Japan</developer>
     <publisher>Acclaim Entertainment</publisher>
@@ -14569,6 +14635,9 @@ Included in the game is the normal mode, a time trial, and a two player battle m
     </locale>
     <locale lang="DE">
       <genre>Strategie</genre>
+    </locale>
+    <locale lang="ZHCN">
+      <title>马里奥医生</title>
     </locale>
     <developer>Nintendo</developer>
     <publisher>Nintendo</publisher>
@@ -15691,6 +15760,9 @@ El juego cuenta con un modo de juego de plataformas de desplazamiento lateral en
     <locale lang="JA">
       <title>Wanpaku Duck Yume Bouken</title>
     </locale>
+    <locale lang="ZHCN">
+      <title>唐老鸭大冒险</title>
+    </locale>
     <developer>Capcom</developer>
     <publisher>Capcom</publisher>
     <date year="1989" month="09" day="14"/>
@@ -15734,6 +15806,9 @@ Caras conocidas como Huey, Dewey y Louie, Webby, la señora Beakley y Launchpad 
     </locale>
     <locale lang="JA">
       <title>DuckTales 2</title>
+    </locale>
+    <locale lang="ZHCN">
+      <title>唐老鸭大冒险2</title>
     </locale>
     <developer>Capcom</developer>
     <publisher>Capcom</publisher>
@@ -16568,6 +16643,9 @@ Create your own tracks by placing jumps and obstacles of all different sizes and
     <locale lang="PT">
       <genre>Esporte,Corrida, Pilotagem</genre>
     </locale>
+    <locale lang="ZHCN">
+      <title>机车大赛</title>
+    </locale>
     <developer>Nintendo</developer>
     <publisher>Nintendo</publisher>
     <date year="1984" month="11" day="30"/>
@@ -16663,6 +16741,9 @@ A challenge stage follows each stage in which you can build up your fast-shot bu
     </locale>
     <locale lang="JA">
       <title>Exerion</title>
+    </locale>
+    <locale lang="ZHCN">
+      <title>火凤凰</title>
     </locale>
     <developer>Jaleco</developer>
     <publisher>Taito</publisher>
@@ -19430,6 +19511,9 @@ To save time, you can switch between all six counselors, depending on where you 
     <locale lang="JA">
       <title>Front Line</title>
     </locale>
+    <locale lang="ZHCN">
+      <title>前线</title>
+    </locale>
     <developer>Taito</developer>
     <publisher>Taito</publisher>
     <date year="1985" month="08" day="01"/>
@@ -21399,7 +21483,7 @@ This is a traditionial side-scrolling game that uses a third-person view in cuts
     </input>
     <developer>Nintendo</developer>
   </game>
-  <game name="Goonies 2, The">
+  <game name="The Goonies II">
     <id>1437AA</id>
     <locale lang="EN">
       <title>The Goonies II</title>
@@ -21436,6 +21520,9 @@ Você vai lutar com cobras, aranhas, esqueletos, peixes comedores de homem, ao e
     <locale lang="JA">
       <title>Goonies 2 : Fratelli Saigo no Chousen</title>
     </locale>
+    <locale lang="ZHCN">
+      <title>七宝奇谋2</title>
+    </locale>
     <developer>Konami</developer>
     <publisher>Konami</publisher>
     <date year="1987" month="03" day="18"/>
@@ -21448,7 +21535,7 @@ Você vai lutar com cobras, aranhas, esqueletos, peixes comedores de homem, ao e
       <control type="gamecube" required="false"/>
     </input>
   </game>
-  <game name="Goonies, The">
+  <game name="The Goonies">
     <id>1559AA</id>
     <locale lang="EN">
       <title>The Goonies</title>
@@ -21471,6 +21558,9 @@ Unlike the sequel, the Famicom version was never released outside of Japan.</syn
     </locale>
     <locale lang="JA">
       <title>Goonies</title>
+    </locale>
+    <locale lang="ZHCN">
+      <title>七宝奇谋</title>
     </locale>
     <developer>Konami</developer>
     <publisher>Konami</publisher>
@@ -21854,7 +21944,7 @@ Gameplay consists of aiming the golf ball and then swinging the chosen golf club
       <control type="gamecube" required="false"/>
     </input>
   </game>
-  <game name="Guardian Legend, The">
+  <game name="The Guardian Legend">
     <id>1496AA</id>
     <locale lang="EN">
       <title>The Guardian Legend</title>
@@ -21879,6 +21969,9 @@ You take the role of the guardian.  Your mission is to activate the station's se
     </locale>
     <locale lang="JA">
       <title>Guardic Gaiden</title>
+    </locale>
+    <locale lang="ZHCN">
+      <title>嘉蒂外传</title>
     </locale>
     <developer>Irem</developer>
     <publisher>Compile</publisher>
@@ -21987,6 +22080,9 @@ Gun-Nac is a top down shooter in which the player controls the Federation starfi
     <locale lang="JA">
       <title>Gun Nac</title>
     </locale>
+    <locale lang="ZHCN">
+      <title>加纳战机</title>
+    </locale>
     <developer>Compile</developer>
     <publisher>ASCII</publisher>
     <date year="1990" month="10" day="05"/>
@@ -21999,7 +22095,7 @@ Gun-Nac is a top down shooter in which the player controls the Federation starfi
       <control type="gamecube" required="false"/>
     </input>
   </game>
-  <game name="Gun.smoke">
+  <game name="Gun.Smoke">
     <id>1431AA</id>
     <locale lang="EN">
       <title>Gun.Smoke</title>
@@ -22020,6 +22116,9 @@ On the NES you can tap the A button to fire up and right, the B button to fire u
     </locale>
     <locale lang="DE">
       <genre>Action</genre>
+    </locale>
+    <locale lang="ZHCN">
+      <title>荒野大镖客</title>
     </locale>
     <developer>Capcom</developer>
     <publisher>Capcom</publisher>
@@ -22535,6 +22634,9 @@ The first segment of stage five, At School, features a volleyball minigame, in w
     <locale lang="DE">
       <genre>Action</genre>
     </locale>
+    <locale lang="ZHCN">
+      <title>霹雳神兵</title>
+    </locale>
     <developer>Data East</developer>
     <publisher>Data East</publisher>
     <date year="1990" month="03" day="01"/>
@@ -22821,10 +22923,10 @@ En 3d isométrique, reprenant assez bien l'esprit du jeu plateau mais aux graphi
       <control type="gamecube" required="false"/>
     </input>
   </game>
-  <game name="Hi No Tori - Gaou No Bouken">
+  <game name="Hi no Tori Hououhen - Gaou no Bouken">
     <id>71406A</id>
     <locale lang="EN">
-      <title>Hi No Tori - Gaou No Bouken</title>
+      <title>Hi no Tori Hououhen - Gaou no Bouken</title>
       <synopsis>Based on the Osamu Tezuka manga "Phoenix", this platformer is mostly based on the fifth volume, "HÅ-Å" (later called "Karma" when it reached North America in May 2004). Here you play as the bandit Gaou, who lost an arm and eye as a baby and as such was </synopsis>
       <genre>Platform,Action</genre>
     </locale>
@@ -22843,6 +22945,9 @@ En 3d isométrique, reprenant assez bien l'esprit du jeu plateau mais aux graphi
     </locale>
     <locale lang="JA">
       <title>Hinotori : Houou Hen, Gaou no Bouken</title>
+    </locale>
+    <locale lang="ZHCN">
+      <title>火之鸟</title>
     </locale>
     <developer>Konami</developer>
     <publisher>Konami</publisher>
@@ -24078,6 +24183,9 @@ Pachio-kun, an anime-like pachinko ball that is famous for starring in the game 
     <locale lang="DE">
       <genre>Action</genre>
     </locale>
+    <locale lang="ZHCN">
+      <title>敲冰块</title>
+    </locale>
     <developer>Nintendo</developer>
     <publisher>Nintendo</publisher>
     <date year="1985" month="01" day="30"/>
@@ -24358,10 +24466,10 @@ Hect would follow up Igo Shinan with four sequels, each referring to the year in
     </input>
     <developer>Hect</developer>
   </game>
-  <game name="Ikari 3 - The Rescue">
+  <game name="Ikari III - The Rescue">
     <id>1694AA</id>
     <locale lang="EN">
-      <title>Ikari III : The Rescue</title>
+      <title>Ikari III - The Rescue</title>
       <synopsis>The presidential candidate's daughter has been kidnapped! It is your job to get past enemy lines and rescue her. This is the third game in the Ikari Warriors series, and features similar arcade/action gameplay. The screen is a top down view which scrolls vertically, with numerous bad guys to defeat. You start the game with just your fists, and as the levels progress you can find weapons and other objects to help you out.</synopsis>
       <genre>Action</genre>
     </locale>
@@ -24378,6 +24486,9 @@ Hect would follow up Igo Shinan with four sequels, each referring to the year in
     </locale>
     <locale lang="JA">
       <title>Ikari III</title>
+    </locale>
+    <locale lang="ZHCN">
+      <title>怒三代</title>
     </locale>
     <developer>SNK</developer>
     <publisher>SNK</publisher>
@@ -24581,6 +24692,9 @@ Le jeu se compose de quatre niveaux différents, le cinquième niveau étant une
     </locale>
     <locale lang="JA">
       <title>Ikki</title>
+    </locale>
+    <locale lang="ZHCN">
+      <title>忍者大决战</title>
     </locale>
     <developer>Tose Co., Ltd.</developer>
     <publisher>Sun Electronics Corp.</publisher>
@@ -26673,10 +26787,10 @@ Chaque étage contient de nombreuses clés et des portes verrouillées. N'import
       <control type="gamecube" required="false"/>
     </input>
   </game>
-  <game name="Kamen No Ninja - Akakage">
+  <game name="Kamen no Ninja - Akakage">
     <id>88391A</id>
     <locale lang="EN">
-      <title>Kamen No Ninja - Akakage</title>
+      <title>Kamen no Ninja - Akakage</title>
       <synopsis>Akakage is a ninja who wears a red-and-black costume and a stylized red mask. He was created by Japanese manga artist Mitsuteru Yokoyama. His adventures are set in Feudal Japan, where Akakage and his ninja sidekicks, Aokage (?? Blue Shadow, a little boy) and Shirokage (?? White Shadow, an old man) fight evil warlords. The ninjas use their superhuman fighting powers and high-tech gadgets to defeat these warlords in a genre referred to as daikaiju, in which protagonists combat a range of humanoid monsters.</synopsis>
       <genre>Action</genre>
     </locale>
@@ -26685,6 +26799,9 @@ Chaque étage contient de nombreuses clés et des portes verrouillées. N'import
     </locale>
     <locale lang="JA">
       <title>Kamen no Ninja : Akakage</title>
+    </locale>
+    <locale lang="ZHCN">
+      <title>假面忍者 赤影</title>
     </locale>
     <publisher>Touei Douga</publisher>
     <date year="1988" month="05" day="20"/>
@@ -26697,10 +26814,10 @@ Chaque étage contient de nombreuses clés et des portes verrouillées. N'import
       <control type="gamecube" required="false"/>
     </input>
   </game>
-  <game name="Kamen No Ninja - Hanamaru">
+  <game name="Kamen no Ninja - Hanamaru">
     <id>140881</id>
     <locale lang="EN">
-      <title>Kamen No Ninja - Hanamaru</title>
+      <title>Kamen no Ninja - Hanamaru</title>
       <synopsis>Kamen no Ninja Hanamaru is a side-scrolling platform game by Capcom. Hanamaru, a ninja boy in training, is sent on a mission to investigate bizarre happenings and disappearances. In a local theme park called Leisure Island, children have been mysteriously disappearing and these disappearances are being attributed to a ruthless rival gang of ninjas. Equipped with his red mask and a mechanical hawk, it is up to the brave Hanamaru to journey throughout the park's fourteen areas and to rescue the captive children. The young ninja can run, jump or allow his hawk companion to attack enemies at long range. He can also collect special scrolls to increase his magic powers and cast various spells (press Down and B to activate them) - they range from lightning attack (kills all enemies on screen), ground shake (kills all enemies on the ground), Fire Hawk (unleashes the hawk super dive attack) and super jump (increases jumping speed for a short amount of time). Various special items are also available throughout the game, such as extra lives, invincibility and battle cards. Battle cards are a very important part of the gameplay - every now and then, Hanamaru encounters a boss that he must fight in a really unusual way (and apparently loosely based on the traditional Japanese disciplines of Ninjutsu). Boss battles are round based, and the player must pick a card with a higher face value than his opponent, and the difference represents how much damage the player (or the boss) takes. Thankfully, Hanamaru can collect special battle cards along the way - some can double or triple the face value of a card, whereas others prevent the boss from being able to attack for a round, or help Hanamaru regain some life. Although most of the game offers traditional side scrolling platformer action, several levels try out very different gameplay styles (Hanamaru can ride a Skateboard in some stages, or fly through the air with the help of his hawk companion).</synopsis>
       <genre>Platform</genre>
     </locale>
@@ -26716,6 +26833,9 @@ Chaque étage contient de nombreuses clés et des portes verrouillées. N'import
     </locale>
     <locale lang="JA">
       <title>Kamen no Ninja : Hanamaru</title>
+    </locale>
+    <locale lang="ZHCN">
+      <title>假面忍者 花丸</title>
     </locale>
     <developer>Now Production</developer>
     <publisher>Capcom</publisher>
@@ -27019,6 +27139,9 @@ La version Américaine est plus facile (continue illimités) et a été amputé 
     </locale>
     <locale lang="JA">
       <title>Karnov</title>
+    </locale>
+    <locale lang="ZHCN">
+      <title>卡诺夫</title>
     </locale>
     <developer>Data East</developer>
     <publisher>Data East</publisher>
@@ -27378,6 +27501,9 @@ Kick Master is a side-scrolling platformer in which enemies are defeated by usin
     </locale>
     <locale lang="DE">
       <genre>Action</genre>
+    </locale>
+    <locale lang="ZHCN">
+      <title>踢王</title>
     </locale>
     <developer>KID Corp.</developer>
     <publisher>Taito</publisher>
@@ -27807,10 +27933,10 @@ There are 15 levels and 20 challengers to beat, on famous beaches like Rio, Hawa
       <control type="gamecube" required="false"/>
     </input>
   </game>
-  <game name="Kira Kira Star Night Dx">
+  <game name="Kira Kira Star Night DX">
     <id>152281</id>
     <locale lang="EN">
-      <title>Kira Kira Star Night Dx</title>
+      <title>Kira Kira Star Night DX</title>
       <genre>Platformer</genre>
       <synopsis>Fami-chan was stomping about her room, fuming. Paso-kun was late. And she did not like being kept waiting. "'I'll bring you something nice,' he says, and then no word for hours! What sort of trouble did he get himself into this time?" she wondered aloud. "What do I see in him, anyway?"
 From her window, Fami-chan absently watched the sun slowly sink beneath the horizon. As the last slice of sun disappeared, an unnatural darkness fell like a curtain across the land.
@@ -27833,6 +27959,9 @@ A sudden bright pinpoint of light appeared, flashing through the darkness. It ro
     </locale>
     <locale lang="PT">
       <genre>Rítmico,Música e dança</genre>
+    </locale>
+    <locale lang="ZHCN">
+      <title>闪亮亮星星之夜DX</title>
     </locale>
     <developer>Riki</developer>
     <publisher>Columbus Circle</publisher>
@@ -28506,6 +28635,9 @@ Les passwords du jeu:
     </locale>
     <locale lang="JA">
       <title>Kyatto Ninden Teyandee</title>
+    </locale>
+    <locale lang="ZHCN">
+      <title>忍者猫</title>
     </locale>
     <developer>Tecmo</developer>
     <publisher>Tecmo</publisher>
@@ -29899,6 +30031,9 @@ El juego se divide en 3 niveles cada 3 etapas de largo. La versión GameBoy, sin
     <locale lang="JA">
       <title>Salamander</title>
     </locale>
+    <locale lang="ZHCN">
+      <title>沙罗曼蛇</title>
+    </locale>
     <developer>Konami</developer>
     <publisher>Konami</publisher>
     <date year="1987" month="09" day="01"/>
@@ -30269,6 +30404,9 @@ When all 4 characters reach the emperor's palace, they all jump into Samson's be
     <locale lang="JA">
       <title>Seirei Densetsu Lickle</title>
     </locale>
+    <locale lang="ZHCN">
+      <title>圣铃传说</title>
+    </locale>
     <developer>Taito</developer>
     <publisher>Takeru</publisher>
     <date year="1992" month="06" day="26"/>
@@ -30327,6 +30465,9 @@ Además del juego normal, en el modo edición podrás diseñar tus propios nivel
     <locale lang="JA">
       <title>Lode Runner</title>
     </locale>
+    <locale lang="ZHCN">
+      <title>淘金者</title>
+    </locale>
     <developer>Broderbund Software</developer>
     <publisher>Broderbund Software</publisher>
     <date year="1984" month="07" day="31"/>
@@ -30339,7 +30480,7 @@ Además del juego normal, en el modo edición podrás diseñar tus propios nivel
       <control type="gamecube" required="false"/>
     </input>
   </game>
-  <game name="Lone Ranger, The">
+  <game name="The Lone Ranger">
     <id>1654AA</id>
     <locale lang="EN">
       <title>The Lone Ranger</title>
@@ -30717,10 +30858,10 @@ M.U.L.E is a very finely tuned game where rewards, penalties, time to use for va
       <control type="gamecube" required="false"/>
     </input>
   </game>
-  <game name="M.u.s.c.l.e. - Tag Team Match">
+  <game name="M.U.S.C.L.E. - Tag Team Match">
     <id>1685AA</id>
     <locale lang="EN">
-      <title>M.U.S.C.L.E. : Tag Team Match</title>
+      <title>M.U.S.C.L.E. - Tag Team Matchh</title>
       <synopsis>M.U.S.C.L.E. (Millions of Unusual Small Creatures Lurking Everywhere) is an early NES wrestling game based on the line of toys popular in the 1980s. M.U.S.C.L.E. allows you to choose two wrestling stars from the M.U.S.C.L.E. universe (from a selection of eight) in a tag-team match tournament in one player mode, and versus a friend in two player mode. Each wrestler has one special move that can be used by collecting the power pellet that floats around the ring at random instances.</synopsis>
       <genre>Sports</genre>
     </locale>
@@ -30738,6 +30879,9 @@ L'univers est tiré du manga Kinnikuman appelé Muscleman en Francais.</synopsis
     </locale>
     <locale lang="JA">
       <title>Kinnikuman : Muscle Tag Match</title>
+    </locale>
+    <locale lang="ZHCN">
+      <title>筋肉人摔角</title>
     </locale>
     <developer>TOSE</developer>
     <publisher>Bandai</publisher>
@@ -31981,6 +32125,9 @@ Points are earned by recovering stolen goods. Other ways of earning points are b
     <locale lang="JA">
       <title>Mappy</title>
     </locale>
+    <locale lang="ZHCN">
+      <title>猫抓老鼠</title>
+    </locale>
     <developer>Namco</developer>
     <publisher>Namco</publisher>
     <date year="1984" month="11" day="14"/>
@@ -32033,7 +32180,7 @@ The two player game has both players, (one playing as Happy, the other as his br
       <control type="gamecube" required="false"/>
     </input>
   </game>
-  <game name="Mappy-land">
+  <game name="Mappy-Land">
     <id>1872AA</id>
     <locale lang="EN">
       <title>Mappy-Land</title>
@@ -32053,6 +32200,9 @@ The two player game has both players, (one playing as Happy, the other as his br
     </locale>
     <locale lang="JA">
       <title>Mappy-Land</title>
+    </locale>
+    <locale lang="ZHCN">
+      <title>猫抓老鼠2</title>
     </locale>
     <developer>Taxan</developer>
     <publisher>Namco</publisher>
@@ -32173,6 +32323,9 @@ Le jeu est très amusant à 2 car on peut jouer en coopération ou se faire des 
     </locale>
     <locale lang="DE">
       <genre>Action</genre>
+    </locale>
+    <locale lang="ZHCN">
+      <title>马里奥兄弟水管工</title>
     </locale>
     <developer>Nintendo</developer>
     <publisher>Nintendo</publisher>
@@ -32591,6 +32744,9 @@ Travelling throughout these levels, Mega Man is confronted by an army of lesser 
     <locale lang="JA">
       <title>Rockman</title>
     </locale>
+    <locale lang="ZHCN">
+      <title>洛克人</title>
+    </locale>
     <developer>Capcom</developer>
     <publisher>Capcom</publisher>
     <date year="1987" month="12" day="01"/>
@@ -32627,6 +32783,9 @@ Other additions to the game include the 'E-Tank' - an item that can be used at a
     </locale>
     <locale lang="JA">
       <title>Rockman 2 : Dr. Wily no Nazo</title>
+    </locale>
+    <locale lang="ZHCN">
+      <title>洛克人2</title>
     </locale>
     <developer>Capcom</developer>
     <publisher>Capcom</publisher>
@@ -32674,6 +32833,9 @@ Mega Man est désormais capable de faire des glissades.</synopsis>
     <locale lang="JA">
       <title>Rockman 3 : Dr. Wily no Saigo!</title>
     </locale>
+    <locale lang="ZHCN">
+      <title>洛克人3</title>
+    </locale>
     <developer>Capcom</developer>
     <publisher>Capcom</publisher>
     <date year="1990" month="09" day="28"/>
@@ -32716,6 +32878,9 @@ Originally for the NES, Mega Man 4 was also released for the PSX in Japan as the
     <locale lang="JA">
       <title>Rockman 4 : Aratanaru Yabou!!</title>
     </locale>
+    <locale lang="ZHCN">
+      <title>洛克人4</title>
+    </locale>
     <developer>Capcom</developer>
     <publisher>Capcom</publisher>
     <date year="1991" month="06" day="12"/>
@@ -32757,6 +32922,9 @@ le Mega-Buster a gagné en puissance par rapport au volet précédent, mais en c
     <locale lang="JA">
       <title>Rockman 5 : Blues no Wana!</title>
     </locale>
+    <locale lang="ZHCN">
+      <title>洛克人5</title>
+    </locale>
     <developer>Capcom</developer>
     <publisher>Capcom</publisher>
     <date year="1992" month="12" day="02"/>
@@ -32796,6 +32964,9 @@ Mega Man 6 est un jeu d'action plate-forme dans lequel vous pouvez profiter de n
     </locale>
     <locale lang="JA">
       <title>Rockman 6 : Shijou Saidai no Tatakai!!</title>
+    </locale>
+    <locale lang="ZHCN">
+      <title>洛克人6</title>
     </locale>
     <developer>Capcom</developer>
     <publisher>Capcom</publisher>
@@ -33136,6 +33307,9 @@ Cette version non censurée du jeu est très difficile à trouver et devînt une
     </locale>
     <locale lang="JA">
       <title>Metal Gear</title>
+    </locale>
+    <locale lang="ZHCN">
+      <title>合金装备</title>
     </locale>
     <developer>Konami</developer>
     <publisher>Konami</publisher>
@@ -33769,6 +33943,9 @@ The game is a side-scrolling beat 'em up and a one-player only game (unlike othe
     <locale lang="JA">
       <title>Mighty Final Fight</title>
     </locale>
+    <locale lang="ZHCN">
+      <title>SD快打旋风</title>
+    </locale>
     <developer>Capcom</developer>
     <publisher>Capcom</publisher>
     <date year="1993" month="06" day="11"/>
@@ -34359,6 +34536,9 @@ The character you control can fire shots of energy from his forehead eye to atta
     <locale lang="JA">
       <title>Mitsume ga Tooru</title>
     </locale>
+    <locale lang="ZHCN">
+      <title>三目童子</title>
+    </locale>
     <developer>Natsume Co., Ltd.</developer>
     <publisher>Tomy</publisher>
     <date year="1992" month="07" day="17"/>
@@ -34629,10 +34809,10 @@ Despite being primarily a game for kids (the story is told in a fairy-tale fashi
       <control type="gamecube" required="false"/>
     </input>
   </game>
-  <game name="Monster In My Pocket">
+  <game name="Monster in My Pocket">
     <id>1994AA</id>
     <locale lang="EN">
-      <title>Monster In My Pocket</title>
+      <title>Monster in My Pocket</title>
       <synopsis>The evil Warlock wants to take over the world! He calls his fellow monsters to join him, but several refuse - and after casting a shrinking spell that backfires and shrinks down all the monsters around him, transporting them to different homes in Los Angeles.
 
 Warlock didn't let his size impairment get in the way of world domination, however, so it's up to The Vampire and The Monster to stop him! Along the way, both characters will have to fight through Warlock's henchmonsters through the streets, sewers, a construction area and even a Japanese garden.
@@ -34651,6 +34831,9 @@ The game is based on the Monster In My Pocket toy franchise. The package also in
     </locale>
     <locale lang="DE">
       <genre>Action</genre>
+    </locale>
+    <locale lang="ZHCN">
+      <title>口袋里的魔鬼</title>
     </locale>
     <developer>Konami</developer>
     <publisher>Palcom</publisher>
@@ -36293,6 +36476,9 @@ Ninja Crusaders est un jeu d'actionen side-scrolling qui peut être joué seul o
     <locale lang="JA">
       <title>Ninja Crusaders : Ryuuga</title>
     </locale>
+    <locale lang="ZHCN">
+      <title>龙牙</title>
+    </locale>
     <developer>NMK</developer>
     <publisher>Sammy Studios</publisher>
     <date year="1990" month="12" day="01"/>
@@ -36331,6 +36517,9 @@ Traqué par la CIA, leur agent Irene Lew et leur chef Forster, Ryu va être diri
     <locale lang="JA">
       <title>Ninja Ryuuken Den</title>
     </locale>
+    <locale lang="ZHCN">
+      <title>忍者龙剑传</title>
+    </locale>
     <developer>Tecmo</developer>
     <publisher>Tecmo</publisher>
     <date year="1988" month="12" day="09"/>
@@ -36343,10 +36532,10 @@ Traqué par la CIA, leur agent Irene Lew et leur chef Forster, Ryu va être diri
       <control type="gamecube" required="false"/>
     </input>
   </game>
-  <game name="Ninja Gaiden 2 - The Dark Sword Of Chaos">
+  <game name="Ninja Gaiden II - The Dark Sword of Chaos">
     <id>1451AA</id>
     <locale lang="EN">
-      <title>Ninja Gaiden II : The Dark Sword of Chaos</title>
+      <title>Ninja Gaiden II - The Dark Sword of Chaos</title>
       <synopsis>A year after the events of the original Ninja Gaiden, a new villain named Ashtar receives word of Jaquio's defeat. Ashtar uses this opportunity to hatch a new plan to plunge the world into darkness. The ninja, Ryu Hayabusa, hits the trail to destroy all.</synopsis>
       <genre>Beat'em Up,Action</genre>
     </locale>
@@ -36368,6 +36557,9 @@ Una agent de l'U.S. Army Special Intelligence dénommé Robert T. Sturgeon est e
     <locale lang="JA">
       <title>Ninja Ryuuken Den II : Ankoku no Jashin Ken</title>
     </locale>
+    <locale lang="ZHCN">
+      <title>忍者龙剑传2</title>
+    </locale>
     <developer>Tecmo</developer>
     <publisher>Tecmo</publisher>
     <date year="1990" month="04" day="06"/>
@@ -36380,10 +36572,10 @@ Una agent de l'U.S. Army Special Intelligence dénommé Robert T. Sturgeon est e
       <control type="gamecube" required="false"/>
     </input>
   </game>
-  <game name="Ninja Gaiden 3 - The Ancient Ship Of Doom">
+  <game name="Ninja Gaiden III - The Ancient Ship of Doom">
     <id>1414AA</id>
     <locale lang="EN">
-      <title>Ninja Gaiden III : The Ancient Ship of Doom</title>
+      <title>Ninja Gaiden III - The Ancient Ship of Doom</title>
       <synopsis>This is the third entry in the series of fast-paced ninja action games, and is the last game in the series to be released on the Nintendo Entertainment System.
 
 Some time has passed since the defeat of Ashtar and the resurrected Jaquio, and Irene Lew has received a new mission to complete. She is to observe a strange factory that has been constructed recently for an unknown purpose, and investigate it. She proceeds to reconnoiter it, but is intercepted and apparently assassinated by her friend Ryu Hayabusa...except it isn't Ryu. It is an imposter. The real Ryu, angered over her death, and the subsequent false accusation that he murdered her, continues her mission and proceeds to investigate the factory.
@@ -36552,10 +36744,10 @@ La version originale Japonaise, Gegege no Kitarou : Youkai Daimakyou, met en sc�
       <control type="gamecube" required="false"/>
     </input>
   </game>
-  <game name="Ninja-kun - Ashura No Shou">
+  <game name="Ninja-kun - Ashura no Shou">
     <id>88580A</id>
     <locale lang="EN">
-      <title>Ninja-kun - Ashura No Shou</title>
+      <title>Ninja-kun - Ashura no Shou</title>
       <synopsis>Ninja-kun Ashura no Shou (???? ?????? lit. Little ninja: fighting demon chapter) is an action game developed by UPL and produced for arcades in 1987. It is the spritual successor to UPL's original Ninjakun. It was released around the world with the title Ninja-Kid II, and in the United States with the title Rad Action.
 
 Ashura no Shou expands upon the basic gameplay introduced in Ninjakun, by introducing new exploration concepts and challenging the player to complete 31 stages of action, with branching levels, larger enemies, and boss battles. The game was ported to the MSX and published by HAL Laboratory. It was also ported to the Famicom in 1988. A US release for the NES was planned under the name Ninja Taro, but ultimately cancelled. The Famicom port was released on the Wii Virtual Console in Japan in 2009.</synopsis>
@@ -36569,6 +36761,9 @@ Ashura no Shou développe le gameplay de base présenté dans Ninjakun, en intro
     <locale lang="JA">
       <title>Ninja-kun : Ashura no Shou</title>
     </locale>
+    <locale lang="ZHCN">
+      <title>忍者君2</title>
+    </locale>
     <developer>Micronics</developer>
     <publisher>UPL</publisher>
     <date year="1988" month="05" day="27"/>
@@ -36581,10 +36776,10 @@ Ashura no Shou développe le gameplay de base présenté dans Ninjakun, en intro
       <control type="gamecube" required="false"/>
     </input>
   </game>
-  <game name="Ninja-kun - Majou No Bouken">
+  <game name="Ninja-kun - Majou no Bouken">
     <id>71475A</id>
     <locale lang="EN">
-      <title>Ninja-kun - Majou No Bouken</title>
+      <title>Ninja-kun - Majou no Bouken</title>
       <synopsis>Ninja-kun is on a mission. He alone must climb the mountain and enter Demon Castle and clear out its evil inhabitants. He will face enemies along the way, and must eliminate them before he can progress to the second mountain, and on to the castle. When he succeeds, he must start over at the bottom of the mountain against a tougher group of foes.</synopsis>
       <genre>Action,Platform</genre>
     </locale>
@@ -37402,6 +37597,9 @@ Included with the game is a pair of 3-D glasses which can give the game a more 3
     <locale lang="JA">
       <title>Othello</title>
     </locale>
+    <locale lang="ZHCN">
+      <title>黑白棋</title>
+    </locale>
     <developer>Kawada, Co. Ltd</developer>
     <publisher>Acclaim Entertainment</publisher>
     <date year="1986" month="11" day="13"/>
@@ -37556,10 +37754,10 @@ Le gameplay est similaire au grand classique "Asteroids".</synopsis>
       <control type="gamecube" required="false"/>
     </input>
   </game>
-  <game name="P.o.w. - Prisoners Of War">
+  <game name="P.O.W. - Prisoners of War">
     <id>1806AA</id>
     <locale lang="EN">
-      <title>P.O.W. : Prisoners of War</title>
+      <title>P.O.W. - Prisoners of War</title>
       <synopsis>The enemy is unstoppable. They maintain vigilant guard over their front lines! The only way to defeat them is to get behind their lines. But how? By allowing a soldier to get captured, perhaps he could escape and single-handedly defeat the enemy forces in his way. 
 
 In P.O.W., the player is a soldier who has been imprisoned in a Prisoner of War camp and must escape. In order to accomplish this, he must defeat a variety of enemies.  The foes will attack you hand-to-hand, with knives, guns, and from helicopters. Boss enemies will guard the end of each level.
@@ -37580,6 +37778,9 @@ To fight back, you can use hand-to-hand, and pick up weapon power-ups, found on 
     </locale>
     <locale lang="JA">
       <title>Datsugoku</title>
+    </locale>
+    <locale lang="ZHCN">
+      <title>脱狱</title>
     </locale>
     <developer>SNK</developer>
     <publisher>SNK</publisher>
@@ -38308,6 +38509,9 @@ The game is a right-to-left scrolling shoot-em-up. You can choose from 4 differe
     </locale>
     <locale lang="JA">
       <title>Parodius Da!</title>
+    </locale>
+    <locale lang="ZHCN">
+      <title>Q版沙罗曼蛇</title>
     </locale>
     <developer>Konami</developer>
     <publisher>Palcom Software Ltd.</publisher>
@@ -39393,6 +39597,9 @@ The second scene takes place at the wolves lair.  Here the wolves have reinforce
     <locale lang="JA">
       <title>Pooyan</title>
     </locale>
+    <locale lang="ZHCN">
+      <title>三只小猪</title>
+    </locale>
     <developer>Hudson</developer>
     <publisher>Konami</publisher>
     <date year="1985" month="09" day="20"/>
@@ -39567,6 +39774,9 @@ L'action se déroule en 2191, époque où la Terre est menacée par un ordinateu
     <locale lang="DE">
       <genre>Action</genre>
     </locale>
+    <locale lang="ZHCN">
+      <title>能源战士</title>
+    </locale>
     <developer>Natsume</developer>
     <publisher>Taito</publisher>
     <date year="1991" month="03" day="02"/>
@@ -39604,6 +39814,9 @@ At the end of each stage, you fight a different boss. However, in the end, you m
     </locale>
     <locale lang="JA">
       <title>Captain Saver</title>
+    </locale>
+    <locale lang="ZHCN">
+      <title>能源战士2</title>
     </locale>
     <developer>Natsume</developer>
     <publisher>Taito Corporation</publisher>
@@ -41558,6 +41771,9 @@ Kunio, voyou notable part secourir son ami Hiroshi au cours de 4 niveaux agréme
     <locale lang="JA">
       <title>Nekketsu Kouha Kunio-kun</title>
     </locale>
+    <locale lang="ZHCN">
+      <title>热血硬派</title>
+    </locale>
     <developer>Technos Japan</developer>
     <publisher>Taito</publisher>
     <date year="1987" month="04" day="17"/>
@@ -41700,6 +41916,9 @@ You drive a racing machine at speeds of 400 km/h. As you start, the sound of you
     </locale>
     <locale lang="JA">
       <title>Road Fighter</title>
+    </locale>
+    <locale lang="ZHCN">
+      <title>火箭车</title>
     </locale>
     <developer>Konami</developer>
     <publisher>Konami</publisher>
@@ -41931,6 +42150,9 @@ Based on the 1987 movie of the same name, RoboCop allows the player to control R
     <locale lang="DE">
       <genre>Action</genre>
     </locale>
+    <locale lang="ZHCN">
+      <title>机械战警</title>
+    </locale>
     <developer>Data East</developer>
     <publisher>Data East</publisher>
     <date year="1988" month="" day=""/>
@@ -41960,6 +42182,9 @@ Based on the 1987 movie of the same name, RoboCop allows the player to control R
     </locale>
     <locale lang="DE">
       <genre>Action</genre>
+    </locale>
+    <locale lang="ZHCN">
+      <title>机械战警2</title>
     </locale>
     <developer>Data East</developer>
     <publisher>Ocean</publisher>
@@ -41991,6 +42216,9 @@ Based on the 1987 movie of the same name, RoboCop allows the player to control R
     <locale lang="DE">
       <genre>Action</genre>
     </locale>
+    <locale lang="ZHCN">
+      <title>机械战警3</title>
+    </locale>
     <developer>Ocean</developer>
     <publisher>Ocean</publisher>
     <date year="1992" month="08" day="01"/>
@@ -42003,7 +42231,7 @@ Based on the 1987 movie of the same name, RoboCop allows the player to control R
       <control type="gamecube" required="false"/>
     </input>
   </game>
-  <game name="Robocop Versus The Terminator">
+  <game name="Robocop versus The Terminator">
     <id>88526A</id>
     <locale lang="EN">
       <title>RoboCop versus The Terminator</title>
@@ -42016,6 +42244,9 @@ Based on the 1987 movie of the same name, RoboCop allows the player to control R
     <locale lang="FR">
       <synopsis>Jeu tiré de la bande déssinée éponyme écrit par Frank Miller et dessinée par Walter Simonson en 1992. Si le jeu fut édité sur plusieurs plateformes, la version de la NES fur développé en fin de vie de la console, les développeurs migrant sur la SNES, et ne fut finalement jamais édité mais distribué online pour l'émulation.
 L'histoire commence alors que Skynet envoie 3 terminators du futur a notre époque pour protéger Alex J. Murphy alias Robocop qu'un soldat humain a pour mission de tuer, Flo Langer. Mais quand Murphy va découvrir que la technologie utilisé pour sa cybernétique va servir au développement de Skynet et à la destruction du monde, il va s'associer à Flo et combattre les terminators et l'OCP.</synopsis>
+    </locale>
+    <locale lang="ZHCN">
+      <title>机械战警对终结者</title>
     </locale>
     <developer>Realtime Associates</developer>
     <publisher>Virgin Interactive</publisher>
@@ -42148,7 +42379,7 @@ The game fits the Cinemaware template closely, with a string of action sequences
       <control type="gamecube" required="false"/>
     </input>
   </game>
-  <game name="Rocketeer, The">
+  <game name="The Rocketeer">
     <id>1612AA</id>
     <locale lang="EN">
       <title>The Rocketeer</title>
@@ -42166,6 +42397,9 @@ The Rocketeer is a side-scrolling, run-and-jump (and sometimes fly) game. About 
     </locale>
     <locale lang="DE">
       <genre>Action</genre>
+    </locale>
+    <locale lang="ZHCN">
+      <title>火箭人</title>
     </locale>
     <developer>Realtime Associates</developer>
     <publisher>Bandai</publisher>
@@ -42775,6 +43009,9 @@ There are four distinct sections of gameplay, taking in a Missile Base, a Harbou
     <locale lang="JA">
       <title>Green Beret</title>
     </locale>
+    <locale lang="ZHCN">
+      <title>绿色兵团</title>
+    </locale>
     <developer>Konami</developer>
     <publisher>Konami</publisher>
     <date year="1987" month="04" day="02"/>
@@ -42893,6 +43130,9 @@ There are four distinct sections of gameplay, taking in a Missile Base, a Harbou
     </locale>
     <locale lang="JA">
       <title>Saint Seiya : Ougon Densetsu Kanketsu Hen</title>
+    </locale>
+    <locale lang="ZHCN">
+      <title>圣斗士星矢 黄金传说完结篇</title>
     </locale>
     <developer>TOSE</developer>
     <publisher>Bandai</publisher>
@@ -43852,7 +44092,7 @@ music is good! it plays much like Ninja Gaidan. Very fast pace. You can climb wa
       <control type="gamecube" required="false"/>
     </input>
   </game>
-  <game name="Section-z">
+  <game name="Section-Z">
     <id>18752A</id>
     <locale lang="EN">
       <title>Section-Z</title>
@@ -43872,6 +44112,9 @@ Certain sections of Balangool are blocked until a generator can be found and des
     </locale>
     <locale lang="DE">
       <genre>Shoot'em Up</genre>
+    </locale>
+    <locale lang="ZHCN">
+      <title>绝对合体</title>
     </locale>
     <developer>Capcom</developer>
     <publisher>Capcom</publisher>
@@ -44415,6 +44658,9 @@ The game has seven stages. The first and the last must be played first and last 
     </locale>
     <locale lang="JA">
       <title>Tokkyuu Shirei Solbrain</title>
+    </locale>
+    <locale lang="ZHCN">
+      <title>特救指令</title>
     </locale>
     <developer>Natsume Co., Ltd.</developer>
     <publisher>Jaleco USA, Inc.</publisher>
@@ -45037,6 +45283,9 @@ After each stage completed (and some luck), a bonus stage will appear, as well a
     <locale lang="DE">
       <genre>Sport</genre>
     </locale>
+    <locale lang="ZHCN">
+      <title>花式撞球</title>
+    </locale>
     <developer>Data East</developer>
     <publisher>Data East</publisher>
     <date year="1987" month="06" day="01"/>
@@ -45545,6 +45794,9 @@ Inspiré du jeu arcade d'Atari du même nom, le gameplay est toutefois très dif
     <locale lang="JA">
       <title>Sky Destroyer</title>
     </locale>
+    <locale lang="ZHCN">
+      <title>红巾特攻队</title>
+    </locale>
     <developer>Taito</developer>
     <publisher>Taito</publisher>
     <date year="1985" month="11" day="14"/>
@@ -45728,6 +45980,9 @@ Smash T.V. is an insane shoot-em-up from the brain of Eugene Jarvis, creator of 
     <locale lang="PT">
       <genre>Plataforma,Ação</genre>
     </locale>
+    <locale lang="ZHCN">
+      <title>双蛇城</title>
+    </locale>
     <developer>Rare, Ltd.</developer>
     <publisher>Nintendo</publisher>
     <date year="1990" month="07" day="01"/>
@@ -45762,6 +46017,9 @@ The player once again assume the role of Snake. The objective is similar to the 
     </locale>
     <locale lang="PT">
       <genre>Ação,Aventura</genre>
+    </locale>
+    <locale lang="ZHCN">
+      <title>合金装备2</title>
     </locale>
     <developer>Konami</developer>
     <publisher>Ultra Software Corporation</publisher>
@@ -46773,7 +47031,7 @@ Square no Tom Sawyer is a side-scrolling RPG that features characters and situat
   <game name="Ninja Jajamaru - Ginga Daisakusen">
     <id>88669A</id>
     <locale lang="EN">
-      <title>Squashed</title>
+      <title>Ninja Jajamaru - Ginga Daisakusen</title>
       <synopsis>The game opens on a vegetative theme: siblings Maru and Cori are sent to bed early for not eating their vegetables, whereupon they drift off to sleep and dream together. Suddenly, a spaceship crashes before them! "Lettuce check it out," urges Maru. From the ship appears a man dressed as a king. "I yam King Kale," he says, "Won't you peas peas help me?" Yes, the flaccid puns start to fly from this point and don't let up until the very end of the game. Those expecting witty dialogue from this game obviously have never spoken to a game programmer before.
 
 It seems that King Kale needs the pair's help to prevent six worlds from being dominated by a mysterious being known as Vegetron. Every hero needs a nemesis, right? Unfortunately, despite managing to look almost evil in a cute way, Vegetron fails to come across as a threat to our heroes. One wonders how he even managed to dominate his back garden, let alone six planets, with his army of cute robots and "vegetable-themed" guardian minions, the latter of which are vulnerable in the same spots and which can be dispatched with almost the same pattern on each world. This is the same Vegetron who, after a single defeat at the hands of Maru, realizes the error of his ways and chooses to turn over a new leaf in a platitudinous soliloquy which goes on and on. That puts an end to Veggie's chances of reappearing in sequels without some kind of contrived plot twist.
@@ -46795,6 +47053,9 @@ Jajamaru revient donc enfin dans le monde du défilement horizontal dans le cinq
     </locale>
     <locale lang="JA">
       <title>Ninja Jajamaru : Ginga Daisakusen</title>
+    </locale>
+    <locale lang="ZHCN">
+      <title>忍者茶茶丸 银河大作战</title>
     </locale>
     <developer>Jaleco Entertainment</developer>
     <publisher>Jaleco Entertainment</publisher>
@@ -47548,7 +47809,7 @@ These were the orders given to you, Operative JOE when you were ordered to infil
   <game name="Street Fighter 2010 - The Final Fight">
     <id>1330AA</id>
     <locale lang="EN">
-      <title>Street Fighter 2010 : The Final Fight</title>
+      <title>Street Fighter 2010 - The Final Fight</title>
       <synopsis>The player is Ken, the hero of the Street Fighter series. It's been 25 years since he last participated in a fighting tournament. He has become a scientist and has developed a powerful medicine together with his friend Troy. But an unknown fiend breaks into his laboratory, kills Troy, and steals the invention. It's time to recall the good old days and to embark on a quest for revenge!
 
 Despite the US title, the game has little to do with the Street Fighter or the Final Fight games. This is an action platformer in which the player navigates Ken around, trying to avoid or kill the enemies by shooting at them with ranged weapons, adjusting the direction of the shot, or kicking and punching them. Ken is very agile and can jump high and climb walls.</synopsis>
@@ -47566,6 +47827,9 @@ Despite the US title, the game has little to do with the Street Fighter or the F
     </locale>
     <locale lang="JA">
       <title>2010 : Street Fighter</title>
+    </locale>
+    <locale lang="ZHCN">
+      <title>街头战士2010</title>
     </locale>
     <developer>Capcom</developer>
     <publisher>Capcom</publisher>
@@ -49680,6 +49944,9 @@ titled after episode 2 of the Brave series, The Brave Fighter of Sun Fighbird. T
     <locale lang="JA">
       <title>Takahashi Meijin no Bouken-jima IV</title>
     </locale>
+    <locale lang="ZHCN">
+      <title>冒险岛4</title>
+    </locale>
     <developer>Hudson</developer>
     <publisher>Hudson</publisher>
     <date year="1994" month="06" day="24"/>
@@ -49692,10 +49959,10 @@ titled after episode 2 of the Brave series, The Brave Fighter of Sun Fighbird. T
       <control type="gamecube" required="false"/>
     </input>
   </game>
-  <game name="Takahashi Meijin No Bugutte Honey">
+  <game name="Takahashi Meijin no Bugutte Honey">
     <id>88536A</id>
     <locale lang="EN">
-      <title>Takahashi Meijin No Bugutte Honey</title>
+      <title>Takahashi Meijin no Bugutte Honey</title>
       <synopsis>Based upon an anime of the same name, which features a cast of characters that includes Takahashi Meijin, the main character and hero of the Adventure Island series, as well as redesign of the honeygirl fairy known as Bug-tte Honey (pronounced Bugute). In the anime, Takahashi and Honey get into various adventures along with three ordinary school children from Earth. 
 While the game draws inspiration from the anime (which itself drew inspiration from Adventure Island) the game does not necessarily follow any of the episodes of the show. Instead, the game consists of four stages. In the first stage, you control Bug-tte Honey, who has the ability to fly about the screen. At the end of the first stage, Honey rescues Takahashi by smashing the cage he is being held captive in. From that point forward, the player controls Takahashi (Called Master Higgins in the US/EU version)</synopsis>
       <genre>Action,Adventure,Platform</genre>
@@ -49705,6 +49972,9 @@ While the game draws inspiration from the anime (which itself drew inspiration f
     </locale>
     <locale lang="JA">
       <title>Takahashi Meijin no Bugutte Honey</title>
+    </locale>
+    <locale lang="ZHCN">
+      <title>冒险岛</title>
     </locale>
     <developer>Hudson</developer>
     <publisher>Hudson</publisher>
@@ -50365,6 +50635,9 @@ Gameplay takes place in two perspectives: a top-down view, which lets you run ar
     <locale lang="JA">
       <title>Gekikame Ninja Den</title>
     </locale>
+    <locale lang="ZHCN">
+      <title>忍者神龟</title>
+    </locale>
     <developer>Konami</developer>
     <publisher>Konami</publisher>
     <date year="1989" month="06" day="02"/>
@@ -50377,10 +50650,10 @@ Gameplay takes place in two perspectives: a top-down view, which lets you run ar
       <control type="gamecube" required="false"/>
     </input>
   </game>
-  <game name="Teenage Mutant Ninja Turtles 2 - The Arcade Game">
+  <game name="Teenage Mutant Ninja Turtles II - The Arcade Game">
     <id>1296AA</id>
     <locale lang="EN">
-      <title>Teenage Mutant Ninja Turtles 2 : The Arcade Game</title>
+      <title>Teenage Mutant Ninja Turtles II - The Arcade Game</title>
       <synopsis>April O'Neil, the reporter friend of the Teenage Mutant Ninja Turtles, is kidnapped by the villainous Shredder and his two goons, Bebop and Rocksteady. The four ninja turtles: Raphael, Michelangelo, Donatello and Leonardo fight their way through hordes of Foot Soldiers in order to rescue April. They battle familiar foes such as the mad scientist Baxter Stockman, General Traag from Dimension X and the evil alien brain Krang, up to the final showdown with Shredder himself.
 
 Teenage Mutant Ninja Turtles: The Arcade Game is a port of the popular arcade game made by Konami during the height of the cartoon series' popularity. Depending on the version of the game, up to two, three or four players can take part in the action. The game plays like a simplified Double Dragon. While most of the standard Foot Soldier enemies are easily dispatched, some attack with knives or ray guns and are thus more dangerous. At the end of each level, players encounter a boss (or in certain cases two bosses working in tandem, such as Bebop and Rocksteady).
@@ -50398,6 +50671,9 @@ The NES version of the game features additional content not present in other ver
     <locale lang="DE">
       <genre>Action</genre>
     </locale>
+    <locale lang="ZHCN">
+      <title>忍者神龟2</title>
+    </locale>
     <developer>Konami</developer>
     <publisher>Konami</publisher>
     <date year="1990" month="12" day="02"/>
@@ -50413,7 +50689,7 @@ The NES version of the game features additional content not present in other ver
   <game name="Teenage Mutant Ninja Turtles - Tournament Fighters">
     <id>1345AA</id>
     <locale lang="EN">
-      <title>Teenage Mutant Ninja Turtles : Tournament Fighters</title>
+      <title>Teenage Mutant Ninja Turtles - Tournament Fighters</title>
       <synopsis>[This item has been split and information may not be complete accurate. Users are cautioned that incorrect information may appear in the description which does not apply to this platform and needs to be revised]
 
 The game features the original 4 turtles from the previous games in the series, as well as other fighters.
@@ -50435,6 +50711,9 @@ The game's modes include a story mode, where you can only pick one of the turtle
     <locale lang="DE">
       <genre>Action</genre>
     </locale>
+    <locale lang="ZHCN">
+      <title>忍者神龟格斗</title>
+    </locale>
     <developer>Konami</developer>
     <publisher>Konami</publisher>
     <date year="1993" month="" day=""/>
@@ -50447,10 +50726,10 @@ The game's modes include a story mode, where you can only pick one of the turtle
       <control type="gamecube" required="false"/>
     </input>
   </game>
-  <game name="Teenage Mutant Ninja Turtles 3 - The Manhattan Project">
+  <game name="Teenage Mutant Ninja Turtles III - The Manhattan Project">
     <id>1347AA</id>
     <locale lang="EN">
-      <title>Teenage Mutant Ninja Turtles III : The Manhattan Project</title>
+      <title>Teenage Mutant Ninja Turtles III - The Manhattan Project</title>
       <synopsis>This was the last side-scrolling Teenage Mutant Ninja Turtles game for NES. It followed the highly acclaimed Turtles II over a year later and, unlike its predecessor, doesn't have an Arcade counterpart.
 
 The third game in the series is basically the same as the second. The story and the stages are different, of course, but it doesn't really matter. Choose your favourite turtle and kill as many Foot Clan soldiers as you can, fight the bosses and reach Shredder in a Double Dragon-styled game.
@@ -50470,6 +50749,9 @@ The graphics and gameplay were improved. And, if the choice of the turtle depend
     </locale>
     <locale lang="JA">
       <title>Teenage Mutant Ninja Turtles II : The Manhattan Project</title>
+    </locale>
+    <locale lang="ZHCN">
+      <title>忍者神龟3</title>
     </locale>
     <developer>Konami</developer>
     <publisher>Konami</publisher>
@@ -51122,7 +51404,7 @@ En conjonction avec le travail de RG-Soft, nous avons été en mesure de termine
       <control type="gamecube" required="false"/>
     </input>
   </game>
-  <game name="Thunder And Lightning">
+  <game name="Thunder &amp; Lightning">
     <id>18895A</id>
     <locale lang="EN">
       <title>Thunder &amp; Lightning</title>
@@ -51162,6 +51444,9 @@ Vous controlez Mr. Chin qui porte la barre qui lui servira à maintenir la balle
     <locale lang="JA">
       <title>Family Block</title>
     </locale>
+    <locale lang="ZHCN">
+      <title>家庭打砖块</title>
+    </locale>
     <developer>Visco Corporation</developer>
     <publisher>Romstar Incorporated</publisher>
     <date year="1990" month="12" day="01"/>
@@ -51198,6 +51483,9 @@ Your enemies consists of such exotic fare as poisonous space scorpions, mutant s
     </locale>
     <locale lang="JA">
       <title>Thunderbirds</title>
+    </locale>
+    <locale lang="ZHCN">
+      <title>雷鸟号</title>
     </locale>
     <developer>Pack-In-Video</developer>
     <publisher>Activision</publisher>
@@ -51538,6 +51826,9 @@ Gameplay consists of moving your character in real-time through various terrains
       <synopsis>Die "Tiny Toons" haben große Probleme. Der Erzfeind von Acme Acres, Montana Max, hat die beliebte Babs Bunny gekidnappt. Nun liegt das Schicksal des Mädchens mit dem rosa Fell in den Pfoten von Buster Bunny und seinen Freunden - Dizzy Devil, Streuner und Plucky Duck. Vier verrückte Freunde - jeder mit seinem eigenen Spezialtalent. Buster Bunny kann am besten springen, Streuner benutzt seine scharfen Klauen um Wände hinauf zu klettern, Dizzy Devil wirbelt am liebsten direkt durch sie hindurch und Plucky kann durch die Luft gleiten und schwimmen wie ein Fisch. Wähle deinen Partner am Anfang jeden levels, bevor du dich der Zeit und Doofköpfen in 6 verrückten Wunderländern stellst. Also fang lieber an zu springen, bevor der Vorhang für unsere 4 Freunde fällt!</synopsis>
       <genre>Plattform</genre>
     </locale>
+    <locale lang="ZHCN">
+      <title>兔宝宝</title>
+    </locale>
     <developer>Konami</developer>
     <publisher>Konami</publisher>
     <date year="1991" month="12" day="01"/>
@@ -51550,10 +51841,10 @@ Gameplay consists of moving your character in real-time through various terrains
       <control type="gamecube" required="false"/>
     </input>
   </game>
-  <game name="Tiny Toon Adventures 2 - Trouble In Wackyland">
+  <game name="Tiny Toon Adventures 2 - Trouble in Wackyland">
     <id>1705AA</id>
     <locale lang="EN">
-      <title>Tiny Toon Adventures 2 : Trouble in Wackyland</title>
+      <title>Tiny Toon Adventures 2 - Trouble in Wackyland</title>
       <synopsis>Buster Bunny receives an invitation to a newly opened amusement park. He gladly accepts, unaware of the fact this invitation is a trap. Now he and his friends have to overcome all the obstacles and to survive in the Wackyland...
 
 "Trouble in Wackyland" consists of several mini-games which you can complete in no particular order. You have to reach the engine of a train in a standard side-scrolling platformer, keep your balance on a wooden plank while diving down dangerous waterfalls, compete in toy car tournament, etc. Once you gain enough tickets, you can access the Castle, that is standing behind the Amusement Park.</synopsis>
@@ -51571,6 +51862,9 @@ Gameplay consists of moving your character in real-time through various terrains
     </locale>
     <locale lang="JA">
       <title>Tiny Toon Adventures 2 : Montana Land e Youkoso</title>
+    </locale>
+    <locale lang="ZHCN">
+      <title>兔宝宝2</title>
     </locale>
     <developer>Konami</developer>
     <publisher>Konami</publisher>
@@ -51595,6 +51889,9 @@ As with some other pirate games, this one uses a PCB with a DIP switch on it. Th
     <locale lang="FR">
       <synopsis>Il s'agit d'un portage non officiel du premier Tiny Toon Adventures sorti sur Game Boy avec les musiques du premier Tiny Toon Adventures sur NES. En pressant Bas, Bas, Gauche, Haut, Droit, Gauche, Haut, Bas, vous déclencherez un menu caché où vous pourrez rentrer des codes (2418 ? Stage 1, 7449 ? Stage 2, 3065 ? Stage 3, 8914 ? Stage 4, 3185 ? Boss final)
 Le jeu a contient 2 versions différentes: "Tiny Toon Adventures 6" and "Porky Pig &amp; Daffy Duck", cette deuxième version propose un écran d'accueil avec Porky Pig et Daffy Duck au lieu de l'écran "Tiny Toon Adventures 6". Il n'y a aucune autre différence entre ces deux versions.</synopsis>
+    </locale>
+    <locale lang="ZHCN">
+      <title>兔宝宝6</title>
     </locale>
     <developer>Hummer Team</developer>
     <date year="1999" month="03" day="01"/>
@@ -51900,10 +52197,10 @@ This game is ported from an older arcade version.</synopsis>
       <control type="gamecube" required="false"/>
     </input>
   </game>
-  <game name="Tom And Jerry">
+  <game name="Tom &amp; Jerry - The Ultimate Game of Cat and Mouse!">
     <id>1575AA</id>
     <locale lang="EN">
-      <title>Tom &amp; Jerry : The Ultimate Game of Cat and Mouse!</title>
+      <title>Tom &amp; Jerry - The Ultimate Game of Cat and Mouse!</title>
       <synopsis>This game plays very similar to Chip &amp; Dale's Rescue Rangers.
 
 Tom has mouse-napped Jerry's nephew Tuffy and locked him in a trunk in the attic. You and your furry little buddy Jerry must dash, jump, and climb from the basement up through every level of the house to rescue him in time.
@@ -51925,6 +52222,9 @@ Look for cheese power-ups and mouse hole bonus stages along the way.</synopsis>
     </locale>
     <locale lang="JA">
       <title>Tom &amp; Jerry</title>
+    </locale>
+    <locale lang="ZHCN">
+      <title>汤姆和杰瑞</title>
     </locale>
     <developer>Hi-Tech Expressions</developer>
     <publisher>Software Creations</publisher>
@@ -52923,6 +53223,9 @@ At the end of each section, you land on a carrier ship and count up your bonuses
     <locale lang="JA">
       <title>Kyuukyoku Tiger</title>
     </locale>
+    <locale lang="ZHCN">
+      <title>究极虎</title>
+    </locale>
     <developer>Toaplan</developer>
     <publisher>Sammy</publisher>
     <date year="1989" month="08" day="04"/>
@@ -53719,6 +54022,9 @@ This is a very early and simplistic fighting game. As mentioned, each player can
     <locale lang="DE">
       <genre>Action</genre>
     </locale>
+    <locale lang="ZHCN">
+      <title>街头小子</title>
+    </locale>
     <developer>Nintendo</developer>
     <publisher>Nintendo</publisher>
     <date year="1984" month="11" day="14"/>
@@ -54002,6 +54308,9 @@ During both of these sequences, Hart must fight and maneuver his way past enemy 
     </locale>
     <locale lang="JA">
       <title>Gun-Dec</title>
+    </locale>
+    <locale lang="ZHCN">
+      <title>火炮</title>
     </locale>
     <developer>Aicom</developer>
     <publisher>Sammy</publisher>
@@ -54292,6 +54601,9 @@ La traduction est incomplète. Une autre terminaison a été laissée non tradui
     <locale lang="JA">
       <title>Wai Wai World</title>
     </locale>
+    <locale lang="ZHCN">
+      <title>柯纳米世界</title>
+    </locale>
     <developer>Konami</developer>
     <publisher>Konami</publisher>
     <date year="1988" month="01" day="14"/>
@@ -54323,6 +54635,9 @@ La traduction est incomplète. Une autre terminaison a été laissée non tradui
     </locale>
     <locale lang="JA">
       <title>Wai Wai World 2 : SOS!! Paseri Jou</title>
+    </locale>
+    <locale lang="ZHCN">
+      <title>柯纳米世界2</title>
     </locale>
     <developer>Konami</developer>
     <publisher>Konami</publisher>
@@ -55704,6 +56019,9 @@ Wrath of the Black Manta es un juego de acción de estilo arcade de desplazamien
     <locale lang="DE">
       <genre>Action</genre>
     </locale>
+    <locale lang="ZHCN">
+      <title>马里奥兄弟拆屋工</title>
+    </locale>
     <developer>Nintendo</developer>
     <publisher>Nintendo</publisher>
     <date year="1985" month="06" day="18"/>
@@ -55923,6 +56241,9 @@ Xevious is a vertically scrolling shooter based on the 1982 coin-op of the same 
     </locale>
     <locale lang="JA">
       <title>Xevious</title>
+    </locale>
+    <locale lang="ZHCN">
+      <title>铁板阵</title>
     </locale>
     <developer>Bandai</developer>
     <publisher>Namco</publisher>

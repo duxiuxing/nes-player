@@ -1,150 +1,151 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <Game-List name="D" rom-exists="true">
-    <Game crc32="3AE8289A" md5="b335e805dde69e63a66cd5eaf5b01ad1" bytes="24592"
-        en="Dig Dug"
-        zhcn="打空气"
-    />
-    <Game crc32="CC904E37" md5="004c9c30600870189b9504dd9e82dd37" bytes="40976"
-        en="Dig Dug II - Trouble in Paradise"
-        zhcn="打空气2"
-    />
-    <Game crc32="3CC270FB" md5="7f4d3cea6c410538995e462e11b68871" bytes="40976"
-        en="Dig Dug II - Trouble in Paradise"
-        zhcn="打空气2"
-    />
-    <Game crc32="CFF39DAE" md5="5693243f1117f1120624d44c180c5772" bytes="81936"
-        en="Arkanoid"
-        zhcn="打砖块(中)"
-    />
-    <Game crc32="04F6FD68" md5="5611e832777ff1f4fe5ea8f25d2f54cf" bytes="49168"
-        en="Arkanoid"
-        zhcn="打砖块"
-    />
-    <Game crc32="4A9531EA" md5="6c95dc4035ff5c0ed3e44132235fb0b4" bytes="40976"
-        en="Arkanoid"
-        zhcn="打砖块"
-    />
-    <Game crc32="B130942B" md5="7c8518af66a21d87557128e4873aef66" bytes="196624"
-        en="Arkanoid II"
-        zhcn="打砖块2"
-    />
-    <Game crc32="B8363DEE" md5="fc20c839905ef751398d6ed4a4dc6f6e" bytes="262160"
-        en="Ganbare Goemon! Karakuri Douchuu"
-        zhcn="大盗伍佑卫门"
-    />
-    <Game crc32="B2FE26C7" md5="de660969cf51255ce30b951e0f71683d" bytes="262160"
-        en="Ganbare Goemon 2"
-        zhcn="大盗伍佑卫门2"
-    />
-    <Game crc32="EEC7B9FA" md5="f2aac7764dce8ace2375c47510925884" bytes="24592"
-        en="Donkey Kong"
-        zhcn="大金刚(中)"
-    />
-    <Game crc32="E40B593B" md5="40319cad12c80fc095901eb0182df838" bytes="24592"
-        en="Donkey Kong"
-        zhcn="大金刚"
-    />
-    <Game crc32="73FF4BA1" md5="af906b119d00d74e63ce00cf949aa47b" bytes="24592"
-        en="Donkey Kong"
-        zhcn="大金刚"
-    />
-    <Game crc32="17EC0CC7" md5="074fea160b7ec513bdaf2c0bb042c262" bytes="49168"
-        en="Donkey Kong Classics"
-        zhcn="大金刚1+2合集"
-    />
-    <Game crc32="800C36F5" md5="879d0494786fbd4f9e5be056bd488e1f" bytes="24592"
-        en="Donkey Kong Jr."
-        zhcn="大金刚2"
-    />
-    <Game crc32="2A794CCB" md5="f2124d8595da011d78cd655ac6fa9f0b" bytes="24592"
-        en="Donkey Kong Jr."
-        zhcn="大金刚2"
-    />
-    <Game crc32="D1CAC3C2" md5="a267179a14c89ee73b0031de07c9e5c7" bytes="24592"
-        en="Donkey Kong 3"
-        zhcn="大金刚3"
-    />
-    <Game crc32="4E9A5C38" md5="dca48d8ac7da3aae9b043c96623c2660" bytes="24592"
-        en="Donkey Kong 3"
-        zhcn="大金刚3"
-    />
-    <Game crc32="F0543C45" md5="ca5d456824f802b007ba5d2d2b17aeb5" bytes="393232"
-        en="Hammerin' Harry"
-        zhcn="大力工头(中)"
-    />
-    <Game crc32="52B2162D" md5="f178053bb49abdf9f3252d04617db38b" bytes="262160"
-        en="Hammerin' Harry"
-        zhcn="大力工头"
-    />
-    <Game crc32="66C08CD8" md5="9dacce8f21b63e72c9fb3c8d763c2346" bytes="524304"
-        zhcn="大力工头2(中)"
-    />
-    <Game crc32="3774121E" md5="61dc846d89e3e01b850efbff7ec1d280" bytes="524304"
-        en="Daiku no Gen-san 2 - Akage no Dan no Gyakushuu"
-        zhcn="大力工头2"
-    />
-    <Game crc32="4E2B88F5" md5="49a52916ed9a979faf1bd9b76e773496" bytes="24592"
-        en="Popeye"
-        zhcn="大力水手(中)"
-    />
-    <Game crc32="DE1D762F" md5="79093d6add5b6f7445302857fc629570" bytes="24592"
-        en="Popeye"
-        zhcn="大力水手"
-    />
-    <Game crc32="6C8AE094" md5="536abf725e3fdf1b8e31d4deadd4795b" bytes="24592"
-        en="Galaga - Demons of Death"
-        zhcn="大蜜蜂(中)"
-    />
-    <Game crc32="628D22DE" md5="5b684ccb852fa4e79e73b89f2c840f16" bytes="24592"
-        en="Galaga - Demons of Death"
-        zhcn="大蜜蜂"
-    />
-    <Game crc32="BD2855F2" md5="51024c69632cac93653e1f537518ebd1" bytes="262160"
-        en="Iron Tank"
-        zhcn="大坦克"
-    />
-    <Game crc32="D09CC788" md5="884b23376f26e1a2da7e658f8c97abc5" bytes="262160"
-        en="Iron Tank"
-        zhcn="大坦克"
-    />
-    <Game crc32="F4D581A4" md5="28885b2c5e36e930bf1193b6126f31f1" bytes="24592"
-        en="Pinball"
-        zhcn="弹珠台(中)"
-    />
-    <Game crc32="88C15CF3" md5="838b3043af802e70a855560433a6fca3" bytes="24592"
-        en="Pinball"
-        zhcn="弹珠台"
-    />
-    <Game crc32="3ABA6565" md5="9b38e0826f35f1354fbd15e6639712b2" bytes="393232"
-        en="Blade Buster"
-        zhcn="刀锋战机"
-    />
-    <Game crc32="375BF357" md5="c22da3e41976cd061e9105c565720766" bytes="393232"
-        en="Kabuki Quantum Fighter"
-        zhcn="地狱极乐丸(中)"
-    />
-    <Game crc32="2ECD844A" md5="010a81c8bf313f79a2355e2f1cd46862" bytes="262160"
-        en="Kabuki Quantum Fighter"
-        zhcn="地狱极乐丸"
-    />
-    <Game crc32="CF8DC9D4" md5="357a88b8bc6d3302e76bb05055f4c38f" bytes="262160"
-        en="Crisis Force"
-        zhcn="帝国战机(中)"
-    />
-    <Game crc32="C4520781" md5="4cda9b5f7d06f336a3434c9e1adc1c2e" bytes="262160"
-        en="Crisis Force"
-        zhcn="帝国战机"
-    />
-    <Game crc32="B025152D" md5="bac351406b5acf1f4c8ce94fecf6a426" bytes="262160"
-        en="Crisis Force"
-        zhcn="帝国战机"
-    />
-    <Game crc32="D415571F" md5="390124aa9b8811b2c0e5a35295cff50b" bytes="40976"
-        en="Elevator Action"
-        zhcn="电梯大战"
-    />
-    <Game crc32="0207EF1C" md5="7fbfb1c9f50d59e5279179e9105ffcad" bytes="40976"
-        en="Elevator Action"
-        zhcn="电梯大战"
-    />
+	<Game crc32="3AE8289A" bytes="24592"
+		en="Dig Dug"
+		zhcn="打空气"
+	/>
+	<Game crc32="CC904E37" bytes="40976"
+		en="Dig Dug II - Trouble in Paradise"
+		zhcn="打空气2"
+	/>
+	<Game crc32="3CC270FB" bytes="40976"
+		en="Dig Dug II - Trouble in Paradise"
+		zhcn="打空气2"
+	/>
+	<Game crc32="CFF39DAE" bytes="81936"
+		en="Arkanoid"
+		zhcn="打砖块(中)"
+	/>
+	<Game crc32="04F6FD68" bytes="49168"
+		en="Arkanoid"
+		zhcn="打砖块"
+	/>
+	<Game crc32="4A9531EA" bytes="40976"
+		en="Arkanoid"
+		zhcn="打砖块"
+	/>
+	<Game crc32="B130942B" bytes="196624"
+		en="Arkanoid II"
+		zhcn="打砖块2"
+	/>
+	<Game crc32="B8363DEE" bytes="262160"
+		en="Ganbare Goemon! Karakuri Douchuu"
+		zhcn="大盗伍佑卫门"
+	/>
+	<Game crc32="B2FE26C7" bytes="262160"
+		en="Ganbare Goemon 2"
+		zhcn="大盗伍佑卫门2"
+	/>
+	<Game crc32="EEC7B9FA" bytes="24592"
+		en="Donkey Kong"
+		zhcn="大金刚(中)"
+	/>
+	<Game crc32="E40B593B" bytes="24592"
+		en="Donkey Kong"
+		zhcn="大金刚"
+	/>
+	<Game crc32="73FF4BA1" bytes="24592"
+		en="Donkey Kong"
+		zhcn="大金刚"
+	/>
+	<Game crc32="17EC0CC7" bytes="49168"
+		en="Donkey Kong Classics"
+		zhcn="大金刚1+2合集"
+	/>
+	<Game crc32="800C36F5" bytes="24592"
+		en="Donkey Kong Jr."
+		zhcn="大金刚2"
+	/>
+	<Game crc32="2A794CCB" bytes="24592"
+		en="Donkey Kong Jr."
+		zhcn="大金刚2"
+	/>
+	<Game crc32="D1CAC3C2" bytes="24592"
+		en="Donkey Kong 3"
+		zhcn="大金刚3"
+	/>
+	<Game crc32="4E9A5C38" bytes="24592"
+		en="Donkey Kong 3"
+		zhcn="大金刚3"
+	/>
+	<Game crc32="F0543C45" bytes="393232"
+		en="Hammerin' Harry"
+		zhcn="大力工头(中)"
+	/>
+	<Game crc32="52B2162D" bytes="262160"
+		en="Hammerin' Harry"
+		zhcn="大力工头"
+	/>
+	<Game crc32="66C08CD8" bytes="524304"
+		en="Daiku no Gen-san 2 - Akage no Dan no Gyakushuu"
+		zhcn="大力工头2(中)"
+	/>
+	<Game crc32="3774121E" bytes="524304"
+		en="Daiku no Gen-san 2 - Akage no Dan no Gyakushuu"
+		zhcn="大力工头2"
+	/>
+	<Game crc32="4E2B88F5" bytes="24592"
+		en="Popeye"
+		zhcn="大力水手(中)"
+	/>
+	<Game crc32="DE1D762F" bytes="24592"
+		en="Popeye"
+		zhcn="大力水手"
+	/>
+	<Game crc32="6C8AE094" bytes="24592"
+		en="Galaga - Demons of Death"
+		zhcn="大蜜蜂(中)"
+	/>
+	<Game crc32="628D22DE" bytes="24592"
+		en="Galaga - Demons of Death"
+		zhcn="大蜜蜂"
+	/>
+	<Game crc32="BD2855F2" bytes="262160"
+		en="Iron Tank"
+		zhcn="大坦克"
+	/>
+	<Game crc32="D09CC788" bytes="262160"
+		en="Iron Tank"
+		zhcn="大坦克"
+	/>
+	<Game crc32="F4D581A4" bytes="24592"
+		en="Pinball"
+		zhcn="弹珠台(中)"
+	/>
+	<Game crc32="88C15CF3" bytes="24592"
+		en="Pinball"
+		zhcn="弹珠台"
+	/>
+	<Game crc32="3ABA6565" bytes="393232"
+		en="Blade Buster"
+		zhcn="刀锋战机"
+	/>
+	<Game crc32="375BF357" bytes="393232"
+		en="Kabuki Quantum Fighter"
+		zhcn="地狱极乐丸(中)"
+	/>
+	<Game crc32="2ECD844A" bytes="262160"
+		en="Kabuki Quantum Fighter"
+		zhcn="地狱极乐丸"
+	/>
+	<Game crc32="CF8DC9D4" bytes="262160"
+		en="Crisis Force"
+		zhcn="帝国战机(中)"
+	/>
+	<Game crc32="C4520781" bytes="262160"
+		en="Crisis Force"
+		zhcn="帝国战机"
+	/>
+	<Game crc32="B025152D" bytes="262160"
+		en="Crisis Force"
+		zhcn="帝国战机"
+	/>
+	<Game crc32="D415571F" bytes="40976"
+		en="Elevator Action"
+		zhcn="电梯大战"
+	/>
+	<Game crc32="0207EF1C" bytes="40976"
+		en="Elevator Action"
+		zhcn="电梯大战"
+	/>
 </Game-List>

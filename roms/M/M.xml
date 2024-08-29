@@ -1,53 +1,63 @@
 <?xml version='1.0' encoding='utf-8'?>
 <Game-List name="M" rom-exists="true">
-    <Game crc32="1CDF7E91" md5="21a3ab789f065433c9701d194b176ce3" bytes="98320"
-        zhcn="马里奥兄弟拆屋工(中)"
-    />
-    <Game crc32="658D4FD4" md5="b9abb75ac20aae1f6ba5a5da178d69e0" bytes="40976"
-        zhcn="马里奥兄弟拆屋工"
-    />
-    <Game crc32="52759369" md5="51647f474e95677b465b7bc452c0a01d" bytes="49168"
-        zhcn="马里奥兄弟水管工(中)"
-    />
-    <Game crc32="D12475A8" md5="11a02a9184d9737a7615b5795fe5164f" bytes="65552"
-        zhcn="马里奥医生(中)"
-    />
-    <Game crc32="F517F770" md5="d7d542a9d1534c2949cdf413ecd3d3c1" bytes="65552"
-        zhcn="马里奥医生(中)"
-    />
-    <Game crc32="879E6391" md5="8486048c48f40f3787e4b7d9f1788659" bytes="24592"
-        zhcn="马戏团"
-    />
-    <Game crc32="3F0E8E0A" md5="b0ba60bc0866efc73ccd62defc0120d5" bytes="24592"
-        zhcn="猫抓老鼠"
-    />
-    <Game crc32="BF3DDB87" md5="567b6ce1ea542cb829155f35519bcaf9" bytes="688160"
-        zhcn="猫抓老鼠2(中)"
-    />
-    <Game crc32="2F1790A2" md5="8c44073ae5dcbc5f92b700480365f5b8" bytes="65552"
-        zhcn="冒险岛"
-    />
-    <Game crc32="B295DA9E" md5="2c1aea1e2051536b4eea304997652b78" bytes="786464"
-        en="Adventure Island 2"
-        zhcn="冒险岛2"
-    />
-    <Game crc32="5D8F80C7" md5="da01f528959b065acbfed341e892d9c0" bytes="262160"
-        en="Adventure Island 2"
-        zhcn="冒险岛2"
-    />
-    <Game crc32="B638CD5B" md5="b44674e3be5e383e45fb532d9886cc0d" bytes="286736"
-        en="Adventure Island 3"
-        zhcn="冒险岛3(中)"
-    />
-    <Game crc32="952CDACF" md5="f15d5835041c4b28b98b9551fb3ce764" bytes="262160"
-        en=""
-        zhcn="冒险岛3"
-    />
-    <Game crc32="3B346EE4" md5="11830871070ed91a747e9a67116abaf7" bytes="393232"
-        zhcn="冒险岛4(中)"
-    />
-    <Game crc32="5ECFD3DC" md5="dd53d022bb0b8d5a8d464690b14a0b30" bytes="393232"
-        en=""
-        zhcn="冒险岛4"
-    />
+	<Game crc32="1CDF7E91" bytes="98320"
+		en="Wrecking Crew"
+		zhcn="马里奥兄弟拆屋工(中)"
+	/>
+	<Game crc32="658D4FD4" bytes="40976"
+		en="Wrecking Crew"
+		zhcn="马里奥兄弟拆屋工"
+	/>
+	<Game crc32="52759369" bytes="49168"
+		en="Mario Bros."
+		zhcn="马里奥兄弟水管工(中)"
+	/>
+	<Game crc32="D12475A8" bytes="65552"
+		en="Dr. Mario"
+		zhcn="马里奥医生(中)"
+	/>
+	<Game crc32="F517F770" bytes="65552"
+		en="Dr. Mario"
+		zhcn="马里奥医生(中)"
+	/>
+	<Game crc32="879E6391" bytes="24592"
+		en="Circus Charlie"
+		zhcn="马戏团"
+	/>
+	<Game crc32="3F0E8E0A" bytes="24592"
+		en="Mappy"
+		zhcn="猫抓老鼠"
+	/>
+	<Game crc32="BF3DDB87" bytes="688160"
+		en="Mappy-Land"
+		zhcn="猫抓老鼠2(中)"
+	/>
+	<Game crc32="2F1790A2" bytes="65552"
+		en="Adventure Island"
+		zhcn="冒险岛"
+	/>
+	<Game crc32="B295DA9E" bytes="786464"
+		en="Adventure Island II"
+		zhcn="冒险岛2"
+	/>
+	<Game crc32="5D8F80C7" bytes="262160"
+		en="Adventure Island II"
+		zhcn="冒险岛2"
+	/>
+	<Game crc32="B638CD5B" bytes="286736"
+		en="Adventure Island 3"
+		zhcn="冒险岛3(中)"
+	/>
+	<Game crc32="952CDACF" bytes="262160"
+		en="Adventure Island 3"
+		zhcn="冒险岛3"
+	/>
+	<Game crc32="3B346EE4" bytes="393232"
+		en="Takahashi Meijin no Bouken-jima IV"
+		zhcn="冒险岛4(中)"
+	/>
+	<Game crc32="5ECFD3DC" bytes="393232"
+		en="Takahashi Meijin no Bouken-jima IV"
+		zhcn="冒险岛4"
+	/>
 </Game-List>

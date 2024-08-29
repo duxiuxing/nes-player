@@ -1,74 +1,75 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <Game-List name="E" rom-exists="true">
-    <Game crc32="88F071C3" md5="1bcb1795a0feed766d6d0681196662fb" bytes="49168"
-        en="Tetris - The Soviet Mind Game"
-        zhcn="俄罗斯方块"
-    />
-    <Game crc32="E2E54027" md5="952389352ee7935e64ae894d75b712c9" bytes="65552"
-        en="Tetris - The Soviet Mind Game"
-        zhcn="俄罗斯方块"
-    />
-    <Game crc32="B8926A6B" md5="fd1bd126cf2762b101089b206fff11f2" bytes="65552"
-        en="Tetris - The Soviet Mind Game"
-        zhcn="俄罗斯方块"
-    />
-    <Game crc32="150908E5" md5="61b503dbbca19cda23f531af5f3e7449" bytes="131088"
-        en="Tetris 2 + Bombliss"
-        zhcn="俄罗斯方块2"
-    />
-    <Game crc32="0E3BF357" md5="e40367947f4cd132da236ef3dd0cc96b" bytes="131088"
-        en="Castlevania - Blood Moon"
-        zhcn="恶魔城 血月"
-    />
-    <Game crc32="DC749E67" md5="ab0a5a2e3b60a156c20f181af7fe718d" bytes="131088"
-        en="Castlevania"
-        zhcn="恶魔城(中)"
-    />
-    <Game crc32="856114C8" md5="52eb3f7e2c5fc765aa71f21c85f0770e" bytes="131088" en="Castlevania"
-        en="Castlevania"
-        zhcn="恶魔城"
-    />
-    <Game crc32="A9C2C503" md5="1b827c602c904d8c846499c9f54b93e0" bytes="262160"
-        en="Castlevania II - Simon's Quest"
-        zhcn="恶魔城2"
-    />
-    <Game crc32="157E5CBA" md5="4151418d2c5f0752a542e97cc59ef0a6" bytes="393232"
-        en="Castlevania II - Simon's Quest"
-        zhcn="恶魔城2"
-    />
-    <Game crc32="57D1DC1B" md5="a511d36a38091cd5bf879fd914306f20" bytes="393232"
-        en="Castlevania II - Simon's Quest"
-        zhcn="恶魔城2"
-    />
-    <Game crc32="B810B79C" md5="6bb197dfdd92c921dce9a09a05283d3f" bytes="524304"
-        zhcn="恶魔城3(中)"
-    />
-    <Game crc32="F3B6EB4A" md5="5cda34d4df5febf41f10b2c6ff91deca" bytes="917536"
-        en="Castlevania III - Dracula's Curse"
-        zhcn="恶魔城3"
-    />
-    <Game crc32="7CC9C669" md5="d16a502d0125f23cc3d980ddc6b6f2e8" bytes="393232"
-        en="Castlevania III - Dracula's Curse"
-        zhcn="恶魔城3"
-    />
-    <Game crc32="3F7FF73A" md5="195726a5588621d6a4cd57dc6b1dda76" bytes="786464"
-        en="Demon Castle Special - I'm Kid Dracula"
-        zhcn="恶魔城外传 王子传奇"
-    />
-    <Game crc32="F916D969" md5="58e2a3b62103c1f4af7aec452caff175" bytes="262160"
-        en="Demon Castle Special - I'm Kid Dracula"
-        zhcn="恶魔城外传 王子传奇"
-    />
-    <Game crc32="FC265F93" md5="4e430459ca31d6fe6a4682228dd63901" bytes="262160"
-        en="Demon Castle Special - I'm Kid Dracula"
-        zhcn="恶魔城外传 王子传奇"
-    />
-    <Game crc32="3B2AD28B" md5="c5686434024008971ce0b47c0543ca9c" bytes="393232"
-        en="The Adventures of Bayou Billy"
-        zhcn="鳄鱼先生(中)"
-    />
-    <Game crc32="B28D64FC" md5="ceae892a71b63cbf7534c04cd09f2819" bytes="262160"
-        en="The Adventures of Bayou Billy"
-        zhcn="鳄鱼先生"
-    />
+	<Game crc32="88F071C3" bytes="49168"
+		en="Tetris - The Soviet Mind Game"
+		zhcn="俄罗斯方块"
+	/>
+	<Game crc32="E2E54027" bytes="65552"
+		en="Tetris - The Soviet Mind Game"
+		zhcn="俄罗斯方块"
+	/>
+	<Game crc32="B8926A6B" bytes="65552"
+		en="Tetris - The Soviet Mind Game"
+		zhcn="俄罗斯方块"
+	/>
+	<Game crc32="150908E5" bytes="131088"
+		en="Tetris 2 + Bombliss"
+		zhcn="俄罗斯方块2"
+	/>
+	<Game crc32="0E3BF357" bytes="131088"
+		en="Castlevania - Blood Moon"
+		zhcn="恶魔城 血月"
+	/>
+	<Game crc32="DC749E67" bytes="131088"
+		en="Castlevania"
+		zhcn="恶魔城(中)"
+	/>
+	<Game crc32="856114C8" bytes="131088"
+		en="Castlevania"
+		zhcn="恶魔城"
+	/>
+	<Game crc32="A9C2C503" bytes="262160"
+		en="Castlevania II - Simon's Quest"
+		zhcn="恶魔城2"
+	/>
+	<Game crc32="157E5CBA" bytes="393232"
+		en="Castlevania II - Simon's Quest"
+		zhcn="恶魔城2"
+	/>
+	<Game crc32="57D1DC1B" bytes="393232"
+		en="Castlevania II - Simon's Quest"
+		zhcn="恶魔城2"
+	/>
+	<Game crc32="B810B79C" bytes="524304"
+		en="Castlevania III - Dracula's Curse"
+		zhcn="恶魔城3(中)"
+	/>
+	<Game crc32="F3B6EB4A" bytes="917536"
+		en="Castlevania III - Dracula's Curse"
+		zhcn="恶魔城3"
+	/>
+	<Game crc32="7CC9C669" bytes="393232"
+		en="Castlevania III - Dracula's Curse"
+		zhcn="恶魔城3"
+	/>
+	<Game crc32="3F7FF73A" bytes="786464"
+		en="Demon Castle Special - I'm Kid Dracula"
+		zhcn="恶魔城外传 王子传奇"
+	/>
+	<Game crc32="F916D969" bytes="262160"
+		en="Demon Castle Special - I'm Kid Dracula"
+		zhcn="恶魔城外传 王子传奇"
+	/>
+	<Game crc32="FC265F93" bytes="262160"
+		en="Demon Castle Special - I'm Kid Dracula"
+		zhcn="恶魔城外传 王子传奇"
+	/>
+	<Game crc32="3B2AD28B" bytes="393232"
+		en="The Adventures of Bayou Billy"
+		zhcn="鳄鱼先生(中)"
+	/>
+	<Game crc32="B28D64FC" bytes="262160"
+		en="The Adventures of Bayou Billy"
+		zhcn="鳄鱼先生"
+	/>
 </Game-List>

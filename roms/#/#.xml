@@ -1,34 +1,34 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <Game-List name="#" rom-exists="true">
-    <Game crc32="A2F550AC" md5="8f0d73f773f15e89fa6cf7b1c82d3906" bytes="262160"
+    <Game crc32="A2F550AC" bytes="262160"
         en="8 Eyes"
         zhcn="8只眼(中)"
     />
-    <Game crc32="D24639E3" md5="4e0af17f6a4791b629f63a2390ba6ddf" bytes="262160"
+    <Game crc32="D24639E3" bytes="262160"
         en="8 Eyes"
         zhcn="8只眼"
     />
-    <Game crc32="E9CF747F" md5="4f90905fd77c1c9456bd5dfe1ceddc34" bytes="40976"
+    <Game crc32="E9CF747F" bytes="40976"
         en="1942"
         zhcn="1942"
     />
-    <Game crc32="43F51DEB" md5="a44f5ddcce474311e091490fa16baf03" bytes="262672"
+    <Game crc32="43F51DEB" bytes="262672"
         en="1943 - The Battle of Midway"
         zhcn="1943(中)"
     />
-    <Game crc32="8DB59BE8" md5="cf5e791a2032ba3160ae578bc27ffa8e" bytes="131088"
+    <Game crc32="8DB59BE8" bytes="131088"
         en="1943 - The Battle of Midway"
         zhcn="1943"
     />
-    <Game crc32="D131BF15" md5="deeaf9d51fc3f13f11f8e1a65553061a" bytes="131088"
+    <Game crc32="D131BF15" bytes="131088"
         en="1943 - The Battle of Midway"
         zhcn="1943"
     />
-    <Game crc32="0B434FC8" md5="32708d8475af0bf2d1102d9b7dd59ba1" bytes="131088"
+    <Game crc32="0B434FC8" bytes="131088"
         en="1944"
         zhcn="1944(中)"
     />
-    <Game crc32="46249D57" md5="bf887996c9add45aabe881ceaf1f410a" bytes="131088"
+    <Game crc32="46249D57" bytes="131088"
         en="1944"
         zhcn="1944"
     />
