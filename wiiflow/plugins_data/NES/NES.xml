@@ -6916,6 +6916,9 @@ El juego apenas tiene una sola pantalla en modo time attack que dura 2 minutos, 
     <locale lang="DE">
       <genre>Sport</genre>
     </locale>
+    <locale lang="ZHCN">
+      <title>柯纳米冰球</title>
+    </locale>
     <developer>Konami</developer>
     <publisher>Konami</publisher>
     <date year="1988" month="12" day="02"/>
@@ -24366,6 +24369,9 @@ Pachio-kun, an anime-like pachinko ball that is famous for starring in the game 
     <locale lang="DE">
       <genre>Sport</genre>
     </locale>
+    <locale lang="ZHCN">
+      <title>冰上曲棍球</title>
+    </locale>
     <developer>Nintendo</developer>
     <publisher>Nintendo</publisher>
     <date year="1988" month="03" day="02"/>
@@ -29919,6 +29925,9 @@ Gegner und Endgegner zu besiegen ist nicht einfach, zumal wenn man ein Anfänger
     <locale lang="JA">
       <title>Zelda no Densetsu 1 : The Hyrule Fantasy</title>
     </locale>
+    <locale lang="ZHCN">
+      <title>塞尔达传说</title>
+    </locale>
     <developer>Nintendo</developer>
     <publisher>Nintendo</publisher>
     <date year="1987" month="07" day="01"/>
@@ -32492,6 +32501,9 @@ Pour éliminer un bloc, celui-ci doit entrer en contact avec un autre bloc corre
     </locale>
     <locale lang="JA">
       <title>Yoshi no Tamago</title>
+    </locale>
+    <locale lang="ZHCN">
+      <title>耀西的蛋</title>
     </locale>
     <developer>Game Freak</developer>
     <publisher>Nintendo</publisher>
@@ -46393,6 +46405,9 @@ Snow Bros. is a fixed-screen platform game where players must defeat all enemies
     <locale lang="DE">
       <genre>Sport</genre>
     </locale>
+    <locale lang="ZHCN">
+      <title>足球</title>
+    </locale>
     <developer>Nintendo</developer>
     <publisher>Nintendo</publisher>
     <date year="1985" month="04" day="01"/>
@@ -57538,6 +57553,9 @@ Das Spiel wurde mit anderem NES-Titeln auf dem Gameboy Advance neu aufgelegt. Zu
     </locale>
     <locale lang="PT">
       <genre> Jogos de RPG,Ação</genre>
+    </locale>
+    <locale lang="ZHCN">
+      <title>塞尔达传说2 林克的冒险</title>
     </locale>
     <developer>Nintendo</developer>
     <publisher>Nintendo</publisher>

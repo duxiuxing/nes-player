@@ -12,6 +12,10 @@
 		en="Hello Kitty World"
 		zhcn="凯蒂猫气球世界"
 	/>
+	<Game crc32="B9BCF910" bytes="131088"
+		en="Blades of Steel"
+		zhcn="柯纳米冰球"
+	/>
 	<Game crc32="B27BCF3D" bytes="262160"
 		en="Wai Wai World"
 		zhcn="柯纳米世界"

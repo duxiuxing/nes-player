@@ -78,6 +78,10 @@
 		en="Formation Z"
 		zhcn="变形战机Z"
 	/>
+	<Game crc32="4916D0A9" bytes="40976"
+		en="Ice Hockey"
+		zhcn="冰上曲棍球"
+	/>
 	<Game crc32="CCC1B87B" bytes="49168"
 		en="Twinbee"
 		zhcn="兵蜂(中)"

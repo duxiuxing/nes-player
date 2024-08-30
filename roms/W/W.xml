@@ -16,6 +16,10 @@
 		en="Flappy"
 		zhcn="顽皮精灵"
 	/>
+	<Game crc32="5F457C00" bytes="24592"
+		en="Tennis"
+		zhcn="网球"
+	/>
 	<Game crc32="3145CED6" bytes="40976"
 		en="Gomoku Narabe Renju"
 		zhcn="五子棋"

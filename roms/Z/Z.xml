@@ -103,6 +103,10 @@
 		en="Metro Cross"
 		zhcn="追赶跑跳蹦"
 	/>
+	<Game crc32="820D62AB" bytes="40976"
+		en="Soccer"
+		zhcn="足球"
+	/>
 	<Game crc32="A80A3E98" bytes="24592"
 		en="Magic Jewelry"
 		zhcn="钻石方块"
