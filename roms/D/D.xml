@@ -116,6 +116,10 @@
 		en="Pinball"
 		zhcn="弹珠台"
 	/>
+	<Game crc32="37737FDB" bytes="393232"
+		en="Blade Buster"
+		zhcn="刀锋战机"
+	/>
 	<Game crc32="3ABA6565" bytes="393232"
 		en="Blade Buster"
 		zhcn="刀锋战机"

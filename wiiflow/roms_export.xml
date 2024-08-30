@@ -1,0 +1,390 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Game-List>
+    <Game crc32="352F9A62" bytes="24592"
+        en="Exerion"
+        zhcn="火凤凰"
+    />
+    <Game crc32="9B4086F5" bytes="49168"
+        en="Formation Z"
+        zhcn="变形战机Z(中)"
+    />
+    <Game crc32="9FC60476" bytes="24592"
+        en="Devil World"
+        zhcn="恶魔世界"
+    />
+    <!-- 
+    FA5J    Fire Emblem - Ankoku Ryuu to Hikari no Tsurugi (NTSC-J)
+    en="Fire Emblem - Ankoku Ryu to Hikari no Tsurugi"
+    zhcn="火焰之纹章 暗黑龙与光之剑"
+
+    FA7E    Yoshi (NTSC-U)
+    FA7J    Yoshi no Tamago (NTSC-J)
+    FA7P    Mario & Yoshi (PAL)
+    FA7T    Yoshi (NTSC-K)
+    en="Mario &amp; Yoshi"
+    zhcn="?"
+    -->
+    <Game crc32="248C7140" bytes="786448"
+		en="Kirby's Adventure"
+		zhcn="星之卡比 梦之泉物语"
+	/>
+    <!-- 
+    FA9E    Zelda II - The Adventure of Link (NTSC-U)
+    FA9J    Zelda no Densetsu 2 - Link no Bouken (NTSC-J)
+    FA9P    Zelda II - The Adventure of Link (PAL)
+    en="Zelda II - The Adventure of Link"
+    zhcn="?"
+    -->
+    <Game crc32="F4D581A4" bytes="24592"
+		en="Pinball"
+		zhcn="弹珠台(中)"
+	/>
+    <Game crc32="3145CED6" bytes="40976"
+		en="Gomoku Narabe Renju"
+		zhcn="五子棋"
+	/>
+    <!-- 
+    FAHE    Tennis (NTSC-U)
+    FAHJ    Tennis (NTSC-J)
+    FAHP    Tennis (PAL)
+    en="Tennis"
+    zhcn="网球"
+
+    FAIE    Soccer (NTSC-U)
+    FAIJ    Soccer (NTSC-J)
+    FAIP    Soccer (PAL)
+    en="Soccer"
+    zhcn="?"
+
+    FAJE    Ice Hockey (NTSC-U)
+    FAJJ    Ice Hockey (NTSC-J)
+    FAJP    Ice Hockey (PAL)
+    me="Ice Hockey"
+    zhcn="?"
+
+    FAKE    The Legend of Zelda (NTSC-U)
+    FAKJ    Zelda no Densetsu (NTSC-J)
+    FAKP    The Legend of Zelda (PAL)
+    FAKT    The Legend of Zelda (NTSC-K)
+    en="The Legend of Zelda"
+    zhcn="?"
+    -->
+    <Game crc32="2B5083F7" bytes="524304"
+		en="Wario's Woods"
+		zhcn="瓦里奥森林"
+	/>
+    <Game crc32="4190108D" bytes="24592"
+		en="Urban Champion"
+		zhcn="街头小子(中)"
+	/>
+    <!-- 
+    FAOE    Solomon's Key (NTSC-U)
+    FAOJ    Solomon no Kagi (NTSC-J)
+    FAOP    Solomon's Key (PAL)
+    en="Solomon's Key"
+    zhcn="?"
+
+    FAPE    NES Open Tournament Golf (NTSC-U)
+    FAPJ    Mario Open Golf (NTSC-J)
+    FAPP    NES Open Tournament Golf (PAL)
+    FAPT    NES Open Tournament Golf (NTSC-K)
+    en="Nes Open Tournament Golf"
+    zhcn="?"
+
+    FAQJ    Ninja JaJaMaru-kun (NTSC-J)
+    FAQL    Ninja JaJaMaru-kun (PAL)
+    FAQN    Ninja JaJaMaru-kun (NTSC-U)
+    en="Ninja Jajamaru-kun"
+    zhcn="?"
+    -->
+    <Game crc32="80F392C7" bytes="40976"
+		en="Xevious - The Avenger"
+		zhcn="铁板阵(中)"
+	/>
+    <Game crc32="46EB0E0C" bytes="81936"
+		en="The Legend of Kage"
+		zhcn="影子传说(中)"
+	/>
+    <!-- 
+    FAVE    Tecmo Bowl (NTSC-U)
+    FAVJ    Tecmo Bowl (NTSC-J)
+    en="Tecmo Bowl"
+    zhcn="?"
+    -->
+    <Game crc32="E00264B5" bytes="24592"
+		en="Ikki"
+		zhcn="忍者大决战"
+	/>
+    <!-- 
+    FAZJ    Field Combat (NTSC-J)
+    FAZQ    Downtown Nekketsu Koushinkyoku: Soreyuke Daiundoukai (NTSC-K)
+    en="Field Combat"
+    zhcn="?"
+
+    FB3J    Valkyrie no Bouken - Toki no Kagi Densetsu (NTSC-J)
+    en="Valkyrie no Bouken - Toki no Kagi Densetsu"
+    zhcn="?"
+    -->
+    <Game crc32="FA96CBA2" bytes="24592"
+		en="Lunar Pool"
+		zhcn="月宫桌球"
+	/>
+    <Game crc32="D35E0AAF" bytes="131216"
+		en="Zanac"
+		zhcn="银河号"
+	/>
+    <Game crc32="B0C660BA" bytes="24592"
+		en="Front Line"
+		zhcn="前线(中)"
+	/>
+    <Game crc32="F51355D3" bytes="24592"
+		en="Nuts &amp; Milk"
+		zhcn="爱的小屋(中)"
+	/>
+    <!-- 
+    FB8J    Challenger (NTSC-J)
+    en="Challenger"
+    zhcn="?"
+    -->
+    <Game crc32="274EB12A" bytes="24592"
+		en="Pooyan"
+		zhcn="三只小猪(中)"
+	/>
+    <!-- 
+    FBAJ    Smash Ping Pong (NTSC-J)
+    FBAL    Smash Table Tennis (PAL)
+    en="?"
+    zhcn="?"
+    -->
+    <Game crc32="A3D966DB" bytes="40976"
+		en="Mach Rider"
+		zhcn="机车大赛"
+	/>
+    <Game crc32="39A2FA8E" bytes="41104"
+		en="Excitebike"
+		zhcn="越野摩托"
+	/>
+    <!-- 
+    FBDE    Kid Icarus (NTSC-U)
+    FBDJ    Hikari Shinwa - Palthena no Kagami (NTSC-J)
+    FBDP    Kid Icarus (PAL)
+    FBDT    Kid Icarus (NTSC-K)
+    en="Kid Icarus"
+    zhcn="?"
+    -->
+    <Game crc32="4CC20D6F" bytes="24592"
+		en="Ice Climber"
+		zhcn="敲冰块(中)"
+	/>
+    <!-- 
+    FBIE    Punch-Out!! (NTSC-U)
+    FBIJ    Punch-Out!! (NTSC-J)
+    FBIP    Punch-Out!! (PAL)
+    en="?"
+    zhcn="?"
+
+    FBJE    Mighty Bomb Jack (NTSC-U)
+    FBJJ    Mighty Bomb Jack (NTSC-J)
+    FBJP    Mighty Bomb Jack (PAL)
+    en="Mighty Bomb Jack"
+    zhcn="?"
+
+    FBKE    Teenage Mutant Ninja Turtles (NTSC-U)
+    FBKJ    Gekikame Ninja Den (NTSC-J)
+    FBKP    Teenage Mutant Ninja Turtles (PAL)
+    en="Teenage Mutant Ninja Turtles"
+    zhcn="?"
+    -->
+    <Game crc32="00DF883C" bytes="40976"
+		en="Lode Runner"
+		zhcn="淘金者"
+	/>
+    <!-- 
+    FBQJ    Druaga no Tou (NTSC-J)
+    en="The Tower of Druaga"
+    zhcn="?"
+    -->
+    <Game crc32="6C8AE094" bytes="24592"
+		en="Galaga - Demons of Death"
+		zhcn="大蜜蜂(中)"
+	/>
+    <!-- 
+    FBSE    Milon's Secret Castle (NTSC-U)
+    FBSJ    Meikyuu Kumikyoku - Milon no Daibouken (NTSC-J)
+    FBSM    Milon's Secret Castle (PAL)
+    en="Milon's Secret Castle"
+    zhcn="?"
+
+    FBVJ    Tsuppari Oozumou (NTSC-J)
+    en="Tsuppari Oozumou"
+    zhcn="?"
+
+    FBWJ    Joy Mech Fight (NTSC-J)
+    FBWQ    Joy Mech Fight (NTSC-K)
+    en="Joy Mech Fight"
+    zhcn="?"
+
+    FBXJ    Famicom Wars (NTSC-J)
+    en="Famicom Wars"
+    zhcn="?"
+    -->
+    <Game crc32="7D3F6F3D" bytes="262160"
+		en="Super Mario Bros. 2"
+		zhcn="超级马里奥兄弟2"
+	/>
+    <Game crc32="4DE6A02B" bytes="131216"
+		en="Metroid"
+		zhcn="银河战士"
+	/>
+    <!-- 
+    FC2J    Hanjuku Hero (NTSC-J)
+    en="Hanjuku Hero"
+    zhcn="?"
+
+    FC4J    Chack'n Pop (NTSC-J)
+    en="Chack'n Pop"
+    zhcn="?"
+    -->
+    <Game crc32="B8363DEE" bytes="262160"
+		en="Ganbare Goemon! Karakuri Douchuu"
+		zhcn="大盗伍佑卫门"
+	/>
+    <!-- 
+    FC6E    StarTropics (NTSC-U)
+    FC6J    Startropics (NTSC-J)
+    FC6P    StarTropics (PAL)
+    en="Startropics"
+    zhcn="?"
+
+    FC7E    NES Play Action Football (NTSC-U)
+    FC7J    NES Play Action Football (NTSC-J)
+    en="Nes Play Action Football"
+    zhcn="?"
+
+    FC9J    Metal Slader Glory (NTSC-J)
+    en="Metal Slader Glory"
+    zhcn="?"
+
+    FCAE    Star Soldier (NTSC-U)
+    FCAJ    Star Soldier (NTSC-J)
+    en="Star Soldier"
+    zhcn="?"
+
+    FCEJ    Esper Dream (NTSC-J)
+    en="?"
+    zhcn="?"
+    -->
+    <Game crc32="480A29B7" bytes="24592"
+		en="Yie Ar Kung-Fu"
+		zhcn="功夫(中)"
+	/>
+    <Game crc32="CCC1B87B" bytes="49168"
+		en="Twinbee"
+		zhcn="兵蜂(中)"
+	/>
+    <!-- 
+    FCHJ    Flappy (NTSC-J)
+    en="Flappy"
+    zhcn="?"
+
+    FCIJ    Volguard II (NTSC-J)
+    en="Volguard 2"
+    zhcn="?"
+
+    FCJJ    SD Gundam World - Gachapon Senshi 2 Capsule Senki (NTSC-J)
+    en="?"
+    zhcn="?"
+    -->
+    <Game crc32="7C39CAFF" bytes="24720"
+		en="Kekkyoku Nankyoku Daibouken"
+		zhcn="南极大冒险(中)"
+	/>
+    <Game crc32="0FA8E15D" bytes="24592"
+		en="Battle City"
+		zhcn="坦克大战"
+	/>
+    <!-- 
+    FCSP    Probotector II - Return of the Evil Forces (PAL)
+    en="Probotector 2 - Return Of The Evil Forces"
+    zhcn="?"
+    -->
+    <Game crc32="5D5C0742" bytes="131088"
+		en="Mega Man"
+		zhcn="洛克人(中)"
+	/>
+    <!-- 
+    FCUE    Volleyball (NTSC-U)
+    FCUJ    Volleyball (NTSC-J)
+    FCUP    Volleyball (PAL)
+    en="Volleyball"
+    zhcn="排球"
+    -->
+    <Game crc32="1CDF7E91" bytes="98320"
+		en="Wrecking Crew"
+		zhcn="马里奥兄弟拆屋工(中)"
+	/>
+    <!-- 
+    FCYE    Yoshi's Cookie (NTSC-U)
+    FCYJ    Yoshi no Cookie (NTSC-J)
+    FCYP    Yoshi's Cookie (PAL)
+    FCYT    Yoshi's Cookie (NTSC-K)
+    en="Yoshi's Cookie"
+    zhcn="?"
+
+    FCZE    King's Knight (NTSC-U)
+    FCZJ    King's Knight (NTSC-J)
+    en="King's Knight"
+    zhcn="?"
+
+    FD3J    Nekketsu Koukou Dodgeball Bu - Soccer Hen (NTSC-J)
+    FD3Q    Nekketsu Koukou Dodgeball-bu - Soccer Hen (NTSC-K)
+    en="Super Dodge Ball"
+    zhcn="?"
+    -->
+    <Game crc32="9E4081ED" bytes="262160"
+		en="Mega Man 2"
+		zhcn="洛克人2(中)"
+	/>
+    <Game crc32="40FF0F53" bytes="393232"
+		en="Mega Man 3"
+		zhcn="洛克人3(中)"
+	/>
+    <!-- 
+    FDAE    Spelunker (NTSC-U)
+    FDAJ    Spelunker (NTSC-J)
+    FDAM    Spelunker (PAL)
+    en="Spelunker"
+    zhcn="?"
+
+    FDBJ    Famicom Mukashibanashi - Shin Onigashima Zenkouhen (NTSC-J)
+    en="?"
+    zhcn="?"
+
+    FDCJ    Star Luster (NTSC-J)
+    en="Star Luster"
+    zhcn="?"
+    -->
+    <Game crc32="3F0E8E0A" bytes="24592"
+		en="Mappy"
+		zhcn="猫抓老鼠"
+	/>
+    <!-- 
+    FDGE    Ghosts 'n Goblins (NTSC-U)
+    FDGJ    Makaimura (NTSC-J)
+    FDGP    Ghosts 'n Goblins (PAL)
+    en="?"
+    zhcn="?"
+    -->
+	<Game crc32="22C428DF" bytes="524304"
+		en="Mega Man 4"
+		zhcn="洛克人4(中)"
+	/>
+	<Game crc32="A65B5B33" bytes="524304"
+		en="Mega Man 5"
+		zhcn="洛克人5(中)"
+	/>
+	<Game crc32="F0759297" bytes="524304"
+		en="Mega Man 6"
+		zhcn="洛克人6(中)"
+	/>
+</Game-List>

@@ -1,92 +1,118 @@
 <?xml version='1.0' encoding='utf-8'?>
 <Folder name="X" rom-exists="true">
-    <Game crc32="B150AE9A" md5="2ac82902cbd1bcb2526508822a290550" bytes="524304"
-        zhcn="西部小子"
-    />
-    <Game crc32="6E66CF6F" md5="f8088ce845064f57117e0107495d3615" bytes="262160"
-        zhcn="西游记世界(中)"
-    />
-    <Game crc32="0A7EEDBB" md5="158d70217b339f60ca765d8ded494670" bytes="262160"
-        zhcn="西游记世界2(中)"
-    />
-    <Game crc32="784FC411" md5="232f5ba4f96f753834188a2a03dc5da8" bytes="262160"
-        zhcn="西游记世界2(中)"
-    />
-    <Game crc32="653311D9" md5="af697462668fced62c6915e0f3299576" bytes="786464"
-        en=""
-        zhcn="希魔复活"
-    />
-    <Game crc32="6459FBCD" md5="e77e439d6aebcd58dfa3578d7c01122b" bytes="262160"
-        zhcn="希魔复活"
-    />
-    <Game crc32="4C7E9492" md5="88aa384d916a7d513198af250c4e8f48" bytes="262160"
-        zhcn="香蕉王子大冒险"
-    />
-    <Game crc32="BBE5574F" md5="b7459e367d85b8ba8db58647714f74c2" bytes="262160"
-        en=""
-        zhcn="香蕉王子大冒险"
-    />
-    <Game crc32="936089F7" md5="99d794a33d760c0668839fbef7ff8125" bytes="262160"
-        zhcn="小超人帕门"
-    />
-    <Game crc32="E69E224A" md5="37a236dac80e8c1a64b05795b748e02e" bytes="393232"
-        zhcn="小超人帕门2"
-    />
-    <Game crc32="90F12AC8" md5="52c6aff708fa0578d56531cbaf387d2a" bytes="40976"
-        zhcn="小鬼Q太郎"
-    />
-    <Game crc32="67193FC8" md5="ed081b5c6dbddd623a845f0d27b4a288" bytes="24592"
-        en="Donkey Kong Jr. Math"
-        zhcn="小金刚算术"
-    />
-    <Game crc32="D61D7C2D" md5="b401daab414ba157fc562aabf2b5f5a2" bytes="131088"
-        zhcn="小美人鱼(中)"
-    />
-    <Game crc32="4DE86847" md5="288ca9ea7b01880534cfa8a0766da16a" bytes="24592"
-        zhcn="小蜜蜂(中)"
-    />
-    <Game crc32="65B8E68B" md5="ebba99ea6b9003f2a98e1fbb64dfdb19" bytes="262160"
-        zhcn="小魔星达鲁鲁"
-    />
-    <Game crc32="0EF31D50" md5="d9656398c9e2f66c94f690e0a2446d10" bytes="262160"
-        zhcn="小魔星达鲁鲁2"
-    />
-    <Game crc32="C2A2F654" md5="99173cf76235e9a7bebbff79464cef09" bytes="65552"
-        zhcn="新人类(中)"
-    />
-    <Game crc32="0C9B8E57" md5="5857a199cce8cfd425e967fd72b7c336" bytes="65552"
-        zhcn="新人类"
-    />
-    <Game crc32="03B5D3D2" md5="708d707f8858b16511fd32be45b31372" bytes="524304"
-        zhcn="星际魂斗罗(改)"
-        zhtw="星際魂斗羅(改)"
-    />
-    <Game crc32="F27EB039" md5="18ba34469f2ea2522d228d3d8fe08019" bytes="262160"
-        zhcn="星际魂斗罗(中)"
-    />
-    <Game crc32="8F77CCE0" md5="407b5151f2642523cba218f927926e9c" bytes="262160"
-        en="Journey to Silius"
-        zhcn="星际魂斗罗"
-        zhtw="星際魂斗羅"
-    />
-    <Game crc32="F34CB7FC" md5="62792b02a4070b21e95fab39dfe9c6d5" bytes="262160"
-        en="Journey to Silius"
-        zhcn="星际魂斗罗"
-        zhtw="星際魂斗羅"
-    />
-    <Game crc32="B3CF12B8" md5="f9faebd9c835619b6df05c03c32b5e46" bytes="65552"
-        zhcn="星际力量(美)"
-    />
-    <Game crc32="A465EA6D" md5="35bfa72db30e474376578c3da5f03e29" bytes="24592"
-        zhcn="星际力量"
-    />
-    <Game crc32="248C7140" md5="582ffbd982a91f5abbea251c2d7eda13" bytes="786448"
-        zhcn="星之卡比 梦之泉物语"
-    />
-    <Game crc32="1A0EAA47" md5="d559b5e40ef26996e9c27755d5d949f5" bytes="393232"
-        zhcn="雪人兄弟(中)"
-    />
-    <Game crc32="F682BE78" md5="64a0943232e805272dcdbe93e2cd62a3" bytes="65552"
-        zhcn="寻宝大进击(中)"
-    />
+	<Game crc32="B150AE9A" bytes="524304"
+		en="Cowboy Kid"
+		zhcn="西部小子"
+	/>
+	<Game crc32="6E66CF6F" bytes="262160"
+		me="Saiyuuki World"
+		zhcn="西游记世界(中)"
+	/>
+	<Game crc32="0A7EEDBB" bytes="262160"
+		en="Whomp 'Em"
+		zhcn="西游记世界2(中)"
+	/>
+	<Game crc32="784FC411" bytes="262160"
+		en="Whomp 'Em"
+		zhcn="西游记世界2(中)"
+	/>
+	<Game crc32="653311D9" bytes="786464"
+		en="Bionic Commando - Elite Forces"
+		zhcn="希魔复活"
+	/>
+	<Game crc32="6459FBCD" bytes="262160"
+		en="Bionic Commando - Elite Forces"
+		zhcn="希魔复活"
+	/>
+	<Game crc32="4C7E9492" bytes="262160"
+		en="Banana Prince"
+		zhcn="香蕉王子大冒险"
+	/>
+	<Game crc32="BBE5574F" bytes="262160"
+		en="Banana Prince"
+		zhcn="香蕉王子大冒险"
+	/>
+	<Game crc32="936089F7" bytes="262160"
+		en="Perman - Enban Wo Torikaese!!"
+		zhcn="小超人帕门"
+	/>
+	<Game crc32="E69E224A" bytes="393232"
+		en="Perman Part 2 - Himitsu Kessha Madoodan o Taose!"
+		zhcn="小超人帕门2"
+	/>
+	<Game crc32="90F12AC8" bytes="40976"
+		en="Chubby Cherub"
+		zhcn="小鬼Q太郎"
+	/>
+	<Game crc32="67193FC8" bytes="24592"
+		en="Donkey Kong Jr. Math"
+		zhcn="小金刚算术"
+	/>
+	<Game crc32="0E16247C" bytes="131088"
+		en="Disney's The Little Mermaid"
+		zhcn="小美人鱼(中)"
+	/>
+	<Game crc32="D61D7C2D" bytes="131088"
+		en="Disney's The Little Mermaid"
+		zhcn="小美人鱼(中)"
+	/>
+	<Game crc32="4DE86847" bytes="24592"
+		en="Galaxian"
+		zhcn="小蜜蜂(中)"
+	/>
+	<Game crc32="65B8E68B" bytes="262160"
+		en="Magical Taruruuto-kun - Fantastic World!!"
+		zhcn="小魔星达鲁鲁"
+	/>
+	<Game crc32="0EF31D50" bytes="262160"
+		en="Magical Taruruuto-kun 2 - Mahou Daibouken"
+		zhcn="小魔星达鲁鲁2"
+	/>
+	<Game crc32="C2A2F654" bytes="65552"
+		en="The Adventures Of Dino-Riki"
+		zhcn="新人类(中)"
+	/>
+	<Game crc32="0C9B8E57" bytes="65552"
+		en="The Adventures Of Dino-Riki"
+		zhcn="新人类"
+	/>
+	<Game crc32="03B5D3D2" bytes="524304"
+		en="Journey To Silius"
+		zhcn="星际魂斗罗(改)"
+		zhtw="星際魂斗羅(改)"
+	/>
+	<Game crc32="F27EB039" bytes="262160"
+		en="Journey To Silius"
+		zhcn="星际魂斗罗(中)"
+	/>
+	<Game crc32="8F77CCE0" bytes="262160"
+		en="Journey To Silius"
+		zhcn="星际魂斗罗"
+		zhtw="星際魂斗羅"
+	/>
+	<Game crc32="F34CB7FC" bytes="262160"
+		en="Journey To Silius"
+		zhcn="星际魂斗罗"
+		zhtw="星際魂斗羅"
+	/>
+	<Game crc32="B3CF12B8" bytes="65552"
+		en="Star Force"
+		zhcn="星际力量(美)"
+	/>
+	<Game crc32="A465EA6D" bytes="24592"
+		en="Star Force"
+		zhcn="星际力量"
+	/>
+	<Game crc32="248C7140" bytes="786448"
+		en="Kirby's Adventure"
+		zhcn="星之卡比 梦之泉物语"
+	/>
+	<Game crc32="1A0EAA47" bytes="393232"
+		en="Snow Brothers"
+		zhcn="雪人兄弟(中)"
+	/>
+	<Game crc32="F682BE78" bytes="65552"
+		en="Boulder Dash"
+		zhcn="寻宝大进击(中)"
+	/>
 </Folder>

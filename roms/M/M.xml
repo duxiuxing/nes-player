@@ -60,4 +60,20 @@
 		en="Takahashi Meijin no Bouken-jima IV"
 		zhcn="冒险岛4"
 	/>
+	<Game crc32="72A76580" bytes="327696"
+		en="Little Nemo - The Dream Master"
+		zhcn="梦之勇士(中)"
+	/>
+	<Game crc32="FEDA0B39" bytes="393232"
+		en="The Flintstones - The Surprise at Dinosaur Peak"
+		zhcn="摩登原始人2"
+	/>
+	<Game crc32="3CEA0142" bytes="262160"
+		en="Totally Rad"
+		zhcn="魔法总动员(中)"
+	/>
+	<Game crc32="F583796B" bytes="393232"
+		en="Don Doko Don 2"
+		zhcn="木匠兄弟2"
+	/>
 </Game-List>

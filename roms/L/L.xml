@@ -4,6 +4,10 @@
 		en="Thunderbirds"
 		zhcn="雷鸟号"
 	/>
+	<Game crc32="E822D8C9" bytes="786464"
+		en="Dragon Fighter"
+		zhcn="龙战士"
+	/>
 	<Game crc32="D2BB8CD3" bytes="786448"
 		zhcn="龙珠 激斗弗利撒(中)"
 	/>

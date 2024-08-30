@@ -6,7 +6,7 @@ class GameTDB:
         # 重新从数据库文件中读取数据
         raise NotImplementedError()
 
-    def query_game_info(self, rom_crc32=None, rom_title=None):
+    def query_game_info(self, rom_crc32=None, rom_title=None, en_title=None, zhcn_title=None):
         # 根据 rom_crc32 或 rom_title 查询游戏信息
         # Args:
         #     rom_crc32 (str): ROM 文件的 CRC32 值，查找优先级高

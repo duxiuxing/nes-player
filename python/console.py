@@ -1,8 +1,5 @@
 # -- coding: UTF-8 --
 
-import fnmatch
-
-
 class Console:
     def root_folder_path(self):
         # 仓库的第一级文件夹对应了不同的机种，以 cps-player 仓库为例：
@@ -17,7 +14,7 @@ class Console:
         raise NotImplementedError()
 
     def rom_extension(self):
-        return ".zip"
+        raise NotImplementedError()
 
     def rom_extension_match(self, file_name):
         # 根据文件的后缀名判断是不是 ROM 文件
@@ -25,7 +22,7 @@ class Console:
         #     file_name (str): 待判断的文件名，比如 1941.zip
         # Returns:
         #     bool: 如果是 ROM 文件则返回 True，否则返回 False
-        return fnmatch.fnmatch(file_name, "*.zip")
+        raise NotImplementedError()
 
     def query_rom_path(self, rom_crc32):
         # 查找 ROM 文件路径，如果找到则返回 ROM 文件的绝对路径，否则返回 None

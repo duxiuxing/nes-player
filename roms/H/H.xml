@@ -96,6 +96,14 @@
         en="Vice - Project Doom"
         zhcn="火炮"
     />
+    <Game crc32="9928CA42" bytes="655376"
+        en="Fire Emblem - Ankoku Ryu to Hikari no Tsurugi"
+        zhcn="火焰之纹章 暗黑龙与光之剑(中)"
+    />
+    <Game crc32="D9CE1737" bytes="655376"
+        en="Fire Emblem Gaiden"
+        zhcn="火焰之纹章外传(中)"
+    />
     <Game crc32="19CCF008" bytes="131088"
         en="Hi no Tori Hououhen - Gaou no Bouken"
         zhcn="火之鸟"

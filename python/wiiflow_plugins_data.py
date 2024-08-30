@@ -93,8 +93,7 @@ class WiiFlowPluginsData(GameTDB):
                     elif lang == "ZHCN":
                         zhcn_title = elem.find("title").text
 
-            self.game_id_to_info[game_id] = GameInfo(
-                en_title=en_title, zhcn_title=zhcn_title)
+            self.game_id_to_info[game_id] = GameInfo(en_title=en_title, zhcn_title=zhcn_title)
 
     def reset_rom_crc32_to_game_id(self):
         # 本函数执行的操作如下：
@@ -134,7 +133,7 @@ class WiiFlowPluginsData(GameTDB):
         # 内部会设置 self.game_id_to_info 每个 GameInfo 的 rom_name
         self.reset_rom_crc32_to_game_id()
 
-    def query_game_info(self, rom_crc32=None, rom_title=None):
+    def query_game_info(self, rom_crc32=None, rom_title=None, en_title=None, zhcn_title=None):
         # GameTDB.query_game_info() 接口的实现
 
         # 防止重复读取
@@ -152,6 +151,14 @@ class WiiFlowPluginsData(GameTDB):
 
         if game_id is not None and game_id in self.game_id_to_info.keys():
             return self.game_id_to_info.get(game_id)
+
+        if zhcn_title is not None and zhcn_title[-3] == "(" and zhcn_title[-1] == ")":
+            zhcn_title = zhcn_title[:-3]
+        for game_info in self.game_id_to_info.values():
+            if en_title is not None and game_info.en_title == en_title:
+                return game_info
+            if zhcn_title is not None and game_info.zhcn_title == zhcn_title:
+                return game_info
 
         print(f"{rom_title} 不在 {self.plugin_name}.ini 中，crc32 = {rom_crc32}")
         return None

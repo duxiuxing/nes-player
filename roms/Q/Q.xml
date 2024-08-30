@@ -28,9 +28,17 @@
 		en="The Goonies II"
 		zhcn="七宝奇谋2"
 	/>
+	<Game crc32="76E7A0CC" bytes="262160"
+		en="Yume Penguin Monogatari"
+		zhcn="企鹅梦物语"
+	/>
 	<Game crc32="1E63AE84" bytes="24592"
 		en="Balloon Fight"
 		zhcn="气球大战(中)"
+	/>
+	<Game crc32="3D512CEE" bytes="24592"
+		en="Balloon Fight"
+		zhcn="气球大战"
 	/>
 	<Game crc32="B0C660BA" bytes="24592"
 		en="Front Line"

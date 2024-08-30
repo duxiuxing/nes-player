@@ -26,17 +26,18 @@ class NES(ConsoleImpl):
         return fnmatch.fnmatch(file_name, "*.nes")
 
 
-wii_app_files_tuple = (
-    # "apps\\ra-neogeo\\boot.dol",
-    # "apps\\ra-neogeo\\icon.png",
-    # "apps\\ra-neogeo\\meta.xml",
-    # "private"
-)
+if __name__ == '__main__':
+    wii_app_files_tuple = (
+        # "apps\\ra-neogeo\\boot.dol",
+        # "apps\\ra-neogeo\\icon.png",
+        # "apps\\ra-neogeo\\meta.xml",
+        # "private"
+    )
 
 
-MainMenu.console = NES()
-MainMenu.init_default_cmd_handlers()
-# MainMenu.add_cmd_handler(ExportWiiApps(wii_app_files_tuple))
-MainMenu.add_cmd_handler(ImportCovers())
-MainMenu.add_cmd_handler(ExportNESemuRoms())
-MainMenu.show()
+    MainMenu.console = NES()
+    MainMenu.init_default_cmd_handlers()
+    # MainMenu.add_cmd_handler(ExportWiiApps(wii_app_files_tuple))
+    MainMenu.add_cmd_handler(ImportCovers())
+    MainMenu.add_cmd_handler(ExportNESemuRoms())
+    MainMenu.show()

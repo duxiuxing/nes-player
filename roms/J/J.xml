@@ -1,8 +1,12 @@
 <?xml version='1.0' encoding='utf-8'?>
 <Game-List name="J" rom-exists="true">
 	<Game crc32="A3D966DB" bytes="40976"
-		en="Excitebike"
+		en="Mach Rider"
 		zhcn="机车大赛"
+	/>
+	<Game crc32="E5A45F09" bytes="917536"
+		en="Robocco Wars"
+		zhcn="机器人战争"
 	/>
 	<Game crc32="A568590B" bytes="393232"
 		en="RoboCop"
@@ -35,6 +39,10 @@
 	<Game crc32="F5D0E8E1" bytes="262160"
 		en="RoboCop versus The Terminator"
 		zhcn="机械战警对终结者" attention="有超任版"
+	/>
+	<Game crc32="EEB6B362" bytes="393232"
+		en="Mr. Gimmick"
+		zhcn="吉米克"
 	/>
 	<Game crc32="3C63F85A" bytes="393232"
 		en="Gun Nac"

@@ -64,6 +64,14 @@
 		en="Demon Castle Special - I'm Kid Dracula"
 		zhcn="恶魔城外传 王子传奇"
 	/>
+	<Game crc32="9FC60476" bytes="24592"
+		en="Devil World"
+		zhcn="恶魔世界"
+	/>
+	<Game crc32="D437F5D4" bytes="24592"
+		en="Devil World"
+		zhcn="恶魔世界"
+	/>
 	<Game crc32="3B2AD28B" bytes="393232"
 		en="The Adventures of Bayou Billy"
 		zhcn="鳄鱼先生(中)"

@@ -58,6 +58,9 @@ La jugabilidad es en un estilo de desplazamiento vertical. No hay jugadas o alin
     <locale lang="JA">
       <title>10 Yard Fight</title>
     </locale>
+    <locale lang="ZHCN">
+      <title>10码美式足球大赛</title>
+    </locale>
     <developer>Irem</developer>
     <publisher>Nintendo</publisher>
     <date year="1985" month="08" day="30"/>
@@ -352,7 +355,7 @@ At least two versions of this multicart are known to exist, with the other versi
       <control type="gamecube" required="false"/>
     </input>
   </game>
-  <game name="3D Battles of World Runner, The">
+  <game name="The 3D Battles of World Runner">
     <id>18548A</id>
     <locale lang="EN">
       <title>The 3D Battles of World Runner</title>
@@ -374,6 +377,9 @@ At least two versions of this multicart are known to exist, with the other versi
     </locale>
     <locale lang="JA">
       <title>Tobidase Daisakusen</title>
+    </locale>
+    <locale lang="ZHCN">
+      <title>3D世界奔跑者</title>
     </locale>
     <developer>Square Enix</developer>
     <publisher>Acclaim Entertainment</publisher>
@@ -1400,7 +1406,7 @@ Bayou Billy es un juego de acción arcade con tres modalidades de juego: Peleas,
       <control type="gamecube" required="false"/>
     </input>
   </game>
-  <game name="Adventures Of Dino-Riki, The">
+  <game name="The Adventures Of Dino-Riki">
     <id>1627AA</id>
     <locale lang="EN">
       <title>The Adventures Of Dino-Riki</title>
@@ -1420,6 +1426,9 @@ Bayou Billy es un juego de acción arcade con tres modalidades de juego: Peleas,
     </locale>
     <locale lang="JA">
       <title>Shin Jinrui : The New Type</title>
+    </locale>
+    <locale lang="ZHCN">
+      <title>新人类</title>
     </locale>
     <developer>Hudson</developer>
     <publisher>Nintendo</publisher>
@@ -2381,6 +2390,9 @@ After every two levels, a guardian level follows, in which an especially tough a
     <locale lang="DE">
       <genre>Shooter</genre>
     </locale>
+    <locale lang="ZHCN">
+      <title>异形3</title>
+    </locale>
     <developer>Probe</developer>
     <publisher>Acclaim Entertainment</publisher>
     <date year="1993" month="03" day="01"/>
@@ -2492,6 +2504,9 @@ Using your defense ship 'Syd,' you must destroy the invading forces and ground t
     </locale>
     <locale lang="JA">
       <title>ASO : Armored Scrum Object</title>
+    </locale>
+    <locale lang="ZHCN">
+      <title>ASO组合战机</title>
     </locale>
     <developer>SNK</developer>
     <publisher>SNK</publisher>
@@ -4581,6 +4596,9 @@ Banana Príncipe es un juego de plataformas de acción. Viajas entre ubicaciones
     <locale lang="JA">
       <title>Bananan Ouji no Daibouken</title>
     </locale>
+    <locale lang="ZHCN">
+      <title>香蕉王子大冒险</title>
+    </locale>
     <developer>Kid</developer>
     <publisher>TAKARA Co., Ltd.</publisher>
     <date year="1991" month="12" day="20"/>
@@ -5549,12 +5567,15 @@ The NES game includes a construction mode, so you can make your own levels when 
       <control type="gamecube" required="false"/>
     </input>
   </game>
-  <game name="Battle Kid - Fortress Of Peril">
+  <game name="Battle Kid - Fortress of Peril">
     <id>143218</id>
     <locale lang="EN">
-      <title>Battle Kid - Fortress Of Peril</title>
+      <title>Battle Kid - Fortress of Peril</title>
       <synopsis>Battle Kid est un homebrew développé par Sivak Games qui mélange les concepts d'I Wanna Be The Guy (pour le design du hero et de son pistolet et pour la mécanique de Die and Retry) et de Mega Man (pour les combats de chaque boss). Le hero meurt dès qu'il se fait touché, mais il y a des "continue" infinis. Il y a 500 salles, 30 types d'ennemis différents et des multiples options de difficultée.</synopsis>
       <genre>Action,Platform</genre>
+    </locale>
+    <locale lang="ZHCN">
+      <title>战地小子</title>
     </locale>
     <date year="2010" month="" day=""/>
     <rating type="NOTE" value="">
@@ -5567,10 +5588,10 @@ The NES game includes a construction mode, so you can make your own levels when 
     </input>
     <publisher>Retrozone</publisher>
   </game>
-  <game name="Battle Kid 2 - Mountain Of Torment">
+  <game name="Battle Kid 2 - Mountain of Torment">
     <id>154256</id>
     <locale lang="EN">
-      <title>Battle Kid 2 - Mountain Of Torment</title>
+      <title>Battle Kid 2 - Mountain of Torment</title>
       <genre>Adventure,Platform</genre>
       <synopsis>The next phase of the vile group's plan has begun! The Supermech have have been destroyed, but that was only the beginning. You must venture through a giant mountain base and overcome its many dangers. Along the way, items will be found to allow access to new areas and grant you new abilities. An even bigger game than before awaits! Will the torment get to you? Over 650 rooms, more than 20 enemies, 13 boss battles, and other challenges stand between you and victory. Also featured are 5 difficulty settings, password system, and a built-in death counter.</synopsis>
     </locale>
@@ -5579,6 +5600,9 @@ The NES game includes a construction mode, so you can make your own levels when 
 Le hero meurt dès qu'il se fait touché, mais il y a des "continue" infinis.
 Il y a 500 salles, 30 types d'ennemis différents et des multiples options de difficultée.
 Le deuxième opus rajoute de nouvelles fonctionnalitées comme de nouveaux types de block de glace, d'ennemis et de boue, une amélioration du "Wall-Grip", un compteur de morts et un niveau d'introduction.</synopsis>
+    </locale>
+    <locale lang="ZHCN">
+      <title>战地小子2</title>
     </locale>
     <developer>Sivak Games</developer>
     <publisher>Sivak Games</publisher>
@@ -6646,7 +6670,7 @@ Un Zapper ou un pistolet générique peut être utilisé pour tirer sur les enne
   <game name="Bionic Commando - Elite Forces">
     <id>1324AA</id>
     <locale lang="EN">
-      <title>Bionic Commando: Elite Forces</title>
+      <title>Bionic Commando - Elite Forces</title>
       <synopsis>You play a soldier with a bionic arm that extends and contracts.  Your arm allows you to grab on to fixed objects to swing around and climb up levels -- no jumping allowed! The arm also grabs opponents and pull them towards you.
 
 Your mission is to infiltrate the enemy fortress, find your missing comrade, "Super Joe", and take out the evil leader, "Generalissimo Kilt", of the invading force that has been attacking your people for the last 2 years.
@@ -6667,6 +6691,9 @@ After most levels the Bionic Commando will recieve items. Often these items are 
     </locale>
     <locale lang="JA">
       <title>Hitler no Fukkatsu : Top Secret</title>
+    </locale>
+    <locale lang="ZHCN">
+      <title>希魔复活</title>
     </locale>
     <developer>Capcom</developer>
     <publisher>Capcom</publisher>
@@ -7227,6 +7254,9 @@ El primero de la serie Bomberman, Bomberman es un juego para un solo jugador con
     <locale lang="DE">
       <genre>Action</genre>
     </locale>
+    <locale lang="ZHCN">
+      <title>炸弹人</title>
+    </locale>
     <developer>Hudson</developer>
     <publisher>Hudson</publisher>
     <date year="1985" month="12" day="19"/>
@@ -7443,6 +7473,9 @@ Y sin saber muy bien como, una cosa llevó a la otra y Cheril se vio bien enfund
     <locale lang="DE">
       <genre>Action</genre>
     </locale>
+    <locale lang="ZHCN">
+      <title>寻宝大进击</title>
+    </locale>
     <developer>SAS Sakata</developer>
     <publisher>JVC Digital Studios</publisher>
     <date year="1990" month="03" day="23"/>
@@ -7558,6 +7591,9 @@ Jonathan Harker se puede mover hacia la izquierda y derecha, saltar y atacar con
     </locale>
     <locale lang="DE">
       <genre>Shoot'em Up</genre>
+    </locale>
+    <locale lang="ZHCN">
+      <title>越野战车</title>
     </locale>
     <developer>Data East</developer>
     <publisher>Data East USA, Inc.</publisher>
@@ -7725,7 +7761,7 @@ El juego se juega mucho como el juego original: Se utiliza un dinosaurio que esc
       <control type="gamecube" required="false"/>
     </input>
   </game>
-  <game name="Bucky O'hare">
+  <game name="Bucky O'Hare">
     <id>1510AA</id>
     <locale lang="EN">
       <title>Bucky O'Hare</title>
@@ -7749,6 +7785,9 @@ Bucky O Hare es un juego de acción de desplazamiento lateral basado en la histo
     </locale>
     <locale lang="PT">
       <genre>Ação,Plataforma</genre>
+    </locale>
+    <locale lang="ZHCN">
+      <title>外星战将</title>
     </locale>
     <developer>Konami</developer>
     <publisher>Konami</publisher>
@@ -8033,6 +8072,9 @@ Recoge todo tipo de armamento que encuentres, incluso granadas, e intenta batir 
     </locale>
     <locale lang="DE">
       <genre>Action</genre>
+    </locale>
+    <locale lang="ZHCN">
+      <title>勇士们</title>
     </locale>
     <developer>Rare Ltd.</developer>
     <publisher>Milton Bradley</publisher>
@@ -10102,7 +10144,7 @@ The player can choose to receive their fortune in distinct areas of their lives,
   <game name="Chuuka Taisen">
     <id>65456A</id>
     <locale lang="EN">
-      <title>Cloud Master</title>
+      <title>Chuuka Taisen</title>
       <synopsis>You play a small character who floats about on a cloud and shoots small balls of energy at bad guys who fly at you from the left and right of the screen. You can collect powerups and visit shops to upgrade your offensive and defensive powers. There are a number of different stages which are punctated by a mini-boss half way through and a big (literally) boss at the end.
 
 This is one of the only games ever made which features flying noodle bowls and bears with guns.</synopsis>
@@ -10120,6 +10162,9 @@ This is one of the only games ever made which features flying noodle bowls and b
     </locale>
     <locale lang="JA">
       <title>Chuuka Taisen</title>
+    </locale>
+    <locale lang="ZHCN">
+      <title>中华大仙</title>
     </locale>
     <developer>Taito</developer>
     <publisher>Taito</publisher>
@@ -10402,6 +10447,9 @@ Two players can play against each other, or one person can play against a comput
     <locale lang="DE">
       <genre>Strategie</genre>
     </locale>
+    <locale lang="ZHCN">
+      <title>转转乐园</title>
+    </locale>
     <developer>Nintendo</developer>
     <publisher>Nintendo</publisher>
     <date year="1984" month="11" day="22"/>
@@ -10678,6 +10726,9 @@ Entdecke die neue Welt als Christoph Kolumbus, und nimm deinen Platz in der Gesc
     <locale lang="JA">
       <title>Senjou no Ookami</title>
     </locale>
+    <locale lang="ZHCN">
+      <title>战场之狼</title>
+    </locale>
     <developer>Capcom</developer>
     <publisher>Capcom</publisher>
     <date year="1986" month="09" day="27"/>
@@ -10861,6 +10912,9 @@ Controlando Bill(jogador 1) ou Lance(jogador 2), o jogador deverá chegar ao fin
       <title>Contra 1993</title>
       <genre>Action</genre>
       <synopsis/>
+    </locale>
+    <locale lang="ZHCN">
+      <title>93超级魂</title>
     </locale>
     <rating type="NOTE" value="">
 		</rating>
@@ -11179,6 +11233,9 @@ The game's world is a network of caves that the player can explore for necessary
     </locale>
     <locale lang="JA">
       <title>Western Kids</title>
+    </locale>
+    <locale lang="ZHCN">
+      <title>西部小子</title>
     </locale>
     <developer>Romstar</developer>
     <publisher>Romstar</publisher>
@@ -13491,6 +13548,9 @@ El tesoro que se encuentra en la arena suele ser sólo puntos de bonificación, 
     <locale lang="JA">
       <title>Little Mermaid : Ningyo Hime</title>
     </locale>
+    <locale lang="ZHCN">
+      <title>小美人鱼</title>
+    </locale>
     <developer>Capcom</developer>
     <publisher>Capcom</publisher>
     <date year="1991" month="07" day="01"/>
@@ -13594,6 +13654,9 @@ Hay cinco áreas que constan de diez niveles cada una. Al final de cada área, t
     <locale lang="JA">
       <title>Don Doko Don</title>
     </locale>
+    <locale lang="ZHCN">
+      <title>木匠兄弟</title>
+    </locale>
     <developer>Taito</developer>
     <publisher>Taito</publisher>
     <date year="1990" month="03" day="09"/>
@@ -13635,6 +13698,9 @@ le joueur contrôle un nain barbu brandissant un marteau pour aplatir les ennemi
     </locale>
     <locale lang="JA">
       <title>Don Doko Don 2</title>
+    </locale>
+    <locale lang="ZHCN">
+      <title>木匠兄弟2</title>
     </locale>
     <developer>Taito</developer>
     <publisher>Taito</publisher>
@@ -14011,6 +14077,9 @@ Donkey Kong gibt seinem Junior einige mathematische Aufgaben auf, von einfach bi
     </locale>
     <locale lang="JA">
       <title>Donkey Kong Jr. no Sansuu Asobi</title>
+    </locale>
+    <locale lang="ZHCN">
+      <title>小金刚算术</title>
     </locale>
     <developer>Nintendo</developer>
     <publisher>Nintendo</publisher>
@@ -15096,6 +15165,9 @@ El juego cuenta con seis niveles de acción: un nivel de nieve, un nivel de cuev
     <locale lang="JA">
       <title>Dragon Fighter</title>
     </locale>
+    <locale lang="ZHCN">
+      <title>龙战士</title>
+    </locale>
     <developer>Natsume Co., Ltd.</developer>
     <publisher>SOFEL Co., Ltd.</publisher>
     <date year="1990" month="08" day="10"/>
@@ -15970,7 +16042,7 @@ Puedes Jugar partidos de siete innings de lanzamientos rápido o lento. En modo 
       <control type="gamecube" required="false"/>
     </input>
   </game>
-  <game name="Bomberman 2">
+  <game name="Bomberman II">
     <id>1482AA</id>
     <locale lang="EN">
       <title>Bomberman II</title>
@@ -15995,6 +16067,9 @@ In addition to the single Player game, Bomberman II introduces a Versus Mode for
     </locale>
     <locale lang="JA">
       <title>Bomber Man II</title>
+    </locale>
+    <locale lang="ZHCN">
+      <title>炸弹人2</title>
     </locale>
     <developer>Hudson</developer>
     <publisher>Hudson</publisher>
@@ -16644,7 +16719,7 @@ Create your own tracks by placing jumps and obstacles of all different sizes and
       <genre>Esporte,Corrida, Pilotagem</genre>
     </locale>
     <locale lang="ZHCN">
-      <title>机车大赛</title>
+      <title>越野摩托</title>
     </locale>
     <developer>Nintendo</developer>
     <publisher>Nintendo</publisher>
@@ -18670,10 +18745,10 @@ The initial race takes place on an oval track in New York while subsequent track
     <developer>Gamtec</developer>
     <publisher>BIC</publisher>
   </game>
-  <game name="Fire Emblem - Ankoku Ryu To Hikari No Tsurugi">
+  <game name="Fire Emblem - Ankoku Ryu to Hikari no Tsurugi">
     <id>1257AA</id>
     <locale lang="EN">
-      <title>Fire Emblem - Ankoku Ryu To Hikari No Tsurugi</title>
+      <title>Fire Emblem - Ankoku Ryu to Hikari no Tsurugi</title>
       <synopsis>Dark Forces have attacked the land of Aritia. You're controlling some of the members of the Aritan's forces that escaped from their country and came on the island of Tamis for safety. Unfortunately, a group of pirates is invading the Tamis, and it's up to you to control the island again.
 
 Fire Emblem is a strategy game where you have to move your units on a map. You can control the blue units while the red ones are enemies. You have to attack enemies from various ranges, in function of the weapon you're using. Usually, you have to be one or two squares next to the enemy. When a battle is set, you see both characters; allies in blue on the right and the opponent in red on the left with a detailed animation. The enemy will counterattack if he can, and either you or the enemy may also do one more hit to close the battle. When you've finished, it's the computer's turn and it will do the same with its units. Once the HP (Health Points) of any unit reaches 0, they are definitely out of battle and can't return again, whether it's an enemy or an ally.</synopsis>
@@ -18694,6 +18769,9 @@ Fire Emblem is a strategy game where you have to move your units on a map. You c
     </locale>
     <locale lang="JA">
       <title>Fire Emblem : Ankoku Ryuu to Hikari no Tsurugi</title>
+    </locale>
+    <locale lang="ZHCN">
+      <title>火焰之纹章 暗黑龙与光之剑</title>
     </locale>
     <developer>Intelligent Systems</developer>
     <publisher>Nintendo</publisher>
@@ -18731,6 +18809,9 @@ EL juego toma lugar en mapas de batalla donde el jugador mueve sus personajes en
     </locale>
     <locale lang="JA">
       <title>Fire Emblem Gaiden</title>
+    </locale>
+    <locale lang="ZHCN">
+      <title>火焰之纹章外传</title>
     </locale>
     <developer>Intelligent Systems</developer>
     <publisher>Nintendo</publisher>
@@ -19006,7 +19087,7 @@ A couple of things set this game apart from typical Famicom games. First, in add
       <control type="gamecube" required="false"/>
     </input>
   </game>
-  <game name="Flintstones - The Rescue of Dino and Hoppy, The">
+  <game name="The Flintstones - The Rescue of Dino and Hoppy">
     <id>1512AA</id>
     <locale lang="EN">
       <title>The Flintstones : The Rescue of Dino &amp; Hoppy</title>
@@ -19031,6 +19112,9 @@ After completing the first level, the player is presented with an overworld map 
     <locale lang="PT">
       <genre>Esporte,Plataforma</genre>
     </locale>
+    <locale lang="ZHCN">
+      <title>摩登原始人</title>
+    </locale>
     <developer>Taito</developer>
     <publisher>Nintendo</publisher>
     <date year="1991" month="12" day="01"/>
@@ -19043,10 +19127,10 @@ After completing the first level, the player is presented with an overworld map 
       <control type="gamecube" required="false"/>
     </input>
   </game>
-  <game name="Flintstones - The Surprise at Dinosaur Peak, The">
+  <game name="The Flintstones - The Surprise at Dinosaur Peak">
     <id>1554AA</id>
     <locale lang="EN">
-      <title>Flintstones - The Surprise at Dinosaur Peak, The</title>
+      <title>The Flintstones - The Surprise at Dinosaur Peak</title>
       <synopsis>Fred and Barney are searching for their children, Pebbles and Bam-Bam who got lost. When they finally find them, a volcanic eruption blocks their way and so they start going all the way around the mountain to find out why this happened and of course to save their children. 
 
 The Surprise at Dinosaur Peak is the second Flintstones-licensed game for the NES. There are two characters you can play with. By pressing the Select button you can change from Fred to Barney and vice versa. Each character has unique abilities that are needed to complete certain parts of each stage. For example Fred can grab the edges of a roof or a hill and climb while Barney can hang from ropes and vines. In terms of weapons Fred has a bat which is stronger and can also be charged for extra power but it takes more time to use. Barney on the other hand has a slingshot and can shoot small rocks for ranged attacks but rather weak. There are also weapons like throwing axes and bowling balls that both can use.</synopsis>
@@ -19064,6 +19148,9 @@ The Surprise at Dinosaur Peak is the second Flintstones-licensed game for the NE
     </locale>
     <locale lang="DE">
       <genre>Action</genre>
+    </locale>
+    <locale lang="ZHCN">
+      <title>摩登原始人2</title>
     </locale>
     <developer>Taito</developer>
     <publisher>Taito Software</publisher>
@@ -19760,6 +19847,9 @@ Les 6 missions que le commando G.I. Joe doit accomplir se déroulent en Amazonie
     <locale lang="DE">
       <genre>Action</genre>
     </locale>
+    <locale lang="ZHCN">
+      <title>眼镜蛇特种部队</title>
+    </locale>
     <developer>Kid</developer>
     <publisher>Taxan</publisher>
     <date year="1991" month="01" day="02"/>
@@ -19775,7 +19865,7 @@ Les 6 missions que le commando G.I. Joe doit accomplir se déroulent en Amazonie
   <game name="G.i. Joe - The Atlantis Factor">
     <id>1589AA</id>
     <locale lang="EN">
-      <title>G.I. Joe : The Atlantis Factor</title>
+      <title>G.I. Joe - The Atlantis Factor</title>
       <synopsis>Cobra, the evil villain, previous encounter with G.I. Joe ended with Cobraâs base been destroyed (as played in G.I. Joe: A Real American Hero). But this time Cobra has unlocked the secret of Atlantis. Using an ancient power source Cobra has managed to r</synopsis>
       <genre>Action,Adventure</genre>
     </locale>
@@ -19799,6 +19889,9 @@ Les G.I. Joe doivent une fois de plus se frayer un chemin au travers des diverse
     </locale>
     <locale lang="DE">
       <genre>Action</genre>
+    </locale>
+    <locale lang="ZHCN">
+      <title>眼镜蛇特种部队2</title>
     </locale>
     <developer>Kid</developer>
     <publisher>Capcom</publisher>
@@ -19947,6 +20040,9 @@ Aparecerá una pantalla de resumen cuando el juego ha terminado, que te da tanto
     </locale>
     <locale lang="JA">
       <title>Galaxian</title>
+    </locale>
+    <locale lang="ZHCN">
+      <title>小蜜蜂</title>
     </locale>
     <developer>Namco</developer>
     <publisher>Namco</publisher>
@@ -21471,6 +21567,9 @@ This is a traditionial side-scrolling game that uses a third-person view in cuts
     <locale lang="JA">
       <title>Gomoku Narabe</title>
     </locale>
+    <locale lang="ZHCN">
+      <title>五子棋</title>
+    </locale>
     <publisher>Nintendo</publisher>
     <date year="1983" month="08" day="27"/>
     <rating type="NOTE" value="12">
@@ -21707,6 +21806,9 @@ The game contains three difficulty levels and three different zones (woods, city
     <locale lang="JA">
       <title>Gradius</title>
     </locale>
+    <locale lang="ZHCN">
+      <title>宇宙巡航机</title>
+    </locale>
     <developer>Konami</developer>
     <publisher>Konami</publisher>
     <date year="1986" month="04" day="25"/>
@@ -21719,10 +21821,10 @@ The game contains three difficulty levels and three different zones (woods, city
       <control type="gamecube" required="false"/>
     </input>
   </game>
-  <game name="Gradius 2">
+  <game name="Gradius II">
     <id>1662AA</id>
     <locale lang="EN">
-      <title>Gradius 2</title>
+      <title>Gradius II</title>
       <synopsis>Gradius II is a sequel to Gradius, and Life Force, and is a horizontal space shooter composed of 7 levels.
 Like it's predecessor, you can collect power up from enemies and chose which ones to use when. This time, this system is enhanced because you can chose between 4 different power-up sequences, allowing you to use differents types of weapons against your enemies. There is also the possibility to gain options, which are mysterious balls of fire that follows your spaceship closely and mimic all its movements (including shots). While you only could have 2 of them in Gradius, you now can have up to 4 of them.</synopsis>
       <genre>Action</genre>
@@ -21739,6 +21841,9 @@ Like it's predecessor, you can collect power up from enemies and chose which one
     </locale>
     <locale lang="JA">
       <title>Gradius II</title>
+    </locale>
+    <locale lang="ZHCN">
+      <title>宇宙巡航机2</title>
     </locale>
     <developer>Konami</developer>
     <publisher>Konami</publisher>
@@ -25589,7 +25694,7 @@ The concept of the game is that the player controls a red ninja as he progress t
   <game name="James Bond Jr.">
     <id>1435AA</id>
     <locale lang="EN">
-      <title>James Bond Jr</title>
+      <title>James Bond Jr.</title>
       <synopsis>Based off a cartoon series by the same name, you control James Bond's teenage nephew, James Bond Jr. Many scientists have disappeared and it is James Bond Junior's task to find the scientists and save the world.  Agents have seen missile sites on an island and they believe that Scumlord is responsible. All in a day's work... 
 
 The gameplay is a side scroller similar to Contra.</synopsis>
@@ -25608,6 +25713,9 @@ The gameplay is a side scroller similar to Contra.</synopsis>
     </locale>
     <locale lang="PT">
       <genre>Ação,Aventura</genre>
+    </locale>
+    <locale lang="ZHCN">
+      <title>少年詹姆斯邦德</title>
     </locale>
     <developer>Eurocom</developer>
     <publisher>THQ</publisher>
@@ -26040,7 +26148,7 @@ It is very accurate when it comes to playing on different surfaces such as hard 
       <control type="gamecube" required="false"/>
     </input>
   </game>
-  <game name="Joe And Mac">
+  <game name="Joe &amp; Mac">
     <id>1490AA</id>
     <locale lang="EN">
       <title>Joe &amp; Mac</title>
@@ -26057,6 +26165,9 @@ It is very accurate when it comes to playing on different surfaces such as hard 
     </locale>
     <locale lang="DE">
       <genre>Action</genre>
+    </locale>
+    <locale lang="ZHCN">
+      <title>战斗原始人</title>
     </locale>
     <developer>Elite</developer>
     <publisher>Data East</publisher>
@@ -26205,6 +26316,9 @@ While they are two completely different players, they can still go one-on-one on
     </locale>
     <locale lang="JA">
       <title>Raf World</title>
+    </locale>
+    <locale lang="ZHCN">
+      <title>星际魂斗罗</title>
     </locale>
     <developer>Sunsoft</developer>
     <publisher>Sunsoft</publisher>
@@ -26439,6 +26553,9 @@ Some levels end in boss encounters, including a Triceratops stampede and a fight
     </locale>
     <locale lang="DE">
       <genre>Action</genre>
+    </locale>
+    <locale lang="ZHCN">
+      <title>侏罗纪公园</title>
     </locale>
     <developer>Ocean</developer>
     <publisher>Ocean</publisher>
@@ -27279,6 +27396,9 @@ A télécharger.</synopsis>
     <locale lang="JA">
       <title>Kekkyoku Nankyoku Daibouken</title>
     </locale>
+    <locale lang="ZHCN">
+      <title>南极大冒险</title>
+    </locale>
     <developer>Konami</developer>
     <publisher>Konami</publisher>
     <date year="1985" month="04" day="22"/>
@@ -27997,6 +28117,9 @@ Kirby's Adventure is an action/adventure side scrolling platform game. As the pi
     </locale>
     <locale lang="JA">
       <title>Hoshi no Kirby : Yume no Izumi no Monogatari</title>
+    </locale>
+    <locale lang="ZHCN">
+      <title>星之卡比 梦之泉物语</title>
     </locale>
     <developer>HAL Laboratory</developer>
     <publisher>Nintendo</publisher>
@@ -29517,7 +29640,7 @@ El objeto del juego es entrar en la gran mazmorra, dividida en 5 áreas, recoger
       <control type="gamecube" required="false"/>
     </input>
   </game>
-  <game name="Legend of Kage, The">
+  <game name="The Legend of Kage">
     <id>1923AA</id>
     <locale lang="EN">
       <title>The Legend of Kage</title>
@@ -29537,6 +29660,9 @@ El objeto del juego es entrar en la gran mazmorra, dividida en 5 áreas, recoger
     </locale>
     <locale lang="JA">
       <title>Kage no Densetsu</title>
+    </locale>
+    <locale lang="ZHCN">
+      <title>影子传说</title>
     </locale>
     <developer>Taito</developer>
     <publisher>Taito Software</publisher>
@@ -29686,10 +29812,7 @@ Link will face dangers and traps unlike anything Ganon had ever devised. His adv
     </input>
     <publisher/>
   </game>
-
-
-
-        <game name="Legend of Zelda, The">
+  <game name="The Legend of Zelda">
     <id>1250AA</id>
     <locale lang="EN">
       <title>The Legend of Zelda</title>
@@ -29794,6 +29917,9 @@ Varios modos de juego secundarios (Peligro, Suerte, y Palacio) también se activ
     </locale>
     <locale lang="DE">
       <genre>Action</genre>
+    </locale>
+    <locale lang="ZHCN">
+      <title>翼人</title>
     </locale>
     <developer>Capcom</developer>
     <publisher>Capcom</publisher>
@@ -30263,7 +30389,7 @@ Cuando estás bateando puedes moverse en la caja, controlar el swing, y bunt. Co
   <game name="Little Nemo - The Dream Master">
     <id>1366AA</id>
     <locale lang="EN">
-      <title>Little Nemo : The Dream Master</title>
+      <title>Little Nemo - The Dream Master</title>
       <synopsis>Based on a comic strip for the 1940's, Nemo is a young boy from London summoned to the kingdom of Slumberland, a fantasy realm filled with strange creatures and dream-like locations.  You soon learn that the King of Slumberland has been kidnapped by the Prince of Nightmares, and you are requested to save him by Princess Camille.  Using your only weapon, a sack of candy, you stun enemies and lull friendly animals into helping you through levels like the Mushroom Forest and Train Land.  This platformer featured licensed characters and artwork from the comic, along with using the animals, such as apes and moles, to traverse through the different terrain.</synopsis>
       <genre>Action,Platform</genre>
     </locale>
@@ -30280,6 +30406,9 @@ Cuando estás bateando puedes moverse en la caja, controlar el swing, y bunt. Co
     </locale>
     <locale lang="JA">
       <title>Pajama Hero : Nemo</title>
+    </locale>
+    <locale lang="ZHCN">
+      <title>梦之勇士</title>
     </locale>
     <developer>Capcom</developer>
     <publisher>Capcom</publisher>
@@ -30738,6 +30867,9 @@ C'est la meilleure simulation de billard, faute de meilleure concurrence. Je lui
     <locale lang="JA">
       <title>Lunar Ball</title>
     </locale>
+    <locale lang="ZHCN">
+      <title>月宫桌球</title>
+    </locale>
     <developer>Blue Pony, INC|Compile</developer>
     <publisher>FCI</publisher>
     <date year="1987" month="10" day="01"/>
@@ -30920,6 +31052,9 @@ There is also a level editor (similar to the one in Excitebike) that allows crea
     </locale>
     <locale lang="DE">
       <genre>Rennen, Fahren</genre>
+    </locale>
+    <locale lang="ZHCN">
+      <title>机车大赛</title>
     </locale>
     <developer>Nintendo</developer>
     <publisher>Nintendo</publisher>
@@ -31400,6 +31535,9 @@ World 7: MOUTH</synopsis>
     <locale lang="JA">
       <title>Magical Taruruuto-kun : Fantastic World!!</title>
     </locale>
+    <locale lang="ZHCN">
+      <title>小魔星达鲁鲁</title>
+    </locale>
     <developer>TOSE</developer>
     <publisher>Bandai</publisher>
     <date year="1991" month="03" day="21"/>
@@ -31424,6 +31562,9 @@ World 7: MOUTH</synopsis>
     </locale>
     <locale lang="JA">
       <title>Magical Taruruuto-kun 2 : Mahou Daibouken</title>
+    </locale>
+    <locale lang="ZHCN">
+      <title>小魔星达鲁鲁2</title>
     </locale>
     <developer>TOSE</developer>
     <publisher>Bandai</publisher>
@@ -32264,10 +32405,10 @@ The two player game has both players, (one playing as Happy, the other as his br
     <date year=""/>
     <publisher/>
   </game>
-  <game name="Mario And Yoshi">
+  <game name="Mario &amp; Yoshi">
     <id>1388AA</id>
     <locale lang="EN">
-      <title>Mario And Yoshi</title>
+      <title>Mario &amp; Yoshi</title>
       <synopsis>An airborne puzzle invasion! It's raining Goombas, Bloobers and Boo Buddies! You have to help Mario cope with the airborne invasion! As the critters fall, catch them on trays. Switch and shuffle to save the day! Stack two of a kind and they both disappear. Or, capture the whole bunch in-between egg shells. When the egg shells match, out hatches Yoshi and up goes your score! The action heats up as the characters fall faster and faster. If your piles get too high, the game is over. Choose your difficulty level and play for a high score or challenge a friend in a head-to-head hatch-off! If you like Dr. Mario, but you're ready for a whole new kind of challenge, you'll love this quick-shuffle action puzzle game!</synopsis>
       <genre>Puzzle-Game</genre>
     </locale>
@@ -33444,6 +33585,9 @@ Notez que la version Américaine (contrairement à la version japonaise "Juuryok
     <locale lang="JA">
       <title>Juuryoku Soukou Metal Storm</title>
     </locale>
+    <locale lang="ZHCN">
+      <title>重力装甲</title>
+    </locale>
     <developer>Tamtex</developer>
     <publisher>Irem</publisher>
     <date year="1991" month="02" day="02"/>
@@ -33477,6 +33621,9 @@ You can skate up or down in the screen, or even jump, to be safe from the pipes 
     </locale>
     <locale lang="JA">
       <title>Metro-Cross</title>
+    </locale>
+    <locale lang="ZHCN">
+      <title>追赶跑跳蹦</title>
     </locale>
     <developer>Namco</developer>
     <publisher>Namco</publisher>
@@ -33513,6 +33660,9 @@ Using the cybernetic enhancements of her Power Suit, Samus can use a range of we
     <locale lang="PT">
       <synopsis>No futuro, a Federação Galáctica e os piratas do planeta Zebes estão em guerra. Piratas roubaram uma forma de vida desconhecida, recentemente descoberta no planeta SR388. A forma de vida, designada "Metroid", está em estado de animação suspensa e, segundo a análise, foi a causa da destruição completa do SR388. Se o Metroid se soltasse, o alienígena poderia destruir inúmeros outros sistemas. Cabe à caçadora de recompensas espacial Samus Aran pousar em Zebes e encontrar seu caminho através dos perigosos terrenos de Brinstar e Norfair, destruir os Piratas, assim como seus agentes alienígenas, Ridley e Kraid, e livrar o planeta da vida alienígena. antes que os piratas completem seus planos de destruição mundial.Usando os aprimoramentos cibernéticos de seu traje de poder, Samus pode usar uma variedade de armas e defesas para destruir o inimigo. Ela também pode absorver poderes de inimigos em seu traje de poder para aumentar sua defesa e chances de sobrevivência. Usando suas armas e habilidades especiais, ela precisa encontrar o caminho para a câmara central de Tourian e destruir a Mother Brain, a misteriosa líder por trás dos Piratas Espaciais.</synopsis>
     </locale>
+    <locale lang="ZHCN">
+      <title>银河战士</title>
+    </locale>
     <developer>Nintendo</developer>
     <publisher>Nintendo</publisher>
     <date year="1986" month="08" day="01"/>
@@ -33525,7 +33675,7 @@ Using the cybernetic enhancements of her Power Suit, Samus can use a range of we
       <control type="gamecube" required="false"/>
     </input>
   </game>
-  <game name="Metroid Rogue Dawn">
+  <game name="Metroid - Rogue Dawn">
     <id>140708</id>
     <locale lang="EN">
       <title>Metroid - Rogue Dawn</title>
@@ -33541,6 +33691,9 @@ Le manuel du jeu officiel Metroid évoque un vaisseau spatial pris d'assaut par 
 Rogue Dawn revient sur les événements amenant au vol de cette capsule qui aboutira a placer les Metroids sous le contrôle de Ridley et du Cerveau Mère. La mission d'acquisition de la capsule fut placée entre les mains d'un des secrets les mieux gardés de Ridley: un agent humain dévoyé, entraîné et manipulé par Ridley depuis son plus jeune âge...
 Enlevée encore enfant d'une colonie appartenant à la fédération galactique anéantie par les troupes de Ridley, elle n'était destinée qu'à être un énième sujet d'horribles expériences. Mais Ridley décida plutôt de la manipuler et d'en faire une arme, son premier esclave humain et agent de l'ombre. Mandatée sans être réellement testée, elle est envoyée faire sa propre mission «zéro». Elle récupérera le spécimen biologique récemment découvert en possession de l'équipage du vaisseau de recherche de la Fédération en orbite sur la planète SR388 et prouvera sa valeur.
 Son nom est Dawn Aran.</synopsis>
+    </locale>
+    <locale lang="ZHCN">
+      <title>银河战士 盗贼多恩</title>
     </locale>
     <developer>Grimlock, Optomon, snarfblam</developer>
     <date year="2017" month="01" day="14"/>
@@ -34972,6 +35125,9 @@ The game is notable for its fluid animations and rich graphic cut scenes which m
     <locale lang="JA">
       <title>Moon Crystal</title>
     </locale>
+    <locale lang="ZHCN">
+      <title>月光宝石</title>
+    </locale>
     <developer>Hect Co. Ltd.</developer>
     <publisher>Hect Co. Ltd.</publisher>
     <date year="1992" month="08" day="28"/>
@@ -35276,7 +35432,7 @@ Mouryou Senki Madara is an RPG in which players control a party consisting of up
       <control type="gamecube" required="false"/>
     </input>
   </game>
-  <game name="Mr Gimmick">
+  <game name="Mr. Gimmick">
     <id>1712AA</id>
     <locale lang="EN">
       <title>Mr. Gimmick</title>
@@ -35299,6 +35455,9 @@ The game has two endings. The easier way is to just run through all of the level
     </locale>
     <locale lang="JA">
       <title>Gimmick!</title>
+    </locale>
+    <locale lang="ZHCN">
+      <title>吉米克</title>
     </locale>
     <developer>Sunsoft</developer>
     <publisher>Sunsoft</publisher>
@@ -38686,10 +38845,10 @@ Le jeu octroie pas mal d'options afin de jouer precisement, comme donner une leg
       <control type="gamecube" required="false"/>
     </input>
   </game>
-  <game name="Perman - Enban Wo Torikaese!!">
+  <game name="Perman - Enban wo Torikaese!!">
     <id>88605A</id>
     <locale lang="EN">
-      <title>Perman - Enban Wo Torikaese!!</title>
+      <title>Perman - Enban wo Torikaese!!</title>
       <synopsis>Perman: Enban wo Torikaese!! is an action platformer for the Nintendo Entertainment System. The game is based on a Japanese comics and has an animated television show.
 Birdman's space saucer was stolen by Dr. Mad and its up to Perman to recover it and save the day.
 The game features standard platforming and has two playable characters, Perman and Booby the monkey. There is also the boss battle that resembles a boardgame.</synopsis>
@@ -38700,6 +38859,9 @@ The game features standard platforming and has two playable characters, Perman a
     </locale>
     <locale lang="JA">
       <title>Perman - Enban wo Torikaese!!</title>
+    </locale>
+    <locale lang="ZHCN">
+      <title>小超人帕门</title>
     </locale>
     <publisher>Irem</publisher>
     <date year="1990" month="12" day="19"/>
@@ -38712,10 +38874,10 @@ The game features standard platforming and has two playable characters, Perman a
       <control type="gamecube" required="false"/>
     </input>
   </game>
-  <game name="Perman Part 2 - Himitsu Kessha Madoodan O Taose!">
+  <game name="Perman Part 2 - Himitsu Kessha Madoodan o Taose!">
     <id>88606A</id>
     <locale lang="EN">
-      <title>Perman Part 2 - Himitsu Kessha Madoodan O Taose!</title>
+      <title>Perman Part 2 - Himitsu Kessha Madoodan o Taose!</title>
       <synopsis>Paaman (or quite possibly Parman) is a comic in Japan which is done by Fujiko Fujio who did Doraemon. Like that wasn't already obvious just by looking at them. All of the four characters that you have the choice of controlling have the amazing ability to fly in an amazingly awkward fashion.
 There's a side view, where you can fly, like what I was just talking about, and there's a top view, where you walk around inside of buildings and stuff. You can't fly though, but you can jump, which is pretty useless. What's cool about this game is the sheer amount of fun crazy bonus rooms you can go into and sometimes at the end of these rooms you can earn neat stuff, like new weapons or weapon upgrades.</synopsis>
       <genre>Action,Platform</genre>
@@ -38725,6 +38887,9 @@ There's a side view, where you can fly, like what I was just talking about, and 
     </locale>
     <locale lang="JA">
       <title>Perman Part 2 : Himitsu Kessha Madoodan o Taose!</title>
+    </locale>
+    <locale lang="ZHCN">
+      <title>小超人帕门2</title>
     </locale>
     <publisher>Irem</publisher>
     <date year="1991" month="12" day="20"/>
@@ -40622,6 +40787,9 @@ Enjoy!</synopsis>
       <genre>Puzzle</genre>
       <synopsis>Qi Wang: Chinese Chess is a Board game, developed by TXC Corp and published by Micro Genius, which was released in Asia in 1991.</synopsis>
     </locale>
+    <locale lang="ZHCN">
+      <title>中国象棋</title>
+    </locale>
     <rating type="NOTE" value="">
 		</rating>
     <input players="2">
@@ -41025,7 +41193,7 @@ Game mechanics remain unchanged from R.B.I. Baseball 2, focusing more on arcade 
       <control type="gamecube" required="false"/>
     </input>
   </game>
-  <game name="R.c. Pro-am">
+  <game name="R.C. Pro-Am">
     <id>1452AA</id>
     <locale lang="EN">
       <title>R.C. Pro-Am</title>
@@ -41044,6 +41212,9 @@ You can also collect a variety of weapons to blast your opponents out of the way
     <locale lang="DE">
       <genre>Rennen, Fahren</genre>
     </locale>
+    <locale lang="ZHCN">
+      <title>遥控赛车</title>
+    </locale>
     <developer>Rareware</developer>
     <publisher>Nintendo</publisher>
     <date year="1988" month="02" day="01"/>
@@ -41056,7 +41227,7 @@ You can also collect a variety of weapons to blast your opponents out of the way
       <control type="gamecube" required="false"/>
     </input>
   </game>
-  <game name="R.c. Pro-am 2">
+  <game name="R.C. Pro-Am II">
     <id>1413AA</id>
     <locale lang="EN">
       <title>R.C. Pro-Am II</title>
@@ -41074,6 +41245,9 @@ Astuce: entrez "NES" en guise de nom pour obtenir 5000 dollars à dépenser avan
     </locale>
     <locale lang="DE">
       <genre>Rennen, Fahren</genre>
+    </locale>
+    <locale lang="ZHCN">
+      <title>遥控赛车2</title>
     </locale>
     <developer>Rareware</developer>
     <publisher>Tradewest</publisher>
@@ -42091,6 +42265,9 @@ Additionally some levels contain keys, which unlock doors and Chalices which pre
     <locale lang="JA">
       <title>Bomber King</title>
     </locale>
+    <locale lang="ZHCN">
+      <title>炸弹之王</title>
+    </locale>
     <developer>Jaleco</developer>
     <publisher>Hudson</publisher>
     <date year="1987" month="08" day="07"/>
@@ -42117,6 +42294,9 @@ The player has three lives and three continues as he struggles to liberate the w
     </locale>
     <locale lang="JA">
       <title>Robocco Wars</title>
+    </locale>
+    <locale lang="ZHCN">
+      <title>机器人战争</title>
     </locale>
     <developer>Pixel</developer>
     <publisher>IGS</publisher>
@@ -43165,6 +43345,9 @@ There are four distinct sections of gameplay, taking in a Missile Base, a Harbou
     </locale>
     <locale lang="JA">
       <title>Saiyuuki World</title>
+    </locale>
+    <locale lang="ZHCN">
+      <title>西游记世界</title>
     </locale>
     <developer>NMK Co. Ltd.</developer>
     <publisher>Jaleco</publisher>
@@ -45379,6 +45562,9 @@ Player 1 would play as a helicopter, but if a second player joined the game, the
     <locale lang="DE">
       <genre>Action</genre>
     </locale>
+    <locale lang="ZHCN">
+      <title>中东战争</title>
+    </locale>
     <developer>Sammy</developer>
     <publisher>Tecmo</publisher>
     <date year="1990" month="06" day="02"/>
@@ -46093,6 +46279,9 @@ Snow Bros. is a fixed-screen platform game where players must defeat all enemies
     </locale>
     <locale lang="JA">
       <title>Snow Bros.</title>
+    </locale>
+    <locale lang="ZHCN">
+      <title>雪人兄弟</title>
     </locale>
     <developer>Toaplan</developer>
     <publisher>Capcom</publisher>
@@ -47185,6 +47374,9 @@ The game takes you to Congo, where you can move from location to location on a "
     </locale>
     <locale lang="JA">
       <title>Star Force</title>
+    </locale>
+    <locale lang="ZHCN">
+      <title>星际力量</title>
     </locale>
     <developer>Tehkan Ltd.</developer>
     <publisher>Tecmo</publisher>
@@ -48405,8 +48597,7 @@ Similar to Little Ninja Brothers before it, Super Chinese 3 incorporates role-pl
     <developer>Chengdu Tai Jing Da Dong Computer Co.</developer>
     <publisher/>
   </game>
-
-    <game name="Super Dodge Ball">
+  <game name="Super Dodge Ball">
     <id>1376AA</id>
     <locale lang="EN">
       <title>Super Dodge Ball</title>
@@ -50908,6 +51099,9 @@ Players are controlled by the movement buttons, but while button A indicates a l
     <locale lang="DE">
       <genre>Sport</genre>
     </locale>
+    <locale lang="ZHCN">
+      <title>网球</title>
+    </locale>
     <developer>Nintendo</developer>
     <publisher>Nintendo</publisher>
     <date year="1984" month="01" day="14"/>
@@ -50943,10 +51137,10 @@ Players name their own sumo wrestler and compete in a series of matches, their s
       <control type="gamecube" required="false"/>
     </input>
   </game>
-  <game name="T2 Terminator 2 - Judgment Day">
+  <game name="Terminator 2 - Judgment Day">
     <id>18893A</id>
     <locale lang="EN">
-      <title>Terminator 2: Judgment Day</title>
+      <title>Terminator 2 - Judgment Day</title>
       <synopsis>Terminator 2: Judgment Day is based on the movie of the same name. The player takes the role of the T-800 Terminator and has to protect John Connor from being terminated by the T-1000 Terminator. 
 
 The game is set over five levels with the following goals:
@@ -50978,6 +51172,9 @@ Niveau 5 : Affronter le T-1000.</synopsis>
     </locale>
     <locale lang="JA">
       <title>Terminator 2</title>
+    </locale>
+    <locale lang="ZHCN">
+      <title>终结者2 审判日</title>
     </locale>
     <developer>Software Creations Ltd.</developer>
     <publisher>LJN, Ltd.</publisher>
@@ -51071,6 +51268,9 @@ Niveau 5 : Affronter le T-1000.</synopsis>
     </locale>
     <locale lang="JA">
       <title>Tetrastar : The Fighter</title>
+    </locale>
+    <locale lang="ZHCN">
+      <title>战斗之星</title>
     </locale>
     <developer>Home Data Corp.</developer>
     <publisher>Taito</publisher>
@@ -52346,6 +52546,9 @@ Each mission concludes with a landing attempt on the aircraft carrier. To succes
     <locale lang="DE">
       <genre>Action</genre>
     </locale>
+    <locale lang="ZHCN">
+      <title>壮志凌云</title>
+    </locale>
     <developer>Konami</developer>
     <publisher>Konami</publisher>
     <date year="1986" month="" day=""/>
@@ -52361,7 +52564,7 @@ Each mission concludes with a landing attempt on the aircraft carrier. To succes
   <game name="Top Gun - The Second Mission">
     <id>1613AA</id>
     <locale lang="EN">
-      <title>Top Gun : The Second Mission</title>
+      <title>Top Gun - The Second Mission</title>
       <synopsis>Just like in the first game, you fly an F-14 Tomcat in combat against the enemy equipped with Soviet equipment, although there is no direct reference to the Soviet Union anywhere. The only plot of this game is to destroy everything you see, excluding the aircraft carrier to which you must land at the end of each level.
 
 In addition to the basic game mode with anti-ship, ground attack and space battle levels, similar to the first game, the second mission adds two extra modes. In the first extra mode you can fight against top enemy aces flying a MiG-25 Foxbat, one at a time. The second extra mode is two-player game with split screen, in which you can fight against your friend, both flying Tomcats.
@@ -52383,6 +52586,9 @@ Another interesting detail about the game is that between fighting the aircraft 
     </locale>
     <locale lang="JA">
       <title>Top Gun : Dual Fighters</title>
+    </locale>
+    <locale lang="ZHCN">
+      <title>壮志凌云2</title>
     </locale>
     <developer>Konami</developer>
     <publisher>Konami</publisher>
@@ -52559,6 +52765,9 @@ Totally Rad, as the name points out, is a game full of slang, with the constant 
     <locale lang="JA">
       <title>Magic John</title>
     </locale>
+    <locale lang="ZHCN">
+      <title>魔法总动员</title>
+    </locale>
     <developer>Aicom Corporation</developer>
     <publisher>Jaleco</publisher>
     <date year="1990" month="09" day="28"/>
@@ -52676,7 +52885,7 @@ A unique dynamic angle system shows the wrestling action in a brand new and spec
       <control type="gamecube" required="false"/>
     </input>
   </game>
-  <game name="Tower of Druaga, The">
+  <game name="The Tower of Druaga">
     <id>18899A</id>
     <locale lang="EN">
       <title>The Tower of Druaga</title>
@@ -53757,6 +53966,9 @@ Le joueur est Ultimate Stuntman, un mercenaire voyou qui est appelé quand Jenny
     <locale lang="DE">
       <genre>Rennen, Fahren</genre>
     </locale>
+    <locale lang="ZHCN">
+      <title>终极特技人</title>
+    </locale>
     <developer>Codemasters</developer>
     <publisher>Camerica</publisher>
     <date year="1992" month="" day=""/>
@@ -53793,6 +54005,9 @@ Après avoir travaillé sur la façon dont le texte est formaté dans ce jeu, le
     </locale>
     <locale lang="JA">
       <title>Ultraman Club : Kaijuu Daikessen!!</title>
+    </locale>
+    <locale lang="ZHCN">
+      <title>奥特曼俱乐部</title>
     </locale>
     <publisher>Angel</publisher>
     <date year="1992" month="12" day="25"/>
@@ -54131,10 +54346,10 @@ Ushio to Tora: Shinen no Daiyo is a Japan-only release and is not the same game 
       <control type="gamecube" required="false"/>
     </input>
   </game>
-  <game name="Valkyrie No Bouken - Toki No Kagi Densetsu">
+  <game name="Valkyrie no Bouken - Toki no Kagi Densetsu">
     <id>1501AA</id>
     <locale lang="EN">
-      <title>Valkyrie No Bouken - Toki No Kagi Densetsu</title>
+      <title>Valkyrie no Bouken - Toki no Kagi Densetsu</title>
       <synopsis>A Zelda clone action-RPG hybrid which stars you as a Valkyrie that sets out to rid the magical lands of Valhalla from evil and recover the magic key of time, stolen by a mad god.
 
 Gameplay follows the same top-down action-RPG rules as Zelda, with added niceties such as a life bar for most enemies and different stat upgrades when leveling up depending on your choice of star sign and blood group. You can purchase weapons and equipment to make your life easier (and solve some of the puzzles in the game which require specific items) but most of the game revolves around exploring the game world and slashing as many baddies as you can.</synopsis>
@@ -54435,6 +54650,9 @@ There are 3 sub-levels on each station, which can be played in any order. The ac
     </locale>
     <locale lang="DE">
       <genre>Sport</genre>
+    </locale>
+    <locale lang="ZHCN">
+      <title>排球</title>
     </locale>
     <developer>Nintendo</developer>
     <publisher>Nintendo</publisher>
@@ -54885,6 +55103,9 @@ There are some differences between the SNES and NES versions. Due to a lack of b
     <locale lang="JA">
       <title>Wario no Mori</title>
     </locale>
+    <locale lang="ZHCN">
+      <title>瓦里奥森林</title>
+    </locale>
     <developer>Nintendo</developer>
     <publisher>Nintendo</publisher>
     <date year="1994" month="02" day="19"/>
@@ -55320,6 +55541,9 @@ Soaring Eagle must first conquer a bossless, introductory level. From there, he 
     </locale>
     <locale lang="JA">
       <title>Saiyuuki World 2 : Tenjoukai no Majin</title>
+    </locale>
+    <locale lang="ZHCN">
+      <title>西游记世界2</title>
     </locale>
     <developer>Jaleco</developer>
     <publisher>Jaleco</publisher>
@@ -56282,6 +56506,9 @@ At the end of this sequence you will leave the Cyborg Rider, and step onto a flo
     <locale lang="JA">
       <title>Kame no Ongaeshi : Urashima Densetsu</title>
     </locale>
+    <locale lang="ZHCN">
+      <title>义龟报恩</title>
+    </locale>
     <developer>Atlus</developer>
     <publisher>Hudson</publisher>
     <date year="1988" month="08" day="01"/>
@@ -57101,6 +57328,9 @@ z sur vos gardes, pleins d'ennemis vous lancent de la bouffe pour que vous rendr
     <locale lang="JA">
       <title>Yume Penguin Monogatari</title>
     </locale>
+    <locale lang="ZHCN">
+      <title>企鹅梦物语</title>
+    </locale>
     <developer>Konami</developer>
     <publisher>Konami</publisher>
     <date year="1991" month="01" day="25"/>
@@ -57151,6 +57381,9 @@ At the end of each area (level) you'll have to fight the area boss. Area bosses 
     </locale>
     <locale lang="DE">
       <genre>Action</genre>
+    </locale>
+    <locale lang="ZHCN">
+      <title>银河号</title>
     </locale>
     <developer>Pony Canyon</developer>
     <publisher>Compile</publisher>
@@ -57239,6 +57472,9 @@ The next stage takes place on an off shore oil rig that is going up in flames. Z
     </locale>
     <locale lang="DE">
       <genre>Action</genre>
+    </locale>
+    <locale lang="ZHCN">
+      <title>银河忍者</title>
     </locale>
     <developer>Konami</developer>
     <publisher>Konami</publisher>
