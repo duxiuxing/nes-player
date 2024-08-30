@@ -60,9 +60,17 @@
 		en="The Legend of Kage"
 		zhcn="影子传说"
 	/>
+	<Game crc32="8B2E48A9" bytes="131088"
+		en="Cabal"
+		zhcn="勇士们"
+	/>
 	<Game crc32="4D5F2EB0" bytes="131088"
 		en="Cabal"
 		zhcn="勇士们"
+	/>
+	<Game crc32="C31C8548" bytes="524304"
+		en="Yong Zhe Dou E Long - Dragon Quest 6"
+		zhcn="勇者斗恶龙6(中)"
 	/>
 	<Game crc32="1F88FACB" bytes="655376"
 		zhcn="幽游白书 魔界最强列传(中)"
@@ -82,6 +90,10 @@
 	<Game crc32="FF5904B0" bytes="262160"
 		en="Gradius 2"
 		zhcn="宇宙巡航机2"
+	/>
+	<Game crc32="3BF54226" bytes="393232"
+		en="Getsu Fuuma Den"
+		zhcn="月风魔传(中)"
 	/>
 	<Game crc32="FA96CBA2" bytes="24592"
 		en="Lunar Pool"

@@ -76,6 +76,10 @@
 		en="Urban Champion"
 		zhcn="街头小子(中)"
 	/>
+	<Game crc32="0770CDAA" bytes="24592"
+		en="Urban Champion"
+		zhcn="街头小子"
+	/>
 	<Game crc32="A7355946" bytes="262160"
 		en="Street Fighter 2010 - The Final Fight"
 		zhcn="街头战士2010"
@@ -91,6 +95,9 @@
 	<Game crc32="E0509F1D" bytes="262160"
 		en="Twin Cobra"
 		zhcn="究极虎"
+	/>
+	<Game crc32="22CDD2F6" bytes="655376"
+		zhcn="九人街霸(中)"
 	/>
 	<Game crc32="52C4F765" bytes="655376"
 		zhcn="九人街霸(中)"

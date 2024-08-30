@@ -27,6 +27,10 @@
 		en="Commando"
 		zhcn="战场之狼"
 	/>
+	<Game crc32="74D23949" bytes="262160"
+		en="Battle Kid - Fortress of Peril"
+		zhcn="战地小子"
+	/>
 	<Game crc32="DAB3E489" bytes="262160"
 		en="Battle Kid - Fortress of Peril"
 		zhcn="战地小子"
@@ -46,6 +50,10 @@
 	<Game crc32="9880E334" bytes="524304"
 		en="Tetrastar - The Fighter"
 		zhcn="战斗之星"
+	/>
+	<Game crc32="678BA36F" bytes="262160"
+		en="Silk Worm"
+		zhcn="中东战争(中)"
 	/>
 	<Game crc32="ED0ED791" bytes="393232"
 		en="Silk Worm"
@@ -71,6 +79,10 @@
 		en="Metal Storm"
 		zhcn="重力装甲"
 	/>
+	<Game crc32="8A8753F7" bytes="786448"
+		en="Metal Max"
+		zhcn="重装机兵(中)"
+	/>
 	<Game crc32="11EC53A9" bytes="262160"
 		en="Jurassic Park"
 		zhcn="侏罗纪公园"
@@ -90,5 +102,9 @@
 	<Game crc32="7BB329F5" bytes="65552"
 		en="Metro Cross"
 		zhcn="追赶跑跳蹦"
+	/>
+	<Game crc32="A80A3E98" bytes="24592"
+		en="Magic Jewelry"
+		zhcn="钻石方块"
 	/>
 </Game-List>

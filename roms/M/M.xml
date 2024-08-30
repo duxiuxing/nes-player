@@ -1,5 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
 <Game-List name="M" rom-exists="true">
+	<Game crc32="56C23EF3" bytes="24592"
+		en="Mahjong"
+		zhcn="麻将"
+	/>
 	<Game crc32="1CDF7E91" bytes="98320"
 		en="Wrecking Crew"
 		zhcn="马里奥兄弟拆屋工(中)"
@@ -20,9 +24,17 @@
 		en="Dr. Mario"
 		zhcn="马里奥医生(中)"
 	/>
+	<Game crc32="0C2E38C2" bytes="24592"
+		en="Circus Charlie"
+		zhcn="马戏团"
+	/>
 	<Game crc32="879E6391" bytes="24592"
 		en="Circus Charlie"
 		zhcn="马戏团"
+	/>
+	<Game crc32="92F8EBF3" bytes="24592"
+		en="Mappy"
+		zhcn="猫抓老鼠(中)"
 	/>
 	<Game crc32="3F0E8E0A" bytes="24592"
 		en="Mappy"

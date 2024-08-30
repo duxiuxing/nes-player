@@ -48,4 +48,8 @@
 		en="Ice Climber"
 		zhcn="敲冰块(中)"
 	/>
+	<Game crc32="80C41616" bytes="24592"
+		en="Ice Climber"
+		zhcn="敲冰块"
+	/>
 </Game-List>

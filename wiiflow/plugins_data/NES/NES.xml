@@ -8536,6 +8536,9 @@ Al igual que todos los videojuegos de Captain Tsubasa nos ofrece una realidad al
     <locale lang="JA">
       <title>Captain Tsubasa Vol. II : Super Striker</title>
     </locale>
+    <locale lang="ZHCN">
+      <title>天使之翼2</title>
+    </locale>
     <developer>Tecmo</developer>
     <publisher>Tecmo</publisher>
     <date year="1990" month="07" day="20"/>
@@ -12256,10 +12259,10 @@ Darkwing Duck es un juego de plataformas de desplazamiento lateral con el person
       <control type="gamecube" required="false"/>
     </input>
   </game>
-  <game name="Datach - Dragon Ball Z, Gekitou Tenkaichi Budoukai">
+  <game name="Dragon Ball Z - Gekitou Tenkaichi Budoukai">
     <id>1353AA</id>
     <locale lang="EN">
-      <title>Datach - Dragon Ball Z, Gekitou Tenkaichi Budoukai</title>
+      <title>Dragon Ball Z - Gekitou Tenkaichi Budoukai</title>
       <synopsis>Dragon Ball Z: Gekito Tenkaichi Budokai, Doragon Boru Zetto Gekit? Tenkaichi Budokai; translated as "Dragon Ball Z: A Fierce Battle at the Tenkaichi Budoukai") is the first fighting video game based on Dragon Ball Z. The game was unique in that it came with a special card reader attachment for the NES, the Datach Joint Rom System, which requires several special cards to be swiped in order to add characters and items in the game.
 The game features many playable characters from the series (at least 28) and most of their transformations, with a corresponding trading card for each. There is also cards for varying versions of each single character, all with completely different attributes, statistics, and usable special moves. Each single version of a single character has only one special attack</synopsis>
       <genre>Fight,Playing cards</genre>
@@ -12277,7 +12280,10 @@ The game features many playable characters from the series (at least 28) and mos
       <genre>Luta,Jogo de cartas</genre>
     </locale>
     <locale lang="JA">
-      <title>Datach : Dragon Ball Z, Gekitou Tenkaichi Budoukai</title>
+      <title>Dragon Ball Z - Gekitou Tenkaichi Budoukai</title>
+    </locale>
+    <locale lang="ZHCN">
+      <title>龙珠Z 激斗天下一武道会</title>
     </locale>
     <developer>Bandai</developer>
     <publisher>Bandai</publisher>
@@ -15349,6 +15355,9 @@ Puedes interactuar con el mundo que te rodea a través del uso de un sistema de 
     <locale lang="JA">
       <title>Dragon Quest</title>
     </locale>
+    <locale lang="ZHCN">
+      <title>勇者斗恶龙</title>
+    </locale>
     <developer>Enix Corporation</developer>
     <publisher>Nintendo</publisher>
     <date year="1986" month="05" day="27"/>
@@ -15361,7 +15370,7 @@ Puedes interactuar con el mundo que te rodea a través del uso de un sistema de 
       <control type="gamecube" required="false"/>
     </input>
   </game>
-  <game name="Dragon Warrior 2">
+  <game name="Dragon Warrior II">
     <id>18651A</id>
     <locale lang="EN">
       <title>Dragon Warrior II</title>
@@ -15385,6 +15394,9 @@ Après avoir vaincu Dragonlord, notre héros retourne au château du roi Lorik. 
     <locale lang="JA">
       <title>Dragon Quest II : Akuryou no Kamigami</title>
     </locale>
+    <locale lang="ZHCN">
+      <title>勇者斗恶龙2</title>
+    </locale>
     <developer>Enix Corporation</developer>
     <publisher>Enix America Corporation</publisher>
     <date year="1987" month="01" day="26"/>
@@ -15397,7 +15409,7 @@ Après avoir vaincu Dragonlord, notre héros retourne au château du roi Lorik. 
       <control type="gamecube" required="false"/>
     </input>
   </game>
-  <game name="Dragon Warrior 3">
+  <game name="Dragon Warrior III">
     <id>18652A</id>
     <locale lang="EN">
       <title>Dragon Warrior III</title>
@@ -15427,6 +15439,9 @@ Le jeu est célèbre au Japon pour avoir déclenché des émeutes à sa sortie. 
     <locale lang="JA">
       <title>Dragon Quest III : Soshite Densetsu e...</title>
     </locale>
+    <locale lang="ZHCN">
+      <title>勇者斗恶龙3</title>
+    </locale>
     <developer>Enix Corporation</developer>
     <publisher>Enix America Corporation</publisher>
     <date year="1988" month="02" day="10"/>
@@ -15439,7 +15454,7 @@ Le jeu est célèbre au Japon pour avoir déclenché des émeutes à sa sortie. 
       <control type="gamecube" required="false"/>
     </input>
   </game>
-  <game name="Dragon Warrior 4">
+  <game name="Dragon Warrior IV">
     <id>18653A</id>
     <locale lang="EN">
       <title>Dragon Warrior IV</title>
@@ -15462,6 +15477,9 @@ Tout commence par l'étrange disparition de tous les enfants du royaume de Basti
     </locale>
     <locale lang="JA">
       <title>Dragon Quest IV : Michibikareshi Monotachi</title>
+    </locale>
+    <locale lang="ZHCN">
+      <title>勇者斗恶龙4</title>
     </locale>
     <developer>Chunsoft Co., Ltd.</developer>
     <publisher>Enix America Corporation</publisher>
@@ -20987,6 +21005,9 @@ Getsufuma Den is an action game with slight RPG elements. You travel through the
     </locale>
     <locale lang="JA">
       <title>Getsu Fuuma Den</title>
+    </locale>
+    <locale lang="ZHCN">
+      <title>月风魔传</title>
     </locale>
     <developer>Konami</developer>
     <publisher>Konami</publisher>
@@ -26919,6 +26940,9 @@ Chaque étage contient de nombreuses clés et des portes verrouillées. N'import
     <locale lang="JA">
       <title>Kaiketsu Yancha Maru III : Taiketsu! Zouringen</title>
     </locale>
+    <locale lang="ZHCN">
+      <title>快杰洋枪丸3</title>
+    </locale>
     <developer>Khaos</developer>
     <publisher>Irem</publisher>
     <date year="1993" month="03" day="30"/>
@@ -27781,7 +27805,7 @@ Kool faces a variety of enemies.  They can be defeated by jumping on their heads
   <game name="Kid Niki - Radical Ninja">
     <id>18796A</id>
     <locale lang="EN">
-      <title>Kid Niki : Radical Ninja</title>
+      <title>Kid Niki - Radical Ninja</title>
       <synopsis>In this side scrolling action game, Kid Niki must rescue his beloved Princess Margo who has been kidnapped by the Stone Wizard. You are equipped with a Spinning Sword to clear any minions that stand in your way. You can also find a Golden Bell, whose chime slays from a distance, a Silver Bell, which creates an impenetrable shield of sound around you, a Mini-Niki, which grants you an extra life, and a Mini-Princess, which averts one death. There are seven realms you must traverse which each having a boss at the end. The seven bosses are Death Breath, Spike, the Stone Buddha, the Horned Witch, the Green Grub, the Mad Monk, the Samurai Guard, and the Stone Wizard,</synopsis>
       <genre>Action,Platform</genre>
     </locale>
@@ -27798,6 +27822,9 @@ Kool faces a variety of enemies.  They can be defeated by jumping on their heads
     </locale>
     <locale lang="JA">
       <title>Kaiketsu Yancha Maru</title>
+    </locale>
+    <locale lang="ZHCN">
+      <title>快杰洋枪丸</title>
     </locale>
     <developer>Irem</developer>
     <publisher>Data East USA, Inc.</publisher>
@@ -29126,6 +29153,9 @@ Une toute jeune fille romantique se sentant mal à l'aise dans sa famille s'éva
     </locale>
     <locale lang="JA">
       <title>Lagrange Point</title>
+    </locale>
+    <locale lang="ZHCN">
+      <title>拉格朗日点</title>
     </locale>
     <developer>Konami</developer>
     <publisher>Konami</publisher>
@@ -31393,6 +31423,9 @@ El jugador obtiene 3 vidas y 2 continuaciones. El juego en sí es un tanto impre
 This title is common on pirate Famicom multicarts and systems; for example, it's built into the Dynavision and Power Player Super Joy III but existed also two hacked versions, called respectively Abacus and Coin Tetris (the first only on N-Joypad).</synopsis>
       <genre>Puzzle</genre>
     </locale>
+    <locale lang="ZHCN">
+      <title>钻石方块</title>
+    </locale>
     <developer>Hwang Shinwei</developer>
     <publisher>RCM</publisher>
     <date year="1990" month="" day=""/>
@@ -31803,6 +31836,9 @@ Le jeu n'a jamais été officiellement localisé en anglais et n'a jamais été 
     </locale>
     <locale lang="JA">
       <title>Mahjong</title>
+    </locale>
+    <locale lang="ZHCN">
+      <title>麻将</title>
     </locale>
     <developer>Nintendo</developer>
     <publisher>Nintendo</publisher>
@@ -33514,6 +33550,9 @@ The game is a console-style RPG with random encounters and turn-based combat vie
     </locale>
     <locale lang="JA">
       <title>Metal Max</title>
+    </locale>
+    <locale lang="ZHCN">
+      <title>重装机兵</title>
     </locale>
     <developer>Crea-Tech Inc.</developer>
     <publisher>Data East</publisher>
@@ -43477,10 +43516,10 @@ La version 2 ajoute Jubei, Kyoshiro, Galford et Wan-Fu</synopsis>
     <date year="1995"/>
     <publisher>Rex Soft</publisher>
   </game>
-  <game name="San Goku Shi - Chuugen No Hasha">
+  <game name="San Goku Shi - Chuugen no Hasha">
     <id>88630A</id>
     <locale lang="EN">
-      <title>San Goku Shi - Chuugen No Hasha</title>
+      <title>San Goku Shi - Chuugen no Hasha</title>
       <synopsis>Sangokushi refers to a novel written about the Three Kingdoms period of China, where the country was temporarily split into three warring states. This is different to the the Romance of the Three Kingdoms novel, a mostly fictionalized account written some considerable time after the conflict was over and has had many video game adaptations, not least of which being Koei's Romance of the Three Kingdoms and their later Dynasty Warriors series.
 
 As a war strategy game, the goal for the player and their chosen side is to reclaim all of China under their rule. Players can gather intel, invade other territories or increase their own stats and purchase weapons and supplies for their armies. The game affords the player a certain number of actions per turn before letting the CPU opponents have their turns.
@@ -43500,10 +43539,10 @@ Though this game was created after Romance of the Three Kingdoms, it is in fact 
       <control type="gamecube" required="false"/>
     </input>
   </game>
-  <game name="San Goku Shi 2 - Haou No Tairiku">
+  <game name="San Goku Shi 2 - Haou no Tairiku">
     <id>71495A</id>
     <locale lang="EN">
-      <title>San Goku Shi 2 - Haou No Tairiku</title>
+      <title>San Goku Shi 2 - Haou no Tairiku</title>
       <synopsis>Sangokushi II: Haou no Tairiku is a strategy game set during the Three Kingdoms era in China, very similar in style, gameplay, and interface to Koei's Romance of the Three Kingdoms series. One or two players can compete for dominance in one of the country</synopsis>
       <genre>Strategy</genre>
     </locale>
@@ -43518,6 +43557,9 @@ Though this game was created after Romance of the Three Kingdoms, it is in fact 
     </locale>
     <locale lang="JA">
       <title>San Goku Shi 2 - Haou No Tairiku</title>
+    </locale>
+    <locale lang="ZHCN">
+      <title>三国志2 霸王的大陆</title>
     </locale>
     <developer>Tose Co., Ltd.</developer>
     <publisher>Namco</publisher>
@@ -48347,6 +48389,9 @@ La bande-son rythmée de RECCA est l'une des plus impressionnantes sur la NES. C
     <locale lang="JA">
       <title>Summer Carnival '92 : Recca</title>
     </locale>
+    <locale lang="ZHCN">
+      <title>烈火92</title>
+    </locale>
     <developer>KID Corp.</developer>
     <publisher>Naxat Soft</publisher>
     <date year="1992" month="07" day="17"/>
@@ -51040,6 +51085,9 @@ You start the game as Liú Bèi, the one of greatest Chinese heroes, in the miss
     </locale>
     <locale lang="JA">
       <title>Tenchi o Kurau II : Shokatsu Koumei Den</title>
+    </locale>
+    <locale lang="ZHCN">
+      <title>吞食天地2 诸葛孔明传</title>
     </locale>
     <developer>Capcom</developer>
     <publisher>Capcom</publisher>
@@ -56996,6 +57044,9 @@ La version japonaise originale "Kamen no Ninja Hanamaru" mettait en scène un pe
       <title>Yong Zhe Dou E Long - Dragon Quest 6</title>
       <genre/>
       <synopsis/>
+    </locale>
+    <locale lang="ZHCN">
+      <title>勇者斗恶龙6</title>
     </locale>
     <rating type="NOTE" value="">
 		</rating>

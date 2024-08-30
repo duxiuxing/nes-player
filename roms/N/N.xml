@@ -4,6 +4,10 @@
 		en="Kekkyoku Nankyoku Daibouken"
 		zhcn="南极大冒险(中)"
 	/>
+	<Game crc32="9DA252B4" bytes="24592"
+		en="Kekkyoku Nankyoku Daibouken"
+		zhcn="南极大冒险"
+	/>
 	<Game crc32="3D219A56" bytes="270352"
 		en="Power Blade"
 		zhcn="能源战士"
@@ -15,6 +19,10 @@
 	<Game crc32="3ADFA2E2" bytes="262160"
 		en="Choujin Sentai Jetman"
 		zhcn="鸟人战队(中)"
+	/>
+	<Game crc32="F899BF59" bytes="262160"
+		en="Choujin Sentai Jetman"
+		zhcn="鸟人战队"
 	/>
 	<Game crc32="9D89760B" bytes="786464"
 		en="Ikari III - The Rescue"

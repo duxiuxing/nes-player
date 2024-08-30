@@ -28,9 +28,17 @@
 		en="Arkanoid II"
 		zhcn="打砖块2"
 	/>
+	<Game crc32="50FDB91F" bytes="262160"
+		en="Ganbare Goemon! Karakuri Douchuu"
+		zhcn="大盗伍佑卫门"
+	/>
 	<Game crc32="B8363DEE" bytes="262160"
 		en="Ganbare Goemon! Karakuri Douchuu"
 		zhcn="大盗伍佑卫门"
+	/>
+	<Game crc32="3424D0DC" bytes="262160"
+		en="Ganbare Goemon 2"
+		zhcn="大盗伍佑卫门2"
 	/>
 	<Game crc32="B2FE26C7" bytes="262160"
 		en="Ganbare Goemon 2"
@@ -60,6 +68,10 @@
 		en="Donkey Kong Jr."
 		zhcn="大金刚2"
 	/>
+	<Game crc32="C3F85D1E" bytes="24592"
+		en="Donkey Kong Jr."
+		zhcn="大金刚2"
+	/>
 	<Game crc32="D1CAC3C2" bytes="24592"
 		en="Donkey Kong 3"
 		zhcn="大金刚3"
@@ -76,11 +88,19 @@
 		en="Hammerin' Harry"
 		zhcn="大力工头"
 	/>
+	<Game crc32="A529D5F0" bytes="262160"
+		en="Hammerin' Harry"
+		zhcn="大力工头"
+	/>
 	<Game crc32="66C08CD8" bytes="524304"
 		en="Daiku no Gen-san 2 - Akage no Dan no Gyakushuu"
 		zhcn="大力工头2(中)"
 	/>
 	<Game crc32="3774121E" bytes="524304"
+		en="Daiku no Gen-san 2 - Akage no Dan no Gyakushuu"
+		zhcn="大力工头2"
+	/>
+	<Game crc32="711E73C2" bytes="1048608"
 		en="Daiku no Gen-san 2 - Akage no Dan no Gyakushuu"
 		zhcn="大力工头2"
 	/>

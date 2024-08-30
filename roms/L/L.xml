@@ -1,8 +1,16 @@
 <?xml version='1.0' encoding='utf-8'?>
 <Game-List name="L" rom-exists="true">
+	<Game crc32="6BB3B40E" bytes="1048592"
+		en="Lagrange Point"
+		zhcn="拉格朗日点(中)"
+	/>
 	<Game crc32="16C1DA8A" bytes="262160"
 		en="Thunderbirds"
 		zhcn="雷鸟号"
+	/>
+	<Game crc32="87FCF1DB" bytes="786464"
+		en="Summer Carnival '92 - Recca"
+		zhcn="烈火92"
 	/>
 	<Game crc32="E822D8C9" bytes="786464"
 		en="Dragon Fighter"
@@ -27,6 +35,10 @@
 	<Game crc32="547AD500" bytes="131088"
 		en="Ninja Crusaders"
 		zhcn="龙牙"
+	/>
+	<Game crc32="9CF5AC17" bytes="262160"
+		en="Dragon Ball Z - Gekitou Tenkaichi Budoukai"
+		zhcn="龙珠Z 激斗天下一武道会"
 	/>
 	<Game crc32="5D5C0742" bytes="131088"
 		en="Mega Man"

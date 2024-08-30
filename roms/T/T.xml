@@ -46,7 +46,12 @@
 		en="KickMaster"
 		zhcn="踢王"
 	/>
+	<Game crc32="ADEA0D96" bytes="786448"
+		en="Captain Tsubasa Vol. 2 - Super Striker"
+		zhcn="天使之翼2(中)"
+	/>
 	<Game crc32="BAF7D0EB" bytes="786448"
+		en="Captain Tsubasa Vol. 2 - Super Striker"
 		zhcn="天使之翼2(中)"
 	/>
 	<Game crc32="80F392C7" bytes="40976"
@@ -72,6 +77,10 @@
 	<Game crc32="476CB108" bytes="524304"
 		en="Tiny Toon Adventures 6"
 		zhcn="兔宝宝6"
+	/>
+	<Game crc32="DD4B154C" bytes="655376"
+		en="Tenchi o Kurau II  - Shokatsu Koumei Den"
+		zhcn="吞食天地2 诸葛孔明传(中)"
 	/>
 	<Game crc32="D282464B" bytes="262160"
 		en="P.O.W. - Prisoners of War"
