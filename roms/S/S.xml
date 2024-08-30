@@ -1,5 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
 <Game-List name="S" rom-exists="true">
+	<Game crc32="88641B52" bytes="262160"
+		en="SD Gundam - Gachapon Senshi 2 - Capsule Senki"
+		zhcn="SD高达世界 扭蛋战士2 胶囊战记"
+	/>
 	<Game crc32="BF2F1CF3" bytes="262160"
 		en="Mighty Final Fight"
 		zhcn="SD快打旋风(中)"
@@ -11,6 +15,10 @@
 	<Game crc32="15EB0BEE" bytes="262160"
 		en="Mighty Final Fight"
 		zhcn="SD快打旋风"
+	/>
+	<Game crc32="F17FEFDD" bytes="262160"
+		en="SD Hero Soukessen - Taose! Aku no Gundan"
+		zhcn="SD英雄总决战"
 	/>
 	<Game crc32="A8A91912" bytes="278544"
 		en="Mitsume Ga Tooru"
@@ -106,5 +114,9 @@
 	<Game crc32="A1C631FA" bytes="393232"
 		en="Chip 'n Dale - Rescue Rangers 2"
 		zhcn="松鼠大作战2(中)"
+	/>
+	<Game crc32="D9F13DF3" bytes="262160"
+		en="Zoids - Mokushiroku"
+		zhcn="索斯机械兽 默示录"
 	/>
 </Game-List>

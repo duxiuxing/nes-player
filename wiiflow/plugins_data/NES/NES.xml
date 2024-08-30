@@ -728,7 +728,7 @@ Nightmare is compatible with the NES Four Score accessory, allowing up to four p
   <game name="Abadox - The Deadly Inner War">
     <id>18553A</id>
     <locale lang="EN">
-      <title>Abadox : The Deadly Inner War</title>
+      <title>Abadox - The Deadly Inner War</title>
       <synopsis>Somewhere in the galaxy, a huge alien space creature known as Parasitis travels between realms digesting it's pray. It's latest victim is the planet Abadox which is now consumed by the alien entity. However, in order to digest this planet, Parasitis has had to assume to form of the planet itself. Abadox's starfleet, the World Alive Force (WAF) uses this time to launch an all out assault on the alien lifeform, of which you are a single soldier.
 
 Abadox is a side-scrolling shooter. You must fire upon various enemies that travel across the screen and destroy their bosses as well. One button controls your shooting and another controls your shield ability.</synopsis>
@@ -752,6 +752,9 @@ Rase als letzter Überlebender der WAF in den Schlund der Bestie, und schieße d
     </locale>
     <locale lang="JA">
       <title>Abadox</title>
+    </locale>
+    <locale lang="ZHCN">
+      <title>飞人战士</title>
     </locale>
     <developer>Natsume Co., Ltd.</developer>
     <publisher>Milton Bradley Co.</publisher>
@@ -943,10 +946,10 @@ Niveau 4: Maintenez A + B + Haut sur la deuxième manette et faites Haut sur la 
     <date year=""/>
     <publisher/>
   </game>
-  <game name="Addams Family - Pugsley's Scavenger Hunt, The">
+  <game name="The Addams Family - Pugsley's Scavenger Hunt">
     <id>18555A</id>
     <locale lang="EN">
-      <title>The Addams Family : Pugsley's Scavenger Hunt</title>
+      <title>The Addams Family - Pugsley's Scavenger Hunt</title>
       <synopsis>The Addams Family: Pugsley's Scavenger Hunt is a side-scrolling platformer based on the second animated TV series The Addams Family (1992). The entire Addams family is being held captive by various monsters throughout the mansion, and Pugsley needs to rescue them. They are hidden in various parts of the mansion, e.g. the forest, which can be accessed in any order. The gameplay follows the usual platforming standards: Pugsley moves from left to right while jumping a lot and avoiding enemies.
 
 This version of the game is heavily based on the SNES version of The Addams Family - it features the same storyline with another main character and almost identical level design. Another difference to the SNES version of this game is that Pugsley can only take two hits before dying - but there is an additional power-up that makes him faster and gives him an extra hit.</synopsis>
@@ -963,6 +966,9 @@ This version of the game is heavily based on the SNES version of The Addams Fami
     <locale lang="DE">
       <genre>Action</genre>
     </locale>
+    <locale lang="ZHCN">
+      <title>亚当斯一家 帕格斯利的寻宝</title>
+    </locale>
     <developer>Ocean</developer>
     <publisher>Ocean</publisher>
     <date year="1993" month="08" day="01"/>
@@ -975,7 +981,7 @@ This version of the game is heavily based on the SNES version of The Addams Fami
       <control type="gamecube" required="false"/>
     </input>
   </game>
-  <game name="Addams Family, The">
+  <game name="The Addams Family">
     <id>1417AA</id>
     <locale lang="EN">
       <title>The Addams Family</title>
@@ -994,6 +1000,9 @@ The main difference to the other versions of this game is a unique level design.
     </locale>
     <locale lang="DE">
       <genre>Action</genre>
+    </locale>
+    <locale lang="ZHCN">
+      <title>亚当斯一家</title>
     </locale>
     <developer>Ocean</developer>
     <publisher>Ocean</publisher>
@@ -2318,6 +2327,9 @@ The graphics are based off those from the Mega Drive Aladdin, but seem to be han
 This game is a port of the SNES Aladdin. It has all the stages from the original and it even has the bonus game (although the genie is missing due to the NES lacking Mode 7). The game lacks Abu following you, guards being able to throw barrels at you and civilians. Also the huge snake is missing at the end when fighting Jafar. The physics are similarly programmed to that of Somari, making some of the later levels more difficult. There's also a considerable amount of sprite flicker in the genie level.</synopsis>
       <genre>Platform</genre>
     </locale>
+    <locale lang="ZHCN">
+      <title>阿拉丁4</title>
+    </locale>
     <developer>Hummer Team</developer>
     <date year="1995" month="" day=""/>
     <rating type="NOTE" value="">
@@ -3182,6 +3194,9 @@ Das beenden des gesamten Spiels erfordert ein erfolgreiches Durchspielen aller 1
     </locale>
     <locale lang="PT">
       <genre>Ação, Jogos de RPG</genre>
+    </locale>
+    <locale lang="ZHCN">
+      <title>阿基斯塔之戒</title>
     </locale>
     <developer>NMK</developer>
     <publisher>Takara</publisher>
@@ -19015,6 +19030,9 @@ Red Stones are placed in key locations across the levels.  They can be pushed, s
     <locale lang="JA">
       <title>Flappy</title>
     </locale>
+    <locale lang="ZHCN">
+      <title>顽皮精灵</title>
+    </locale>
     <developer>dB-SOFT</developer>
     <publisher>dB-SOFT</publisher>
     <date year="1985" month="06" day="14"/>
@@ -22848,10 +22866,10 @@ Finalmente, el joven está en camino de destruir a Satanás y los demonios.</syn
     </input>
     <developer>Thin Chen Enterprise</developer>
   </game>
-  <game name="Hello Kitty No Ohanabatake">
+  <game name="Hello Kitty no Ohanabatake">
     <id>88326A</id>
     <locale lang="EN">
-      <title>Hello Kitty No Ohanabatake</title>
+      <title>Hello Kitty no Ohanabatake</title>
       <synopsis>During the course of this video game, Hello Kitty must water all the flowers in each stage while avoiding the many animals and insects. Kitty's ribbon always stays on the left side of her ear; even if the player changes the orientation of the character.
 She can defend herself with the use of a large mallet. Running into enemies will make her cry, which causes Kitty to get angry and lose a life. Points in the game are collected as money for the cash register. Allowing the time limit to expire will also cause the player to lose a life. However, there are infinite continues and losing the game score is the only penalty for "game overs." There are 18 stages in the game and the game does not repeat itself after the 18th stage. While the second half of the game is more difficult then the first nine levels, they can be cleared once the player is accustomed to the game controls.</synopsis>
       <genre>Action,Platformer</genre>
@@ -22868,6 +22886,9 @@ She can defend herself with the use of a large mallet. Running into enemies will
     </locale>
     <locale lang="JA">
       <title>Hello Kitty no Ohanabatake</title>
+    </locale>
+    <locale lang="ZHCN">
+      <title>凯蒂猫的花圃</title>
     </locale>
     <developer>Shimada Kikaku</developer>
     <publisher>Character Soft</publisher>
@@ -22904,6 +22925,9 @@ Throughout the levels, Tippy has dropped balloons that can be picked up for poin
     </locale>
     <locale lang="JA">
       <title>Hello Kitty World</title>
+    </locale>
+    <locale lang="ZHCN">
+      <title>凯蒂猫气球世界</title>
     </locale>
     <developer>Pax Softonica</developer>
     <publisher>Character Soft</publisher>
@@ -26119,7 +26143,7 @@ It is very accurate when it comes to playing on different surfaces such as hard 
       <control type="gamecube" required="false"/>
     </input>
   </game>
-  <game name="Jj - Tobidase Daisakusen Part 2">
+  <game name="JJ - Tobidase Daisakusen Part 2">
     <id>18790A</id>
     <locale lang="EN">
       <title>JJ - Tobidase Daisakusen Part 2</title>
@@ -26135,6 +26159,9 @@ It is very accurate when it comes to playing on different surfaces such as hard 
     </locale>
     <locale lang="DE">
       <genre>Action</genre>
+    </locale>
+    <locale lang="ZHCN">
+      <title>3D世界奔跑者2</title>
     </locale>
     <developer>Square Enix</developer>
     <publisher>Square Enix</publisher>
@@ -31087,6 +31114,9 @@ The game is played in a top-down view where you move your car to attack enemy ca
     </locale>
     <locale lang="DE">
       <genre>Rennen, Fahren</genre>
+    </locale>
+    <locale lang="ZHCN">
+      <title>疯狂的麦克斯</title>
     </locale>
     <developer>Mindscape</developer>
     <publisher>Mindscape</publisher>
@@ -42858,6 +42888,9 @@ The game also suffers from trial and error; you must learn the courses if you wa
     <locale lang="DE">
       <genre>Action</genre>
     </locale>
+    <locale lang="ZHCN">
+      <title>旱冰勇士</title>
+    </locale>
     <developer>Konami</developer>
     <publisher>Konami</publisher>
     <date year="1990" month="09" day="01"/>
@@ -43980,6 +44013,9 @@ Satomi Hakkenden (usually translated as "The Eight Dog Chronicles") was a long-r
     <locale lang="JA">
       <title>SD Gundam : Gachapon Senshi 2, Capsule Senki</title>
     </locale>
+    <locale lang="ZHCN">
+      <title>SD高达世界 扭蛋战士2 胶囊战记</title>
+    </locale>
     <developer>Human Entertainment</developer>
     <publisher>Bandai</publisher>
     <date year="1989" month="06" day="25"/>
@@ -44119,10 +44155,10 @@ Satomi Hakkenden (usually translated as "The Eight Dog Chronicles") was a long-r
       <control type="gamecube" required="false"/>
     </input>
   </game>
-  <game name="Sd Hero Soukessen - Taose! Aku No Gundan">
+  <game name="SD Hero Soukessen - Taose! Aku no Gundan">
     <id>71505A</id>
     <locale lang="EN">
-      <title>Sd Hero Soukessen - Taose! Aku No Gundan</title>
+      <title>SD Hero Soukessen - Taose! Aku no Gundan</title>
       <synopsis>One day, Emmy was taking care of her gashapon machine (those claw prize machines), when she and her machine were abducted by the evil Dark Brain. However, the gashapons of the legendary heroes Ultraman, Gundam, Shaider and Kamen Rider, were freed from the machine. Now the heroes have to rescue Emmy from Dark Brain.
 this is the same Emmy from the Great Battle and Super Robot Wars OG series.</synopsis>
       <genre>Action,Platform</genre>
@@ -44139,6 +44175,9 @@ this is the same Emmy from the Great Battle and Super Robot Wars OG series.</syn
     </locale>
     <locale lang="JA">
       <title>SD Hero Soukessen : Taose! Aku no Gundan</title>
+    </locale>
+    <locale lang="ZHCN">
+      <title>SD英雄总决战</title>
     </locale>
     <developer>Interlink</developer>
     <publisher>Banpresto</publisher>
@@ -44297,7 +44336,7 @@ Certain sections of Balangool are blocked until a generator can be found and des
       <genre>Shoot'em Up</genre>
     </locale>
     <locale lang="ZHCN">
-      <title>绝对合体</title>
+      <title>Z基地</title>
     </locale>
     <developer>Capcom</developer>
     <publisher>Capcom</publisher>
@@ -50690,6 +50729,9 @@ Le jeu propose une apparence de Michael Jordan et toutes les équipes NBA et les
     <locale lang="DE">
       <genre>Sport</genre>
     </locale>
+    <locale lang="ZHCN">
+      <title>特库摩NBA篮球</title>
+    </locale>
     <developer>Tecmo</developer>
     <publisher>Tecmo, Inc.</publisher>
     <date year="1992" month="11" day="01"/>
@@ -52321,6 +52363,9 @@ This game is ported from an older arcade version.</synopsis>
     </locale>
     <locale lang="JA">
       <title>JuJu Densetsu</title>
+    </locale>
+    <locale lang="ZHCN">
+      <title>JuJu传说</title>
     </locale>
     <developer>Tad Corporation</developer>
     <publisher>Taito</publisher>
@@ -55235,6 +55280,9 @@ Prior to a match, the player is presented with a menu of eight "moves", of which
     <locale lang="JA">
       <title>Superstar Pro Wrestling</title>
     </locale>
+    <locale lang="ZHCN">
+      <title>WCW世界摔角赛</title>
+    </locale>
     <developer>Nintendo</developer>
     <publisher>Nintendo</publisher>
     <date year="1989" month="12" day="09"/>
@@ -57673,6 +57721,9 @@ Cette suite de StarTropics est l'un des derniers jeux à être sortis sur NES en
     </locale>
     <locale lang="JA">
       <title>Zoids Mokushiroku</title>
+    </locale>
+    <locale lang="ZHCN">
+      <title>索斯机械兽 默示录</title>
     </locale>
     <developer>Tomy Corporation</developer>
     <publisher>Tomy</publisher>

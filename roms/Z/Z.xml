@@ -1,5 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
 <Game-List name="Z" rom-exists="true">
+	<Game crc32="3CE543E6" bytes="131088"
+		en="Section-Z"
+		zhcn="Z基地"
+	/>
 	<Game crc32="0A2E2149" bytes="24592"
 		en="Bomberman"
 		zhcn="炸弹人(中)"

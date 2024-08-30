@@ -1,5 +1,13 @@
 <?xml version='1.0' encoding='utf-8'?>
 <Game-List name="Y" rom-exists="true">
+	<Game crc32="6B8D777D" bytes="262160"
+		en="The Addams Family - Pugsley's Scavenger Hunt"
+		zhcn="亚当斯一家 帕格斯利的寻宝"
+	/>
+	<Game crc32="08E2AF80" bytes="262160"
+		en="The Addams Family"
+		zhcn="亚当斯一家"
+	/>
 	<Game crc32="394FD25A" bytes="393232"
 		en="G.I. Joe - A Real American Hero"
 		zhcn="眼镜蛇特种部队"

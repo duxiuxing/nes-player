@@ -12,9 +12,21 @@
 		en="Bonk's Adventure"
 		zhcn="FC原人"
 	/>
+	<Game crc32="C0AEEC28" bytes="262160"
+		en="Abadox - The Deadly Inner War"
+		zhcn="飞人战士(中)"
+	/>
+	<Game crc32="797E7640" bytes="262160"
+		en="Abadox - The Deadly Inner War"
+		zhcn="飞人战士"
+	/>
 	<Game crc32="31091D1B" bytes="262160"
 		en="Sky Shark"
 		zhcn="飞翔鲛"
+	/>
+	<Game crc32="28FD4957" bytes="262160"
+		en="Mad Max"
+		zhcn="疯狂的麦克斯"
 	/>
 	<Game crc32="2FDFBC79" bytes="262160"
 		en="Astyanax"

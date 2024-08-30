@@ -25,19 +25,19 @@
         <Game crc32="E9CF747F" zhcn="1942" />
         <Game crc32="43F51DEB" zhcn="1943(中)" />
         <Game crc32="0B434FC8" zhcn="1944(中)" />
-        <Game crc32="3AFDB6EE"  zhcn="ASO组合战机"    />
+        <Game crc32="3AFDB6EE" zhcn="ASO组合战机" />
         <Game crc32="BA9EF4AC" zhcn="B计划(中)" />
         <Game crc32="96EE047B" zhcn="超时空要塞(中)" />
         <Game crc32="F47CEA67" zhcn="超越地平线(中)" />
         <Game crc32="6C8AE094" zhcn="大蜜蜂(中)" />
         <Game crc32="3ABA6565" zhcn="刀锋战机" />
         <Game crc32="CF8DC9D4" zhcn="帝国战机(中)" />
+        <Game crc32="C0AEEC28" zhcn="飞人战士(中)" />
         <Game crc32="31091D1B" zhcn="飞翔鲛" />
         <Game crc32="90BBACE9" zhcn="红巾特攻队(中)" />
         <Game crc32="352F9A62" zhcn="火凤凰" />
         <Game crc32="3C63F85A" zhcn="加纳战机(中)" />
         <Game crc32="E0509F1D" zhcn="究极虎" />
-        <Game crc32="C0AEEC28" zhcn="绝对合体(中)" />
         <Game crc32="16C1DA8A" zhcn="雷鸟号" />
         <Game crc32="4DE86847" zhcn="小蜜蜂(中)" />
         <Game crc32="E9E9B7CA" zhcn="翼人(中)" />
@@ -50,6 +50,7 @@
         <Game crc32="30541441" zhcn="超惑星战记(中)" />
         <Game crc32="0ECA3358" zhcn="赤色要塞(中)" />
         <Game crc32="D09CC788" zhcn="大坦克" />
+        <Game crc32="28FD4957" zhcn="疯狂的麦克斯" />
         <Game crc32="BC93215D" zhcn="火炮" />
         <Game crc32="A30BBC68" zhcn="坦克大战 烟山1990(中)" />
         <Game crc32="F599A07E" zhcn="坦克大战" />
@@ -154,6 +155,7 @@
         <Game crc32="7A03F696" zhcn="FC原人" />
         <Game crc32="D47FFEB6" zhcn="Q太郎" />
         <Game crc32="BF2F1CF3" zhcn="SD快打旋风(中)" />
+        <Game crc32="F17FEFDD" zhcn="SD英雄总决战" />
         <Game crc32="A1A22C10" zhcn="阿尔戈斯战士(中)" />
         <Game crc32="BEBD8955" zhcn="奥特曼俱乐部" />
         <Game crc32="0ECBE6A3" zhcn="北斗神拳(中)" />
@@ -162,10 +164,14 @@
         <Game crc32="375BF357" zhcn="地狱极乐丸(中)" />
         <Game crc32="3B2AD28B" zhcn="鳄鱼先生(中)" />
         <Game crc32="2FDFBC79" zhcn="斧王" />
+        <Game crc32="80DA9F53" zhcn="旱冰勇士" />
         <Game crc32="BB1F683D" zhcn="火箭人" />
         <Game crc32="19CCF008" zhcn="火之鸟" />
+        <Game crc32="E8CD159F" zhcn="JuJu传说" />
         <Game crc32="EEB6B362" zhcn="吉米克" />
         <Game crc32="103F0755" zhcn="卡诺夫" />
+        <Game crc32="69900690" zhcn="凯蒂猫的花圃" />
+        <Game crc32="54DC10CD" zhcn="凯蒂猫气球世界" />
         <Game crc32="D1DCFE67" zhcn="口袋里的魔鬼(中)" />
         <Game crc32="E822D8C9" zhcn="龙战士" />
         <Game crc32="8C0D7E34" zhcn="绿色兵团(中)" />
@@ -283,6 +289,7 @@
         <Game crc32="274EB12A" zhcn="三只小猪(中)" />
         <Game crc32="558F9A33" zhcn="双蛇城" />
         <Game crc32="9C9875B6" zhcn="淘金者(中)" />
+        <Game crc32="31AD3838" zhcn="顽皮精灵" />
         <Game crc32="28843BB1" zhcn="五子棋" />
         <Game crc32="1A0EAA47" zhcn="雪人兄弟(中)" />
         <Game crc32="F682BE78" zhcn="寻宝大进击(中)" />
@@ -292,7 +299,9 @@
     </Folder>
     <Folder name="【精选游戏-运动类】">
         <Game crc32="D5ADA486" zhcn="3D世界奔跑者" />
+        <Game crc32="8093EC6F" zhcn="3D世界奔跑者2" />
         <Game crc32="08F0D1BD" zhcn="10码美式足球大赛" />
+        <Game crc32="2FC2C26B" zhcn="特库摩NBA篮球" />
         <Game crc32="7BB329F5" zhcn="追赶跑跳蹦" />
     </Folder>
     <Folder name="【系列游戏-大金刚】">

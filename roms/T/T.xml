@@ -38,6 +38,10 @@
 		en="Shatterhand"
 		zhcn="特救指令(中)"
 	/>
+	<Game crc32="2FC2C26B" bytes="393232"
+		en="Tecmo NBA Basketball"
+		zhcn="特库摩NBA篮球"
+	/>
 	<Game crc32="7B978BAC" bytes="262160"
 		en="KickMaster"
 		zhcn="踢王"

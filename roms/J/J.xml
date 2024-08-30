@@ -1,5 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
 <Game-List name="J" rom-exists="true">
+	<Game crc32="E8CD159F" bytes="393232"
+		en="Toki"
+		zhcn="JuJu传说"
+	/>
 	<Game crc32="A3D966DB" bytes="40976"
 		en="Mach Rider"
 		zhcn="机车大赛"
@@ -90,9 +94,5 @@
 	/>
 	<Game crc32="52C4F765" bytes="655376"
 		zhcn="九人街霸(中)"
-	/>
-	<Game crc32="C0AEEC28" bytes="262160"
-		en="Section-Z"
-		zhcn="绝对合体(中)"
 	/>
 </Game-List>

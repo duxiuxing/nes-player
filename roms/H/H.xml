@@ -1,5 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
 <Game-List name="H" rom-exists="true">
+    <Game crc32="80DA9F53" bytes="262160"
+        en="Rollergames"
+        zhcn="旱冰勇士"
+    />
     <Game crc32="B4D15D85" bytes="262160"
         en="Metal Gear"
         zhcn="合金装备(中)"

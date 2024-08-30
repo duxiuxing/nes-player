@@ -4,6 +4,14 @@
 		en="Karnov"
 		zhcn="卡诺夫"
 	/>
+	<Game crc32="69900690" bytes="65552"
+		en="Hello Kitty no Ohanabatake"
+		zhcn="凯蒂猫的花圃"
+	/>
+	<Game crc32="54DC10CD" bytes="131088"
+		en="Hello Kitty World"
+		zhcn="凯蒂猫气球世界"
+	/>
 	<Game crc32="B27BCF3D" bytes="262160"
 		en="Wai Wai World"
 		zhcn="柯纳米世界"

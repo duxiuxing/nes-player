@@ -8,6 +8,14 @@
 		en="Rygar"
 		zhcn="阿尔戈斯战士(中)"
 	/>
+	<Game crc32="CD3AA2A5" bytes="65552"
+		en="Arkista's Ring"
+		zhcn="阿基斯塔之戒"
+	/>
+	<Game crc32="DDA79434" bytes="524304"
+		en="Aladdin 4"
+		zhcn="阿拉丁4"
+	/>
 	<Game crc32="F51355D3" bytes="24592"
 		en="Nuts &amp; Milk"
 		zhcn="爱的小屋(中)"
