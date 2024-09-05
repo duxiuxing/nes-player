@@ -1,5 +1,10 @@
 <?xml version='1.0' encoding='utf-8'?>
 <Game-List name="T" rom-exists="true">
+	<Game crc32="D5ADA486" bytes="131088"
+		rom="The 3D Battles of World Runner"
+		en="The 3D Battles of World Runner"
+		zhcn="3D世界奔跑者"
+	/>
 	<Game crc32="2FC2C26B" bytes="393232"
 		en="Tecmo NBA Basketball"
 		zhcn="Tecmo NBA篮球"

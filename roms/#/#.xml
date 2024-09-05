@@ -1,50 +1,47 @@
-<?xml version="1.0" encoding="utf-8"?>
-<Game-List name="#" rom-exists="true">
-    <Game crc32="D5ADA486" bytes="131088"
-        en="The 3D Battles of World Runner"
-        zhcn="3D世界奔跑者"
-    />
-    <Game crc32="8093EC6F" bytes="131088"
-        en="JJ - Tobidase Daisakusen Part 2"
-        zhcn="3D世界奔跑者2"
-    />
+<?xml version='1.0' encoding='utf-8'?>
+<Game-List brief="en 开头非英文字母的游戏">
     <Game crc32="A2F550AC" bytes="262160"
+        rom="8 Eyes"
         en="8 Eyes"
-        zhcn="8只眼(中)"
+        zhcn="8只眼" language="chinese"
     />
     <Game crc32="D24639E3" bytes="262160"
+        rom="8 Eyes"
         en="8 Eyes"
         zhcn="8只眼"
     />
     <Game crc32="08F0D1BD" bytes="24592"
+        rom="10-yard Fight"
         en="10-Yard Fight"
         zhcn="10码美式足球大赛"
     />
-    <Game crc32="5998245D" bytes="131088"
-        en="Contra 1993"
-        zhcn="93超级魂"
-    />
     <Game crc32="E9CF747F" bytes="40976"
+        rom="1942"
         en="1942"
         zhcn="1942"
     />
     <Game crc32="43F51DEB" bytes="262672"
+        rom="1943 - The Battle of Midway"
         en="1943 - The Battle of Midway"
-        zhcn="1943(中)"
+        zhcn="1943" language="chinese"
     />
     <Game crc32="8DB59BE8" bytes="131088"
+        rom="1943 - The Battle of Midway"
         en="1943 - The Battle of Midway"
         zhcn="1943"
     />
     <Game crc32="D131BF15" bytes="131088"
+        rom="1943 - The Battle of Midway"
         en="1943 - The Battle of Midway"
         zhcn="1943"
     />
     <Game crc32="0B434FC8" bytes="131088"
+        rom="1944"
         en="1944"
-        zhcn="1944(中)"
+        zhcn="1944" language="chinese"
     />
     <Game crc32="46249D57" bytes="131088"
+        rom="1944"
         en="1944"
         zhcn="1944"
     />
