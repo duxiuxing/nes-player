@@ -1,5 +1,10 @@
 <?xml version='1.0' encoding='utf-8'?>
 <Game-List brief="en 以英文字母 H 开头的游戏">
+    <Game crc32="F0543C45" bytes="393232"
+        rom="Daiku no Gen-san"
+        en="Hammerin' Harry"
+        zhcn="大力工头" language="chinese"
+    />
     <Game crc32="0ECBE6A3" bytes="65552"
         rom="Hokuto no Ken"
         en="Hokuto no Ken"

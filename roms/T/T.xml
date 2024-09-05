@@ -1,9 +1,39 @@
 <?xml version='1.0' encoding='utf-8'?>
 <Game-List brief="en 以英文字母 T 开头的游戏">
+	<Game crc32="88F071C3" bytes="49168"
+		rom="Tetris - The Soviet Mind Game"
+		en="Tetris - The Soviet Mind Game"
+		zhcn="俄罗斯方块"
+	/>
+	<Game crc32="B8926A6B" bytes="65552"
+		rom="Tetris - The Soviet Mind Game"
+		en="Tetris - The Soviet Mind Game"
+		zhcn="俄罗斯方块"
+	/>
+	<Game crc32="E2E54027" bytes="65552"
+		rom="Tetris - The Soviet Mind Game"
+		en="Tetris - The Soviet Mind Game"
+		zhcn="俄罗斯方块"
+	/>
+	<Game crc32="150908E5" bytes="131088"
+		rom="Tetris 2 + Bombliss"
+		en="Tetris 2 + Bombliss"
+		zhcn="俄罗斯方块2"
+	/>
 	<Game crc32="D5ADA486" bytes="131088"
 		rom="The 3D Battles of World Runner"
 		en="The 3D Battles of World Runner"
 		zhcn="3D世界奔跑者"
+	/>
+	<Game crc32="3B2AD28B" bytes="393232"
+		rom="The Adventures of Bayou Billy"
+		en="The Adventures of Bayou Billy"
+		zhcn="鳄鱼先生" language="chinese"
+	/>
+	<Game crc32="B28D64FC" bytes="262160"
+		rom="The Adventures of Bayou Billy"
+		en="The Adventures of Bayou Billy"
+		zhcn="鳄鱼先生"
 	/>
 	<Game crc32="0D6BD840" bytes="262160"
 		rom="The Punisher"

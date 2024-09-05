@@ -22441,7 +22441,7 @@ On the NES you can tap the A button to fire up and right, the B button to fire u
       <control type="gamecube" required="false"/>
     </input>
   </game>
-  <game name="Hammerin' Harry">
+  <game name="Hammerin' Harry / Daiku no Gen-san">
     <id>1563AA</id>
     <locale lang="EN">
       <title>Hammerin' Harry</title>

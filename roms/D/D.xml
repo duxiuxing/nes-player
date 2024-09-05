@@ -1,5 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Game-List brief="en 以英文字母 D 开头的游戏">
+	<Game crc32="52B2162D" bytes="262160"
+		rom="Daiku no Gen-san"
+		en="Hammerin' Harry"
+		zhcn="大力工头"
+	/>
+	<Game crc32="A529D5F0" bytes="262160"
+		rom="Daiku no Gen-san"
+		en="Hammerin' Harry"
+		zhcn="大力工头"
+	/>
+	<Game crc32="3774121E" bytes="524304"
+		rom="Daiku no Gen-san 2 - Akage no Dan no Gyakushuu"
+		en="Daiku no Gen-san 2 - Akage no Dan no Gyakushuu"
+		zhcn="大力工头2"
+	/>
+	<Game crc32="66C08CD8" bytes="524304"
+		rom="Daiku no Gen-san 2 - Akage no Dan no Gyakushuu"
+		en="Daiku no Gen-san 2 - Akage no Dan no Gyakushuu"
+		zhcn="大力工头2" language="chinese"
+	/>
+	<Game crc32="711E73C2" bytes="1048608"
+		rom="Daiku no Gen-san 2 - Akage no Dan no Gyakushuu"
+		en="Daiku no Gen-san 2 - Akage no Dan no Gyakushuu"
+		zhcn="大力工头2"
+	/>
 	<Game crc32="5700A89B" bytes="262160"
 		rom="Demon Sword"
 		en="Demon Sword"
@@ -15,176 +40,74 @@
 		en="Demon Sword"
 		zhcn="不动明王传" language="chinese"
 	/>
+	<Game crc32="9FC60476" bytes="24592"
+		rom="Devil World"
+		en="Devil World"
+		zhcn="恶魔世界"
+	/>
+	<Game crc32="D437F5D4" bytes="24592"
+		rom="Devil World"
+		en="Devil World"
+		zhcn="恶魔世界"
+	/>
 	<Game crc32="3AE8289A" bytes="24592"
+		rom="Dig Dug"
 		en="Dig Dug"
 		zhcn="打空气"
 	/>
 	<Game crc32="CC904E37" bytes="40976"
+		rom="Dig Dug II - Trouble in Paradise"
 		en="Dig Dug II - Trouble in Paradise"
 		zhcn="打空气2"
 	/>
 	<Game crc32="3CC270FB" bytes="40976"
+		rom="Dig Dug II - Trouble in Paradise"
 		en="Dig Dug II - Trouble in Paradise"
 		zhcn="打空气2"
 	/>
-	<Game crc32="CFF39DAE" bytes="81936"
-		en="Arkanoid"
-		zhcn="打砖块(中)"
-	/>
-	<Game crc32="04F6FD68" bytes="49168"
-		en="Arkanoid"
-		zhcn="打砖块"
-	/>
-	<Game crc32="4A9531EA" bytes="40976"
-		en="Arkanoid"
-		zhcn="打砖块"
-	/>
-	<Game crc32="B130942B" bytes="196624"
-		en="Arkanoid II"
-		zhcn="打砖块2"
-	/>
-	<Game crc32="50FDB91F" bytes="262160"
-		en="Ganbare Goemon! Karakuri Douchuu"
-		zhcn="大盗伍佑卫门"
-	/>
-	<Game crc32="B8363DEE" bytes="262160"
-		en="Ganbare Goemon! Karakuri Douchuu"
-		zhcn="大盗伍佑卫门"
-	/>
-	<Game crc32="3424D0DC" bytes="262160"
-		en="Ganbare Goemon 2"
-		zhcn="大盗伍佑卫门2"
-	/>
-	<Game crc32="B2FE26C7" bytes="262160"
-		en="Ganbare Goemon 2"
-		zhcn="大盗伍佑卫门2"
-	/>
-	<Game crc32="EEC7B9FA" bytes="24592"
+	<Game crc32="73FF4BA1" bytes="24592"
+		rom="Donkey Kong"
 		en="Donkey Kong"
-		zhcn="大金刚(中)"
+		zhcn="大金刚"
 	/>
 	<Game crc32="E40B593B" bytes="24592"
+		rom="Donkey Kong"
 		en="Donkey Kong"
 		zhcn="大金刚"
 	/>
-	<Game crc32="73FF4BA1" bytes="24592"
+	<Game crc32="EEC7B9FA" bytes="24592"
+		rom="Donkey Kong"
 		en="Donkey Kong"
-		zhcn="大金刚"
-	/>
-	<Game crc32="17EC0CC7" bytes="49168"
-		en="Donkey Kong Classics"
-		zhcn="大金刚1+2合集"
+		zhcn="大金刚" language="chinese"
 	/>
 	<Game crc32="800C36F5" bytes="24592"
-		en="Donkey Kong Jr."
-		zhcn="大金刚2"
-	/>
-	<Game crc32="2A794CCB" bytes="24592"
+		rom="Donkey Kong Jr."
 		en="Donkey Kong Jr."
 		zhcn="大金刚2"
 	/>
 	<Game crc32="C3F85D1E" bytes="24592"
+		rom="Donkey Kong Jr."
 		en="Donkey Kong Jr."
 		zhcn="大金刚2"
 	/>
-	<Game crc32="D1CAC3C2" bytes="24592"
-		en="Donkey Kong 3"
-		zhcn="大金刚3"
-	/>
 	<Game crc32="4E9A5C38" bytes="24592"
+		rom="Donkey Kong 3"
 		en="Donkey Kong 3"
 		zhcn="大金刚3"
 	/>
-	<Game crc32="F0543C45" bytes="393232"
-		en="Hammerin' Harry"
-		zhcn="大力工头(中)"
+	<Game crc32="D1CAC3C2" bytes="24592"
+		rom="Donkey Kong 3"
+		en="Donkey Kong 3"
+		zhcn="大金刚3"
 	/>
-	<Game crc32="52B2162D" bytes="262160"
-		en="Hammerin' Harry"
-		zhcn="大力工头"
+	<Game crc32="17EC0CC7" bytes="49168"
+		rom="Donkey Kong Classics"
+		en="Donkey Kong Classics"
+		zhcn="大金刚1+2合集"
 	/>
-	<Game crc32="A529D5F0" bytes="262160"
-		en="Hammerin' Harry"
-		zhcn="大力工头"
-	/>
-	<Game crc32="66C08CD8" bytes="524304"
-		en="Daiku no Gen-san 2 - Akage no Dan no Gyakushuu"
-		zhcn="大力工头2(中)"
-	/>
-	<Game crc32="3774121E" bytes="524304"
-		en="Daiku no Gen-san 2 - Akage no Dan no Gyakushuu"
-		zhcn="大力工头2"
-	/>
-	<Game crc32="711E73C2" bytes="1048608"
-		en="Daiku no Gen-san 2 - Akage no Dan no Gyakushuu"
-		zhcn="大力工头2"
-	/>
-	<Game crc32="4E2B88F5" bytes="24592"
-		en="Popeye"
-		zhcn="大力水手(中)"
-	/>
-	<Game crc32="DE1D762F" bytes="24592"
-		en="Popeye"
-		zhcn="大力水手"
-	/>
-	<Game crc32="6C8AE094" bytes="24592"
-		en="Galaga - Demons of Death"
-		zhcn="大蜜蜂(中)"
-	/>
-	<Game crc32="628D22DE" bytes="24592"
-		en="Galaga - Demons of Death"
-		zhcn="大蜜蜂"
-	/>
-	<Game crc32="BD2855F2" bytes="262160"
-		en="Iron Tank"
-		zhcn="大坦克"
-	/>
-	<Game crc32="D09CC788" bytes="262160"
-		en="Iron Tank"
-		zhcn="大坦克"
-	/>
-	<Game crc32="F4D581A4" bytes="24592"
-		en="Pinball"
-		zhcn="弹珠台(中)"
-	/>
-	<Game crc32="88C15CF3" bytes="24592"
-		en="Pinball"
-		zhcn="弹珠台"
-	/>
-	<Game crc32="37737FDB" bytes="393232"
-		en="Blade Buster"
-		zhcn="刀锋战机"
-	/>
-	<Game crc32="3ABA6565" bytes="393232"
-		en="Blade Buster"
-		zhcn="刀锋战机"
-	/>
-	<Game crc32="375BF357" bytes="393232"
-		en="Kabuki Quantum Fighter"
-		zhcn="地狱极乐丸(中)"
-	/>
-	<Game crc32="2ECD844A" bytes="262160"
-		en="Kabuki Quantum Fighter"
-		zhcn="地狱极乐丸"
-	/>
-	<Game crc32="CF8DC9D4" bytes="262160"
-		en="Crisis Force"
-		zhcn="帝国战机(中)"
-	/>
-	<Game crc32="C4520781" bytes="262160"
-		en="Crisis Force"
-		zhcn="帝国战机"
-	/>
-	<Game crc32="B025152D" bytes="262160"
-		en="Crisis Force"
-		zhcn="帝国战机"
-	/>
-	<Game crc32="D415571F" bytes="40976"
-		en="Elevator Action"
-		zhcn="电梯大战"
-	/>
-	<Game crc32="0207EF1C" bytes="40976"
-		en="Elevator Action"
-		zhcn="电梯大战"
+	<Game crc32="2A794CCB" bytes="24592"
+		rom="Donkey Kong Jr."
+		en="Donkey Kong Jr."
+		zhcn="大金刚2"
 	/>
 </Game-List>

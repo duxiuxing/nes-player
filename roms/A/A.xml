@@ -1,5 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Game-List brief="en 以英文字母 A 开头的游戏">
+    <Game crc32="3F7FF73A" bytes="786464"
+        rom="Akumajou Special - Boku Dracula-kun"
+        en="Demon Castle Special - I'm Kid Dracula"
+        zhcn="恶魔城外传 王子传奇"
+    />
+    <Game crc32="F916D969" bytes="262160"
+        rom="Akumajou Special - Boku Dracula-kun"
+        en="Demon Castle Special - I'm Kid Dracula"
+        zhcn="恶魔城外传 王子传奇"
+    />
+    <Game crc32="FC265F93" bytes="262160"
+        rom="Akumajou Special - Boku Dracula-kun"
+        en="Demon Castle Special - I'm Kid Dracula"
+        zhcn="恶魔城外传 王子传奇"
+    />
     <Game crc32="DDA79434" bytes="524304"
         rom="Aladdin 4"
         en="Aladdin 4"
@@ -9,6 +24,26 @@
         rom="Alpha Mission"
         en="Alpha Mission"
         zhcn="ASO组合战机"
+    />
+    <Game crc32="04F6FD68" bytes="49168"
+        rom="Arkanoid"
+        en="Arkanoid"
+        zhcn="打砖块"
+    />
+    <Game crc32="4A9531EA" bytes="40976"
+        rom="Arkanoid"
+        en="Arkanoid"
+        zhcn="打砖块"
+    />
+    <Game crc32="CFF39DAE" bytes="81936"
+        rom="Arkanoid"
+        en="Arkanoid"
+        zhcn="打砖块" language="chinese"
+    />
+    <Game crc32="B130942B" bytes="196624"
+        rom="Arkanoid II"
+        en="Arkanoid II"
+        zhcn="打砖块2"
     />
     <Game crc32="CD3AA2A5" bytes="65552"
         rom="Arkista's Ring"

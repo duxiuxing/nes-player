@@ -10,6 +10,26 @@
 		en="Pac-Man (Namco)"
 		zhcn="吃豆小精灵"
 	/>
+	<Game crc32="88C15CF3" bytes="24592"
+		rom="Pinball"
+		en="Pinball"
+		zhcn="弹珠台"
+	/>
+	<Game crc32="F4D581A4" bytes="24592"
+		rom="Pinball"
+		en="Pinball"
+		zhcn="弹珠台" language="chinese"
+	/>
+	<Game crc32="4E2B88F5" bytes="24592"
+		rom="Popeye"
+		en="Popeye"
+		zhcn="大力水手" language="chinese"
+	/>
+	<Game crc32="DE1D762F" bytes="24592"
+		rom="Popeye"
+		en="Popeye"
+		zhcn="大力水手"
+	/>
 	<Game crc32="925F8061" bytes="262160"
 		en="Heavy Barrel"
 		zhcn="霹雳神兵(中)"

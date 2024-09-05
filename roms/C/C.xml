@@ -1,5 +1,50 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Game-List brief="en 以英文字母 C 开头的游戏">
+	<Game crc32="856114C8" bytes="131088"
+		rom="Castlevania"
+		en="Castlevania"
+		zhcn="恶魔城"
+	/>
+	<Game crc32="DC749E67" bytes="131088"
+		rom="Castlevania"
+		en="Castlevania"
+		zhcn="恶魔城" language="chinese"
+	/>
+	<Game crc32="0E3BF357" bytes="131088"
+		rom="Castlevania - Blood Moon"
+		en="Castlevania - Blood Moon"
+		zhcn="恶魔城 血月"
+	/>
+	<Game crc32="157E5CBA" bytes="393232"
+		rom="Castlevania II - Simon's Quest"
+		en="Castlevania II - Simon's Quest"
+		zhcn="恶魔城2"
+	/>
+	<Game crc32="57D1DC1B" bytes="393232"
+		rom="Castlevania II - Simon's Quest"
+		en="Castlevania II - Simon's Quest"
+		zhcn="恶魔城2"
+	/>
+	<Game crc32="A9C2C503" bytes="262160"
+		rom="Castlevania II - Simon's Quest"
+		en="Castlevania II - Simon's Quest"
+		zhcn="恶魔城2"
+	/>
+	<Game crc32="7CC9C669" bytes="393232"
+		rom="Castlevania III - Dracula's Curse"
+		en="Castlevania III - Dracula's Curse"
+		zhcn="恶魔城3"
+	/>
+	<Game crc32="B810B79C" bytes="524304"
+		rom="Castlevania III - Dracula's Curse"
+		en="Castlevania III - Dracula's Curse"
+		zhcn="恶魔城3" language="chinese"
+	/>
+	<Game crc32="F3B6EB4A" bytes="917536"
+		rom="Castlevania III - Dracula's Curse"
+		en="Castlevania III - Dracula's Curse"
+		zhcn="恶魔城3"
+	/>
 	<Game crc32="96EE047B" bytes="24592"
 		rom="Choujikuu Yousai - Macross"
 		en="Choujikuu Yousai - Macross"
@@ -14,5 +59,20 @@
 		rom="Contra 1993"
 		en="Contra 1993"
 		zhcn="93超级魂"
+	/>
+	<Game crc32="B025152D" bytes="262160"
+		rom="Crisis Force"
+		en="Crisis Force"
+		zhcn="帝国战机"
+	/>
+	<Game crc32="C4520781" bytes="262160"
+		rom="Crisis Force"
+		en="Crisis Force"
+		zhcn="帝国战机"
+	/>
+	<Game crc32="CF8DC9D4" bytes="262160"
+		rom="Crisis Force"
+		en="Crisis Force"
+		zhcn="帝国战机" language="chinese"
 	/>
 </Game-List>

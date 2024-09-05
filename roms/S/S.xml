@@ -35,6 +35,11 @@
 		en="Spartan X 2"
 		zhcn="成龙踢馆2"
 	/>
+	<Game crc32="EB506BF9" bytes="262160"
+		rom="Star Wars"
+		en="Star Wars"
+		zhcn="星球大战"
+	/>
 	<Game crc32="AC0A622B" bytes="131088"
 		rom="Stinger"
 		en="Stinger"

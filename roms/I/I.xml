@@ -5,4 +5,14 @@
         en="Ice Hockey"
         zhcn="冰上曲棍球"
     />
+    <Game crc32="BD2855F2" bytes="262160"
+        rom="Iron Tank"
+        en="Iron Tank"
+        zhcn="大坦克"
+    />
+    <Game crc32="D09CC788" bytes="262160"
+        rom="Iron Tank"
+        en="Iron Tank"
+        zhcn="大坦克"
+    />
 </Game-List>

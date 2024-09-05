@@ -1,5 +1,35 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Game-List name="G" rom-exists="true">
+<Game-List brief="en 以英文字母 G 开头的游戏">
+	<Game crc32="628D22DE" bytes="24592"
+		rom="Galaga - Demons of Death"
+		en="Galaga - Demons of Death"
+		zhcn="大蜜蜂"
+	/>
+	<Game crc32="6C8AE094" bytes="24592"
+		rom="Galaga - Demons of Death"
+		en="Galaga - Demons of Death"
+		zhcn="大蜜蜂" language="chinese"
+	/>
+	<Game crc32="50FDB91F" bytes="262160"
+		rom="Ganbare Goemon! Karakuri Douchuu"
+		en="Ganbare Goemon! Karakuri Douchuu"
+		zhcn="大盗伍佑卫门"
+	/>
+	<Game crc32="B8363DEE" bytes="262160"
+		rom="Ganbare Goemon! Karakuri Douchuu"
+		en="Ganbare Goemon! Karakuri Douchuu"
+		zhcn="大盗伍佑卫门"
+	/>
+	<Game crc32="3424D0DC" bytes="262160"
+		rom="Ganbare Goemon 2"
+		en="Ganbare Goemon 2"
+		zhcn="大盗伍佑卫门2"
+	/>
+	<Game crc32="B2FE26C7" bytes="262160"
+		rom="Ganbare Goemon 2"
+		en="Ganbare Goemon 2"
+		zhcn="大盗伍佑卫门2"
+	/>
 	<Game crc32="28699CD2" bytes="655392"
 		en="Rad Racer"
 		zhcn="公路之星"
