@@ -9174,6 +9174,9 @@ jeu plutôt bien a essayer.</synopsis>
     <locale lang="JA">
       <title>Challenger</title>
     </locale>
+    <locale lang="ZHCN">
+      <title>列车寻宝</title>
+    </locale>
     <developer>Hudson</developer>
     <publisher>Hudson</publisher>
     <date year="1985" month="10" day="15"/>
@@ -18323,6 +18326,9 @@ Fester's Quest is an overhead-view game in which Uncle Fester uses his gun, or l
     </locale>
     <locale lang="JA">
       <title>Field Combat</title>
+    </locale>
+    <locale lang="ZHCN">
+      <title>杀戮战场</title>
     </locale>
     <developer>Jaleco</developer>
     <publisher>Jaleco</publisher>
@@ -36935,6 +36941,9 @@ Profitez également des objets spéciaux (tels que la grenouille géante que vou
     <locale lang="JA">
       <title>Ninja Jajamaru-kun</title>
     </locale>
+    <locale lang="ZHCN">
+      <title>忍者茶茶丸</title>
+    </locale>
     <developer>Jaleco</developer>
     <publisher>Jaleco</publisher>
     <date year="1985" month="11" day="15"/>
@@ -50718,6 +50727,9 @@ There are no game or season stats and there is no way to save your season, but t
     <locale lang="DE">
       <genre>Sport</genre>
     </locale>
+    <locale lang="ZHCN">
+      <title>Tecmo 美式足球</title>
+    </locale>
     <developer>Tecmo</developer>
     <publisher>Tecmo</publisher>
     <date year="1989" month="02" day="02"/>
@@ -50790,7 +50802,7 @@ Le jeu propose une apparence de Michael Jordan et toutes les équipes NBA et les
       <genre>Sport</genre>
     </locale>
     <locale lang="ZHCN">
-      <title>特库摩NBA篮球</title>
+      <title>Tecmo NBA篮球</title>
     </locale>
     <developer>Tecmo</developer>
     <publisher>Tecmo, Inc.</publisher>
@@ -54475,6 +54487,9 @@ Gameplay follows the same top-down action-RPG rules as Zelda, with added nicetie
     </locale>
     <locale lang="JA">
       <title>Valkyrie no Bouken : Toki no Kagi Densetsu</title>
+    </locale>
+    <locale lang="ZHCN">
+      <title>女武神的冒险 时间钥匙传说</title>
     </locale>
     <developer>Namco</developer>
     <publisher>Namco</publisher>

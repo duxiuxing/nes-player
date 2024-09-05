@@ -1,5 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
 <Game-List name="T" rom-exists="true">
+	<Game crc32="2FC2C26B" bytes="393232"
+		en="Tecmo NBA Basketball"
+		zhcn="Tecmo NBA篮球"
+	/>
 	<Game crc32="A30BBC68" bytes="41104"
 		zhcn="坦克大战 烟山1990(中)"
 	/>
@@ -37,10 +41,6 @@
 	<Game crc32="A8B011D6" bytes="262160"
 		en="Shatterhand"
 		zhcn="特救指令(中)"
-	/>
-	<Game crc32="2FC2C26B" bytes="393232"
-		en="Tecmo NBA Basketball"
-		zhcn="特库摩NBA篮球"
 	/>
 	<Game crc32="7B978BAC" bytes="262160"
 		en="KickMaster"

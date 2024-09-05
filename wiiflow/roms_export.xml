@@ -65,20 +65,20 @@
     FAOJ    Solomon no Kagi (NTSC-J)
     FAOP    Solomon's Key (PAL)
     en="Solomon's Key"
-    zhcn="?"
+    zhcn="所罗门之匙"
 
     FAPE    NES Open Tournament Golf (NTSC-U)
     FAPJ    Mario Open Golf (NTSC-J)
     FAPP    NES Open Tournament Golf (PAL)
     FAPT    NES Open Tournament Golf (NTSC-K)
     en="Nes Open Tournament Golf"
-    zhcn="?"
+    zhcn="马里奥高尔夫公开赛"
 
     FAQJ    Ninja JaJaMaru-kun (NTSC-J)
     FAQL    Ninja JaJaMaru-kun (PAL)
     FAQN    Ninja JaJaMaru-kun (NTSC-U)
     en="Ninja Jajamaru-kun"
-    zhcn="?"
+    zhcn="忍者茶茶丸"
     -->
   <Game crc32="80F392C7" bytes="40976"
     en="Xevious - The Avenger"
@@ -92,7 +92,7 @@
     FAVE    Tecmo Bowl (NTSC-U)
     FAVJ    Tecmo Bowl (NTSC-J)
     en="Tecmo Bowl"
-    zhcn="?"
+    zhcn="Tecmo 美式足球"
     -->
   <Game crc32="E00264B5" bytes="24592"
     en="Ikki"
@@ -102,11 +102,11 @@
     FAZJ    Field Combat (NTSC-J)
     FAZQ    Downtown Nekketsu Koushinkyoku: Soreyuke Daiundoukai (NTSC-K)
     en="Field Combat"
-    zhcn="?"
+    zhcn="杀戮战场"
 
     FB3J    Valkyrie no Bouken - Toki no Kagi Densetsu (NTSC-J)
     en="Valkyrie no Bouken - Toki no Kagi Densetsu"
-    zhcn="?"
+    zhcn="女武神的冒险 时间钥匙传说"
     -->
   <Game crc32="FA96CBA2" bytes="24592"
     en="Lunar Pool"
@@ -127,7 +127,7 @@
   <!-- 
     FB8J    Challenger (NTSC-J)
     en="Challenger"
-    zhcn="?"
+    zhcn="列车寻宝"
     -->
   <Game crc32="274EB12A" bytes="24592"
     en="Pooyan"

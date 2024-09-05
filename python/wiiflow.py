@@ -119,12 +119,7 @@ class WiiFlow:
 
         for game_elem in root.findall("Game"):
             rom_crc32 = game_elem.get("crc32").rjust(8, "0")
-            rom_name = game_elem.get("rom")
-            if rom_name == None:
-                rom_name = game_elem.get("zip") + ".zip"
-            if rom_name is None:
-                print(f"crc32 = {rom_crc32} 的元素缺少 rom/zip 属性")
-                continue
+            rom_name = game_elem.get("en") + self.console.rom_extension()
             rom_path = self.console.query_rom_path(rom_crc32)
             if rom_path is None:
                 print(f"crc32 = {rom_crc32} 的 ROM 文件不存在")
