@@ -1,6 +1,31 @@
 <?xml version='1.0' encoding='utf-8'?>
 <Game-List brief="en 以英文字母 S 开头的游戏">
+	<Game crc32="3747F350" bytes="270352"
+		rom="Shadow of the Ninja"
+		en="Shadow of the Ninja"
+		zhcn="赤影战士" language="chinese"
+	/>
 	<Game crc32="9DCD57AA" bytes="524304"
+		rom="Shadow of the Ninja"
+		en="Shadow of the Ninja"
+		zhcn="赤影战士"
+	/>
+	<Game crc32="A481E2BD" bytes="270352"
+		rom="Shadow of the Ninja"
+		en="Shadow of the Ninja"
+		zhcn="赤影战士" language="chinese"
+	/>
+	<Game crc32="A756A212" bytes="262160"
+		rom="Shadow of the Ninja"
+		en="Shadow of the Ninja"
+		zhcn="赤影战士"
+	/>
+	<Game crc32="B2047D03" bytes="262160"
+		rom="Shadow of the Ninja"
+		en="Shadow of the Ninja"
+		zhcn="赤影战士"
+	/>
+	<Game crc32="F74A04AB" bytes="262160"
 		rom="Shadow of the Ninja"
 		en="Shadow of the Ninja"
 		zhcn="赤影战士"
@@ -20,6 +45,16 @@
 		en="Stinger"
 		zhcn="兵蜂2"
 	/>
+	<Game crc32="048F7DD8" bytes="393232"
+		rom="Super C"
+		en="Super C"
+		zhcn="超级魂斗罗" language="chinese"
+	/>
+	<Game crc32="6FF47215" bytes="786464"
+		rom="Super C"
+		en="Super C"
+		zhcn="超级魂斗罗" language="chinese"
+	/>
 	<Game crc32="1AC846F0" bytes="262160"
 		rom="Super C"
 		en="Super C"
@@ -34,6 +69,16 @@
 		rom="Super Mario Bros. 3"
 		en="Super Mario Bros. 3"
 		zhcn="超级马里奥兄弟3"
+	/>
+	<Game crc32="B70E97A1" bytes="458768"
+		rom="Super Mario Bros. 3"
+		en="Super Mario Bros. 3"
+		zhcn="超级马里奥兄弟3" language="chinese"
+	/>
+	<Game crc32="F2FCD542" bytes="450576"
+		rom="Super Mario Bros. 3"
+		en="Super Mario Bros. 3"
+		zhcn="超级马里奥兄弟3" language="chinese"
 	/>
 	<Game crc32="678C530B" bytes="65552"
 		rom="Super Mario Bros."

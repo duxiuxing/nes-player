@@ -5,6 +5,16 @@
 		en="Jackal"
 		zhcn="赤色要塞" language="chinese"
 	/>
+	<Game crc32="2E52D091" bytes="131088"
+		rom="Jackal"
+		en="Jackal"
+		zhcn="赤色要塞"
+	/>
+	<Game crc32="D7DFA90F" bytes="131088"
+		rom="Jackal"
+		en="Jackal"
+		zhcn="赤色要塞"
+	/>
 	<Game crc32="1C168BA6" bytes="262160"
 		rom="Jackie Chan's Action Kung Fu"
 		en="Jackie Chan's Action Kung Fu"

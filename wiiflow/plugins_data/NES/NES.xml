@@ -44305,7 +44305,7 @@ great fun to play.</synopsis>
       <control type="gamecube" required="false"/>
     </input>
   </game>
-  <game name="Sea Of Dreamland">
+  <game name="Sea of Dreamland">
     <id>88646A</id>
     <locale lang="EN">
       <title>Sea of Dreamland</title>
@@ -44326,7 +44326,7 @@ You control the ocean!</synopsis>
       <control type="gamecube" required="false"/>
     </input>
   </game>
-  <game name="Secret Scout In The Temple Of Demise">
+  <game name="Secret Scout in the Temple of Demise">
     <id>18854A</id>
     <locale lang="EN">
       <title>Secret Scout in the Temple of Demise</title>
@@ -44592,10 +44592,10 @@ Players take control of Demon Kogure, a member of the real life Japanese heavy m
     </input>
     <date year="1988"/>
   </game>
-  <game name="Sesame Street - Big Bird's Hide And Speak">
+  <game name="Sesame Street - Big Bird's Hide &amp; Speak">
     <id>78336A</id>
     <locale lang="EN">
-      <title>Sesame Street : Big Bird's Hide &amp; Speak</title>
+      <title>Sesame Street - Big Bird's Hide &amp; Speak</title>
       <synopsis>Sesame Street: Big Bird's Hide and Speak is a game for the Nintendo Entertainment System. It was one of the simplest-to-play NES games ever released commercially. This game stars Big Bird and co-stars Little Bird, and features Bert, Ernie, The Count, Grover, and Elmo. This game was developed by RSP Inc. and published by Hi Tech Expressions. All 4 sides of the D-pad move little bird to the next window clockwise; A and B Buttons both choose a window. The center buttons (Start and Select) exit to the game select screen. The game's objective was to choose the correct character or letter, with six different levels. The first two levels are based on simply choosing the window instructed by Big Bird, while the next two needed memorizing since the windows close. In the fifth level the player had to spell the three-letter word instructed by choosing the right letters and the last level the player must attempt to spell the most number of different words before a time limit, the letters in the windows changing after a new word is created.</synopsis>
       <genre>Educational</genre>
     </locale>
@@ -44656,7 +44656,7 @@ For Ages 3-6.</synopsis>
     </input>
     <date year="1989" month="" day=""/>
   </game>
-  <game name="Sesame Street 1 2 3/a B C">
+  <game name="Sesame Street ABC &amp; 123">
     <id>18856A</id>
     <locale lang="EN">
       <title>Sesame Street ABC &amp; 123</title>
@@ -45151,7 +45151,7 @@ The game has a then-distinct feature of being able to start the game as any of t
       <control type="gamecube" required="false"/>
     </input>
   </game>
-  <game name="Shingen The Ruler">
+  <game name="Shingen the Ruler">
     <id>1672AA</id>
     <locale lang="EN">
       <title>Shingen the Ruler</title>
@@ -45322,7 +45322,7 @@ The game contains three stages that involve a western, ghost house, and a space 
       <control type="gamecube" required="false"/>
     </input>
   </game>
-  <game name="Short Order/eggsplode">
+  <game name="Short Order + Egg-Splode!">
     <id>18754A</id>
     <locale lang="EN">
       <title>Short Order + Egg-Splode!</title>
@@ -45479,7 +45479,7 @@ The game plays much like a regular Famicom adventure game: The player walks arou
     <date year=""/>
     <publisher/>
   </game>
-  <game name="Shuang Ying">
+  <game name="Shuang Ying / Twin Eagle">
     <id>88664A</id>
     <locale lang="EN">
       <title>Twin Eagle</title>
@@ -45500,7 +45500,7 @@ The game plays much like a regular Famicom adventure game: The player walks arou
   <game name="Shufflepuck Cafe">
     <id>1580AA</id>
     <locale lang="EN">
-      <title>Shufflepuck Café</title>
+      <title>Shufflepuck Cafe</title>
       <synopsis>One puck, and only two competitors. One is the computer, and the other is, of course, you. You get a chance to match your skills at this Air Hockey style game, over 'Cantina Band' inspired music. Deflect the puck around the walled area using your bat, trying to knock it into your opponent's goal.
 
 There are several competitors, from which some of them definitely cheat, so be prepared to be laughed at. However, you can cheat as well, as you can resize your stick to fill the whole table width, or add one in the middle, and see who breaks glass first. There are single plays or the tournament where you play opponents in order of difficulty. The winner is the one who reaches 15 glassbreaks first.</synopsis>
@@ -45767,10 +45767,10 @@ Silver Surfer is a shooter game, with some levels taking place vertically and so
       <control type="gamecube" required="false"/>
     </input>
   </game>
-  <game name="Simpsons - Bart vs the Space Mutants, The">
+  <game name="The Simpsons - Bart vs. the Space Mutants">
     <id>1295AA</id>
     <locale lang="EN">
-      <title>The Simpsons : Bart vs. the Space Mutants</title>
+      <title>The Simpsons - Bart vs. the Space Mutants</title>
       <synopsis>Bart vs. The Space Mutants is a platform game where the player goes into the role of Bart Simpson (from the TV show The Simpsons) and must stop the Space Mutants from invading Springfield.
 
 On each of the five levels, Bart must collect (or get rid of) the ingredients that the Space Mutants are planning to use to build their machine, such as purple objects or balloons. He also has to collect enough "proof" of the aliens existence (brown coins left behind when they are jumped on), so his family members will help him when he meets a boss (characters such as Nelson and Sideshow Bob). This won't be easy since the Space Mutants are "using" human bodies as disguise. In order to discover who are the real Space Mutants, Bart must use his X-ray Specs.
@@ -45805,10 +45805,10 @@ Bart also has some coins that can be used in many ways throughout the game, like
       <control type="gamecube" required="false"/>
     </input>
   </game>
-  <game name="Simpsons - Bart vs the World, The">
+  <game name="The Simpsons - Bart vs. the World">
     <id>1543AA</id>
     <locale lang="EN">
-      <title>The Simpsons : Bart vs. the World</title>
+      <title>The Simpsons - Bart vs. the World</title>
       <synopsis>This game is actually a compilation of smaller games belonging to different genres. Krusty the clown appears in the beginning of the game and presents a menu with five games to play (one of which is not available from the start): A jump-and-run game, where Bart must find an exit on a ship, while enemies fire at him and try to prevent him from reaching the exit; a card game, where you have five tries to find hidden cards on a board; a simple jigsaw puzzle; a series of trivia questions concerning the Simpsons; and finally, a platform-skateboard game (available only after you have completed the ship level). Needless to say all games are connected to the famous TV series "The Simpsons".</synopsis>
       <genre>Sports</genre>
     </locale>
@@ -45834,10 +45834,10 @@ Bart also has some coins that can be used in many ways throughout the game, like
       <control type="gamecube" required="false"/>
     </input>
   </game>
-  <game name="Simpsons - Bartman Meets Radioactive Man, The">
+  <game name="The Simpsons - Bartman Meets Radioactive Man">
     <id>1678AA</id>
     <locale lang="EN">
-      <title>The Simpsons : Bartman Meets Radioactive Man</title>
+      <title>The Simpsons - Bartman Meets Radioactive Man</title>
       <synopsis>Bart Simpson is reading the latest comic about the Radioactive Man but his favourite superhero is not featured in it. When he is at the last page, his sidekick Fallout Boy appears. He tells Bart he is the only one who can save Radioactive Man who has been sent to the Limbo Zone, a mysterious prison that revolves around a black hole. Bart turns into Bartman and he has to fight three super villains to collect Radioactive Man's lost powers before facing the mastermind Brain-O the Magnificent.
 
 Players control Bartman through 2D side-scrolling platform levels. He needs to defeat enemies, collect goodies, and be careful not to fall into one of the deadly traps on his way. Bartman can punch and kick, and collect lightning icons to shoot small bolts. Most of the level sequences require precise timing and pixel-perfect jumping precision. Bartman has five life points that are restored by collecting radioactive signs.</synopsis>
@@ -45924,7 +45924,7 @@ Who is the fastest guy on the street? "The Party of the Street Skateboard" is ce
     <publisher>Gluk Video</publisher>
     <date year="1992" month="" day=""/>
   </game>
-  <game name="Skate Or Die">
+  <game name="Skate or Die">
     <id>1467AA</id>
     <locale lang="EN">
       <title>Skate or Die</title>
@@ -45959,10 +45959,10 @@ The pool joust is more of a one-on-one beat em up using a stick, set within a pi
       <control type="gamecube" required="false"/>
     </input>
   </game>
-  <game name="Skate Or Die 2 - The Search For Double Trouble">
+  <game name="Skate or Die 2 - The Search for Double Trouble">
     <id>1893AA</id>
     <locale lang="EN">
-      <title>Skate or Die 2 : The Search for Double Trouble</title>
+      <title>Skate or Die 2 - The Search for Double Trouble</title>
       <synopsis>In this sequel to Skate or Die, you have the option of just skateboarding on a ramp, or to go through an adventure. In the adventure, you are in a small community called Elmood. You play as the hero in this game. Basically you are trying to keep skateboarding and your life as it was after the Mayor of the town bans skateboards. After dealing with this, you set out to build your own halfpipe, and you deal with whatever comes your way. In this game, you go through many obstacles, and other skateboarders shooting paint and throwing eggs at you, you also can shoot at them, and of course upgrade your board from Lester when you run into him on his skateboard, as well as Lester who will give you tricks (giving them whatever they want, whether that's fries, drinks, CD's, etc;).</synopsis>
       <genre>Sports</genre>
     </locale>
@@ -45988,7 +45988,7 @@ The pool joust is more of a one-on-one beat em up using a stick, set within a pi
       <control type="gamecube" required="false"/>
     </input>
   </game>
-  <game name="Ski Or Die">
+  <game name="Ski or Die">
     <id>1665AA</id>
     <locale lang="EN">
       <title>Ski or Die</title>
@@ -46035,7 +46035,7 @@ Course de bouées</synopsis>
       <control type="gamecube" required="false"/>
     </input>
   </game>
-  <game name="Skull And Crossbones">
+  <game name="Skull &amp; Crossbones">
     <id>18755A</id>
     <locale lang="EN">
       <title>Skull &amp; Crossbones</title>
@@ -46198,7 +46198,7 @@ You can only shoot horizontally and diagonally by tilting the plane's nose. When
       <control type="gamecube" required="false"/>
     </input>
   </game>
-  <game name="Smash T.v.">
+  <game name="Smash T.V.">
     <id>1736AA</id>
     <locale lang="EN">
       <title>Smash T.V.</title>
@@ -46484,10 +46484,10 @@ Snow Bros. is a fixed-screen platform game where players must defeat all enemies
     <date year=""/>
     <publisher/>
   </game>
-  <game name="Solar Jetman - Hunt For The Golden Warpship">
+  <game name="Solar Jetman - Hunt for the Golden Warpship">
     <id>1459AA</id>
     <locale lang="EN">
-      <title>Solar Jetman : Hunt for the Golden Warpship</title>
+      <title>Solar Jetman - Hunt for the Golden Warpship</title>
       <synopsis>The golden warpship was once the most powerful ship in the galactic fleet. But the ship was captured by aliens, and its parts scattered throughout twelve different worlds. On each world deadly aliens, booby traps, black holes, and extreme gravitational forces guard the parts. It is now up to Solar Jetman to land on each of the worlds and retrieve all the parts so the golden warpship may be reassembled.
 
 At the beginning of each world, Solar Jetman starts out at the mother ship and explores using a jetpod. When a part of the golden warpship or something else of use is located, the jetpod can be used to haul it back to the mother ship. The mother ship will move on to the next world when all the parts on the current world have been brought back. If the jetpod takes too much damage, Solar Jetman must return to the mother ship for repairs before continuing the quest.</synopsis>
@@ -46610,7 +46610,7 @@ Vibrant colours.</synopsis>
   <game name="Solomon's Key 2">
     <id>1653AA</id>
     <locale lang="EN">
-      <title>Fire 'n Ice</title>
+      <title>Solomon's Key 2</title>
       <synopsis>The peaceful island Coolmint is attacked by flame monsters sent by the evil wizard Druidle. The queen of the winter fairies chooses the novice wizard Dana to drive back the monsters.Fire 'n Ice is a puzzle game seen from a side-view perspective. The goal</synopsis>
       <genre>Puzzle-Game</genre>
     </locale>
@@ -46640,10 +46640,10 @@ Vibrant colours.</synopsis>
       <control type="gamecube" required="false"/>
     </input>
   </game>
-  <game name="Solstice - The Quest For The Staff Of Demnos">
+  <game name="Solstice - The Quest for the Staff of Demnos">
     <id>1301AA</id>
     <locale lang="EN">
-      <title>Solstice : The Quest for the Staff of Demnos</title>
+      <title>Solstice - The Quest for the Staff of Demnos</title>
       <synopsis>The Princess Eleanor has been captured by the evil mage Morbius and is somewhere in the fortress of Kastlerock. You play the part of Shadax, who must now rescue the Princess by searching the fortress for the six pieces of the magical Staff of Demnos and use it to defeat Morbius. Solstice is a combination of a puzzle/adventure and action game played from an isometric 3-D point of view. There are numerous rooms to explore in the fortress, many with dangerous, evil creatures wandering about and traps and obstacles to get past. Along the way there are magic potions, keys, and many other items to find which help you get past the creatures as well as reach new parts of the fortress.</synopsis>
       <genre>Action,Adventure</genre>
     </locale>
@@ -47048,10 +47048,10 @@ The gameplay is platform action with some RPG elements (such as the ability to u
       <control type="gamecube" required="false"/>
     </input>
   </game>
-  <game name="Spider-man - Return Of The Sinister Six">
+  <game name="Spider-Man - Return of the Sinister Six">
     <id>18868A</id>
     <locale lang="EN">
-      <title>Spider-Man : Return of the Sinister Six</title>
+      <title>Spider-Man - Return of the Sinister Six</title>
       <synopsis>From the ingame intro:
 
 "Doctor Octopus is plotting the crowning caper of his criminal career... to rule the world.
@@ -47159,7 +47159,7 @@ Although the game is not as gory as the other titles, there is still plenty of d
   <game name="Spot - The Video Game">
     <id>18760A</id>
     <locale lang="EN">
-      <title>Spot : The Video Game</title>
+      <title>Spot - The Video Game</title>
       <synopsis>A puzzle game loosely featuring licensing from the 7Up soft drink. The gameplay involves up to 4 players, which can be either human or computer, each taking on spots of a particular colour. Starting from opposite corners, they take it in turns to move, either by 'reproducing' one of their spots to form another one in an adjacent square, or by making a jump, losing the square you did have but taking one two spaces away.
 
 When a piece lands next to one of another colour, that piece changes colour into that of their opponent. The winner of each round is either the last player with any pieces left, or the player who has the most pieces left when the level is full.</synopsis>
@@ -47219,7 +47219,7 @@ When a piece lands next to one of another colour, that piece changes colour into
       <control type="gamecube" required="false"/>
     </input>
   </game>
-  <game name="Spy Vs Spy">
+  <game name="Spy vs Spy">
     <id>1424AA</id>
     <locale lang="EN">
       <title>Spy vs Spy</title>
@@ -47366,7 +47366,7 @@ Jajamaru revient donc enfin dans le monde du défilement horizontal dans le cinq
       <control type="gamecube" required="false"/>
     </input>
   </game>
-  <game name="Stack-up">
+  <game name="Stack-Up">
     <id>1680AA</id>
     <locale lang="EN">
       <title>Stack-Up</title>
@@ -47431,10 +47431,10 @@ Dans ce jeu vous devez sautiller avec le professeur Hector sur les différentes 
       <control type="gamecube" required="false"/>
     </input>
   </game>
-  <game name="Stanley - The Search For Dr. Livingston">
+  <game name="Stanley - The Search for Dr. Livingston">
     <id>1899AA</id>
     <locale lang="EN">
-      <title>Stanley : The Search for Dr. Livingston</title>
+      <title>Stanley - The Search for Dr. Livingston</title>
       <synopsis>The game is set in Congo, Africa, in 1870, and its main character is a historical figure. You play as Henry M. Stanley (1841-1904), a reporter for the New York City Newspaper, who was sent by his employers to chronicle the work of the famous Africa-explorer, Dr. Livingston. Unfortunately, the Doctor left without you, hating press and everything connected to it. Recently he disappeared somewhere in the jungle of Congo, leaving only a few notes. Apparently, he was on the trail of
 re-discovering the legendary lost temple of the Amut people, Am-Zutuk. You decide to follow his steps, to find the lost Dr. Livingston, and maybe to learn more about the mysterious people of Amut and the temple.
 
@@ -47564,7 +47564,7 @@ The game takes you to Congo, where you can move from location to location on a "
   <game name="Star Trek - 25th Anniversary">
     <id>1592AA</id>
     <locale lang="EN">
-      <title>Star Trek : 25th Anniversary</title>
+      <title>Star Trek - 25th Anniversary</title>
       <synopsis>The Ship Enterprise is on a 5 year mission: To explore strange new worlds, to seek out new life and new civilizations, to boldly go where no man has gone before. While the Enterprise is investigating strange gravitational disturbances, it is drawn into a dimensional hole and ends up in unknown space with broken warp engines. Now, Captain Kirk and his crew must try to repair the ship and find a way home.
 
 Gameplay is divided into two parts, taking place on the ship's bridge and away missions. On the bridge, you can communicate with other ships, call up a map to navigate the ship (once the warp engines are fixed), enter battle mode to fight other ships (which does not happen very often), save the game or beam down to a planet's surface.
@@ -47593,7 +47593,7 @@ These away missions make up the major part of the game and play very much like o
       <control type="gamecube" required="false"/>
     </input>
   </game>
-  <game name="Star Trek 5 - The Final Frontier">
+  <game name="Star Trek V - The Final Frontier">
     <id>88670A</id>
     <locale lang="EN">
       <title>Star Trek V - The Final Frontier</title>
@@ -47618,7 +47618,7 @@ The first two stages and final stage were in the form of a side-to-side shooter.
   <game name="Star Trek - The Next Generation">
     <id>1858AA</id>
     <locale lang="EN">
-      <title>Star Trek : The Next Generation</title>
+      <title>Star Trek - The Next Generation</title>
       <synopsis>Cadets at Starfleet Academy must spend some of their classes in the starship simulator. This year is a simulation of the U.S.S. Enterprise. Substituting for Jean-Luc Picard, cadets will take the role of captain and then must access different crew members (functions of the ship) to complete a series of scripted missions.
 
 Star Trek: The Next Generation is divided into a series of missions. Players will start on the main screen of the bridge and from there can access Navigation, Tactical, Operations, Engineering, Transporter Systems and Mission Control. Mini-games are sometimes used to complete certain ship functions (such as rerouting power to the shields).</synopsis>
@@ -47680,7 +47680,7 @@ Star Voyager's gameplay requires the player to venture through various sectors o
       <control type="gamecube" required="false"/>
     </input>
   </game>
-  <game name="Star Wars (beam)">
+  <game name="Star Wars">
     <id>1313AA</id>
     <locale lang="EN">
       <title>Star Wars</title>
@@ -47702,6 +47702,9 @@ Star Voyager's gameplay requires the player to venture through various sectors o
     </locale>
     <locale lang="JA">
       <title>Star Wars</title>
+    </locale>
+    <locale lang="ZHCN">
+      <title>星球大战</title>
     </locale>
     <developer>Beam Software</developer>
     <publisher>JVC</publisher>
@@ -47811,7 +47814,7 @@ Your ship is equipped with both a standard laser and an independently fired grou
       <control type="gamecube" required="false"/>
     </input>
   </game>
-  <game name="Startropics">
+  <game name="StarTropics">
     <id>1539AA</id>
     <locale lang="EN">
       <title>StarTropics</title>
@@ -47843,7 +47846,7 @@ Your ship is equipped with both a standard laser and an independently fired grou
       <control type="gamecube" required="false"/>
     </input>
   </game>
-  <game name="Stealth Atf">
+  <game name="Stealth ATF">
     <id>18872A</id>
     <locale lang="EN">
       <title>Stealth ATF</title>
@@ -48434,7 +48437,7 @@ La bande-son rythmée de RECCA est l'une des plus impressionnantes sur la NES. C
   <game name="Sunday Funday - The Ride">
     <id>18876A</id>
     <locale lang="EN">
-      <title>Sunday Funday : The Ride</title>
+      <title>Sunday Funday - The Ride</title>
       <synopsis>This unlicensed title contains three different games, not released separately: Sunday Funday, Fishfall and 4HIM: The Ride.
 
 Sunday Funday is an adaptation of the game Menace Beach, and contains a changed storyline and some graphical changes. The storyline now deals with a boy trying to make his way to Sunday school. Gameplay consists of riding a skateboard through various obstacles and defeating enemies who try to hinder the player's progress.
@@ -48979,10 +48982,10 @@ Les six musiques du jeu sont composées par Koji Kondo. Super Mario Bros. était
       <control type="gamecube" required="false"/>
     </input>
   </game>
-  <game name="Super Mario Bros. / Duck Hunt">
+  <game name="Super Mario Bros. + Duck Hunt">
     <id>94350A</id>
     <locale lang="EN">
-      <title>Super Mario Bros. / Duck Hunt</title>
+      <title>Super Mario Bros. + Duck Hunt</title>
       <synopsis>Super Mario Bros. / Duck Hunt is the game cartridge that came with the Nintendo Entertainment System consumer package that included  a control deck, 2 controllers, and a light zapper. The included games were:
 
 1. Super Mario Bros.: The classic tale of an Italian plumber smashing bricks and stepping on mushrooms and turtles in order to rescue the princess.
@@ -49012,10 +49015,10 @@ Duck Hunt: The basic light zapper game for the NES. Two game modes allowed the p
       <control type="gamecube" required="false"/>
     </input>
   </game>
-  <game name="Super Mario Bros. / Tetris / Nintendo World Cup">
+  <game name="Super Mario Bros. + Tetris + Nintendo World Cup">
     <id>94352A</id>
     <locale lang="EN">
-      <title>Super Mario Bros. / Tetris / Nintendo World Cup</title>
+      <title>Super Mario Bros. + Tetris + Nintendo World Cup</title>
       <synopsis>This cartridge contains three games:
 
 1. Nintendo World Cup
@@ -49321,7 +49324,7 @@ The goal of the game is to travel the map and acquire territory through business
     </input>
     <developer>Thin Chen Enterprises</developer>
   </game>
-  <game name="Super Pang 2">
+  <game name="Super Pang II">
     <id>88691A</id>
     <locale lang="EN">
       <title>Super Pang II</title>
@@ -49504,7 +49507,7 @@ To further distinguish the game, the developers chose to use a more realistic ap
       <control type="gamecube" required="false"/>
     </input>
   </game>
-  <game name="Super Spike V'ball + Nintendo World Cup">
+  <game name="Super Spike V'Ball + Nintendo World Cup">
     <id>88694A</id>
     <locale lang="EN">
       <title>Super Spike V'Ball + Nintendo World Cup</title>
@@ -49841,7 +49844,7 @@ Dans les bayous de Louisiane, le laboratoire du Dr Alec Holland est attaqué par
       <control type="gamecube" required="false"/>
     </input>
   </game>
-  <game name="Swat - Special Weapons And Tactics">
+  <game name="SWAT - Special Weapons and Tactics">
     <id>88695A</id>
     <locale lang="EN">
       <title>SWAT - Special Weapons and Tactics</title>
@@ -49983,7 +49986,7 @@ Teleporters and &amp;quot;zoom tubes&amp;quot; speed up your travels.  Temples p
   <game name="Taboo - The Sixth Sense">
     <id>18888A</id>
     <locale lang="EN">
-      <title>Taboo : The Sixth Sense</title>
+      <title>Taboo - The Sixth Sense</title>
       <synopsis>Turn the Nintendo Entertainment System into a tarot card deck with Taboo: The Sixth Sense.  Write down a questions via the controller, and after a shuffling of cards, the game will attempt to predict your future.  Some fortunes may be positive, offering wealth, fame and power.  Other fortunes may warn the player to take care and use caution in future events.  After the final card is revealed, the player has an option to choose their lucky numbers.  Obviously, Taboo: The Sixth Sense is meant for entertainment purposes only, and should be taken as such.</synopsis>
       <genre>Simulation</genre>
     </locale>
@@ -50370,7 +50373,7 @@ Bref, malgré son game design controversé, Takeshi no Chousenjou est régulièr
       <control type="gamecube" required="false"/>
     </input>
   </game>
-  <game name="Talespin">
+  <game name="TaleSpin">
     <id>1477AA</id>
     <locale lang="EN">
       <title>TaleSpin</title>
@@ -50577,7 +50580,7 @@ There are elders and common folk outside the village that give out advice when l
     </input>
     <developer>Pax Softonica</developer>
   </game>
-  <game name="Target - Renegade">
+  <game name="Target Renegade">
     <id>1846AA</id>
     <locale lang="EN">
       <title>Target Renegade</title>
@@ -50745,10 +50748,10 @@ There are no game or season stats and there is no way to save your season, but t
       <control type="gamecube" required="false"/>
     </input>
   </game>
-  <game name="Tecmo Cup Soccer Game">
+  <game name="Tecmo Cup - Soccer Game">
     <id>1434AA</id>
     <locale lang="EN">
-      <title>Tecmo Cup : Soccer Game</title>
+      <title>Tecmo Cup - Soccer Game</title>
       <synopsis>Robin Field loves soccer. He aims to be the best player in the world with the help of his dad (who was former top player) and his little brother Cecil. After successful domestic league campaign, Robin continues his career in the "Tops", which consist of best players seen in the domestic league. Tops participate in the Tecmo Cup, the youth World Cup with best players from around the world. 
 
 Tecmo Cup is a soccer simulator combined with RPG-elements. As the game progress, Robin and his teammates will get better. The matches itself consists of numerous choices what to do at each moment. If you are attacking, you have options to pass, shoot or to dribble. And when you are defending, you can either tackle, cut pass/shoot, or mark the opposition player with ball.</synopsis>
@@ -50779,7 +50782,7 @@ Tecmo Cup is a soccer simulator combined with RPG-elements. As the game progress
       <control type="gamecube" required="false"/>
     </input>
   </game>
-  <game name="Tecmo Nba Basketball">
+  <game name="Tecmo NBA Basketball">
     <id>18891A</id>
     <locale lang="EN">
       <title>Tecmo NBA Basketball</title>
@@ -51094,7 +51097,7 @@ The graphics and gameplay were improved. And, if the choice of the turtle depend
   <game name="Tenchi o Kurau II - Shokatsu Koumei Den">
     <id>18767A</id>
     <locale lang="EN">
-      <title>Tenchi o Kurau II  - Shokatsu Koumei Den</title>
+      <title>Tenchi o Kurau II - Shokatsu Koumei Den</title>
       <synopsis>The game is based on the comic "Tenchi o kurau" by Hiroshi Motomiya, itself based on the novel "Romance of the Three Kingdoms" by Luó Guànzhong and follows the main plot of historical events.
 
 You start the game as Liú Bèi, the one of greatest Chinese heroes, in the mission to restore the power of Han Dynasty. The imperial seal was stolen from Luòyáng's ashes and Yuán Shù claimed the throne. You must bring him to justice. Serving the Emperor of Han Dynasty and Cáo Cao, you complete quests not forgetting your brotherhood with Guan Yu and Zhang Fei. Travelling through China, you may add heroes to your group and meet different opponents, where combat is flowing. The power of group members is estimated in thousands of people.</synopsis>
@@ -51131,7 +51134,7 @@ You start the game as Liú Bèi, the one of greatest Chinese heroes, in the miss
       <control type="gamecube" required="false"/>
     </input>
   </game>
-  <game name="Tenka No Goikenban - Mito Koumon">
+  <game name="Tenka no Goikenban - Mito Koumon">
     <id>71542A</id>
     <locale lang="EN">
       <title>Tenka no Goikenban - Mito Koumon</title>
@@ -51308,7 +51311,7 @@ Niveau 5 : Affronter le T-1000.</synopsis>
       <control type="gamecube" required="false"/>
     </input>
   </game>
-  <game name="Terminator, The">
+  <game name="The Terminator">
     <id>18894A</id>
     <locale lang="EN">
       <title>The Terminator</title>
@@ -51324,6 +51327,9 @@ Niveau 5 : Affronter le T-1000.</synopsis>
     </locale>
     <locale lang="DE">
       <genre>Rennen, Fahren</genre>
+    </locale>
+    <locale lang="ZHCN">
+      <title>终结者</title>
     </locale>
     <developer>Radical Entertainment Inc.</developer>
     <publisher>Mindscape</publisher>
@@ -51677,7 +51683,7 @@ En conjonction avec le travail de RG-Soft, nous avons été en mesure de termine
       <control type="gamecube" required="false"/>
     </input>
   </game>
-  <game name="Thomas The Tank Engine And Friends">
+  <game name="Thomas the Tank Engine and Friends">
     <id>88551A</id>
     <locale lang="EN">
       <title>Thomas the Tank Engine and Friends</title>
@@ -51695,7 +51701,7 @@ En conjonction avec le travail de RG-Soft, nous avons été en mesure de termine
     <date year="1"/>
     <publisher/>
   </game>
-  <game name="Three Stooges, The">
+  <game name="The Three Stooges">
     <id>1942AA</id>
     <locale lang="EN">
       <title>The Three Stooges</title>
@@ -51931,7 +51937,7 @@ Atravesse seu caminho pelas florestas em busca de vingança contra a Bruxa Turni
       <control type="gamecube" required="false"/>
     </input>
   </game>
-  <game name="Tiger-heli">
+  <game name="Tiger-Heli">
     <id>1553AA</id>
     <locale lang="EN">
       <title>Tiger-Heli</title>
@@ -51965,7 +51971,7 @@ You're shooting tanks, ships, aircraft carriers and trains while flying towards 
       <control type="gamecube" required="false"/>
     </input>
   </game>
-  <game name="Tiles Of Fate">
+  <game name="Tiles of Fate">
     <id>18771A</id>
     <locale lang="EN">
       <title>Tiles of Fate</title>
@@ -52002,7 +52008,7 @@ Jin Gwok Sei Chuen Saang (Nom alternatif)</synopsis>
       <control type="gamecube" required="false"/>
     </input>
   </game>
-  <game name="Time Diver Eon Man">
+  <game name="Time Diver - Eon Man">
     <id>88553A</id>
     <locale lang="EN">
       <title>Time Diver - Eon Man</title>
@@ -52094,7 +52100,7 @@ Combined that with a host of hazardous obstacles so prevalent in platformers and
       <control type="gamecube" required="false"/>
     </input>
   </game>
-  <game name="Times Of Lore">
+  <game name="Times of Lore">
     <id>1809AA</id>
     <locale lang="EN">
       <title>Times of Lore</title>
@@ -52228,7 +52234,7 @@ Le jeu a contient 2 versions différentes: "Tiny Toon Adventures 6" and "Porky P
   <game name="Tiny Toon Adventures - Cartoon Workshop">
     <id>1359AA</id>
     <locale lang="EN">
-      <title>Tiny Toon Adventures: Cartoon Workshop</title>
+      <title>Tiny Toon Adventures - Cartoon Workshop</title>
       <synopsis>LIGHTS! CAMERA! ACTION!
 YOU'RE THE DIRECTOR OF YOUR OWN CARTOONS.
 
@@ -52389,7 +52395,7 @@ Oddly, the ending is completely inaccurate to the film as the Titanic seems to b
       <control type="gamecube" required="false"/>
     </input>
   </game>
-  <game name="To The Earth">
+  <game name="To the Earth">
     <id>18898A</id>
     <locale lang="EN">
       <title>To the Earth</title>
@@ -52579,7 +52585,7 @@ Look for cheese power-ups and mouse hole bonus stages along the way.</synopsis>
     </input>
     <date year=""/>
   </game>
-  <game name="Tombs And Treasure">
+  <game name="Tombs &amp; Treasure">
     <id>1943AA</id>
     <locale lang="EN">
       <title>Tombs &amp; Treasure</title>
@@ -52903,7 +52909,7 @@ Totally Rad, as the name points out, is a game full of slang, with the constant 
       <control type="gamecube" required="false"/>
     </input>
   </game>
-  <game name="Touchdown Fever">
+  <game name="Touch Down Fever">
     <id>18773A</id>
     <locale lang="EN">
       <title>Touch Down Fever</title>
@@ -53043,10 +53049,10 @@ Los objetos pueden ser encontrados al matar a los monstruos enemigos.</synopsis>
       <control type="gamecube" required="false"/>
     </input>
   </game>
-  <game name="Town And Country Surf Designs 2 - Thrilla's Surfari">
+  <game name="Town &amp; Country Surf Designs - Thrilla's Surfari">
     <id>18901A</id>
     <locale lang="EN">
-      <title>Town &amp; Country Surf Designs : Thrilla's Surfari</title>
+      <title>Town &amp; Country Surf Designs - Thrilla's Surfari</title>
       <synopsis>In order to restore his immortal powers, Wazula, an evil Kahuna, is ordered to travel to Hawaii to kidnap Barbi Bikini. Barbi Bikini happens to be Thrilla Gorilla's girlfriend so now he's off to Africa so he can rescue her.
 
 The game features 7 worlds each containing 5 stages (except for the 1st and 3rd world where each contain only 4 stages). Most of the game involves controlling Thrilla on a skateboard, dodging or jumping over various obstacles and enemies while attempting to get to the end of the stage. There will also be times when Thrilla will get to be on a surfboard, but gameplay remains the same as it was on the skateboard. Thrilla also rides a shark underwater with the goal still being to get to the end of the stage while either dodging enemies or throwing spears at them. There are also boss battles where Thrilla throws either coconuts or spears trying to deplete all the health of his adversary. 
@@ -53076,10 +53082,10 @@ There is also a shell game between stages which allows the player to obtain extr
       <control type="gamecube" required="false"/>
     </input>
   </game>
-  <game name="Town And Country Surf Designs - Wood And Water Rage">
+  <game name="Town &amp; Country Surf Designs - Wood &amp; Water Rage">
     <id>18902A</id>
     <locale lang="EN">
-      <title>Town &amp; Country Surf Designs : Wood &amp; Water Rage</title>
+      <title>Town &amp; Country Surf Designs - Wood &amp; Water Rage</title>
       <synopsis>T&amp;C Surf Designs features both skateboarding and surfing games. The skating section (called Street Skate Session) is a side scrolling action game where you need to navigate through an obstacle course within the given time limit. Ideally you want to earn as many points as possible by performing tricks, jumping over items, and collecting bonuses. If you crash too many times (or fall into a hole, run out of time, etc...) then the game will be over. In the surfing section (called Big Wave Encounter) you need to surf a giant wave all the way to the beach. As with skating, you can earn points by performing tricks and collecting bonuses; likewise the game ends if you crash too many times. You can choose to play either game individually, or alternate between the two (the Wood &amp; Water Rage option). You can select several T&amp;C Surf Designs characters to play as, including Thrilla Gorilla, Kool Kat, Joe Cool, and Tiki Man.</synopsis>
       <genre>Sports</genre>
     </locale>
@@ -53136,7 +53142,7 @@ The game is action-oriented. Toxie's only abilities are to jump and to punch his
       <control type="gamecube" required="false"/>
     </input>
   </game>
-  <game name="Track And Field">
+  <game name="Track &amp; Field">
     <id>1573AA</id>
     <locale lang="EN">
       <title>Track &amp; Field</title>
@@ -53174,7 +53180,7 @@ If you want to go to the next event or round then you will have to qualify, by b
       <control type="gamecube" required="false"/>
     </input>
   </game>
-  <game name="Track And Field 2">
+  <game name="Track &amp; Field II">
     <id>1516AA</id>
     <locale lang="EN">
       <title>Track &amp; Field II</title>
@@ -53206,10 +53212,10 @@ If you want to go to the next event or round then you will have to qualify, by b
       <control type="gamecube" required="false"/>
     </input>
   </game>
-  <game name="Transformers - Convoy No Nazo">
+  <game name="Transformers - Convoy no Nazo">
     <id>18903A</id>
     <locale lang="EN">
-      <title>Transformers - Convoy no nazo</title>
+      <title>Transformers - Convoy no Nazo</title>
       <synopsis>Probably the first game to be based on the Transformers toys, Convoy no nazo pits the player as Ultra Magnus, who must find out the secret of Convoy (known as Optimus Prime in most of the world). To find it out, Ultra Magnus must travel through a set of platform-style worlds and fight a range of bosses, ranging from the Megatron, through the combiner series to a flying Decepticon emblem(!).
 
 Ultra Magnus starts out in robot mode, where he can jump far but his shots travel only halfway across the screen. Press down, and Magnus transforms into a trailer. In trailer mode, he can pass below the planes as well as shoot upwards. When a plane is shot down, it transforms into a robot, which must be killed with the forward-pointing shot. Later on, the game becomes more platform-oriented.</synopsis>
@@ -53393,7 +53399,7 @@ The game was renamed The Trolls in Crazyland for release on the NES by American 
       <control type="gamecube" required="false"/>
     </input>
   </game>
-  <game name="Trolls On Treasure Island">
+  <game name="Trolls on Treasure Island">
     <id>1902AA</id>
     <locale lang="EN">
       <title>Trolls on Treasure Island</title>
@@ -53604,7 +53610,7 @@ Help Dinky and Minky on their fantastic journey to rescue the Precious!</synopsi
   <game name="Twin Eagle">
     <id>18906A</id>
     <locale lang="EN">
-      <title>Twin Eagle: Revenge Joe's Brother</title>
+      <title>Twin Eagle</title>
       <synopsis>Twin Eagle is a vertically scrolling arcade style shooter. You control a helicopter, and need to earn points by shooting or bombing the various (and numerous!) enemies you'll encounter. Planes, helicopters, tanks, anti-aircraft guns, foot soldiers, and more will all be trying to bring your mission to an abrupt end! Occasionally, you may find hostages when a building is destroyed; try to rescue as many of the hostages as you can to earn extra points. Your helicopter has the ability to pick up extra weapons. After destroying certain enemies, a power up will be left behind which can give you one of four different types of firepower (the regular machine gun, canon, two way fire, or missiles). Other power ups that can be found include bombs (which can be used to destroy everything on the screen), extra speed, and weapon power up (increases the capabilities of whatever type of weapon you currently have).</synopsis>
       <genre>Action,Shooter</genre>
     </locale>
@@ -57736,7 +57742,7 @@ Gameplay consists of the player dodging cars and other roadway hazards on their 
   <game name="Zoda's Revenge - Star Tropics II">
     <id>18919A</id>
     <locale lang="EN">
-      <title>Zoda's Revenge - StarTropics II</title>
+      <title>Zoda's Revenge - Star Tropics II</title>
       <synopsis>You are Mike Jones, the main character in the game. One day at Dr. Jones' office, the Oxford Wonder Word is opened and while saying the magic words; a time rift opens up and you fall in. This game is a journey through time and space, going through 8 different time shifts, and meeting some of the historical figures from the past. Your mission is to get the mystical tetrads that are located in these time periods. You run into the alien creature Zoda who is out to steal and destroy the tetrads.</synopsis>
       <genre>Action,Adventure</genre>
     </locale>
