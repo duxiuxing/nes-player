@@ -1,5 +1,10 @@
 <?xml version='1.0' encoding='utf-8'?>
-<Game-List name="R" rom-exists="true">
+<Game-List brief="en 以英文字母 R 开头的游戏">
+	<Game crc32="A1A22C10" bytes="262160"
+		rom="Rygar"
+		en="Rygar"
+		zhcn="阿尔戈斯战士" language="chinese"
+	/>
 	<Game crc32="576BBAA3" bytes="917536"
 		zhcn="热血高校躲避球部 足球篇(中)"
 	/>

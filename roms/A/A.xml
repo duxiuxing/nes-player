@@ -1,27 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Game-List name="A" rom-exists="true">
-	<Game crc32="3AFDB6EE" bytes="65552"
-		en="Alpha Mission"
-		zhcn="ASO组合战机"
-	/>
-	<Game crc32="A1A22C10" bytes="262160"
-		en="Rygar"
-		zhcn="阿尔戈斯战士(中)"
-	/>
-	<Game crc32="CD3AA2A5" bytes="65552"
-		en="Arkista's Ring"
-		zhcn="阿基斯塔之戒"
-	/>
-	<Game crc32="DDA79434" bytes="524304"
-		en="Aladdin 4"
-		zhcn="阿拉丁4"
-	/>
-	<Game crc32="F51355D3" bytes="24592"
-		en="Nuts &amp; Milk"
-		zhcn="爱的小屋(中)"
-	/>
-	<Game crc32="BEBD8955" bytes="393232"
-		en="Ultraman Club - Kaijuu Daikessen!!"
-		zhcn="奥特曼俱乐部"
-	/>
+<Game-List brief="en 以英文字母 A 开头的游戏">
+    <Game crc32="DDA79434" bytes="524304"
+        rom="Aladdin 4"
+        en="Aladdin 4"
+        zhcn="阿拉丁4"
+    />
+    <Game crc32="3AFDB6EE" bytes="65552"
+        rom="Alpha Mission"
+        en="Alpha Mission"
+        zhcn="ASO组合战机"
+    />
+    <Game crc32="CD3AA2A5" bytes="65552"
+        rom="Arkista's Ring"
+        en="Arkista's Ring"
+        zhcn="阿基斯塔之戒"
+    />
 </Game-List>

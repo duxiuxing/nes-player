@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<Game-List brief="en 开头非英文字母的游戏">
+<Game-List brief="en 以非英文字母开头的游戏">
     <Game crc32="A2F550AC" bytes="262160"
         rom="8 Eyes"
         en="8 Eyes"
