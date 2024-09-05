@@ -52,10 +52,15 @@ class WiiFlowPluginsData(GameTDB):
         # 设置操作在 self.reset_game_id_to_info() 中实现
         self.game_id_to_info = {}
 
-        # rom_crc32 或 rom_title 为键，game_id 为值的字典
+        # rom_crc32 为键，game_id 为值的字典
         # 内容来自 <self.plugin_name>.ini
         # 读取操作在 self.reset_rom_crc32_to_game_id() 中实现
         self.rom_crc32_to_game_id = {}
+
+        # rom_title 为键，game_id 为值的字典
+        # 内容来自 <self.plugin_name>.ini
+        # 读取操作在 self.reset_rom_crc32_to_game_id() 中实现
+        self.rom_title_to_game_id = {}
 
     def reset_game_id_to_info(self):
         # 本函数执行的操作如下：
@@ -93,21 +98,24 @@ class WiiFlowPluginsData(GameTDB):
                     elif lang == "ZHCN":
                         zhcn_title = elem.find("title").text
 
-            self.game_id_to_info[game_id] = GameInfo(en_title=en_title, zhcn_title=zhcn_title)
+            self.game_id_to_info[game_id] = GameInfo(en_title=en_title,
+                                                     zhcn_title=zhcn_title)
 
     def reset_rom_crc32_to_game_id(self):
         # 本函数执行的操作如下：
         # 1. 读取 <self.plugin_name>.ini
-        # 2. 重新设置 self.rom_crc32_to_game_id
-        # 3. 同时设置 self.game_id_to_info 每个 GameInfo 的 rom_name
+        # 2. 重新设置 self.rom_crc32_to_game_id 和 self.rom_title_to_game_id
+        # 3. 同时设置 self.game_id_to_info 每个 GameInfo 的 rom_title
 
-        ini_path = os.path.join(
-            self.console.root_folder_path(),
-            f"wiiflow\\plugins_data\\{self.plugin_name}\\{self.plugin_name}.ini")
+        ini_path = os.path.join(self.console.root_folder_path(),
+                                f"wiiflow\\plugins_data\\{self.plugin_name}\\{self.plugin_name}.ini")
 
         if not os.path.exists(ini_path):
             print(f"无效的文件：{ini_path}")
             return
+
+        self.rom_crc32_to_game_id.clear()
+        self.rom_title_to_game_id.clear()
 
         ini_parser = ConfigParser()
         ini_parser.read(ini_path)
@@ -115,9 +123,9 @@ class WiiFlowPluginsData(GameTDB):
             for rom_title in ini_parser[self.plugin_name]:
                 values = ini_parser[self.plugin_name][rom_title].split("|")
                 game_id = values[0]
-                self.rom_crc32_to_game_id[rom_title] = game_id
+                self.rom_title_to_game_id[rom_title] = game_id
                 if game_id in self.game_id_to_info.keys():
-                    self.game_id_to_info[game_id].rom_name = f"{rom_title}{self.console.rom_extension()}"
+                    self.game_id_to_info[game_id].rom_title = rom_title
                 else:
                     print(f"game_id = {game_id} 不在 {self.plugin_name}.xml 中")
 
@@ -130,7 +138,7 @@ class WiiFlowPluginsData(GameTDB):
         self.reset_game_id_to_info()
 
         # 再读取 .ini 设置 self.rom_crc32_to_game_id
-        # 内部会设置 self.game_id_to_info 每个 GameInfo 的 rom_name
+        # 内部会设置 self.game_id_to_info 每个 GameInfo 的 rom_title
         self.reset_rom_crc32_to_game_id()
 
     def query_game_info(self, rom_crc32=None, rom_title=None, en_title=None, zhcn_title=None):
@@ -144,15 +152,22 @@ class WiiFlowPluginsData(GameTDB):
         if rom_crc32 is not None:
             if rom_crc32 in self.rom_crc32_to_game_id.keys():
                 game_id = self.rom_crc32_to_game_id.get(rom_crc32)
+            else:
+                print(f"{rom_crc32} 不在 {self.plugin_name}.ini 中，title = {rom_title}")
 
         if game_id is None and rom_title is not None:
-            if rom_title in self.rom_crc32_to_game_id.keys():
-                game_id = self.rom_crc32_to_game_id.get(rom_title)
+            if rom_title in self.rom_title_to_game_id.keys():
+                game_id = self.rom_title_to_game_id.get(rom_title)
+            else:
+                print(f"{rom_title} 不在 {self.plugin_name}.ini 中，crc32 = {rom_crc32}")
 
         if game_id is not None and game_id in self.game_id_to_info.keys():
             return self.game_id_to_info.get(game_id)
 
-        if zhcn_title is not None and zhcn_title[-3] == "(" and zhcn_title[-1] == ")":
+        if en_title is None and zhcn_title is None:
+            return None
+
+        if zhcn_title is not None and zhcn_title[-1] == ")" and zhcn_title[-3] == "(":
             zhcn_title = zhcn_title[:-3]
         for game_info in self.game_id_to_info.values():
             if en_title is not None and game_info.en_title == en_title:
@@ -169,6 +184,7 @@ class WiiFlowPluginsData(GameTDB):
             self.reset()
 
         for game_info in self.game_id_to_info.values():
-            dst_rom_path = os.path.join(dst_folder_path, game_info.rom_name)
-            if not os.path.exists(dst_rom_path):
-                open(dst_rom_path, "w").close()
+            dst_path = os.path.join(dst_folder_path,
+                                    f"{game_info.rom_title}{self.console.rom_extension()}")
+            if not os.path.exists(dst_path):
+                open(dst_path, "w").close()

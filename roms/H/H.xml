@@ -1,5 +1,15 @@
 <?xml version='1.0' encoding='utf-8'?>
-<Game-List name="H" rom-exists="true">
+<Game-List brief="en 以英文字母 H 开头的游戏">
+    <Game crc32="0ECBE6A3" bytes="65552"
+        rom="Hokuto no Ken"
+        en="Hokuto no Ken"
+        zhcn="北斗神拳" language="chinese"
+    />
+    <Game crc32="2F88A21F" bytes="65552"
+        rom="Hokuto no Ken"
+        en="Hokuto no Ken"
+        zhcn="北斗神拳"
+    />
     <Game crc32="80DA9F53" bytes="262160"
         en="Rollergames"
         zhcn="旱冰勇士"

@@ -1,5 +1,15 @@
 <?xml version='1.0' encoding='utf-8'?>
-<Game-List name="S" rom-exists="true">
+<Game-List brief="en 以英文字母 S 开头的游戏">
+	<Game crc32="AC0A622B" bytes="131088"
+		rom="Stinger"
+		en="Stinger"
+		zhcn="兵蜂2"
+	/>
+	<Game crc32="F6B9629F" bytes="131088"
+		rom="Stinger"
+		en="Stinger"
+		zhcn="兵蜂2"
+	/>
 	<Game crc32="88641B52" bytes="262160"
 		en="SD Gundam - Gachapon Senshi 2 - Capsule Senki"
 		zhcn="SD高达世界 扭蛋战士2 胶囊战记"

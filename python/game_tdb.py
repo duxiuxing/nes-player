@@ -13,7 +13,7 @@ class GameTDB:
         #     rom_title (str): ROM 文件的标题，比如 1941.zip 的标题就是 1941，查找优先级低
         # Returns:
         #     找到则返回 GameInfo 对象，仅以下字段有效：
-        #         - GameInfo.rom_name   : ROM 文件名，如 1941.zip
+        #         - GameInfo.rom_title  : ROM 文件的标题，如 1941.zip 的标题就是 1941
         #         - GameInfo.en_title   : 游戏的英文名
         #         - GameInfo.zhcn_title : 游戏的中文名
         #

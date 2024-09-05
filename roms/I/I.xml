@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Game-List brief="en 以英文字母 I 开头的游戏">
+    <Game crc32="4916D0A9" bytes="40976"
+        rom="Ice Hockey"
+        en="Ice Hockey"
+        zhcn="冰上曲棍球"
+    />
+</Game-List>

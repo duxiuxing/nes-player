@@ -1,5 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Game-List name="F" rom-exists="true">
+<Game-List brief="en 以英文字母 F 开头的游戏">
+	<Game crc32="9B4086F5" bytes="49168"
+		rom="Formation Z"
+		en="Formation Z"
+		zhcn="变形战机Z" language="chinese"
+	/>
+	<Game crc32="E8AF1226" bytes="24592"
+		rom="Formation Z"
+		en="Formation Z"
+		zhcn="变形战机Z"
+	/>
 	<Game crc32="08ABAA73" bytes="24592"
 		en="F1 Race"
 		zhcn="F1赛车(中)"
