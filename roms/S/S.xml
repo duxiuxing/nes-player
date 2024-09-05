@@ -30,6 +30,11 @@
 		en="Shadow of the Ninja"
 		zhcn="赤影战士"
 	/>
+	<Game crc32="31091D1B" bytes="262160"
+		rom="Sky Shark"
+		en="Sky Shark"
+		zhcn="飞翔鲛"
+	/>
 	<Game crc32="09825979" bytes="262160"
 		rom="Spartan X 2"
 		en="Spartan X 2"

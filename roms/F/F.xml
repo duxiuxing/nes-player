@@ -1,5 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Game-List brief="en 以英文字母 F 开头的游戏">
+	<Game crc32="08ABAA73" bytes="24592"
+		rom="F1 Race"
+		en="F1 Race"
+		zhcn="F1赛车" language="chinese"
+	/>
+	<Game crc32="827DC0B9" bytes="24592"
+		rom="F1 Race"
+		en="F1 Race"
+		zhcn="F1赛车"
+	/>
 	<Game crc32="9B4086F5" bytes="49168"
 		rom="Formation Z"
 		en="Formation Z"
@@ -9,37 +19,5 @@
 		rom="Formation Z"
 		en="Formation Z"
 		zhcn="变形战机Z"
-	/>
-	<Game crc32="08ABAA73" bytes="24592"
-		en="F1 Race"
-		zhcn="F1赛车(中)"
-	/>
-	<Game crc32="827DC0B9" bytes="24592"
-		en="F1 Race"
-		zhcn="F1赛车"
-	/>
-	<Game crc32="7A03F696" bytes="393232"
-		en="Bonk's Adventure"
-		zhcn="FC原人"
-	/>
-	<Game crc32="C0AEEC28" bytes="262160"
-		en="Abadox - The Deadly Inner War"
-		zhcn="飞人战士(中)"
-	/>
-	<Game crc32="797E7640" bytes="262160"
-		en="Abadox - The Deadly Inner War"
-		zhcn="飞人战士"
-	/>
-	<Game crc32="31091D1B" bytes="262160"
-		en="Sky Shark"
-		zhcn="飞翔鲛"
-	/>
-	<Game crc32="28FD4957" bytes="262160"
-		en="Mad Max"
-		zhcn="疯狂的麦克斯"
-	/>
-	<Game crc32="2FDFBC79" bytes="262160"
-		en="Astyanax"
-		zhcn="斧王"
 	/>
 </Game-List>

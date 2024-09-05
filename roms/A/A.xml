@@ -1,5 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Game-List brief="en 以英文字母 A 开头的游戏">
+    <Game crc32="797E7640" bytes="262160"
+        rom="Abadox - The Deadly Inner War"
+        en="Abadox - The Deadly Inner War"
+        zhcn="飞人战士"
+    />
+    <Game crc32="C0AEEC28" bytes="262160"
+        rom="Abadox - The Deadly Inner War"
+        en="Abadox - The Deadly Inner War"
+        zhcn="飞人战士" language="chinese"
+    />
     <Game crc32="3F7FF73A" bytes="786464"
         rom="Akumajou Special - Boku Dracula-kun"
         en="Demon Castle Special - I'm Kid Dracula"
@@ -49,5 +59,10 @@
         rom="Arkista's Ring"
         en="Arkista's Ring"
         zhcn="阿基斯塔之戒"
+    />
+    <Game crc32="2FDFBC79" bytes="262160"
+        rom="Astyanax"
+        en="Astyanax"
+        zhcn="斧王"
     />
 </Game-List>

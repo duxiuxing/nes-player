@@ -80,4 +80,9 @@
 		en="Blaster Master"
 		zhcn="超惑星战记"
 	/>
+	<Game crc32="7A03F696" bytes="393232"
+		rom="Bonk's Adventure"
+		en="Bonk's Adventure"
+		zhcn="FC原人"
+	/>
 </Game-List>

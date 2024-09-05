@@ -1,5 +1,10 @@
 <?xml version='1.0' encoding='utf-8'?>
-<Game-List name="M" rom-exists="true">
+<Game-List brief="en 以英文字母 M 开头的游戏">
+	<Game crc32="28FD4957" bytes="262160"
+		rom="Mad Max"
+		en="Mad Max"
+		zhcn="疯狂的麦克斯"
+	/>
 	<Game crc32="56C23EF3" bytes="24592"
 		en="Mahjong"
 		zhcn="麻将"
