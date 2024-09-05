@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Game-List brief="en 以英文字母 O 开头的游戏">
+    <Game crc32="E495FA46" bytes="262160"
+        rom="Over Horizon"
+        en="Over Horizon"
+        zhcn="超越地平线"
+    />
+    <Game crc32="F47CEA67" bytes="262160"
+        rom="Over Horizon"
+        en="Over Horizon"
+        zhcn="超越地平线" language="chinese"
+    />
+</Game-List>

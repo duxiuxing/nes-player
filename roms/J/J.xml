@@ -1,5 +1,20 @@
 <?xml version='1.0' encoding='utf-8'?>
-<Game-List name="J" rom-exists="true">
+<Game-List brief="en 以英文字母 J 开头的游戏">
+	<Game crc32="0ECA3358" bytes="262160"
+		rom="Jackal"
+		en="Jackal"
+		zhcn="赤色要塞" language="chinese"
+	/>
+	<Game crc32="1C168BA6" bytes="262160"
+		rom="Jackie Chan's Action Kung Fu"
+		en="Jackie Chan's Action Kung Fu"
+		zhcn="成龙之龙" language="chinese"
+	/>
+	<Game crc32="73BB037E" bytes="262160"
+		rom="Jackie Chan's Action Kung Fu"
+		en="Jackie Chan's Action Kung Fu"
+		zhcn="成龙之龙"
+	/>
 	<Game crc32="8093EC6F" bytes="131088"
 		rom="JJ - Tobidase Daisakusen Part 2"
 		en="JJ - Tobidase Daisakusen Part 2"

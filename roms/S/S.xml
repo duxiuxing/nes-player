@@ -1,5 +1,15 @@
 <?xml version='1.0' encoding='utf-8'?>
 <Game-List brief="en 以英文字母 S 开头的游戏">
+	<Game crc32="9DCD57AA" bytes="524304"
+		rom="Shadow of the Ninja"
+		en="Shadow of the Ninja"
+		zhcn="赤影战士"
+	/>
+	<Game crc32="09825979" bytes="262160"
+		rom="Spartan X 2"
+		en="Spartan X 2"
+		zhcn="成龙踢馆2"
+	/>
 	<Game crc32="AC0A622B" bytes="131088"
 		rom="Stinger"
 		en="Stinger"
@@ -9,6 +19,51 @@
 		rom="Stinger"
 		en="Stinger"
 		zhcn="兵蜂2"
+	/>
+	<Game crc32="1AC846F0" bytes="262160"
+		rom="Super C"
+		en="Super C"
+		zhcn="超级魂斗罗"
+	/>
+	<Game crc32="E55562AF" bytes="262160"
+		rom="Super C"
+		en="Super C"
+		zhcn="超级魂斗罗"
+	/>
+	<Game crc32="77F59F3E" bytes="393232"
+		rom="Super Mario Bros. 3"
+		en="Super Mario Bros. 3"
+		zhcn="超级马里奥兄弟3"
+	/>
+	<Game crc32="678C530B" bytes="65552"
+		rom="Super Mario Bros."
+		en="Super Mario Bros."
+		zhcn="超级马里奥兄弟" language="chinese"
+	/>
+	<Game crc32="34C86502" bytes="131088"
+		rom="Super Mario Bros. - The Lost Levels"
+		en="Super Mario Bros. - The Lost Levels"
+		zhcn="超级马里奥兄弟 失落的关卡"
+	/>
+	<Game crc32="E4198A92" bytes="196624"
+		rom="Super Mario Unlimited Deluxe"
+		en="Super Mario Unlimited Deluxe"
+		zhcn="超级马里奥无限豪华版"
+	/>
+	<Game crc32="6D5953A8" bytes="786448"
+		rom="Super Mario World"
+		en="Super Mario World"
+		zhcn="超级马里奥世界"
+	/>
+	<Game crc32="0CA0B143" bytes="131088"
+		rom="Super Star Force - Jikuureki no Himitsu"
+		en="Super Star Force - Jikuureki no Himitsu"
+		zhcn="超级星际力量"
+	/>
+	<Game crc32="B6C7E249" bytes="163856"
+		rom="Super Xevious - GAMP no Nazo"
+		en="Super Xevious - GAMP no Nazo"
+		zhcn="超级铁板阵"
 	/>
 	<Game crc32="88641B52" bytes="262160"
 		en="SD Gundam - Gachapon Senshi 2 - Capsule Senki"

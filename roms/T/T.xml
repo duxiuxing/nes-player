@@ -5,6 +5,11 @@
 		en="The 3D Battles of World Runner"
 		zhcn="3D世界奔跑者"
 	/>
+	<Game crc32="0D6BD840" bytes="262160"
+		rom="The Punisher"
+		en="The Punisher"
+		zhcn="惩罚者"
+	/>
 	<Game crc32="78F41334" bytes="40976"
 		rom="Thexder"
 		en="Thexder"

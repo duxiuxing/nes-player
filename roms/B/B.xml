@@ -60,4 +60,14 @@
 		en="Batman - The Video Game"
 		zhcn="蝙蝠侠" language="chinese"
 	/>
+	<Game crc32="30541441" bytes="262160"
+		rom="Blaster Master"
+		en="Blaster Master"
+		zhcn="超惑星战记" language="chinese"
+	/>
+	<Game crc32="6E286BB2" bytes="262160"
+		rom="Blaster Master"
+		en="Blaster Master"
+		zhcn="超惑星战记"
+	/>
 </Game-List>

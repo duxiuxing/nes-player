@@ -6957,6 +6957,9 @@ Note de Console + : 91%</synopsis>
     <locale lang="JA">
       <title>Chou-Wakusei Senki : MetaFight</title>
     </locale>
+    <locale lang="ZHCN">
+      <title>超惑星战记</title>
+    </locale>
     <developer>Sunsoft</developer>
     <publisher>Sunsoft</publisher>
     <date year="1988" month="06" day="17"/>
@@ -49160,7 +49163,7 @@ Le jeu est réédité dans la compilation Super Mario All-Stars en 1993 et prend
       <genre>Plattform</genre>
     </locale>
     <locale lang="ZHCN">
-      <title>超级马里奥兄弟2 失落的关卡</title>
+      <title>超级马里奥兄弟 失落的关卡</title>
     </locale>
     <developer>Nintendo</developer>
     <publisher>Nintendo</publisher>
