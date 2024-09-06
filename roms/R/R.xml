@@ -16,42 +16,42 @@
 		zhcn="火箭车"
 	/>
 	<Game crc32="33BE5CFD" bytes="262160"
-		rom="Robocop"
+		rom="RoboCop"
 		en="RoboCop"
 		zhcn="机械战警"
 	/>
 	<Game crc32="A568590B" bytes="393232"
-		rom="Robocop"
+		rom="RoboCop"
 		en="RoboCop"
 		zhcn="机械战警" language="chinese"
 	/>
 	<Game crc32="B6546EE1" bytes="262160"
-		rom="Robocop"
+		rom="RoboCop"
 		en="RoboCop"
 		zhcn="机械战警"
 	/>
 	<Game crc32="904082B1" bytes="262160"
-		rom="Robocop 2"
+		rom="RoboCop 2"
 		en="RoboCop 2"
 		zhcn="机械战警2"
 	/>
 	<Game crc32="F4BAA4EE" bytes="262160"
-		rom="Robocop 2"
+		rom="RoboCop 2"
 		en="RoboCop 2"
 		zhcn="机械战警2"
 	/>
 	<Game crc32="0C209B7B" bytes="262160"
-		rom="Robocop 3"
+		rom="RoboCop 3"
 		en="RoboCop 3"
 		zhcn="机械战警3"
 	/>
 	<Game crc32="FBBB58A6" bytes="262160"
-		rom="Robocop 3"
+		rom="RoboCop 3"
 		en="RoboCop 3"
 		zhcn="机械战警3"
 	/>
 	<Game crc32="F5D0E8E1" bytes="262160"
-		rom="Robocop versus The Terminator"
+		rom="RoboCop versus The Terminator"
 		en="RoboCop versus The Terminator"
 		zhcn="机械战警对终结者"
 	/>

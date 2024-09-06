@@ -41179,7 +41179,7 @@ Bike racing on three different terrains (dirt, desert, and quarry). Gameplay is 
       <control type="gamecube" required="false"/>
     </input>
   </game>
-  <game name="R.b.i. Baseball">
+  <game name="R.B.I. Baseball">
     <id>1971AA</id>
     <locale lang="EN">
       <title>R.B.I. Baseball</title>
@@ -41214,7 +41214,7 @@ The teams you can choose from include Detroit, California, Houston, San Francisc
       <control type="gamecube" required="false"/>
     </input>
   </game>
-  <game name="R.b.i. Baseball 2">
+  <game name="R.B.I. Baseball 2">
     <id>1656AA</id>
     <locale lang="EN">
       <title>R.B.I. Baseball 2</title>
@@ -41250,7 +41250,7 @@ This second version is similar to the original game in terms of gameplay. This t
       <control type="gamecube" required="false"/>
     </input>
   </game>
-  <game name="R.b.i. Baseball 3">
+  <game name="R.B.I. Baseball 3">
     <id>1856AA</id>
     <locale lang="EN">
       <title>R.B.I. Baseball 3</title>
@@ -41376,7 +41376,7 @@ Astuce: entrez "NES" en guise de nom pour obtenir 5000 dollars à dépenser avan
       <control type="gamecube" required="false"/>
     </input>
   </game>
-  <game name="Racermate Challenge 2">
+  <game name="Racermate Challenge II">
     <id>78562A</id>
     <locale lang="EN">
       <title>Racermate Challenge II</title>
@@ -41509,7 +41509,7 @@ Once you've picked your player, it's time to select your court surface. The game
       <control type="gamecube" required="false"/>
     </input>
   </game>
-  <game name="Rad Racer 2">
+  <game name="Rad Racer II">
     <id>1655AA</id>
     <locale lang="EN">
       <title>Rad Racer II</title>
@@ -41538,10 +41538,10 @@ Once you've picked your player, it's time to select your court surface. The game
       <control type="gamecube" required="false"/>
     </input>
   </game>
-  <game name="Rad Racket - Deluxe Tennis 2">
+  <game name="Rad Racket - Deluxe Tennis II">
     <id>18846A</id>
     <locale lang="EN">
-      <title>Rad Racket : Deluxe Tennis II</title>
+      <title>Rad Racket - Deluxe Tennis II</title>
       <synopsis>Six of the best international tennis players have gathered to compete for cash and the Rad Racket trophy in this unlicensed game. Each player has his or her own special expertise such as net play, ground strokes, volleys, and smashes. There are three different types of tennis courts to play on; grass, clay, and hard.</synopsis>
       <genre>Sports</genre>
     </locale>
@@ -41652,7 +41652,7 @@ Radia Senki is set in a semi-modern, semi-medieval environment, and introduces a
       <control type="gamecube" required="false"/>
     </input>
   </game>
-  <game name="Raid On Bungeling Bay">
+  <game name="Raid on Bungeling Bay">
     <id>1926AA</id>
     <locale lang="EN">
       <title>Raid on Bungeling Bay</title>
@@ -41925,7 +41925,7 @@ When you reach a certain number of points, the scenario is cleared and you can p
       <control type="gamecube" required="false"/>
     </input>
   </game>
-  <game name="Recovery of Pinocchio ,The ">
+  <game name="The Recovery of Pinocchio">
     <id>155042</id>
     <locale lang="EN">
       <title>The Recovery of Pinocchio</title>
@@ -41978,10 +41978,10 @@ Grâce à leur télécommand, trois concurrents choisissent parmi 9 chaines thé
       <control type="gamecube" required="false"/>
     </input>
   </game>
-  <game name="Ren and Stimpy Show - Buckeroo$!, The">
+  <game name="The Ren &amp; Stimpy Show - Buckeroo$!">
     <id>18849A</id>
     <locale lang="EN">
-      <title>The Ren &amp; Stimpy Show : Buckeroo$!</title>
+      <title>The Ren &amp; Stimpy Show - Buckeroo$!</title>
       <synopsis>Stimpy invents the Gametron 5000 Moneymaker which is the first video game machine in the world that rewards the player with money. Ren, who is always on the lookout to get rich, eagerly gets to playing with the video game system on the quest to earn big bucks. 
 
 In the game, you control Ren &amp; Stimpy through various side scrolling levels which are based on different episodes of the cartoon show.  Episodes the levels are based on are Space Madness,Out West, and Robin Hoek. 
@@ -42056,7 +42056,7 @@ Kunio, voyou notable part secourir son ami Hiroshi au cours de 4 niveaux agréme
   <game name="Rescue - The Embassy Mission">
     <id>1455AA</id>
     <locale lang="EN">
-      <title>Rescue : The Embassy Mission</title>
+      <title>Rescue - The Embassy Mission</title>
       <synopsis>Terrorists have overrun an embassy and hold the people inside as hostages. You control six counter-terrorists whose mission is to eliminate the terrorists. In the first part of the game, you have to bring three men into position so they can snipe the building. The second part involves entering the building with the other three men to kill the terrorists and rescue the hostages. Depending on how well you positioned your snipers, you can use them to assist you on that mission.</synopsis>
       <genre>Simulation</genre>
     </locale>
@@ -42238,7 +42238,7 @@ The Amstrad CPC, Commodore 64 and ZX Spectrum versions are one player only. The 
       <control type="gamecube" required="false"/>
     </input>
   </game>
-  <game name="Roadblasters">
+  <game name="RoadBlasters">
     <id>1843AA</id>
     <locale lang="EN">
       <title>RoadBlasters</title>
@@ -42296,10 +42296,10 @@ Your vehicle is equipped with a machine gun to help you out, and occasionally a 
     <developer>Odyssey Software</developer>
     <publisher/>
   </game>
-  <game name="Robin Hood - Prince Of Thieves">
+  <game name="Robin Hood - Prince of Thieves">
     <id>1425AA</id>
     <locale lang="EN">
-      <title>Robin Hood : Prince Of Thieves</title>
+      <title>Robin Hood - Prince of Thieves</title>
       <synopsis>England is in trouble.
 
 Richard the Lion-Hearted, king of England, is off fighting in the Crusades, and while he's gone, the kingdom is ruled by the Sheriff and his evil black witch Mortianna.
@@ -42403,7 +42403,7 @@ The player has three lives and three continues as he struggles to liberate the w
       <control type="gamecube" required="false"/>
     </input>
   </game>
-  <game name="Robocop">
+  <game name="RoboCop">
     <id>1325AA</id>
     <locale lang="EN">
       <title>RoboCop</title>
@@ -42438,7 +42438,7 @@ Based on the 1987 movie of the same name, RoboCop allows the player to control R
       <control type="gamecube" required="false"/>
     </input>
   </game>
-  <game name="Robocop 2">
+  <game name="RoboCop 2">
     <id>1429AA</id>
     <locale lang="EN">
       <title>RoboCop 2</title>
@@ -42471,7 +42471,7 @@ Based on the 1987 movie of the same name, RoboCop allows the player to control R
       <control type="gamecube" required="false"/>
     </input>
   </game>
-  <game name="Robocop 3">
+  <game name="RoboCop 3">
     <id>1534AA</id>
     <locale lang="EN">
       <title>RoboCop 3</title>
@@ -42504,10 +42504,10 @@ Based on the 1987 movie of the same name, RoboCop allows the player to control R
       <control type="gamecube" required="false"/>
     </input>
   </game>
-  <game name="Robocop versus The Terminator">
+  <game name="RoboCop Versus The Terminator">
     <id>88526A</id>
     <locale lang="EN">
-      <title>RoboCop versus The Terminator</title>
+      <title>RoboCop Versus The Terminator</title>
       <synopsis>In the future, human soldiers of John Connor's resistance force against the machines are fighting a losing war against Skynet and its robot forces. Discovering that one of the foundation technologies for Skynet is the cybernetics technology used in the creation of cyborg police officer RoboCop, Flo, a resistance soldier, is sent back in time to destroy RoboCop and stop Skynet from being built. However, Skynet learns of the time travel attempt and sends Terminators to stop Flo. RoboCop soon meets up with Flo and must engage in battle against Terminators, the forces of OCP and several obstacles.</synopsis>
       <genre>Action,Platform,Shooter,</genre>
     </locale>
@@ -42798,7 +42798,7 @@ In the Game Boy version the difficulty lies slightly lower because the player ca
       <control type="gamecube" required="false"/>
     </input>
   </game>
-  <game name="Roger Clemens' Mvp Baseball">
+  <game name="Roger Clemens' MVP Baseball">
     <id>1972AA</id>
     <locale lang="EN">
       <title>Roger Clemens' MVP Baseball</title>
@@ -43015,7 +43015,7 @@ The main story mode consists of a number of missions that involve heists, extort
     <date year="1"/>
     <publisher>Vblank Entertainment Inc.</publisher>
   </game>
-  <game name="Romance Of The Three Kingdoms">
+  <game name="Romance of the Three Kingdoms">
     <id>18851A</id>
     <locale lang="EN">
       <title>Romance of the Three Kingdoms</title>
@@ -43046,7 +43046,7 @@ This strategy/RPG game introduces hundreds of historically real characters of th
       <control type="gamecube" required="false"/>
     </input>
   </game>
-  <game name="Romance Of The Three Kingdoms 2">
+  <game name="Romance of the Three Kingdoms II">
     <id>1917AA</id>
     <locale lang="EN">
       <title>Romance of the Three Kingdoms II</title>
@@ -43109,10 +43109,10 @@ The game is a departure from Dragon Slayer RPG-oriented gameplay style. It tends
       <control type="gamecube" required="false"/>
     </input>
   </game>
-  <game name="Round Ball - The Two On Two Challenge">
+  <game name="Roundball - 2 on 2 Challenge">
     <id>1807AA</id>
     <locale lang="EN">
-      <title>Roundball : 2-on-2 Challenge</title>
+      <title>Roundball - 2 on 2 Challenge</title>
       <synopsis>Roundball: 2-On-2 Challenge is a 2-on-2 basketball game that is played on a half court. There is an option to play a 1-on-1 game also. The game modes contain an exhibition game and a tournament mode. The tournament involves 4 teams playing in a round robin to decide the winner. Players can set the time of the game at either four, eight, twelve or sixteen minutes.
 
 The game offers 24 unique and fictional players to pick from each with their own individual ratings. Players are rated in the following skills: three point shots, field goals, free throws, rebounds, stealing, shot blocking, assists, and personal fouls.</synopsis>
@@ -43198,10 +43198,10 @@ Fights can occur like in a real role-playing game. However, the players stats ar
       <control type="gamecube" required="false"/>
     </input>
   </game>
-  <game name="Rumble Station - 15 In 1">
+  <game name="Rumble Station - 15 in 1">
     <id>88530A</id>
     <locale lang="EN">
-      <title>RumbleStation 15 in 1</title>
+      <title>Rumble Station - 15 in 1</title>
       <synopsis>The Rumble Station is a NES-on-a-chip based Famiclone system that contained 15 games. It includes every NES game developed by Color Dreams, as well as two Sachen games published by them. Color Dreams licensed out the games for use on the system. It was originally distributed by Systema in the United Kingdom, and by Pelican in the US under the name Game Station Arcade. (although the menu screen still said "Rumble Station")
 
 At its heart the Rumble Station consists of a generic NES-on-a-chip micro-controller (a complete cloned NES on a single chip) with 15 games programmed into it. The system is the size and shape of a Dreamcast Game controller (without the window for a VMU), and is powered by either 4 AA-size Batteries or an optional 9V DC Power Supply (Sold Separately). The casing itself is blue, with a black panel where the window on the Dreamcast Controller once was.
