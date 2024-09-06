@@ -10,6 +10,21 @@
 		en="Kabuki Quantum Fighter"
 		zhcn="地狱极乐丸"
 	/>
+	<Game crc32="C4509884" bytes="131088"
+		rom="Kamen no Ninja - Akakage"
+		en="Kamen no Ninja - Akakage"
+		zhcn="假面忍者 赤影" language="chinese"
+	/>
+	<Game crc32="A463A4D4" bytes="262160"
+		rom="Kamen no Ninja - Hanamaru"
+		en="Kamen no Ninja - Hanamaru"
+		zhcn="假面忍者 花丸"
+	/>
+	<Game crc32="C077B87D" bytes="262160"
+		rom="Kamen no Ninja - Hanamaru"
+		en="Kamen no Ninja - Hanamaru"
+		zhcn="假面忍者 花丸" language="chinese"
+	/>
 	<Game crc32="0D8C4182" bytes="40976"
 		rom="Kung Fu"
 		en="Kung Fu"

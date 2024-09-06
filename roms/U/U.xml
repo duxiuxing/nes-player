@@ -1,5 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Game-List brief="en 以英文字母 U 开头的游戏">
+    <Game crc32="0770CDAA" bytes="24592"
+        rom="Urban Champion"
+        en="Urban Champion"
+        zhcn="街头小子"
+    />
+    <Game crc32="4190108D" bytes="24592"
+        rom="Urban Champion"
+        en="Urban Champion"
+        zhcn="街头小子" language="chinese"
+    />
     <Game crc32="BEBD8955" bytes="393232"
         rom="Ultraman Club - Kaijuu Daikessen!!"
         en="Ultraman Club - Kaijuu Daikessen!!"

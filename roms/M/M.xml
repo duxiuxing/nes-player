@@ -1,5 +1,20 @@
 <?xml version='1.0' encoding='utf-8'?>
 <Game-List brief="en 以英文字母 M 开头的游戏">
+	<Game crc32="C261904E" bytes="24592"
+		rom="M.U.S.C.L.E. - Tag Team Match"
+		en="M.U.S.C.L.E. - Tag Team Matchh"
+		zhcn="筋肉人摔角"
+	/>
+	<Game crc32="CE52C150" bytes="24592"
+		rom="M.U.S.C.L.E. - Tag Team Match"
+		en="M.U.S.C.L.E. - Tag Team Matchh"
+		zhcn="筋肉人摔角"
+	/>
+	<Game crc32="A3D966DB" bytes="40976"
+		rom="Mach Rider"
+		en="Mach Rider"
+		zhcn="机车大赛"
+	/>
 	<Game crc32="28FD4957" bytes="262160"
 		rom="Mad Max"
 		en="Mad Max"
@@ -9,6 +24,11 @@
 		rom="Metal Gear"
 		en="Metal Gear"
 		zhcn="合金装备" language="chinese"
+	/>
+	<Game crc32="EEB6B362" bytes="393232"
+		rom="Mr. Gimmick"
+		en="Mr. Gimmick"
+		zhcn="吉米克"
 	/>
 	<Game crc32="56C23EF3" bytes="24592"
 		en="Mahjong"

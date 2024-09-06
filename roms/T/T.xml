@@ -35,6 +35,11 @@
 		en="The Adventures of Bayou Billy"
 		zhcn="鳄鱼先生"
 	/>
+	<Game crc32="77DF8D83" bytes="262160"
+		rom="The Guardian Legend"
+		en="The Guardian Legend"
+		zhcn="嘉蒂外传" language="chinese"
+	/>
 	<Game crc32="0D6BD840" bytes="262160"
 		rom="The Punisher"
 		en="The Punisher"
@@ -54,6 +59,21 @@
 		rom="Thexder"
 		en="Thexder"
 		zhcn="变形战机"
+	/>
+	<Game crc32="1FBD10D2" bytes="163856"
+		rom="Thunder &amp; Lightning"
+		en="Thunder &amp; Lightning"
+		zhcn="家庭打砖块"
+	/>
+	<Game crc32="E8CD159F" bytes="393232"
+		rom="Toki"
+		en="Toki"
+		zhcn="JuJu传说"
+	/>
+	<Game crc32="E0509F1D" bytes="262160"
+		rom="Twin Cobra"
+		en="Twin Cobra"
+		zhcn="究极虎"
 	/>
 	<Game crc32="4433BA0A" bytes="49168"
 		rom="Twinbee"

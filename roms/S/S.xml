@@ -80,6 +80,21 @@
 		en="Stinger"
 		zhcn="兵蜂2"
 	/>
+	<Game crc32="A7355946" bytes="262160"
+		rom="Street Fighter 2010 - The Final Fight"
+		en="Street Fighter 2010 - The Final Fight"
+		zhcn="街头战士2010"
+	/>
+	<Game crc32="22CDD2F6" bytes="655376"
+		rom="Street Fighter Ⅲ"
+		en="Street Fighter Ⅲ"
+		zhcn="九人街霸(中)" language="chinese"
+	/>
+	<Game crc32="52C4F765" bytes="655376"
+		rom="Street Fighter Ⅲ"
+		en="Street Fighter Ⅲ"
+		zhcn="九人街霸(中)" language="chinese"
+	/>
 	<Game crc32="048F7DD8" bytes="393232"
 		rom="Super C"
 		en="Super C"

@@ -40,6 +40,11 @@
 		en="Guerrilla War"
 		zhcn="古巴战士"
 	/>
+	<Game crc32="3C63F85A" bytes="393232"
+		rom="Gun Nac"
+		en="Gun Nac"
+		zhcn="加纳战机" language="chinese"
+	/>
 	<Game crc32="6B8F23E0" bytes="131088"
 		rom="Gun.Smoke"
 		en="Gun.Smoke"
