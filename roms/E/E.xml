@@ -10,4 +10,9 @@
 		en="Elevator Action"
 		zhcn="电梯大战"
 	/>
+	<Game crc32="352F9A62" bytes="24592"
+		rom="Exerion"
+		en="Exerion"
+		zhcn="火凤凰"
+	/>
 </Game-List>

@@ -10,6 +10,16 @@
 		en="F1 Race"
 		zhcn="F1赛车"
 	/>
+	<Game crc32="9928CA42" bytes="655376"
+		rom="Fire Emblem - Ankoku Ryu to Hikari no Tsurugi"
+		en="Fire Emblem - Ankoku Ryu to Hikari no Tsurugi"
+		zhcn="火焰之纹章 暗黑龙与光之剑" language="chinese"
+	/>
+	<Game crc32="D9CE1737" bytes="655376"
+		rom="Fire Emblem Gaiden"
+		en="Fire Emblem Gaiden"
+		zhcn="火焰之纹章外传" language="chinese"
+	/>
 	<Game crc32="9B4086F5" bytes="49168"
 		rom="Formation Z"
 		en="Formation Z"

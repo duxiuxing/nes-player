@@ -55,10 +55,60 @@
 		en="Choujikuu Yousai - Macross"
 		zhcn="超时空要塞"
 	/>
+	<Game crc32="2A39628D" bytes="393232"
+		rom="Contra"
+		en="Contra"
+		zhcn="魂斗罗" language="chinese"
+	/>
+	<Game crc32="392E91D1" bytes="393232"
+		rom="Contra"
+		en="Contra"
+		zhcn="魂斗罗"
+	/>
+	<Game crc32="4D9E53AF" bytes="393232"
+		rom="Contra"
+		en="Contra"
+		zhcn="魂斗罗" language="chinese"
+	/>
+	<Game crc32="C50A8304" bytes="131088"
+		rom="Contra"
+		en="Contra"
+		zhcn="魂斗罗"
+	/>
+	<Game crc32="391E4BA0" bytes="262160"
+		rom="Contra - Revenge of the Red Falcon"
+		en="Contra - Revenge of the Red Falcon"
+		zhcn="魂斗罗 红隼的复仇"
+	/>
+	<Game crc32="063FCAC7" bytes="262160"
+		rom="Contra 7"
+		en="Contra 7"
+		zhcn="魂斗罗7 超级战魂"
+	/>
+	<Game crc32="7573F4E2" bytes="262160"
+		rom="Contra 7"
+		en="Contra 7"
+		zhcn="魂斗罗7 超级战魂" language="chinese"
+	/>
 	<Game crc32="5998245D" bytes="131088"
 		rom="Contra 1993"
 		en="Contra 1993"
 		zhcn="93超级魂"
+	/>
+	<Game crc32="41231542" bytes="278544"
+		rom="Contra Force"
+		en="Contra Force"
+		zhcn="魂斗罗力量" language="chinese"
+	/>
+	<Game crc32="83D69922" bytes="262160"
+		rom="Contra Force"
+		en="Contra Force"
+		zhcn="魂斗罗力量"
+	/>
+	<Game crc32="A1CD5D54" bytes="262288"
+		rom="Contra Force"
+		en="Contra Force"
+		zhcn="魂斗罗力量"
 	/>
 	<Game crc32="B025152D" bytes="262160"
 		rom="Crisis Force"

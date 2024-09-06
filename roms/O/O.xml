@@ -1,5 +1,10 @@
 <?xml version='1.0' encoding='utf-8'?>
 <Game-List brief="en 以英文字母 O 开头的游戏">
+    <Game crc32="FCEA0FA9" bytes="40976"
+        rom="Othello"
+        en="Othello"
+        zhcn="黑白棋" language="chinese"
+    />
     <Game crc32="E495FA46" bytes="262160"
         rom="Over Horizon"
         en="Over Horizon"

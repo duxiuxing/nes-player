@@ -5,6 +5,11 @@
 		en="Mad Max"
 		zhcn="疯狂的麦克斯"
 	/>
+	<Game crc32="B4D15D85" bytes="262160"
+		rom="Metal Gear"
+		en="Metal Gear"
+		zhcn="合金装备" language="chinese"
+	/>
 	<Game crc32="56C23EF3" bytes="24592"
 		en="Mahjong"
 		zhcn="麻将"

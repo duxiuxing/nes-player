@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
 <Game-List brief="en 以英文字母 H 开头的游戏">
-    <Game crc32="F0543C45" bytes="393232"
-        rom="Daiku no Gen-san"
-        en="Hammerin' Harry"
-        zhcn="大力工头" language="chinese"
+    <Game crc32="19CCF008" bytes="131088"
+        rom="Hi no Tori Hououhen - Gaou no Bouken"
+        en="Hi no Tori Hououhen - Gaou no Bouken"
+        zhcn="火之鸟"
     />
     <Game crc32="0ECBE6A3" bytes="65552"
         rom="Hokuto no Ken"
@@ -14,117 +14,5 @@
         rom="Hokuto no Ken"
         en="Hokuto no Ken"
         zhcn="北斗神拳"
-    />
-    <Game crc32="80DA9F53" bytes="262160"
-        en="Rollergames"
-        zhcn="旱冰勇士"
-    />
-    <Game crc32="B4D15D85" bytes="262160"
-        en="Metal Gear"
-        zhcn="合金装备(中)"
-    />
-    <Game crc32="0D5A8655" bytes="262287"
-        en="Snake's Revenge"
-        zhcn="合金装备2"
-    />
-    <Game crc32="FCEA0FA9" bytes="40976"
-        en="Othello"
-        zhcn="黑白棋(中)"
-    />
-    <Game crc32="90BBACE9" bytes="24592"
-        en="Sky Destroyer"
-        zhcn="红巾特攻队(中)"
-    />
-    <Game crc32="519E4B83" bytes="65552"
-        en="Sky Destroyer"
-        zhcn="红巾特攻队"
-    />
-    <Game crc32="183E43FF" bytes="188432"
-        en="Side Pocket"
-        zhcn="花式撞球(中)"
-    />
-    <Game crc32="E34DA569" bytes="188432"
-        en="Side Pocket"
-        zhcn="花式撞球(中)"
-    />
-    <Game crc32="6B8F23E0" bytes="131088"
-        en="Gun.Smoke"
-        zhcn="荒野大镖客"
-    />
-    <Game crc32="391E4BA0" bytes="262160"
-        en="Contra - Revenge of the Red Falcon"
-        zhcn="魂斗罗 红隼的复仇"
-        zhtw="魂斗羅 紅隼的復仇"
-    />
-    <Game crc32="392E91D1" bytes="393232"
-        en="Contra"
-        zhcn="魂斗罗(改)"
-        zhtw="魂斗羅(改)"
-    />
-    <Game crc32="4D9E53AF" bytes="393232"
-        en="Contra"
-        zhcn="魂斗罗(中)"
-    />
-    <Game crc32="2A39628D" bytes="393232"
-        en="Contra"
-        zhcn="魂斗罗(中)"
-        zhtw="魂斗羅(中)"
-    />
-    <Game crc32="C50A8304" bytes="131088"
-        en="Contra"
-        zhcn="魂斗罗"
-        zhtw="魂斗羅"
-    />
-    <Game crc32="063FCAC7" bytes="262160"
-        zhcn="魂斗罗7 超级战魂(改)"
-    />
-    <Game crc32="7573F4E2" bytes="262160"
-        zhcn="魂斗罗7 超级战魂(中)"
-    />
-    <Game crc32="41231542" bytes="278544"
-        en="Contra Force"
-        zhcn="魂斗罗力量(中)"
-        zhtw="魂斗羅力量(中)"
-    />
-    <Game crc32="A1CD5D54" bytes="262288"
-        en="Contra Force"
-        zhcn="魂斗罗力量"
-    />
-    <Game crc32="83D69922" bytes="262160"
-        en="Contra Force"
-        zhcn="魂斗罗力量"
-        zhtw="魂斗羅力量"
-    />
-    <Game crc32="352F9A62" bytes="24592"
-        en="Exerion"
-        zhcn="火凤凰"
-    />
-    <Game crc32="EC3C6A5B" bytes="24592"
-        en="Road Fighter"
-        zhcn="火箭车"
-    />
-    <Game crc32="133E6A77" bytes="65552"
-        en="Road Fighter"
-        zhcn="火箭车"
-    />
-    <Game crc32="BB1F683D" bytes="262160"
-        en="The Rocketeer"
-        zhcn="火箭人"
-    />
-    <Game crc32="BC93215D" bytes="262160"
-        en="Vice - Project Doom"
-        zhcn="火炮"
-    />
-    <Game crc32="9928CA42" bytes="655376"
-        en="Fire Emblem - Ankoku Ryu to Hikari no Tsurugi"
-        zhcn="火焰之纹章 暗黑龙与光之剑(中)"
-    />
-    <Game crc32="D9CE1737" bytes="655376"
-        en="Fire Emblem Gaiden"
-        zhcn="火焰之纹章外传(中)"
-    />
-    <Game crc32="19CCF008" bytes="131088"
-        en="Hi no Tori Hououhen - Gaou no Bouken"
-        zhcn="火之鸟"
     />
 </Game-List>

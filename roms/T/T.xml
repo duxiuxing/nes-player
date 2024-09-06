@@ -40,6 +40,11 @@
 		en="The Punisher"
 		zhcn="惩罚者"
 	/>
+	<Game crc32="BB1F683D" bytes="262160"
+		rom="The Rocketeer"
+		en="The Rocketeer"
+		zhcn="火箭人"
+	/>
 	<Game crc32="78F41334" bytes="40976"
 		rom="Thexder"
 		en="Thexder"

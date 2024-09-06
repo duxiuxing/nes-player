@@ -30,10 +30,35 @@
 		en="Shadow of the Ninja"
 		zhcn="赤影战士"
 	/>
+	<Game crc32="183E43FF" bytes="188432"
+		rom="Side Pocket"
+		en="Side Pocket"
+		zhcn="花式撞球" language="chinese"
+	/>
+	<Game crc32="E34DA569" bytes="188432"
+		rom="Side Pocket"
+		en="Side Pocket"
+		zhcn="花式撞球" language="chinese"
+	/>
+	<Game crc32="519E4B83" bytes="65552"
+		rom="Sky Destroyer"
+		en="Sky Destroyer"
+		zhcn="红巾特攻队"
+	/>
+	<Game crc32="90BBACE9" bytes="24592"
+		rom="Sky Destroyer"
+		en="Sky Destroyer"
+		zhcn="红巾特攻队" language="chinese"
+	/>
 	<Game crc32="31091D1B" bytes="262160"
 		rom="Sky Shark"
 		en="Sky Shark"
 		zhcn="飞翔鲛"
+	/>
+	<Game crc32="0D5A8655" bytes="262287"
+		rom="Snake's Revenge"
+		en="Snake's Revenge"
+		zhcn="合金装备2"
 	/>
 	<Game crc32="09825979" bytes="262160"
 		rom="Spartan X 2"

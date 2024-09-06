@@ -40,4 +40,9 @@
 		en="Guerrilla War"
 		zhcn="古巴战士"
 	/>
+	<Game crc32="6B8F23E0" bytes="131088"
+		rom="Gun.Smoke"
+		en="Gun.Smoke"
+		zhcn="荒野大镖客"
+	/>
 </Game-List>

@@ -5,6 +5,21 @@
 		en="Rad Racer"
 		zhcn="公路之星"
 	/>
+	<Game crc32="133E6A77" bytes="65552"
+		rom="Road Fighter"
+		en="Road Fighter"
+		zhcn="火箭车"
+	/>
+	<Game crc32="EC3C6A5B" bytes="24592"
+		rom="Road Fighter"
+		en="Road Fighter"
+		zhcn="火箭车"
+	/>
+	<Game crc32="80DA9F53" bytes="262160"
+		rom="Rollergames"
+		en="Rollergames"
+		zhcn="旱冰勇士"
+	/>
 	<Game crc32="A1A22C10" bytes="262160"
 		rom="Rygar"
 		en="Rygar"

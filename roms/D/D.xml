@@ -10,6 +10,11 @@
 		en="Hammerin' Harry"
 		zhcn="大力工头"
 	/>
+	<Game crc32="F0543C45" bytes="393232"
+		rom="Daiku no Gen-san"
+		en="Hammerin' Harry"
+		zhcn="大力工头" language="chinese"
+	/>
 	<Game crc32="3774121E" bytes="524304"
 		rom="Daiku no Gen-san 2 - Akage no Dan no Gyakushuu"
 		en="Daiku no Gen-san 2 - Akage no Dan no Gyakushuu"

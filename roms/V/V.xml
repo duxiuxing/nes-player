@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Game-List brief="en 以英文字母 V 开头的游戏">
+    <Game crc32="BC93215D" bytes="262160"
+        rom="Vice - Project Doom"
+        en="Vice - Project Doom"
+        zhcn="火炮"
+    />
+</Game-List>
