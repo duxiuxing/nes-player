@@ -30,32 +30,14 @@
 		en="Ganbare Goemon 2"
 		zhcn="大盗伍佑卫门2"
 	/>
-	<Game crc32="28699CD2" bytes="655392"
-		en="Rad Racer"
-		zhcn="公路之星"
-	/>
-	<Game crc32="480A29B7" bytes="24592"
-		en="Yie Ar Kung-Fu"
-		zhcn="功夫(中)"
-	/>
-	<Game crc32="CB17CAF4" bytes="24592"
-		en="Yie Ar Kung-Fu"
-		zhcn="功夫"
-	/>
 	<Game crc32="77189DD9" bytes="262160"
+		rom="Guerrilla War"
 		en="Guerrilla War"
-		zhcn="古巴战士(中)"
+		zhcn="古巴战士"
 	/>
 	<Game crc32="B558B83E" bytes="262160"
+		rom="Guerrilla War"
 		en="Guerrilla War"
-		zhcn="古巴战士(中)"
-	/>
-	<Game crc32="307D0FC4" bytes="262160"
-		en="Darkwing Duck"
-		zhcn="怪鸭历险记"
-	/>
-	<Game crc32="3AA13891" bytes="262287"
-		en="Darkwing Duck"
-		zhcn="怪鸭历险记"
+		zhcn="古巴战士"
 	/>
 </Game-List>

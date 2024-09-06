@@ -25,6 +25,16 @@
 		en="Daiku no Gen-san 2 - Akage no Dan no Gyakushuu"
 		zhcn="大力工头2"
 	/>
+	<Game crc32="307D0FC4" bytes="262160"
+		rom="Darkwing Duck"
+		en="Darkwing Duck"
+		zhcn="怪鸭历险记"
+	/>
+	<Game crc32="3AA13891" bytes="262287"
+		rom="Darkwing Duck"
+		en="Darkwing Duck"
+		zhcn="怪鸭历险记"
+	/>
 	<Game crc32="5700A89B" bytes="262160"
 		rom="Demon Sword"
 		en="Demon Sword"

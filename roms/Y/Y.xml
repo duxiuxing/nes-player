@@ -1,5 +1,15 @@
 <?xml version='1.0' encoding='utf-8'?>
-<Game-List name="Y" rom-exists="true">
+<Game-List brief="en 以英文字母 Y 开头的游戏">
+	<Game crc32="480A29B7" bytes="24592"
+		rom="Yie Ar Kung-Fu"
+		en="Yie Ar Kung-Fu"
+		zhcn="功夫" language="chinese"
+	/>
+	<Game crc32="CB17CAF4" bytes="24592"
+		rom="Yie Ar Kung-Fu"
+		en="Yie Ar Kung-Fu"
+		zhcn="功夫"
+	/>
 	<Game crc32="6B8D777D" bytes="262160"
 		en="The Addams Family - Pugsley's Scavenger Hunt"
 		zhcn="亚当斯一家 帕格斯利的寻宝"

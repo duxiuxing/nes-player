@@ -1,5 +1,10 @@
 <?xml version='1.0' encoding='utf-8'?>
 <Game-List brief="en 以英文字母 R 开头的游戏">
+	<Game crc32="28699CD2" bytes="655392"
+		rom="Rad Racer"
+		en="Rad Racer"
+		zhcn="公路之星"
+	/>
 	<Game crc32="A1A22C10" bytes="262160"
 		rom="Rygar"
 		en="Rygar"
