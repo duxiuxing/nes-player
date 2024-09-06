@@ -80,6 +80,11 @@
 		en="Blaster Master"
 		zhcn="超惑星战记"
 	/>
+	<Game crc32="B9BCF910" bytes="131088"
+		rom="Blades of Steel"
+		en="Blades of Steel"
+		zhcn="柯纳米冰球"
+	/>
 	<Game crc32="7A03F696" bytes="393232"
 		rom="Bonk's Adventure"
 		en="Bonk's Adventure"

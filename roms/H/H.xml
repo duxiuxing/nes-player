@@ -1,5 +1,15 @@
 <?xml version='1.0' encoding='utf-8'?>
 <Game-List brief="en 以英文字母 H 开头的游戏">
+    <Game crc32="54DC10CD" bytes="131088"
+        rom="Hello Kitty World"
+        en="Hello Kitty World"
+        zhcn="凯蒂猫气球世界"
+    />
+    <Game crc32="69900690" bytes="65552"
+        rom="Hello Kitty no Ohanabatake"
+        en="Hello Kitty no Ohanabatake"
+        zhcn="凯蒂猫的花圃"
+    />
     <Game crc32="19CCF008" bytes="131088"
         rom="Hi no Tori Hououhen - Gaou no Bouken"
         en="Hi no Tori Hououhen - Gaou no Bouken"

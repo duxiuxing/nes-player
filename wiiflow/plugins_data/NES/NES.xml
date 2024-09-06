@@ -905,6 +905,9 @@ Niveau 4: Maintenez A + B + Haut sur la deuxième manette et faites Haut sur la 
     <locale lang="JA">
       <title>Final Mission</title>
     </locale>
+    <locale lang="ZHCN">
+      <title>空中魂斗罗</title>
+    </locale>
     <developer>Natsume</developer>
     <publisher>Natsume</publisher>
     <date year="1990" month="06" day="23"/>
@@ -6898,7 +6901,7 @@ El juego apenas tiene una sola pantalla en modo time attack que dura 2 minutos, 
       <control type="gamecube" required="false"/>
     </input>
   </game>
-  <game name="Blades Of Steel">
+  <game name="Blades of Steel">
     <id>1514AA</id>
     <locale lang="EN">
       <title>Blades of Steel</title>
@@ -37622,7 +37625,7 @@ Okkotoshi Puzzle Tonjan!? appears to a sequel to NMK's earlier Arcade multiplaye
       <control type="gamecube" required="false"/>
     </input>
   </game>
-  <game name="Olympic I.q.">
+  <game name="Olympic I.Q.">
     <id>88480A</id>
     <locale lang="EN">
       <title>Olympic I.Q.</title>
@@ -37745,10 +37748,10 @@ Bosses appear at the end of some levels, and each has a specific weakness you ne
       <control type="gamecube" required="false"/>
     </input>
   </game>
-  <game name="Orb-3d">
+  <game name="Orb-3D">
     <id>1855AA</id>
     <locale lang="EN">
-      <title>Orb 3D</title>
+      <title>Orb-3D</title>
       <synopsis>The evil space wizard Krohn has mastered the power to control a black hole, and plans on using this power to control the universe. You are an explorer on assignment in a remote corner of the universe. You have just been reassigned to fight Krohn since your ship, the Millennium Orb, is the only space craft cabable of withstanding Krohn's black hole. To defeat Krohn, you must get past 30 different chambers blocking the path. On the left and right side of each chamber are force fields which you must maneuver to keep the Millennium orb within the chamber. Each chamber contains a plane in the center with various targets, around which the Orb will travel. You can make the Orb dive out of it's orbital path into the plane and hit the targets. To complete each chamber you need to complete a goal with the targets (often you will need to figure out a way to clear them all.) The Millenium Orb has a limited amount of feul, however, which will be used up over time and in even greater quantities should you miss the Orb with the force fields. When fuel is low, you can head to Vern's Orb-O-Rama and use earned credits to refuel your Orb. 
 
 Included with the game is a pair of 3-D glasses which can give the game a more 3 dimensional appearance, though they aren't required for gameplay.</synopsis>
@@ -38046,7 +38049,7 @@ To fight back, you can use hand-to-hand, and pick up weapon power-ups, found on 
       <control type="gamecube" required="false"/>
     </input>
   </game>
-  <game name="Pac-land">
+  <game name="Pac-Land">
     <id>1439AA</id>
     <locale lang="EN">
       <title>Pac-Land</title>
@@ -38150,7 +38153,7 @@ Survive a few rounds of gameplay, and be treated to humorous intermissions betwe
       <control type="gamecube" required="false"/>
     </input>
   </game>
-  <game name="Pac-mania">
+  <game name="Pac-Mania">
     <id>1639AA</id>
     <locale lang="EN">
       <title>Pac-Mania</title>
@@ -38180,10 +38183,10 @@ Survive a few rounds of gameplay, and be treated to humorous intermissions betwe
       <control type="gamecube" required="false"/>
     </input>
   </game>
-  <game name="Pachi-slot Adventure 2 - Sorotta-kun No Pachi-slot Tanteidan">
+  <game name="Pachi-Slot Adventure 2 - Sorotta-kun no Pachi-Slot Tanteidan">
     <id>88591A</id>
     <locale lang="EN">
-      <title>Pachi-Slot Adventure 2 - Sorotta-kun no Pachi-Slot</title>
+      <title>Pachi-Slot Adventure 2 - Sorotta-kun no Pachi-Slot Tanteidan</title>
       <synopsis>It is sequel of Tokyo Pachi-Slot Adventure is an adventure that combines the entertainment value of pachinko and slot machines; and is followed by Pachi-Slot Adventure 3. Developed by the same company who made American Dream (not to be confused with the unlicensed video game company Color Dreams), this game features the player starting out in a pachinko parlor while trying to win balls to continue his adventure.</synopsis>
       <genre>Casino</genre>
     </locale>
@@ -38202,7 +38205,7 @@ Survive a few rounds of gameplay, and be treated to humorous intermissions betwe
       <control type="gamecube" required="false"/>
     </input>
   </game>
-  <game name="Pachi-slot Adventure 3 - Bitaoshii 7 Kenzan!">
+  <game name="Pachi-Slot Adventure 3 - Bitaoshii 7 Kenzan!">
     <id>88592A</id>
     <locale lang="EN">
       <title>Pachi-Slot Adventure 3 - Bitaoshii 7 Kenzan!</title>
@@ -38435,10 +38438,10 @@ There are three modes of play: The standard single player mode, which requires t
       <control type="gamecube" required="false"/>
     </input>
   </game>
-  <game name="Palamedes 2 - Star Twinkles">
+  <game name="Palamedes II - Star Twinkles">
     <id>18833A</id>
     <locale lang="EN">
-      <title>Palamedes II: Star Twinkles</title>
+      <title>Palamedes II - Star Twinkles</title>
       <synopsis>Palamedes II can be described as "its predecessor, turned upside down". As before, your goal is to rearrange a set of dice and put them in a row for elimination. Only series of dice such as 4-4-4-4-4 or 1-2-3-4-5 can be eliminated, and depending on the series, this will result in one or several rows of dice to be eliminated from the screen. Unlike the original Palamedes, this time your character stands on top of the dice, and the growing pile of dice will crush him unless he makes the correct combinations to eliminate the pile. It's a bit like Tetris, and a bit like Klax.
 
 Two modes are available: Mode 1 puts your player on top of a growing pile which must be eliminated. It can be played alone (single), against another human (match) or in a quest against the computer. 
@@ -38671,10 +38674,10 @@ The Red-Oni Aliens invades Fairtale Land and its up to Henbee to save the day</s
       <control type="gamecube" required="false"/>
     </input>
   </game>
-  <game name="Parasol Stars - Rainbow Islands 2">
+  <game name="Parasol Stars - Rainbow Islands II">
     <id>1664AA</id>
     <locale lang="EN">
-      <title>Parasol Stars : Rainbow Islands II</title>
+      <title>Parasol Stars - Rainbow Islands II</title>
       <synopsis>This sequel to Rainbow Islands sees a return to the gameplay of Bubble Bobble, but with Bub and Bob in their now-human forms.
 
 The boys must clear a series of screens of bad guys - who take slightly more esoteric forms than the angry caterpillars from Rainbow Islands - and again pick up a whole bunch of power-ups.
@@ -38777,7 +38780,7 @@ The game is a right-to-left scrolling shoot-em-up. You can choose from 4 differe
       <control type="gamecube" required="false"/>
     </input>
   </game>
-  <game name="Peek-a-boo Poker">
+  <game name="Peek-A-Boo Poker">
     <id>18743A</id>
     <locale lang="EN">
       <title>Peek-A-Boo Poker</title>
@@ -39024,7 +39027,7 @@ Pescatore is a puzzle game, developed by Tierheit and meant to be published by S
   <game name="Pesterminator - The Western Exterminator">
     <id>18744A</id>
     <locale lang="EN">
-      <title>Pesterminator</title>
+      <title>Pesterminator - The Western Exterminator</title>
       <synopsis>When Ronnie the Super Rat radiates earth with a pest beam from his moon base, the world leaders' only hope is Kernel Kleanup, the mascot from the Western Exterminator Company. With his trusty hammer, Kernel needs to clear the levels by slamming all loose bugs. You will be haunted by spiders, ants, fireflies, worms, sharks, jellyfish and mutants.
 
 The nine levels are pretty straightforward side-scrolling platform stages, with a nice twist in level 5, 7 and 8.1 (a helicopter, underwater and moon surface level respectively). While playing, you can view a status report with the remaining bugs to be found. Some defeated enemies leave behind hearts (extra lives) and the final level introduces an adventure element when you have to find a key card to open the door to Ronnie's lair.</synopsis>
@@ -39131,10 +39134,10 @@ En tant que Kernel Kleanup, la mascotte de la Western Exterminator Company, le j
       <control type="gamecube" required="false"/>
     </input>
   </game>
-  <game name="Pictionary - The Game Of Video Quick Draw">
+  <game name="Pictionary - The Game of Video Quick Draw">
     <id>18836A</id>
     <locale lang="EN">
-      <title>Pictionary : The Game of Video Quick Draw</title>
+      <title>Pictionary - The Game of Video Quick Draw</title>
       <synopsis>Based on the board game, the object is to guess either a word or phrase based on a drawing. Each team starts on the same square on the board and the first team attempts to draw a picture based on a clue.  If his team correctly guesses the clue, then this team gets to roll the dice and advance along the board.  If the team fails to guess correctly, then the other team gets a chance to draw and guess. The game plays much in this way until a team reaches the final square on the board and successfully guesses the clue to win the game.
 
 This game contains three different modes; regular game, alternative game, and drawing practice. It also allows for up to four teams which can be made comprising of any number of players per each team. 
@@ -39186,7 +39189,7 @@ Drawing practice lets the player practice their drawing technique without the pr
     <date year=""/>
     <publisher/>
   </game>
-  <game name="Pin-bot">
+  <game name="Pin-Bot">
     <id>1768AA</id>
     <locale lang="EN">
       <title>Pin-Bot</title>
@@ -39733,7 +39736,7 @@ The game is a horizontally scrolling action game. You control Hashimoto-Zaurus, 
     <date year="2000"/>
     <publisher>Shenzhen Nanjing Technology</publisher>
   </game>
-  <game name="Poker 2">
+  <game name="Poker II">
     <id>88612A</id>
     <locale lang="EN">
       <title>Poker II</title>
@@ -39751,7 +39754,7 @@ The game is a horizontally scrolling action game. You control Hashimoto-Zaurus, 
       <control type="gamecube" required="false"/>
     </input>
   </game>
-  <game name="Poker 3">
+  <game name="Poker III">
     <id>88611A</id>
     <locale lang="EN">
       <title>Poker III</title>
@@ -39934,7 +39937,7 @@ Le joueur peut également perdre le puzzle en frappant le "?" icône. Si le puzz
       <control type="gamecube" required="false"/>
     </input>
   </game>
-  <game name="Po Po Team">
+  <game name="Popo Team">
     <id>124516</id>
     <locale lang="EN">
       <title>Popo Team</title>
@@ -40116,7 +40119,7 @@ Les versions Européennes et Américaines baptisés "Power Blade" ont subi un pr
       <control type="gamecube" required="false"/>
     </input>
   </game>
-  <game name="Power Punch 2">
+  <game name="Power Punch II">
     <id>1897AA</id>
     <locale lang="EN">
       <title>Power Punch II</title>
@@ -40264,7 +40267,7 @@ Power Punch 2 is a one-on-one boxing game à la Punch Out, in which you control 
       <control type="gamecube" required="false"/>
     </input>
   </game>
-  <game name="President No Sentaku">
+  <game name="President no Sentaku">
     <id>88617A</id>
     <locale lang="EN">
       <title>President no Sentaku</title>
@@ -40285,7 +40288,7 @@ Power Punch 2 is a one-on-one boxing game à la Punch Out, in which you control 
       <control type="gamecube" required="false"/>
     </input>
   </game>
-  <game name="Prince Of Persia">
+  <game name="Prince of Persia">
     <id>1392AA</id>
     <locale lang="EN">
       <title>Prince of Persia</title>
@@ -40319,7 +40322,7 @@ The Game Boy Color and SNES versions of the game feature additional levels and n
       <control type="gamecube" required="false"/>
     </input>
   </game>
-  <game name="Princess Tomato In The Salad Kingdom">
+  <game name="Princess Tomato in the Salad Kingdom">
     <id>1776AA</id>
     <locale lang="EN">
       <title>Princess Tomato in the Salad Kingdom</title>
@@ -40511,7 +40514,7 @@ Les versions micros seront quant à elles adaptées par Ocean Software sous le n
       <control type="gamecube" required="false"/>
     </input>
   </game>
-  <game name="Punch-out!! Featuring Mr. Dream">
+  <game name="Punch-Out!!">
     <id>1259AA</id>
     <locale lang="EN">
       <title>Punch-Out!!</title>
@@ -40581,10 +40584,10 @@ The game features six "missions" with a number of varying environments and level
       <control type="gamecube" required="false"/>
     </input>
   </game>
-  <game name="Puss N Boots - Pero's Great Adventure">
+  <game name="Puss n Boots - Pero's Great Adventure">
     <id>18841A</id>
     <locale lang="EN">
-      <title>Puss n Boots : Pero's Great Adventure</title>
+      <title>Puss n Boots - Pero's Great Adventure</title>
       <synopsis>Join Pero as he travels through time to defeat the evil Count Gruemon in this platform-hoping, side-scrolling shooter adventure! Visit strange new locales such as the Wild West, Arabia, London, New York and and outer space! Meet the denizens of these great places and shoot em! Pilot airplanes, submarines and even a hot air balloon!
 
 Puss N Boots: Pero's Great Adventure is an action/adventure title that doesn't settle for just one style of gameplay. One level might have you jumping along the ledges of buildings, shooting at baddies only to continue the action in an airplane, flying along shoot at anything in your path. There are a total of seven different levels to travel through, each one generally being broken up into at least two sections with different modes of transportation for each one.
@@ -40894,7 +40897,7 @@ Enjoy!</synopsis>
     <date year="1991"/>
     <publisher>Micro Genius</publisher>
   </game>
-  <game name="Qix">
+  <game name="QIX">
     <id>1919AA</id>
     <locale lang="EN">
       <title>QIX</title>

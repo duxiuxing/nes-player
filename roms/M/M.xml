@@ -25,6 +25,11 @@
 		en="Metal Gear"
 		zhcn="合金装备" language="chinese"
 	/>
+	<Game crc32="D1DCFE67" bytes="262160"
+		rom="Monster in My Pocket"
+		en="Monster in My Pocket"
+		zhcn="口袋里的魔鬼" language="chinese"
+	/>
 	<Game crc32="EEB6B362" bytes="393232"
 		rom="Mr. Gimmick"
 		en="Mr. Gimmick"

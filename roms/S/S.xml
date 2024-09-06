@@ -1,5 +1,25 @@
 <?xml version='1.0' encoding='utf-8'?>
 <Game-List brief="en 以英文字母 S 开头的游戏">
+	<Game crc32="19ABBF3C" bytes="262160"
+		rom="S.C.A.T. - Special Cybernetic Attack Team"
+		en="S.C.A.T. - Special Cybernetic Attack Team"
+		zhcn="空中魂斗罗"
+	/>
+	<Game crc32="5773A224" bytes="262160"
+		rom="S.C.A.T. - Special Cybernetic Attack Team"
+		en="S.C.A.T. - Special Cybernetic Attack Team"
+		zhcn="空中魂斗罗"
+	/>
+	<Game crc32="939C67AF" bytes="524304"
+		rom="S.C.A.T. - Special Cybernetic Attack Team"
+		en="S.C.A.T. - Special Cybernetic Attack Team"
+		zhcn="空中魂斗罗"
+	/>
+	<Game crc32="DC386335" bytes="262160"
+		rom="S.C.A.T. - Special Cybernetic Attack Team"
+		en="S.C.A.T. - Special Cybernetic Attack Team"
+		zhcn="空中魂斗罗" language="chinese"
+	/>
 	<Game crc32="3747F350" bytes="270352"
 		rom="Shadow of the Ninja"
 		en="Shadow of the Ninja"

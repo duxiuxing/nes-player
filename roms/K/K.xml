@@ -10,6 +10,11 @@
 		en="Kabuki Quantum Fighter"
 		zhcn="地狱极乐丸"
 	/>
+	<Game crc32="97872E26" bytes="262160"
+		rom="Kaiketsu Yancha Maru 3 - Taiketsu! Zouringen"
+		en="Kaiketsu Yancha Maru 3 - Taiketsu! Zouringen"
+		zhcn="快杰洋枪丸3" language="chinese"
+	/>
 	<Game crc32="C4509884" bytes="131088"
 		rom="Kamen no Ninja - Akakage"
 		en="Kamen no Ninja - Akakage"
@@ -25,6 +30,11 @@
 		en="Kamen no Ninja - Hanamaru"
 		zhcn="假面忍者 花丸" language="chinese"
 	/>
+	<Game crc32="103F0755" bytes="196624"
+		rom="Karnov"
+		en="Karnov"
+		zhcn="卡诺夫"
+	/>
 	<Game crc32="0D8C4182" bytes="40976"
 		rom="Kung Fu"
 		en="Kung Fu"
@@ -34,57 +44,5 @@
 		rom="Kung Fu"
 		en="Kung Fu"
 		zhcn="成龙踢馆"
-	/>
-	<Game crc32="103F0755" bytes="196624"
-		en="Karnov"
-		zhcn="卡诺夫"
-	/>
-	<Game crc32="69900690" bytes="65552"
-		en="Hello Kitty no Ohanabatake"
-		zhcn="凯蒂猫的花圃"
-	/>
-	<Game crc32="54DC10CD" bytes="131088"
-		en="Hello Kitty World"
-		zhcn="凯蒂猫气球世界"
-	/>
-	<Game crc32="B9BCF910" bytes="131088"
-		en="Blades of Steel"
-		zhcn="柯纳米冰球"
-	/>
-	<Game crc32="B27BCF3D" bytes="262160"
-		en="Wai Wai World"
-		zhcn="柯纳米世界"
-	/>
-	<Game crc32="EBD96A66" bytes="393232"
-		en="Wai Wai World 2 - Sos!! Paseri Jou"
-		zhcn="柯纳米世界2"
-	/>
-	<Game crc32="939C67AF" bytes="524304"
-		en="S.C.A.T. : Special Cybernetic Attack Team"
-		zhcn="空中魂斗罗(改)"
-		zhtw="空中魂斗羅(改)"
-	/>
-	<Game crc32="19ABBF3C" bytes="262160"
-		en="S.C.A.T. : Special Cybernetic Attack Team"
-		zhcn="空中魂斗罗(美)"
-		zhtw="空中魂斗羅(美)"
-	/>
-	<Game crc32="5773A224" bytes="262160"
-		en="S.C.A.T. : Special Cybernetic Attack Team"
-		zhcn="空中魂斗罗(欧)"
-		zhtw="空中魂斗羅(歐)"
-	/>
-	<Game crc32="DC386335" bytes="262160"
-		en="S.C.A.T. : Special Cybernetic Attack Team"
-		zhcn="空中魂斗罗(中)"
-		zhtw="空中魂斗羅(中)"
-	/>
-	<Game crc32="D1DCFE67" bytes="262160"
-		en="Monster in My Pocket"
-		zhcn="口袋里的魔鬼(中)"
-	/>
-	<Game crc32="97872E26" bytes="262160"
-		en="Kaiketsu Yancha Maru 3 - Taiketsu! Zouringen"
-		zhcn="快杰洋枪丸3(中)"
 	/>
 </Game-List>
