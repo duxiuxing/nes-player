@@ -80,6 +80,11 @@
 		en="Dig Dug II - Trouble in Paradise"
 		zhcn="打空气2"
 	/>
+	<Game crc32="F583796B" bytes="393232"
+		rom="Don Doko Don 2"
+		en="Don Doko Don 2"
+		zhcn="木匠兄弟2"
+	/>
 	<Game crc32="73FF4BA1" bytes="24592"
 		rom="Donkey Kong"
 		en="Donkey Kong"
@@ -124,6 +129,11 @@
 		rom="Donkey Kong Jr."
 		en="Donkey Kong Jr."
 		zhcn="大金刚2"
+	/>
+	<Game crc32="F517F770" bytes="65552"
+		rom="Dr. Mario"
+		en="Dr. Mario"
+		zhcn="马里奥医生" language="chinese"
 	/>
 	<Game crc32="9CF5AC17" bytes="262160"
 		rom="Dragon Ball Z - Gekitou Tenkaichi Budoukai"

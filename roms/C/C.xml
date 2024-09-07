@@ -55,6 +55,11 @@
 		en="Choujikuu Yousai - Macross"
 		zhcn="超时空要塞"
 	/>
+	<Game crc32="0C2E38C2" bytes="24592"
+		rom="Circus Charlie"
+		en="Circus Charlie"
+		zhcn="马戏团"
+	/>
 	<Game crc32="2A39628D" bytes="393232"
 		rom="Contra"
 		en="Contra"

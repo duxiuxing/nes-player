@@ -15,6 +15,16 @@
 		en="Werewolf - The Last Warrior"
 		zhcn="超人狼战记"
 	/>
+	<Game crc32="1CDF7E91" bytes="98320"
+		rom="Wrecking Crew"
+		en="Wrecking Crew"
+		zhcn="马里奥兄弟拆屋工" language="chinese"
+	/>
+	<Game crc32="658D4FD4" bytes="40976"
+		rom="Wrecking Crew"
+		en="Wrecking Crew"
+		zhcn="马里奥兄弟拆屋工"
+	/>
 	<Game crc32="7434DC82" bytes="262160"
 		en="WCW - World Championship Wrestling"
 		zhcn="WCW世界摔角赛"

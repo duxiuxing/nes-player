@@ -20,6 +20,31 @@
 		en="Mad Max"
 		zhcn="疯狂的麦克斯"
 	/>
+	<Game crc32="56C23EF3" bytes="24592"
+		rom="Mahjong"
+		en="Mahjong"
+		zhcn="麻将"
+	/>
+	<Game crc32="3F0E8E0A" bytes="24592"
+		rom="Mappy"
+		en="Mappy"
+		zhcn="猫抓老鼠"
+	/>
+	<Game crc32="92F8EBF3" bytes="24592"
+		rom="Mappy"
+		en="Mappy"
+		zhcn="猫抓老鼠" language="chinese"
+	/>
+	<Game crc32="BF3DDB87" bytes="688160"
+		rom="Mappy-Land"
+		en="Mappy-Land"
+		zhcn="猫抓老鼠2" language="chinese"
+	/>
+	<Game crc32="52759369" bytes="49168"
+		rom="Mario Bros."
+		en="Mario Bros."
+		zhcn="马里奥兄弟水管工" language="chinese"
+	/>
 	<Game crc32="5D5C0742" bytes="131088"
 		rom="Mega Man"
 		en="Mega Man"
@@ -74,93 +99,5 @@
 		rom="Mr. Gimmick"
 		en="Mr. Gimmick"
 		zhcn="吉米克"
-	/>
-	<Game crc32="56C23EF3" bytes="24592"
-		en="Mahjong"
-		zhcn="麻将"
-	/>
-	<Game crc32="1CDF7E91" bytes="98320"
-		en="Wrecking Crew"
-		zhcn="马里奥兄弟拆屋工(中)"
-	/>
-	<Game crc32="658D4FD4" bytes="40976"
-		en="Wrecking Crew"
-		zhcn="马里奥兄弟拆屋工"
-	/>
-	<Game crc32="52759369" bytes="49168"
-		en="Mario Bros."
-		zhcn="马里奥兄弟水管工(中)"
-	/>
-	<Game crc32="D12475A8" bytes="65552"
-		en="Dr. Mario"
-		zhcn="马里奥医生(中)"
-	/>
-	<Game crc32="F517F770" bytes="65552"
-		en="Dr. Mario"
-		zhcn="马里奥医生(中)"
-	/>
-	<Game crc32="0C2E38C2" bytes="24592"
-		en="Circus Charlie"
-		zhcn="马戏团"
-	/>
-	<Game crc32="879E6391" bytes="24592"
-		en="Circus Charlie"
-		zhcn="马戏团"
-	/>
-	<Game crc32="92F8EBF3" bytes="24592"
-		en="Mappy"
-		zhcn="猫抓老鼠(中)"
-	/>
-	<Game crc32="3F0E8E0A" bytes="24592"
-		en="Mappy"
-		zhcn="猫抓老鼠"
-	/>
-	<Game crc32="BF3DDB87" bytes="688160"
-		en="Mappy-Land"
-		zhcn="猫抓老鼠2(中)"
-	/>
-	<Game crc32="2F1790A2" bytes="65552"
-		en="Adventure Island"
-		zhcn="冒险岛"
-	/>
-	<Game crc32="B295DA9E" bytes="786464"
-		en="Adventure Island II"
-		zhcn="冒险岛2"
-	/>
-	<Game crc32="5D8F80C7" bytes="262160"
-		en="Adventure Island II"
-		zhcn="冒险岛2"
-	/>
-	<Game crc32="B638CD5B" bytes="286736"
-		en="Adventure Island 3"
-		zhcn="冒险岛3(中)"
-	/>
-	<Game crc32="952CDACF" bytes="262160"
-		en="Adventure Island 3"
-		zhcn="冒险岛3"
-	/>
-	<Game crc32="3B346EE4" bytes="393232"
-		en="Takahashi Meijin no Bouken-jima IV"
-		zhcn="冒险岛4(中)"
-	/>
-	<Game crc32="5ECFD3DC" bytes="393232"
-		en="Takahashi Meijin no Bouken-jima IV"
-		zhcn="冒险岛4"
-	/>
-	<Game crc32="72A76580" bytes="327696"
-		en="Little Nemo - The Dream Master"
-		zhcn="梦之勇士(中)"
-	/>
-	<Game crc32="FEDA0B39" bytes="393232"
-		en="The Flintstones - The Surprise at Dinosaur Peak"
-		zhcn="摩登原始人2"
-	/>
-	<Game crc32="3CEA0142" bytes="262160"
-		en="Totally Rad"
-		zhcn="魔法总动员(中)"
-	/>
-	<Game crc32="F583796B" bytes="393232"
-		en="Don Doko Don 2"
-		zhcn="木匠兄弟2"
 	/>
 </Game-List>

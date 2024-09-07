@@ -1,5 +1,15 @@
 <?xml version='1.0' encoding='utf-8'?>
 <Game-List brief="en 以英文字母 T 开头的游戏">
+	<Game crc32="3B346EE4" bytes="393232"
+		rom="Takahashi Meijin no Bouken-jima IV"
+		en="Takahashi Meijin no Bouken-jima IV"
+		zhcn="冒险岛4" language="chinese"
+	/>
+	<Game crc32="5ECFD3DC" bytes="393232"
+		rom="Takahashi Meijin no Bouken-jima IV"
+		en="Takahashi Meijin no Bouken-jima IV"
+		zhcn="冒险岛4"
+	/>
 	<Game crc32="88F071C3" bytes="49168"
 		rom="Tetris - The Soviet Mind Game"
 		en="Tetris - The Soviet Mind Game"
@@ -34,6 +44,11 @@
 		rom="The Adventures of Bayou Billy"
 		en="The Adventures of Bayou Billy"
 		zhcn="鳄鱼先生"
+	/>
+	<Game crc32="FEDA0B39" bytes="393232"
+		rom="The Flintstones - The Surprise at Dinosaur Peak"
+		en="The Flintstones - The Surprise at Dinosaur Peak"
+		zhcn="摩登原始人2"
 	/>
 	<Game crc32="77DF8D83" bytes="262160"
 		rom="The Guardian Legend"
@@ -74,6 +89,11 @@
 		rom="Toki"
 		en="Toki"
 		zhcn="JuJu传说"
+	/>
+	<Game crc32="3CEA0142" bytes="262160"
+		rom="Totally Rad"
+		en="Totally Rad"
+		zhcn="魔法总动员" language="chinese"
 	/>
 	<Game crc32="E0509F1D" bytes="262160"
 		rom="Twin Cobra"

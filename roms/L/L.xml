@@ -5,4 +5,9 @@
         en="Lagrange Point"
         zhcn="拉格朗日点" language="chinese"
     />
+    <Game crc32="72A76580" bytes="327696"
+        rom="Little Nemo - The Dream Master"
+        en="Little Nemo - The Dream Master"
+        zhcn="梦之勇士" language="chinese"
+    />
 </Game-List>
