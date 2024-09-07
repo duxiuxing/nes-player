@@ -5,6 +5,11 @@
         en="Ice Hockey"
         zhcn="冰上曲棍球"
     />
+    <Game crc32="9D89760B" bytes="786464"
+        rom="Ikari III - The Rescue"
+        en="Ikari III - The Rescue"
+        zhcn="怒三代"
+    />
     <Game crc32="BD2855F2" bytes="262160"
         rom="Iron Tank"
         en="Iron Tank"

@@ -35,6 +35,16 @@
 		en="Karnov"
 		zhcn="卡诺夫"
 	/>
+	<Game crc32="7C39CAFF" bytes="24720"
+		rom="Kekkyoku Nankyoku Daibouken"
+		en="Kekkyoku Nankyoku Daibouken"
+		zhcn="南极大冒险" language="chinese"
+	/>
+	<Game crc32="9DA252B4" bytes="24592"
+		rom="Kekkyoku Nankyoku Daibouken"
+		en="Kekkyoku Nankyoku Daibouken"
+		zhcn="南极大冒险"
+	/>
 	<Game crc32="0D8C4182" bytes="40976"
 		rom="Kung Fu"
 		en="Kung Fu"

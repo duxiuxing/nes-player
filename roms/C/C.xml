@@ -55,6 +55,16 @@
 		en="Choujikuu Yousai - Macross"
 		zhcn="超时空要塞"
 	/>
+	<Game crc32="3ADFA2E2" bytes="262160"
+		rom="Choujin Sentai Jetman"
+		en="Choujin Sentai Jetman"
+		zhcn="鸟人战队" language="chinese"
+	/>
+	<Game crc32="F899BF59" bytes="262160"
+		rom="Choujin Sentai Jetman"
+		en="Choujin Sentai Jetman"
+		zhcn="鸟人战队"
+	/>
 	<Game crc32="0C2E38C2" bytes="24592"
 		rom="Circus Charlie"
 		en="Circus Charlie"
