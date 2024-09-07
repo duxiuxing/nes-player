@@ -65,6 +65,11 @@
 		en="Rollergames"
 		zhcn="旱冰勇士"
 	/>
+	<Game crc32="8C0D7E34" bytes="131088"
+		rom="Rush'n Attack"
+		en="Rush'n Attack"
+		zhcn="绿色兵团" language="chinese"
+	/>
 	<Game crc32="A1A22C10" bytes="262160"
 		rom="Rygar"
 		en="Rygar"

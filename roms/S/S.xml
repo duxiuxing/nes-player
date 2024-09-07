@@ -115,6 +115,11 @@
 		en="Street Fighter Ⅲ"
 		zhcn="九人街霸(中)" language="chinese"
 	/>
+	<Game crc32="87FCF1DB" bytes="786464"
+		rom="Summer Carnival '92 - Recca"
+		en="Summer Carnival '92 - Recca"
+		zhcn="烈火92"
+	/>
 	<Game crc32="048F7DD8" bytes="393232"
 		rom="Super C"
 		en="Super C"

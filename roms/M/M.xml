@@ -20,6 +20,46 @@
 		en="Mad Max"
 		zhcn="疯狂的麦克斯"
 	/>
+	<Game crc32="5D5C0742" bytes="131088"
+		rom="Mega Man"
+		en="Mega Man"
+		zhcn="洛克人" language="chinese"
+	/>
+	<Game crc32="9E4081ED" bytes="262160"
+		rom="Mega Man 2"
+		en="Mega Man 2"
+		zhcn="洛克人2" language="chinese"
+	/>
+	<Game crc32="E9F7C580" bytes="262160"
+		rom="Mega Man 2"
+		en="Mega Man 2"
+		zhcn="洛克人2" language="chinese"
+	/>
+	<Game crc32="40FF0F53" bytes="393232"
+		rom="Mega Man 3"
+		en="Mega Man 3"
+		zhcn="洛克人3" language="chinese"
+	/>
+	<Game crc32="22C428DF" bytes="524304"
+		rom="Mega Man 4"
+		en="Mega Man 4"
+		zhcn="洛克人4" language="chinese"
+	/>
+	<Game crc32="A65B5B33" bytes="524304"
+		rom="Mega Man 5"
+		en="Mega Man 5"
+		zhcn="洛克人5" language="chinese"
+	/>
+	<Game crc32="2565A5CC" bytes="1048608"
+		rom="Mega Man 6"
+		en="Mega Man 6"
+		zhcn="洛克人6" language="chinese"
+	/>
+	<Game crc32="F0759297" bytes="524304"
+		rom="Mega Man 6"
+		en="Mega Man 6"
+		zhcn="洛克人6" language="chinese"
+	/>
 	<Game crc32="B4D15D85" bytes="262160"
 		rom="Metal Gear"
 		en="Metal Gear"

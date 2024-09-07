@@ -14924,10 +14924,10 @@ The graphics and music are taken from the original game and simplified, with som
       <control type="gamecube" required="false"/>
     </input>
   </game>
-  <game name="Dragon Ball Z 2 - Gekishin Freeza">
+  <game name="Dragon Ball Z II - Gekishin Freeza">
     <id>1430AA</id>
     <locale lang="EN">
-      <title>Dragon Ball Z 2 - Gekishin Freeza</title>
+      <title>Dragon Ball Z II - Gekishin Freeza</title>
       <synopsis>The second in the Dragon Ball Z RPG series, "Freezer the Planet Destroyer", as it is often unofficially translated, follows closely the popular manga series and continues the story of the first Dragon Ball Z RPG,  Assault of Saiyajins. After the fight against the Saiyajin leader Vegeta, Son Goku, the series' main hero, is heavily wounded, while his ally Piccolo is dead. Son Goku's son Son Gohan and his friends go to the planet Namek to find the magical Dragon Balls that would bring Piccolo back to life. The trouble is, Vegeta is heading to the planet, and so does the evil Freezer, who is also after the Dragon Balls...
 
 You control both Son Gohan's and Son Goku's parties, including popular characters like Krillin, Yamcha, and others. The gameplay is pretty much the same as in the first game. Locations are composed of squares, and you move through them in a board-game-like fashion, drawing cards that will determine the amount of moves you can make. Random cards will also make you participate in battles, heal your party, add extra cards, etc. In battles you also depend on cards - your choice determines the strength of the move and the outcome of the automatic battle.</synopsis>
@@ -14945,6 +14945,9 @@ You control both Son Gohan's and Son Goku's parties, including popular character
     </locale>
     <locale lang="JA">
       <title>Dragon Ball Z II : Gekishin Freeza!!</title>
+    </locale>
+    <locale lang="ZHCN">
+      <title>龙珠2 激斗弗利撒</title>
     </locale>
     <developer>Bandai</developer>
     <publisher>Bandai</publisher>
@@ -15018,6 +15021,9 @@ L'histoire raconte la vengeance du Dr Raichi, du peuple Tsuful, sur les Saiyans 
     <locale lang="JA">
       <title>Dragon Ball Z Gaiden : Saiya Jin Zetsumetsu Keikaku</title>
     </locale>
+    <locale lang="ZHCN">
+      <title>龙珠外传 塞亚人灭绝计划</title>
+    </locale>
     <developer>Bandai</developer>
     <publisher>Bandai</publisher>
     <date year="1993" month="08" day="06"/>
@@ -15030,10 +15036,10 @@ L'histoire raconte la vengeance du Dr Raichi, du peuple Tsuful, sur les Saiyans 
       <control type="gamecube" required="false"/>
     </input>
   </game>
-  <game name="Dragon Ball Z 3 - Ressen Jinzou Ningen">
+  <game name="Dragon Ball Z III - Ressen Jinzou Ningen">
     <id>1380AA</id>
     <locale lang="EN">
-      <title>Dragon Ball Z III : Ressen Jinzou Ningen</title>
+      <title>Dragon Ball Z III - Ressen Jinzou Ningen</title>
       <synopsis>"Hot Battle: The Androids" (the game's unofficial English title) is a direct sequel to the  second RPG of the Dragon Ball Z series. Following the events depicted in the manga series those games are based on, "Hot Battle" picks up the story right where it ended in the previous game: in the ultimate battle, Son Goku defeated Freezer, the evil Planet Destroyer. However, Freezer's brother Cooler swears revenge. Son Goku and his friends have once again to fight the evil in order to keep the miraculous Dragon Balls.
 
 In this game, you control many characters from the animé series, including Son Goku, Son Gohan, Krillin, Piccolo, Yamcha, Trunk, and even the archrival Vegeta, who has now joined the team. In battles, you have three active characters, but you can switch and train them in between. The RPG system is similar to the one used in the first two games: your movements on the field and during battles are determined by the type of cards you choose from several available ones. The cinematic battle sequences are now more fast-paced, and there are many mini-games to speed up the leveling up.</synopsis>
@@ -15055,6 +15061,9 @@ En este juego, controlas muchos personajes de la serie de anime, incluyendo a So
     <locale lang="JA">
       <title>Dragon Ball Z III : Ressen Jinzou Ningen</title>
     </locale>
+    <locale lang="ZHCN">
+      <title>龙珠3 烈战人造人</title>
+    </locale>
     <developer>Bandai</developer>
     <publisher>Bandai</publisher>
     <date year="1992" month="08" day="07"/>
@@ -15070,7 +15079,7 @@ En este juego, controlas muchos personajes de la serie de anime, incluyendo a So
   <game name="Dragon Ball Z - Kyoshu! Saiyajin">
     <id>18646A</id>
     <locale lang="EN">
-      <title>Dragon Ball Z: Kyoshu! Saiyajin</title>
+      <title>Dragon Ball Z - Kyoshu! Saiyajin</title>
       <synopsis>The game is based on the popular Japanese manga series "Dragon Ball" - more precisely, its Saiyajin Saga part. It follows the events that occur after the evil Radditz tells Son Goku, the series' main hero, about his true origin as a Saiyajin, and suggests uniting their powers. As Son Goku refuses, a battle takes place, and the defeated Radditz threatens to harm Son Goku's son, Son Gohan. Many friends come to help Son Goku, and even his rival Piccolo joins forces with him. But the quest leads them much further - to the ultimate battle against the leader of Saiyajin...
 
 In this fighting/RPG game, you control multiple characters from the series: Son Goku, Piccolo, Krillin, Yamcha, Tienshinhan, Chao-Zu, and Son Gohan. You have to train each character by taking him to battles. All the movements in the game, in battle as well as on the field, occur by collecting and choosing cards of various strength. You move around by selecting a card, and can advance a certain amount of fields depending on its value. You train characters in special training stations before taking them to fights. Once you have trained your character and chose the cards, the battles flow automatically, as cinematic sequences that show Son Goku and his foes exchanging blows while flying.</synopsis>
@@ -15092,6 +15101,9 @@ Le système de carte des précédents opus est conservé. Vous utilisez vos cart
     </locale>
     <locale lang="JA">
       <title>Dragon Ball Z : Kyoushuu! Saiya Jin</title>
+    </locale>
+    <locale lang="ZHCN">
+      <title>龙珠 赛亚人来袭</title>
     </locale>
     <developer>Bandai</developer>
     <publisher>Bandai</publisher>

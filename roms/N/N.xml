@@ -1,5 +1,15 @@
 <?xml version='1.0' encoding='utf-8'?>
 <Game-List name="N" rom-exists="true">
+	<Game crc32="547AD500" bytes="131088"
+		rom="Ninja Crusaders"
+		en="Ninja Crusaders"
+		zhcn="龙牙"
+	/>
+	<Game crc32="A4846CE6" bytes="131088"
+		rom="Ninja Crusaders"
+		en="Ninja Crusaders"
+		zhcn="龙牙"
+	/>
 	<Game crc32="F51355D3" bytes="24592"
 		rom="Nuts &amp; Milk"
 		en="Nuts &amp; Milk"

@@ -125,4 +125,34 @@
 		en="Donkey Kong Jr."
 		zhcn="大金刚2"
 	/>
+	<Game crc32="9CF5AC17" bytes="262160"
+		rom="Dragon Ball Z - Gekitou Tenkaichi Budoukai"
+		en="Dragon Ball Z - Gekitou Tenkaichi Budoukai"
+		zhcn="龙珠Z 激斗天下一武道会"
+	/>
+	<Game crc32="08278D88" bytes="786448"
+		rom="Dragon Ball Z - Kyoshu! Saiyajin"
+		en="Dragon Ball Z - Kyoshu! Saiyajin"
+		zhcn="龙珠 赛亚人来袭" language="chinese"
+	/>
+	<Game crc32="E7824449" bytes="786448"
+		rom="Dragon Ball Z Gaiden - Saiyajin Zetsumetsu Keikaku"
+		en="Dragon Ball Z Gaiden - Saiyajin Zetsumetsu Keikaku"
+		zhcn="龙珠外传 塞亚人灭绝计划" language="chinese"
+	/>
+	<Game crc32="E822D8C9" bytes="786464"
+		rom="Dragon Fighter"
+		en="Dragon Fighter"
+		zhcn="龙战士"
+	/>
+	<Game crc32="D2BB8CD3" bytes="786448"
+		rom="Dragon Ball Z II - Gekishin Freeza"
+		en="Dragon Ball Z II - Gekishin Freeza"
+		zhcn="龙珠2 激斗弗利撒" language="chinese"
+	/>
+	<Game crc32="0672C807" bytes="1048608"
+		rom="Dragon Ball Z III - Ressen Jinzou Ningen"
+		en="Dragon Ball Z III - Ressen Jinzou Ningen"
+		zhcn="龙珠3 烈战人造人"
+	/>
 </Game-List>

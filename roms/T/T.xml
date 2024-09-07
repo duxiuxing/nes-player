@@ -65,6 +65,11 @@
 		en="Thunder &amp; Lightning"
 		zhcn="家庭打砖块"
 	/>
+	<Game crc32="16C1DA8A" bytes="262160"
+		rom="Thunderbirds"
+		en="Thunderbirds"
+		zhcn="雷鸟号"
+	/>
 	<Game crc32="E8CD159F" bytes="393232"
 		rom="Toki"
 		en="Toki"

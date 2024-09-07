@@ -1,79 +1,8 @@
 <?xml version='1.0' encoding='utf-8'?>
-<Game-List name="L" rom-exists="true">
-	<Game crc32="6BB3B40E" bytes="1048592"
-		en="Lagrange Point"
-		zhcn="拉格朗日点(中)"
-	/>
-	<Game crc32="16C1DA8A" bytes="262160"
-		en="Thunderbirds"
-		zhcn="雷鸟号"
-	/>
-	<Game crc32="87FCF1DB" bytes="786464"
-		en="Summer Carnival '92 - Recca"
-		zhcn="烈火92"
-	/>
-	<Game crc32="E822D8C9" bytes="786464"
-		en="Dragon Fighter"
-		zhcn="龙战士"
-	/>
-	<Game crc32="D2BB8CD3" bytes="786448"
-		zhcn="龙珠 激斗弗利撒(中)"
-	/>
-	<Game crc32="0672C807" bytes="1048608"
-		zhcn="龙珠 烈战人造人"
-	/>
-	<Game crc32="E7824449" bytes="786448"
-		zhcn="龙珠 塞亚人灭绝计划(中)"
-	/>
-	<Game crc32="08278D88" bytes="786448"
-		zhcn="龙珠 外星人来袭(中)"
-	/>
-	<Game crc32="A4846CE6" bytes="131088"
-		en="Ninja Crusaders"
-		zhcn="龙牙"
-	/>
-	<Game crc32="547AD500" bytes="131088"
-		en="Ninja Crusaders"
-		zhcn="龙牙"
-	/>
-	<Game crc32="9CF5AC17" bytes="262160"
-		en="Dragon Ball Z - Gekitou Tenkaichi Budoukai"
-		zhcn="龙珠Z 激斗天下一武道会"
-	/>
-	<Game crc32="5D5C0742" bytes="131088"
-		en="Mega Man"
-		zhcn="洛克人(中)"
-	/>
-	<Game crc32="9E4081ED" bytes="262160"
-		en="Mega Man 2"
-		zhcn="洛克人2(中)"
-	/>
-	<Game crc32="E9F7C580" bytes="262160"
-		en="Mega Man 2"
-		zhcn="洛克人2(中)"
-	/>
-	<Game crc32="40FF0F53" bytes="393232"
-		en="Mega Man 3"
-		zhcn="洛克人3(中)"
-	/>
-	<Game crc32="22C428DF" bytes="524304"
-		en="Mega Man 4"
-		zhcn="洛克人4(中)"
-	/>
-	<Game crc32="A65B5B33" bytes="524304"
-		en="Mega Man 5"
-		zhcn="洛克人5(中)"
-	/>
-	<Game crc32="F0759297" bytes="524304"
-		en="Mega Man 6"
-		zhcn="洛克人6(中)"
-	/>
-	<Game crc32="2565A5CC" bytes="1048608"
-		en="Mega Man 6"
-		zhcn="洛克人6(中)"
-	/>
-	<Game crc32="8C0D7E34" bytes="131088"
-		en="Rush'n Attack"
-		zhcn="绿色兵团(中)"
-	/>
+<Game-List brief="en 以英文字母 L 开头的游戏">
+    <Game crc32="6BB3B40E" bytes="1048592"
+        rom="Lagrange Point"
+        en="Lagrange Point"
+        zhcn="拉格朗日点" language="chinese"
+    />
 </Game-List>
