@@ -33,7 +33,7 @@
       <control type="gamecube" required="false"/>
     </input>
   </game>
-  <game name="10-yard Fight">
+  <game name="10-Yard Fight">
     <id>1658AA</id>
     <locale lang="EN">
       <title>10-Yard Fight</title>
@@ -27238,7 +27238,7 @@ Gameplay consists of singing along in a karaoke-manner to a series of Japanese p
       <control type="gamecube" required="false"/>
     </input>
   </game>
-  <game name="Karate Kid, The">
+  <game name="The Karate Kid">
     <id>1560AA</id>
     <locale lang="EN">
       <title>The Karate Kid</title>
@@ -27746,7 +27746,7 @@ Hearts taken from enemies are used in shops to buy various items and power-ups. 
       <control type="gamecube" required="false"/>
     </input>
   </game>
-  <game name="Kid Klown In Night Mayor World">
+  <game name="Kid Klown in Night Mayor World">
     <id>1754AA</id>
     <locale lang="EN">
       <title>Kid Klown in Night Mayor World</title>
@@ -27783,7 +27783,7 @@ Ce jeu aurait dû être Mickey Mouse Dream Balloon aux USA (Mickey Mouse III: Yu
       <control type="gamecube" required="false"/>
     </input>
   </game>
-  <game name="Kid Kool And The Quest For The Seven Wonder Herbs">
+  <game name="Kid Kool and the Quest for the Seven Wonder Herbs">
     <id>1676AA</id>
     <locale lang="EN">
       <title>Kid Kool and the Quest for the Seven Wonder Herbs</title>
@@ -27951,7 +27951,7 @@ Tirez sur certains types d'ennemis pour récupérer de la santé et des bombes. 
       <control type="gamecube" required="false"/>
     </input>
   </game>
-  <game name="King of Fighters 96, The">
+  <game name="The King of Fighters 96">
     <id>124495</id>
     <locale lang="EN">
       <title>The King of Fighters 96</title>
@@ -27969,10 +27969,10 @@ Tirez sur certains types d'ennemis pour récupérer de la santé et des bombes. 
       <control type="gamecube" required="false"/>
     </input>
   </game>
-  <game name="King of Fighters 97, The">
+  <game name="The King of Fighters 97">
     <id>124496</id>
     <locale lang="EN">
-      <title>King of Fighters 97, The</title>
+      <title>The King of Fighters 97</title>
       <synopsis>The game is a simple port of The King of Fighters '95, with 8 playable characters, unusually set up in several different teams of 3 combinations. About half the roster is missing, which only contains Kyo, Mai, Ralf, Clark, Choi, Chin, Andy and Robert. 
 There are two major revisions of this game; one contains a final boss and ending, while the other is missing both and just loops infinitely. There are also two hacks of this game, called The King of Fighters 98 and The King of Fighters 99; each replaces the 7 in the title screen with a crudely drawn 8 or 9, and updates "Announcing the 1997 King of Fighters tournaments" in the intro to contain its respective year.</synopsis>
       <genre>Fighting</genre>
@@ -27988,10 +27988,10 @@ There are two major revisions of this game; one contains a final boss and ending
       <control type="gamecube" required="false"/>
     </input>
   </game>
-  <game name="King Of Kings - The Early Years">
+  <game name="King of Kings - The Early Years">
     <id>1918AA</id>
     <locale lang="EN">
-      <title>King of Kings, The Early Years</title>
+      <title>King of Kings - The Early Years</title>
       <synopsis>This cartridge contains three adventures. Your life meter is displayed as scrolls and when you are hit, you lose a half a scroll. When all the scrolls are gone, your game is over. You can collect additional scrolls in the game but to get the scroll, you w</synopsis>
       <genre>Educational</genre>
     </locale>
@@ -28060,7 +28060,7 @@ It is necessary to keep all four heroes alive for the fifth and final stage, bec
       <control type="gamecube" required="false"/>
     </input>
   </game>
-  <game name="King's Quest 5">
+  <game name="King's Quest V">
     <id>1724AA</id>
     <locale lang="EN">
       <title>King's Quest V</title>
@@ -28093,10 +28093,10 @@ Esta versión elimina la mayoría de las soluciones alternativas a los rompecabe
       <control type="gamecube" required="false"/>
     </input>
   </game>
-  <game name="Kings Of The Beach">
+  <game name="Kings of the Beach - Professional Beach Volleyball">
     <id>1825AA</id>
     <locale lang="EN">
-      <title>Kings of the Beach : Professional Beach Volleyball</title>
+      <title>Kings of the Beach - Professional Beach Volleyball</title>
       <synopsis>Kings of the Beach is a two on two beach volleyball game. You must quickly move your team about on the sand performing serves, thumps, and spikes to not only out-perform but also out-smart the opposing team.
 
 There are 15 levels and 20 challengers to beat, on famous beaches like Rio, Hawaii and Sydney, in order to be crowned King of the Beach. Both cooperative and competitive multiplayer (non-networked) are also supported.</synopsis>
@@ -28270,7 +28270,7 @@ Kitty's Catch est un jeu à deux joueurs où les joueurs contrôlent les chats n
     <developer>David Wiebenson</developer>
     <publisher>author;Nowhere Productions</publisher>
   </game>
-  <game name="New Zealand Story, The">
+  <game name="The New Zealand Story">
     <id>1518AA</id>
     <locale lang="EN">
       <title>The New Zealand Story</title>
@@ -28303,7 +28303,7 @@ In some levels, a few areas are located further up than just left or right, and 
       <control type="gamecube" required="false"/>
     </input>
   </game>
-  <game name="Klashball">
+  <game name="KlashBall">
     <id>1743AA</id>
     <locale lang="EN">
       <title>KlashBall</title>
@@ -28530,7 +28530,7 @@ Loosely based on an animé series Villgust, the game is a mixture of traditional
       <control type="gamecube" required="false"/>
     </input>
   </game>
-  <game name="Krion Conquest, The">
+  <game name="The Krion Conquest">
     <id>1784AA</id>
     <locale lang="EN">
       <title>The Krion Conquest</title>
@@ -28692,7 +28692,7 @@ Thomas es capaz de moverse a la izquierda y derecha, saltar, agacharse, dar puñ
       <control type="gamecube" required="false"/>
     </input>
   </game>
-  <game name="Kung Fu Heroes">
+  <game name="Kung-Fu Heroes">
     <id>1695AA</id>
     <locale lang="EN">
       <title>Kung-Fu Heroes</title>
@@ -28990,7 +28990,7 @@ Entre les étapes, le joueur sera mis au défi à l'un des trois mini-jeux possi
       <control type="gamecube" required="false"/>
     </input>
   </game>
-  <game name="Kyuukyoku Harikiri Stadium 3">
+  <game name="Kyuukyoku Harikiri Stadium III">
     <id>88416A</id>
     <locale lang="EN">
       <title>Kyuukyoku Harikiri Stadium III</title>
@@ -29011,7 +29011,7 @@ Entre les étapes, le joueur sera mis au défi à l'un des trois mini-jeux possi
       <control type="gamecube" required="false"/>
     </input>
   </game>
-  <game name="L'empereur">
+  <game name="L'Empereur">
     <id>18730A</id>
     <locale lang="EN">
       <title>L'Empereur</title>
@@ -29070,7 +29070,7 @@ Tienes que construir y organizar un ejército militar leal y llevarlos a la guer
       <control type="gamecube" required="false"/>
     </input>
   </game>
-  <game name="Disney's Beauty And The Beast">
+  <game name="Disney's Beauty and the Beast">
     <id>18636A</id>
     <locale lang="EN">
       <title>Disney's Beauty and the Beast</title>
@@ -29369,7 +29369,7 @@ Les zones de donjon sont faites en pseudo-3D et sont vues du point de vue de la 
       <control type="gamecube" required="false"/>
     </input>
   </game>
-  <game name="Last Ninja, The">
+  <game name="The Last Ninja">
     <id>142052</id>
     <locale lang="EN">
       <title>The Last Ninja</title>
@@ -29398,7 +29398,7 @@ Les zones de donjon sont faites en pseudo-3D et sont vues du point de vue de la 
       <control type="gamecube" required="false"/>
     </input>
   </game>
-  <game name="Last Starfighter, The">
+  <game name="The Last Starfighter">
     <id>18806A</id>
     <locale lang="EN">
       <title>The Last Starfighter</title>
@@ -29500,7 +29500,7 @@ O objetivo deste jogo é cortar toda a grama antes de ficar sem combustível. Re
       <control type="gamecube" required="false"/>
     </input>
   </game>
-  <game name="Layla">
+  <game name="LayLa">
     <id>71444A</id>
     <locale lang="EN">
       <title>LayLa</title>
@@ -29532,7 +29532,7 @@ O objetivo deste jogo é cortar toda a grama antes de ficar sem combustível. Re
       <control type="gamecube" required="false"/>
     </input>
   </game>
-  <game name="Le Livre De La Jungle">
+  <game name="The Jungle Book">
     <id>71347A</id>
     <locale lang="EN">
       <title>The Jungle Book</title>
@@ -29567,7 +29567,7 @@ O objetivo deste jogo é cortar toda a grama antes de ficar sem combustível. Re
       <control type="gamecube" required="false"/>
     </input>
   </game>
-  <game name="Lion King, The">
+  <game name="The Lion King">
     <id>1332AA</id>
     <locale lang="EN">
       <title>The Lion King</title>
@@ -29671,7 +29671,7 @@ La Mecánica de movimiento es: Presionar A para iniciar la subida, presionar A e
       <control type="gamecube" required="false"/>
     </input>
   </game>
-  <game name="Legacy Of The Wizard">
+  <game name="Legacy of the Wizard">
     <id>1616AA</id>
     <locale lang="EN">
       <title>Legacy of the Wizard</title>
@@ -29789,7 +29789,7 @@ Como Valiente el jugador debe encontrar Camelot e ir en la búsqueda del Rey Art
       <control type="gamecube" required="false"/>
     </input>
   </game>
-  <game name="Legend of Robin Hood, The">
+  <game name="The Legend of Robin Hood">
     <id>88440A</id>
     <locale lang="EN">
       <title>The Legend of Robin Hood</title>
@@ -29827,7 +29827,7 @@ Le jeu lui-même est très amusant, c'est un RPG d'action et il montre la vie de
     </input>
     <date year="2"/>
   </game>
-  <game name="Legend Of The Ghost Lion">
+  <game name="Legend of the Ghost Lion">
     <id>18691A</id>
     <locale lang="EN">
       <title>Legend of the Ghost Lion</title>
@@ -29868,7 +29868,7 @@ En este juego, controlas a María a medida que ella viaja en los mapas del mundo
       <control type="gamecube" required="false"/>
     </input>
   </game>
-  <game name="Legend of Zelda - Outlands, The">
+  <game name="The Legend of Zelda - Outlands">
     <id>152475</id>
     <locale lang="EN">
       <title>The Legend of Zelda - Outlands</title>
@@ -30011,10 +30011,10 @@ Varios modos de juego secundarios (Peligro, Suerte, y Palacio) también se activ
       <control type="gamecube" required="false"/>
     </input>
   </game>
-  <game name="Legends Of The Diamond">
+  <game name="Legends of the Diamond - The Baseball Championship Game">
     <id>1756AA</id>
     <locale lang="EN">
-      <title>Legends of the Diamond : The Baseball Championship Game</title>
+      <title>Legends of the Diamond - The Baseball Championship Game</title>
       <synopsis>This baseball game features 30 all-time great baseball players (only 6 are pitchers). There is an exhibition mode which is just a single game and a tournament mode where you pick your players and then the computer pits you against the others in random made teams; win and you advance on to the next game. 
 
 Pitching is done by a behind the batter view. The pitchers can throw the ball with three different speeds; slow, medium, and fast. Also, the fielders are controlled manually.
@@ -30101,10 +30101,10 @@ Tu puedes controlar a cualquier Lemming de forma individual, asignandole una fun
       <control type="gamecube" required="false"/>
     </input>
   </game>
-  <game name="Chevaliers Du Zodiaque - La Legende D'or ,Les">
+  <game name="Les Chevaliers Du Zodiaque - La Légende D'or">
     <id>1272AA</id>
     <locale lang="EN">
-      <title>Chevaliers Du Zodiaque - La Légende D'or ,Les</title>
+      <title>Les Chevaliers Du Zodiaque - La Légende D'or</title>
       <synopsis>The fight has just begun... You will play the role of Seiya, the Knight of Zodiac. You should challenge the Galaxian Wars, the Silver Knights or the Gold Knights to get the sacred armour of Sagittarius. Go, Seiya! Fight against the evil for the sake of Justice!!!</synopsis>
       <genre>Adventure,Role playing games</genre>
     </locale>
@@ -30404,7 +30404,7 @@ The game contains four different endings which depend on the player's actions an
   <game name="Little League Baseball - Championship Series">
     <id>1937AA</id>
     <locale lang="EN">
-      <title>Little League Baseball : Championship Series</title>
+      <title>Little League Baseball - Championship Series</title>
       <synopsis>You get your choice of 16 teams to play, eight domestic teams and eight foreign teams from Asia and Europe. In One-Player mode you play the computer in an international tournament. For Two Players, you each have a squad in the tourney. All games are seven innings long.
 
 To help you pick a team, Power Analysis screen enables you to see how teams rate on hitting, pitching, overall defense, and running.
@@ -30844,7 +30844,7 @@ In the bottom left of the screen there is a section that has a thin red line at 
   <game name="Low G Man - The Low Gravity Man">
     <id>1399AA</id>
     <locale lang="EN">
-      <title>Low G Man : The Low Gravity Man</title>
+      <title>Low G Man - The Low Gravity Man</title>
       <synopsis>The year is 2284, and the human race has perfected space travel and is colonizing the galaxy. To help out, robots of all types are used in exploring new planets. There are even entire planets dedicated to manufacturing new robots. But then an alien race captured one of the robot manufacturing planets and reprogrammed the robots to destroy humans! Now it's up to you to go in and take back the planet. Using a low gravity backpack, you have the ability to jump higher than normally possible. You also have a wide variety of weapons to help battle the robots guarding the planet, and additional weapons can be found by destroying certain robots.  Some robots will be riding in vehicles. If you destroy the driver, you can capture the vehicle to help you out on your mission.</synopsis>
       <genre>Action,Platform</genre>
     </locale>
@@ -30871,7 +30871,7 @@ In the bottom left of the screen there is a section that has a thin red line at 
       <control type="gamecube" required="false"/>
     </input>
   </game>
-  <game name="Lu Ye Xian Zong">
+  <game name="The Wizard of Oz">
     <id>143323</id>
     <locale lang="EN">
       <title>The Wizard of Oz</title>
@@ -30883,6 +30883,9 @@ In the bottom left of the screen there is a section that has a thin red line at 
     </locale>
     <locale lang="FR">
       <synopsis>Un jeu de plateforme assez standard dans lequel le joueur doit guider les personnages du film (Dorothy est le seul personnage jouable au départ, tandis que d'autres apparaissent plus tard) avec chacun ayant ses propres capacités.</synopsis>
+    </locale>
+    <locale lang="ZHCN">
+      <title>绿野仙踪</title>
     </locale>
     <developer>Waixing</developer>
     <date year="1996" month="01" day="11"/>
@@ -31014,7 +31017,7 @@ Le jeu conserve la plupart des éléments de gameplay présents dans la version 
     </input>
     <date year=""/>
   </game>
-  <game name="M.u.l.e.">
+  <game name="M.U.L.E.">
     <id>18737A</id>
     <locale lang="EN">
       <title>M.U.L.E.</title>
@@ -31071,7 +31074,7 @@ M.U.L.E is a very finely tuned game where rewards, penalties, time to use for va
   <game name="M.U.S.C.L.E. - Tag Team Match">
     <id>1685AA</id>
     <locale lang="EN">
-      <title>M.U.S.C.L.E. - Tag Team Matchh</title>
+      <title>M.U.S.C.L.E. - Tag Team Match</title>
       <synopsis>M.U.S.C.L.E. (Millions of Unusual Small Creatures Lurking Everywhere) is an early NES wrestling game based on the line of toys popular in the 1980s. M.U.S.C.L.E. allows you to choose two wrestling stars from the M.U.S.C.L.E. universe (from a selection of eight) in a tag-team match tournament in one player mode, and versus a friend in two player mode. Each wrestler has one special move that can be used by collecting the power pellet that floats around the ring at random instances.</synopsis>
       <genre>Sports</genre>
     </locale>
@@ -31213,7 +31216,7 @@ The game is played in a top-down view where you move your car to attack enemy ca
       <control type="gamecube" required="false"/>
     </input>
   </game>
-  <game name="Mafat Conspiracy, The">
+  <game name="The Mafat Conspiracy">
     <id>1764AA</id>
     <locale lang="EN">
       <title>The Mafat Conspiracy</title>
@@ -31459,7 +31462,7 @@ This title is common on pirate Famicom multicarts and systems; for example, it's
       <control type="gamecube" required="false"/>
     </input>
   </game>
-  <game name="Magic Jewelry 2">
+  <game name="Magic Jewelry II">
     <id>1913AA</id>
     <locale lang="EN">
       <title>Magic Jewelry II</title>
@@ -31552,7 +31555,7 @@ World 7: MOUTH</synopsis>
     </input>
     <publisher>Zemina</publisher>
   </game>
-  <game name="Magic Of Scheherazade, The">
+  <game name="The Magic of Scheherazade">
     <id>1697AA</id>
     <locale lang="EN">
       <title>The Magic of Scheherazade</title>
@@ -32598,7 +32601,7 @@ Le jeu est très amusant à 2 car on peut jouer en coopération ou se faire des 
       <control type="gamecube" required="false"/>
     </input>
   </game>
-  <game name="Mario Is Missing !">
+  <game name="Mario Is Missing!">
     <id>1360AA</id>
     <locale lang="EN">
       <title>Mario Is Missing!</title>
@@ -32707,7 +32710,7 @@ One day she persuades her boss to let her investigate the owner of a string of l
       <control type="gamecube" required="false"/>
     </input>
   </game>
-  <game name="Master Chu And The Drunkard Hu">
+  <game name="Master Chu and the Drunkard Hu">
     <id>18810A</id>
     <locale lang="EN">
       <title>Master Chu and the Drunkard Hu</title>
@@ -32880,7 +32883,7 @@ This game is unlicensed.</synopsis>
       <control type="gamecube" required="false"/>
     </input>
   </game>
-  <game name="Mcdonald Land">
+  <game name="M.C. Kids">
     <id>1590AA</id>
     <locale lang="EN">
       <title>M.C. Kids</title>
@@ -33321,7 +33324,7 @@ It is the sequel to Towa Chiki's earlier Sherlock Holmes game (Sherlock Holmes: 
       <control type="gamecube" required="false"/>
     </input>
   </game>
-  <game name="Meitantei Holmes - M Kara No Chousenjou">
+  <game name="Meitantei Holmes - M kara no Chousenjou">
     <id>88510A</id>
     <locale lang="EN">
       <title>Meitantei Holmes - M kara no Chousenjou</title>
@@ -33433,10 +33436,10 @@ Das Spiel wurde berüchtigt, da man zwischen den Leveln sehen kann, wie nach und
     <date year="1"/>
     <publisher>Henggedianzhi</publisher>
   </game>
-  <game name="Mermaids Of Atlantis - The Riddle Of The Magic Bubble">
+  <game name="Mermaids of Atlantis - The Riddle of the Magic Bubble">
     <id>71451A</id>
     <locale lang="EN">
-      <title>Mermaids of Atlantis : The Riddle of the Magic Bubble</title>
+      <title>Mermaids of Atlantis - The Riddle of the Magic Bubble</title>
       <synopsis>Corrected version of Bubble Bath Babes which was an adult-oriented puzzle video game developed by C&amp;E. Although the game was not licensed by Nintendo, it is designed for play on the Nintendo Entertainment System. It is one of three pornographic themed games released by Panesian, along with Hot Slots and Peek A Boo Poker
 The gameplay is reminiscent of that of Tetris and Puzzle Bobble in that the goal is to steer clusters of rising bubbles and place them so that they connect to other bubbles of similar color along the top of the screen. If the sufficient number of similar bubbles are touching, they will be cleared and all free neighboring bubbles will rise further, allowing for combos. If the accumulated bubbles on screen reach the bottom of the playing area, the game is over. If a level is completed, the player will be rewarded with erotica.
 The original version was released by C&amp;E themselves under the title Magic Bubble in 1991. It was licensed to American Video Entertainment, who released it in the same year under the title Mermaids of Atlantis, with all pornographic elements removed or obscured. A localized version leaving all pornographic content intact was released by Hacker International in Japan as Soap Panic and by Panesian in the United States as Bubble Bath Babes.
@@ -33590,10 +33593,10 @@ The game is a console-style RPG with random encounters and turn-based combat vie
       <control type="gamecube" required="false"/>
     </input>
   </game>
-  <game name="Metalmech - Man And Machine">
+  <game name="Metal Mech - Man &amp; Machine">
     <id>1839AA</id>
     <locale lang="EN">
-      <title>Metal Mech : Man &amp; Machine</title>
+      <title>Metal Mech - Man &amp; Machine</title>
       <synopsis>You control the pilot of a MetalMech vehicle (which looks similar to ED-209 of Robocop  licenses) who can move across the screen left or right, either with the mech or without, and fire any direction except straight down. The Mech is better armored, but also a bigger target and much too big to climb ladders, so you'll find yourself as much outside as inside. Your goal is to cross each level filled with randomly generating enemies and reach the next. Power-ups are hidden in various containers and in various places.</synopsis>
       <genre>Action</genre>
     </locale>
@@ -33850,7 +33853,7 @@ The game simulates many terrains, such as grass and sand, and also takes account
       <control type="gamecube" required="false"/>
     </input>
   </game>
-  <game name="Michael Andretti's World Grand Prix">
+  <game name="Michael Andretti's World GP">
     <id>1953AA</id>
     <locale lang="EN">
       <title>Michael Andretti's World GP</title>
@@ -33903,10 +33906,10 @@ The game includes 5 stages, each one taken from the original game, divided into 
     </input>
     <developer>Ei-How Yang</developer>
   </game>
-  <game name="Mickey Mouse 3 - Yume Fuusen">
+  <game name="Mickey Mouse III - Yume Fuusen / Mickey Mouse III - Dream Balloon">
     <id>109361</id>
     <locale lang="EN">
-      <title>Mickey Mouse : Dream Balloon</title>
+      <title>Mickey Mouse III - Dream Balloon</title>
       <synopsis>Mickey Mouse is working part-time selling balloons in order to buy a present for Minnie, whose birthday is a few days away. He gets news from Pluto that Minnie cannot wake up. He sets off to visit her, only to find that she has been trapped in a nightmare. Now, Mickey must journey into Minnie's mind in order to free her from the nightmare.</synopsis>
       <genre>Platform</genre>
     </locale>
@@ -33971,7 +33974,7 @@ Mickey vend des ballons pour acheter un cadeau d'anniversaire à Minnie quand Pl
       <control type="gamecube" required="false"/>
     </input>
   </game>
-  <game name="Mickey's Adventures In Numberland">
+  <game name="Mickey's Adventure in Numberland">
     <id>1633AA</id>
     <locale lang="EN">
       <title>Mickey's Adventure in Numberland</title>
@@ -34003,7 +34006,7 @@ Mickey vend des ballons pour acheter un cadeau d'anniversaire à Minnie quand Pl
       <control type="gamecube" required="false"/>
     </input>
   </game>
-  <game name="Mickey's Safari In Letterland">
+  <game name="Mickey's Safari in Letterland">
     <id>1704AA</id>
     <locale lang="EN">
       <title>Mickey's Safari in Letterland</title>
@@ -34039,7 +34042,7 @@ Further, the game allows the player to point at letters on a board and have Mick
       <control type="gamecube" required="false"/>
     </input>
   </game>
-  <game name="Micromachines">
+  <game name="Micro Machines">
     <id>1545AA</id>
     <locale lang="EN">
       <title>Micro Machines</title>
@@ -34068,10 +34071,10 @@ Further, the game allows the player to point at letters on a board and have Mick
       <control type="gamecube" required="false"/>
     </input>
   </game>
-  <game name="Mig-29 Soviet Fighter">
+  <game name="MiG-29 Soviet Fighter">
     <id>1775AA</id>
     <locale lang="EN">
-      <title>MiG 29 : Soviet Fighter</title>
+      <title>MiG-29 Soviet Fighter</title>
       <synopsis>The closest comparison to this action game would be Afterburner, a game which was overdue a decent home computer re-creation. You view the game slightly behind your plane, which must shoot out enemy planes, tanks and installations while avoiding their fire. You are armed with different kinds of weapons including downward bombs, air-to-air missiles and a nuclear bomb. More of each of these can be picked up by collecting the parachutes which are dropped into your path. There are mountain ranges, deserts and arctic scenes to clear along the way, with big boss planes to face.</synopsis>
       <genre>Simulation</genre>
     </locale>
@@ -34097,10 +34100,10 @@ Further, the game allows the player to point at letters on a board and have Mick
       <control type="gamecube" required="false"/>
     </input>
   </game>
-  <game name="Might And Magic - Secret Of The Inner Sanctum">
+  <game name="Might &amp; Magic - Secret of the Inner Sanctum">
     <id>1533AA</id>
     <locale lang="EN">
-      <title>Might &amp; Magic: Secret of the Inner Sanctum</title>
+      <title>Might &amp; Magic - Secret of the Inner Sanctum</title>
       <synopsis>In Might and Magic, the player controls a party of adventurers in a medieval world called Varn. Before long the heroes realize that one of the four kings that rule the countries of Varn is in fact an impostor, a creature from outer space. Your task is to find the real king and ultimately to stop the alien invasion into Varn.
 
 This is the first game in the  Might and Magic series, and one of the prototypes of role-playing games in general. The entire game is viewed from first-person perspective. The player creates a party of six adventurers, with traditional classes to choose from (fighter, cleric, etc.). The player also specifies the gender and the age of the characters - they grow old and will eventually die of natural causes. As in most RPGs, the gameplay revolves around exploring the game world, performing quests, and leveling up to be able to proceed to the story-advancing challenges. The turn-based battles typically take place against six monsters, but enemy reinforcements can appear once their comrades have been slain.</synopsis>
@@ -34204,7 +34207,7 @@ The game is a side-scrolling beat 'em up and a one-player only game (unlike othe
       <control type="gamecube" required="false"/>
     </input>
   </game>
-  <game name="Mike Tyson's Punch-out!!">
+  <game name="Mike Tyson's Punch-Out!!">
     <id>134960</id>
     <locale lang="EN">
       <title>Mike Tyson's Punch-Out!!</title>
@@ -34485,7 +34488,7 @@ Pour faire un tir, à l'aide du joystick, déplacez le réticule dans la directi
       <control type="gamecube" required="false"/>
     </input>
   </game>
-  <game name="Miracle Piano Teaching System, The">
+  <game name="The Miracle Piano Teaching System">
     <id>1867AA</id>
     <locale lang="EN">
       <title>The Miracle Piano Teaching System</title>
@@ -34637,7 +34640,7 @@ Ce jeu est généralement considéré comme plutôt mauvais par la plupart. Quan
   <game name="Mission - Impossible">
     <id>1447AA</id>
     <locale lang="EN">
-      <title>Mission : Impossible</title>
+      <title>Mission - Impossible</title>
       <synopsis>Your mission, if you choose to accept it, is to rescue Dr. O and Shannon from the grubby clutches of the Sinister Seven as quickly as possible.  
 
 As you fight your way through each area, you must obtain information and vital ID cards.  Your progress is blocked at every turn by acid flames, raw sewage, scorching steam, high voltage electricity and poison gas.
@@ -35264,7 +35267,7 @@ You must fly through space, destroying meteors and aliens then you land and ente
       <control type="gamecube" required="false"/>
     </input>
   </game>
-  <game name="Morita Kazuo No Shougi">
+  <game name="Morita Kazuo no Shougi">
     <id>88565A</id>
     <locale lang="EN">
       <title>Morita Kazuo no Shougi</title>
@@ -35415,7 +35418,7 @@ Closely related to the SNES game  EarthBound, "Mother" is an unusual console-sty
   <game name="Motor City Patrol">
     <id>1874AA</id>
     <locale lang="EN">
-      <title>MotorCity Patrol</title>
+      <title>Motor City Patrol</title>
       <synopsis>A simple, top-down driving game where you play a patrol officer in a city police force. You progressively take down bigger bad guys by chasing them down and shooting at them. The gameplay is a precursor to the first Grand Theft Auto games, developed later.
 
 Gameplay consists of driving your squad car around the city, pulling over speeders, by flashing the siren, and stopping random robberies, by shooting the getaway car.  Larger crimes will pop up, which lead to capturing whoever the current Public Enemy No. 1 is.  The game ends when you fail in a mission, or when you total your police cruiser.</synopsis>
@@ -35682,10 +35685,10 @@ C'est une entreprise du nom de Tokuma Soft qui est cette fois aux commandes et l
     <publisher>RetroSouls</publisher>
     <date year="2015" month="" day=""/>
   </game>
-  <game name="Muppet Adventure - Chaos At The Carnival">
+  <game name="Muppet Adventure - Chaos at the Carnival">
     <id>1703AA</id>
     <locale lang="EN">
-      <title>Muppet Adventure : Chaos at the Carnival</title>
+      <title>Muppet Adventure - Chaos at the Carnival</title>
       <synopsis>Chaos at the Carnival is a collection of six arcade mini-games.
 
 Miss Piggy has been "pignapped" by the sinister Dr. Grump; her Muppet friends come to the rescue. Kermit, Gonzo, Fozzie and three other characters from the children's TV show dash into Grump's mysterious fun fair in search for their pink companion. They must brave five rides in succession in order to take on the Grumpasaurus in the final carnival confrontation.
@@ -35829,10 +35832,10 @@ En mode deux joueurs contre, chaque joueur sélectionne à partir d'une liste de
       <control type="gamecube" required="false"/>
     </input>
   </game>
-  <game name="Mutant Virus - Crisis in a Computer World, The">
+  <game name="The Mutant Virus - Crisis in a Computer World">
     <id>18820A</id>
     <locale lang="EN">
-      <title>The Mutant Virus : Crisis in a Computer World</title>
+      <title>The Mutant Virus - Crisis in a Computer World</title>
       <synopsis>In The Mutant Virus you play the part of Ron Trainer, the best of the best at the elite corps of Computer Master Debuggers. And just recently, something has gone terribly wrong. CPI, the Central Programming Institute, controls all the computers in the city which in turn control everything in the city itself. There are some bugs in this system and it's your job to get rid of them and find out how they got there. You will be miniaturized and sent into the computer with a vacine. Gameplay is from an overhead view where you will need to visit all the infected computer systems and use the vacine to contain the virus.</synopsis>
       <genre>Action</genre>
     </locale>
@@ -36255,7 +36258,7 @@ This video game allows the player to re-enact the Napoleonic Wars using a bird's
     <developer>Fuzhou Waixing Computer Science &amp;amp; Technology</developer>
     <date year="1998" month="" day=""/>
   </game>
-  <game name="Narc">
+  <game name="NARC">
     <id>1805AA</id>
     <locale lang="EN">
       <title>NARC</title>
@@ -36364,7 +36367,7 @@ Le jeu est jouable a quatre</synopsis>
   <game name="Nekketsu Street Basket - Ganbare Dunk Heroes">
     <id>18822A</id>
     <locale lang="EN">
-      <title>Nekketsu Street Basket: Ganbare Dunk Heroes</title>
+      <title>Nekketsu Street Basket - Ganbare Dunk Heroes</title>
       <synopsis>Another action/sports title in the Nekketsu High game series. Nekketsu Street Basket is exactly what it sounds like: a tournament of two-on-two "street" basketball matches all across the US featuring the characters of the Nekketsu High series.
 
 The game uses the same base engine and graphics as the other games in the series, featuring super-deformed sprites moving across a side-scrolling stage trying to defeat the opposing team. You can pass the ball, shoot it, and attempt super dunks for added points. As with other Nekketsu games you can choose to play foul and beat the hell out of your opponents with your bare hands or any weapon you can find in the stages, and there are many other rule-bending features such as double and triple hoops that score extra points.</synopsis>
@@ -36399,7 +36402,7 @@ Le jeu est jouable à quatre simultanément.</synopsis>
       <control type="gamecube" required="false"/>
     </input>
   </game>
-  <game name="Nes Open Tournament Golf">
+  <game name="NES Open Tournament Golf">
     <id>1472AA</id>
     <locale lang="EN">
       <title>NES Open Tournament Golf</title>
@@ -36431,7 +36434,7 @@ Le jeu est jouable à quatre simultanément.</synopsis>
       <control type="gamecube" required="false"/>
     </input>
   </game>
-  <game name="Nes Play Action Football">
+  <game name="NES Play Action Football">
     <id>1804AA</id>
     <locale lang="EN">
       <title>NES Play Action Football</title>
@@ -36464,10 +36467,10 @@ Games are divided into four 15-minute (accelerated real-time) quarters.  There a
       <control type="gamecube" required="false"/>
     </input>
   </game>
-  <game name="Nes Virus Cleaner">
+  <game name="NES Virus Cleaner">
     <id>166767</id>
     <locale lang="EN">
-      <title>Nes Virus Cleaner</title>
+      <title>NES Virus Cleaner</title>
       <synopsis>NES Virus Cleaner is pretty much a spoof of the NES Cleaning Kit. That thing barely helped clean the NES, just as NES Virus Cleaner doesn't do much for removing ?viruses? from your NES. You guide Clik, the hero, around inside your NES and grab viruses in the various spots they are placed. The ultimate goal is to get to the lockout chip and destroy Virii, the main virus. The obstacles in the game are electric bolts, electric sparks, disappearing blocks, a homing missile system, and of course, time. If you run out of time on a certain level, the game is over. If you get hit by an enemy, you will respawn at the point where you picked up the last virus. It's a pretty simple concept overall. I tried to cover everything in the tutorial, but I did in fact miss the part about respawning at the last picked up virus. Oh well, things happen!</synopsis>
       <genre/>
     </locale>
@@ -36503,7 +36506,7 @@ This homebrew first appeared as an entry by Matrixz in the 2004 Minigame Competi
     <date year="2008"/>
     <publisher>Matrixz</publisher>
   </game>
-  <game name="New Ghostbusters 2">
+  <game name="New Ghostbusters II">
     <id>1378AA</id>
     <locale lang="EN">
       <title>New Ghostbusters II</title>
@@ -36547,7 +36550,7 @@ The game contains six levels, inspired by the movie:The Courthouse
       <control type="gamecube" required="false"/>
     </input>
   </game>
-  <game name="Nfl">
+  <game name="NFL">
     <id>1985AA</id>
     <locale lang="EN">
       <title>NFL</title>
@@ -36578,10 +36581,10 @@ The player is in control of the action from a side-scrolling perspective. The ca
       <control type="gamecube" required="false"/>
     </input>
   </game>
-  <game name="Nigel Mansell's World Championship">
+  <game name="Nigel Mansell's World Championship Racing">
     <id>1816AA</id>
     <locale lang="EN">
-      <title>Nigel Mansell's World Championship Challenge</title>
+      <title>Nigel Mansell's World Championship Racing</title>
       <synopsis>Timing smiled on Gremlin with this licensed Formula 1 simulation, as Nigel's long quest for a championship had finally come good. The game was pitched somewhere in between a full-blown simulation like F1 GP and action games like Continental Circus. Only 12 cars were in each race, which could last from between 3 and 20 laps.
 
 Before each race you can customize wing downforce, gear ratio, tyre selection and fuel load choices  pitstops are a standard feature of the longer races. The 16-bit versions include a unique 'Improve With Mansell' mode, in which a digitized version of Nigel's head appears in the top corner of the screen, offering instructions and praise.</synopsis>
@@ -37212,7 +37215,7 @@ Les scènes d'intro et les nombreux interludes ont été supprimés dans les ver
   <game name="Nishimura Kyoutarou Mystery - Blue Train Satsujin Jiken">
     <id>71477A</id>
     <locale lang="EN">
-      <title>Nishimura Kyoutarou Mystery: Blue Train Satsujin J</title>
+      <title>Nishimura Kyoutarou Mystery - Blue Train Satsujin Jiken</title>
       <synopsis>Blue Train Murder Murder Case is based off of a book by Kyoutarou Nishimura with the same name, published in 1978, which was his first installment of railway mysteries. This adventure games starts with a murder incident on a blue train (in Japan, blue tra</synopsis>
       <genre>Adventure</genre>
     </locale>
@@ -37331,7 +37334,7 @@ During each of turn (one per season), players can issue one of several commands 
       <control type="gamecube" required="false"/>
     </input>
   </game>
-  <game name="Nobunaga's Ambition 2">
+  <game name="Nobunaga's Ambition II">
     <id>18828A</id>
     <locale lang="EN">
       <title>Nobunaga's Ambition II</title>
@@ -37423,7 +37426,7 @@ The end outcome is either the fall of the fief to the attacking forces or victor
     </input>
     <date year=""/>
   </game>
-  <game name="North And South">
+  <game name="North and South">
     <id>1476AA</id>
     <locale lang="EN">
       <title>North and South</title>
