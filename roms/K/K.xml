@@ -45,6 +45,11 @@
 		en="Kekkyoku Nankyoku Daibouken"
 		zhcn="南极大冒险"
 	/>
+	<Game crc32="66A30110" bytes="524304"
+		rom="Kira Kira Star Night DX"
+		en="Kira Kira Star Night DX"
+		zhcn="闪亮亮星星之夜DX"
+	/>
 	<Game crc32="0D8C4182" bytes="40976"
 		rom="Kung Fu"
 		en="Kung Fu"

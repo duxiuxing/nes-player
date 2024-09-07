@@ -1,5 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Game-List brief="en 以英文字母 C 开头的游戏">
+	<Game crc32="7254D53D" bytes="262160"
+		rom="Captain America and the Avengers"
+		en="Captain America and the Avengers"
+		zhcn="上尉密令"
+	/>
+	<Game crc32="CFDF0DC5" bytes="393232"
+		rom="Captain America and the Avengers"
+		en="Captain America and the Avengers"
+		zhcn="上尉密令" language="chinese"
+	/>
 	<Game crc32="856114C8" bytes="131088"
 		rom="Castlevania"
 		en="Castlevania"
@@ -44,6 +54,21 @@
 		rom="Castlevania III - Dracula's Curse"
 		en="Castlevania III - Dracula's Curse"
 		zhcn="恶魔城3"
+	/>
+	<Game crc32="1C63B350" bytes="393232"
+		rom="Chip 'n Dale - Rescue Rangers"
+		en="Chip 'n Dale - Rescue Rangers"
+		zhcn="松鼠大作战" language="chinese"
+	/>
+	<Game crc32="4ACC32BA" bytes="393232"
+		rom="Chip 'n Dale - Rescue Rangers 2"
+		en="Chip 'n Dale - Rescue Rangers 2"
+		zhcn="松鼠大作战2" language="chinese"
+	/>
+	<Game crc32="A1C631FA" bytes="393232"
+		rom="Chip 'n Dale - Rescue Rangers 2"
+		en="Chip 'n Dale - Rescue Rangers 2"
+		zhcn="松鼠大作战2" language="chinese"
 	/>
 	<Game crc32="96EE047B" bytes="24592"
 		rom="Choujikuu Yousai - Macross"

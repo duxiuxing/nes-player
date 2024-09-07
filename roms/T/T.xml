@@ -100,6 +100,16 @@
 		en="The Guardian Legend"
 		zhcn="嘉蒂外传" language="chinese"
 	/>
+	<Game crc32="02BB0C56" bytes="131088"
+		rom="The Legend of Zelda"
+		en="The Legend of Zelda"
+		zhcn="塞尔达传说"
+	/>
+	<Game crc32="C9B88115" bytes="131088"
+		rom="The Legend of Zelda"
+		en="The Legend of Zelda"
+		zhcn="塞尔达传说" language="chinese"
+	/>
 	<Game crc32="0D6BD840" bytes="262160"
 		rom="The Punisher"
 		en="The Punisher"

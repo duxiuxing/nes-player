@@ -130,6 +130,31 @@
 		en="Donkey Kong Jr."
 		zhcn="大金刚2"
 	/>
+	<Game crc32="62AFE166" bytes="262160"
+		rom="Double Dragon"
+		en="Double Dragon"
+		zhcn="双截龙"
+	/>
+	<Game crc32="77FAF439" bytes="327696"
+		rom="Double Dragon II - The Revenge"
+		en="Double Dragon II - The Revenge"
+		zhcn="双截龙2" language="chinese"
+	/>
+	<Game crc32="A0F7027D" bytes="262160"
+		rom="Double Dragon II - The Revenge"
+		en="Double Dragon II - The Revenge"
+		zhcn="双截龙2"
+	/>
+	<Game crc32="459520CD" bytes="262288"
+		rom="Double Dragon III - The Sacred Stones"
+		en="Double Dragon III - The Sacred Stones"
+		zhcn="双截龙3" language="chinese"
+	/>
+	<Game crc32="4CB917BC" bytes="294928"
+		rom="Double Dragon III - The Sacred Stones"
+		en="Double Dragon III - The Sacred Stones"
+		zhcn="双截龙3" language="chinese"
+	/>
 	<Game crc32="AED05FB2" bytes="483344"
 		rom="Downtown Nekketsu Koushinkyoku - Soreyuke Daiundoukai"
 		en="Downtown Nekketsu Koushinkyoku - Soreyuke Daiundoukai"

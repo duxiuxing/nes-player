@@ -30,6 +30,16 @@
 		en="Pinball"
 		zhcn="弹珠台" language="chinese"
 	/>
+	<Game crc32="274EB12A" bytes="24592"
+		rom="Pooyan"
+		en="Pooyan"
+		zhcn="三只小猪" language="chinese"
+	/>
+	<Game crc32="FBAAB889" bytes="24592"
+		rom="Pooyan"
+		en="Pooyan"
+		zhcn="三只小猪"
+	/>
 	<Game crc32="4E2B88F5" bytes="24592"
 		rom="Popeye"
 		en="Popeye"

@@ -20,6 +20,26 @@
 		en="S.C.A.T. - Special Cybernetic Attack Team"
 		zhcn="空中魂斗罗" language="chinese"
 	/>
+	<Game crc32="90E97A73" bytes="524304"
+		rom="Saint Seiya - Ougon Densetsu Kanketsu Hen"
+		en="Saint Seiya - Ougon Densetsu Kanketsu Hen"
+		zhcn="圣斗士星矢 黄金传说完结篇" language="chinese"
+	/>
+	<Game crc32="AC50B717" bytes="524304"
+		rom="San Goku Shi 2 - Haou no Tairiku"
+		en="San Goku Shi 2 - Haou no Tairiku"
+		zhcn="三国志2 霸王的大陆" language="chinese"
+	/>
+	<Game crc32="88641B52" bytes="262160"
+		rom="SD Gundam - Gachapon Senshi 2 - Capsule Senki"
+		en="SD Gundam - Gachapon Senshi 2 - Capsule Senki"
+		zhcn="SD高达世界 扭蛋战士2 胶囊战记"
+	/>
+	<Game crc32="F17FEFDD" bytes="262160"
+		rom="SD Hero Soukessen - Taose! Aku no Gundan"
+		en="SD Hero Soukessen - Taose! Aku no Gundan"
+		zhcn="SD英雄总决战"
+	/>
 	<Game crc32="3747F350" bytes="270352"
 		rom="Shadow of the Ninja"
 		en="Shadow of the Ninja"
@@ -74,6 +94,11 @@
 		rom="Sky Shark"
 		en="Sky Shark"
 		zhcn="飞翔鲛"
+	/>
+	<Game crc32="558F9A33" bytes="65552"
+		rom="Snake Rattle N Roll"
+		en="Snake Rattle N Roll"
+		zhcn="双蛇城"
 	/>
 	<Game crc32="0D5A8655" bytes="262287"
 		rom="Snake's Revenge"
@@ -194,144 +219,5 @@
 		rom="Super Xevious - GAMP no Nazo"
 		en="Super Xevious - GAMP no Nazo"
 		zhcn="超级铁板阵"
-	/>
-	<Game crc32="88641B52" bytes="262160"
-		en="SD Gundam - Gachapon Senshi 2 - Capsule Senki"
-		zhcn="SD高达世界 扭蛋战士2 胶囊战记"
-	/>
-	<Game crc32="BF2F1CF3" bytes="262160"
-		en="Mighty Final Fight"
-		zhcn="SD快打旋风(中)"
-	/>
-	<Game crc32="48A8E7EE" bytes="294928"
-		en="Mighty Final Fight"
-		zhcn="SD快打旋风(中)"
-	/>
-	<Game crc32="15EB0BEE" bytes="262160"
-		en="Mighty Final Fight"
-		zhcn="SD快打旋风"
-	/>
-	<Game crc32="F17FEFDD" bytes="262160"
-		en="SD Hero Soukessen - Taose! Aku no Gundan"
-		zhcn="SD英雄总决战"
-	/>
-	<Game crc32="C9B88115" bytes="131088"
-		en="The Legend of Zelda"
-		zhcn="塞尔达传说(中)"
-	/>
-	<Game crc32="02BB0C56" bytes="131088"
-		en="The Legend of Zelda"
-		zhcn="塞尔达传说"
-	/>
-	<Game crc32="FED6B127" bytes="262160"
-		en="Zelda II - The Adventure of Link"
-		zhcn="塞尔达传说2 林克的冒险(中)"
-	/>
-	<Game crc32="E3C788B0" bytes="262160"
-		en="Zelda II - The Adventure of Link"
-		zhcn="塞尔达传说2 林克的冒险"
-	/>
-	<Game crc32="AC50B717" bytes="524304"
-		en="San Goku Shi 2 - Haou no Tairiku"
-		zhcn="三国志2 霸王的大陆(中)"
-	/>
-	<Game crc32="A8A91912" bytes="278544"
-		en="Mitsume Ga Tooru"
-		zhcn="三目童子(中)"
-	/>
-	<Game crc32="A6A0146A" bytes="786464"
-		en="Mitsume Ga Tooru"
-		zhcn="三目童子"
-	/>
-	<Game crc32="274EB12A" bytes="24592"
-		en="Pooyan"
-		zhcn="三只小猪(中)"
-	/>
-	<Game crc32="FBAAB889" bytes="24592"
-		en="Pooyan"
-		zhcn="三只小猪"
-	/>
-	<Game crc32="95184260" bytes="393232"
-		en="Life Force"
-		zhcn="沙罗曼蛇(中)"
-	/>
-	<Game crc32="BF822264" bytes="131088"
-		en="Life Force"
-		zhcn="沙罗曼蛇"
-	/>
-	<Game crc32="66A30110" bytes="524304"
-		en="Kira Kira Star Night DX"
-		zhcn="闪亮亮星星之夜DX"
-	/>
-	<Game crc32="CFDF0DC5" bytes="393232"
-		en="Captain America and the Avengers"
-		zhcn="上尉密令(中)"
-	/>
-	<Game crc32="7254D53D" bytes="262160"
-		en="Captain America and the Avengers"
-		zhcn="上尉密令"
-	/>
-	<Game crc32="5B473135" bytes="262160"
-		en="James Bond Jr."
-		zhcn="少年詹姆斯邦德"
-	/>
-	<Game crc32="90E97A73" bytes="524304"
-		en="Saint Seiya - Ougon Densetsu Kanketsu Hen"
-		zhcn="圣斗士星矢 黄金传说完结篇(中)"
-	/>
-	<Game crc32="55EB8DDA" bytes="393232"
-		en="Little Samson"
-		zhcn="圣铃传说(中)"
-	/>
-	<Game crc32="D36393DD" bytes="393232"
-		en="Little Samson"
-		zhcn="圣铃传说"
-	/>
-	<Game crc32="DDEFFA9F" bytes="262288"
-		en="Double Dragon"
-		zhcn="双截龙"
-	/>
-	<Game crc32="62AFE166" bytes="262160"
-		en="Double Dragon"
-		zhcn="双截龙"
-	/>
-	<Game crc32="77FAF439" bytes="327696"
-		en="Double Dragon II - The Revenge"
-		zhcn="双截龙2(中)"
-	/>
-	<Game crc32="A0F7027D" bytes="262160"
-		en="Double Dragon II - The Revenge"
-		zhcn="双截龙2"
-	/>
-	<Game crc32="459520CD" bytes="262288"
-		en="Double Dragon III - The Sacred Stones"
-		zhcn="双截龙3(中)"
-	/>
-	<Game crc32="4CB917BC" bytes="294928"
-		en="Double Dragon III - The Sacred Stones"
-		zhcn="双截龙3(中)"
-	/>
-	<Game crc32="558F9A33" bytes="65552"
-		en="Snake Rattle N Roll"
-		zhcn="双蛇城"
-	/>
-	<Game crc32="DEDFA5BB" bytes="262160"
-		zhcn="四人街霸"
-	/>
-	<Game crc32="1C63B350" bytes="393232"
-		en="Chip 'n Dale - Rescue Rangers"
-		zhcn="松鼠大作战(中)"
-	/>
-	<Game crc32="4ACC32BA" bytes="393232"
-		en="Chip 'n Dale - Rescue Rangers 2"
-		zhcn="松鼠大作战2(中)"
-	/>
-	<Game crc32="A1C631FA" bytes="393232"
-		en="Chip 'n Dale - Rescue Rangers 2"
-		zhcn="松鼠大作战2(中)"
-	/>
-	<Game crc32="D9F13DF3" bytes="262160"
-		en="Zoids - Mokushiroku"
-		zhcn="索斯机械兽 默示录"
 	/>
 </Game-List>

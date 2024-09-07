@@ -90,6 +90,31 @@
 		en="Metal Gear"
 		zhcn="合金装备" language="chinese"
 	/>
+	<Game crc32="15EB0BEE" bytes="262160"
+		rom="Mighty Final Fight"
+		en="Mighty Final Fight"
+		zhcn="SD快打旋风"
+	/>
+	<Game crc32="48A8E7EE" bytes="294928"
+		rom="Mighty Final Fight"
+		en="Mighty Final Fight"
+		zhcn="SD快打旋风" language="chinese"
+	/>
+	<Game crc32="BF2F1CF3" bytes="262160"
+		rom="Mighty Final Fight"
+		en="Mighty Final Fight"
+		zhcn="SD快打旋风" language="chinese"
+	/>
+	<Game crc32="A6A0146A" bytes="786464"
+		rom="Mitsume Ga Tooru"
+		en="Mitsume Ga Tooru"
+		zhcn="三目童子"
+	/>
+	<Game crc32="A8A91912" bytes="278544"
+		rom="Mitsume Ga Tooru"
+		en="Mitsume Ga Tooru"
+		zhcn="三目童子" language="chinese"
+	/>
 	<Game crc32="D1DCFE67" bytes="262160"
 		rom="Monster in My Pocket"
 		en="Monster in My Pocket"

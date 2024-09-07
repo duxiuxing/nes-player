@@ -1,5 +1,20 @@
 <?xml version='1.0' encoding='utf-8'?>
-<Game-List name="Z" rom-exists="true">
+<Game-List brief="en 以英文字母 Z 开头的游戏">
+	<Game crc32="E3C788B0" bytes="262160"
+		rom="Zelda II - The Adventure of Link"
+		en="Zelda II - The Adventure of Link"
+		zhcn="塞尔达传说2 林克的冒险"
+	/>
+	<Game crc32="FED6B127" bytes="262160"
+		rom="Zelda II - The Adventure of Link"
+		en="Zelda II - The Adventure of Link"
+		zhcn="塞尔达传说2 林克的冒险" language="chinese"
+	/>
+	<Game crc32="D9F13DF3" bytes="262160"
+		rom="Zoids - Mokushiroku"
+		en="Zoids - Mokushiroku"
+		zhcn="索斯机械兽 默示录"
+	/>
 	<Game crc32="3CE543E6" bytes="131088"
 		en="Section-Z"
 		zhcn="Z基地"

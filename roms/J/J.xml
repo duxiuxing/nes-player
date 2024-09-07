@@ -25,6 +25,11 @@
 		en="Jackie Chan's Action Kung Fu"
 		zhcn="成龙之龙"
 	/>
+	<Game crc32="5B473135" bytes="262160"
+		rom="James Bond Jr."
+		en="James Bond Jr."
+		zhcn="少年詹姆斯邦德"
+	/>
 	<Game crc32="8093EC6F" bytes="131088"
 		rom="JJ - Tobidase Daisakusen Part 2"
 		en="JJ - Tobidase Daisakusen Part 2"
