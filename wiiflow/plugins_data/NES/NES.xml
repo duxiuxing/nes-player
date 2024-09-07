@@ -252,7 +252,7 @@ In gamble mode, 1 to 6 players start out with 500 credits to place bets on 5 hor
   <game name="1999 - Hore, Mita Koto Ka! Seikimatsu">
     <id>18547A</id>
     <locale lang="EN">
-      <title>1999: Hore, Mita koto ka! Seikimatsu</title>
+      <title>1999 - Hore, Mita koto ka! Seikimatsu</title>
       <synopsis>Four Japanese high-school students were camping at the countryside, when they suddenly saw an UFO landing nearby. Before they managed to understand anything, a small pink alien with a strict-looking face came out of the space ship and announced that the end of the century is near - and something extraordinary will happen in the year 1999.
 
 That's where the game begins. You can play as one (or two, in 2-player mode) of the students, competing against the others. You must prepare for the upcoming end of the century, earn enough money, and generally manage your life well. This is a Monopoly-like board game, only instead of dices you use cards. The characters are represented by small cars on a city map. The number that appears on the card you pull from the deck represents the amount of squares your car can move on the map. Each square leads to a different event: accident, romantic meeting, promotion, etc. Some of the events allow you to make an additional choice. For example, if you land in a casino, you'll be asked if you want to gamble. Answering "yes" will lead to a slot machine mini-game.</synopsis>
@@ -315,7 +315,7 @@ That's where the game begins. You can play as one (or two, in 2-player mode) of 
       <control type="gamecube" required="false"/>
     </input>
   </game>
-  <game name="3 In 1 Supergun">
+  <game name="3 in 1 Supergun">
     <id>44472A</id>
     <locale lang="EN">
       <title>3 in 1 Supergun</title>
@@ -457,7 +457,7 @@ At least two versions of this multicart are known to exist, with the other versi
   <game name="6 in 1">
     <id>18550A</id>
     <locale lang="EN">
-      <title>6 in 1 - Caltron</title>
+      <title>6 in 1</title>
       <synopsis>6-in-1 is an unlicensed game that contains a set of six different game in one cartridge that were not released separately.  It includes the six following games.   Cosmos Cop: A game that is heavily inspired by Space Harrier, in which the player takes cont</synopsis>
       <genre>Various</genre>
     </locale>
@@ -554,10 +554,10 @@ At least two versions of this multicart are known to exist, with the other versi
       <control type="gamecube" required="false"/>
     </input>
   </game>
-  <game name="A Boy And His Blob - Trouble On Blobolonia">
+  <game name="A Boy and his Blob - Trouble on Blobolonia">
     <id>1438AA</id>
     <locale lang="EN">
-      <title>A Boy and his Blob : Trouble on Blobolonia</title>
+      <title>A Boy and his Blob - Trouble on Blobolonia</title>
       <synopsis>Blob has come from the distant planet Blobolonia in search of an earth boy to help him save his world. Join him on this fantastic adventure in mysterious caverns beneath the earth searching for treasure. then travel to Blobolonia to battle the evil emperor. Discover Blob's amazing appetite for jellybeans and the different transformations that occur with each flavor. Learn to use these shapes to overcome even the most outrageous obstacles.</synopsis>
       <genre>Platform,Action</genre>
     </locale>
@@ -591,7 +591,7 @@ At least two versions of this multicart are known to exist, with the other versi
       <control type="gamecube" required="false"/>
     </input>
   </game>
-  <game name="Hunt for Red October, The">
+  <game name="The Hunt for Red October">
     <id>1522AA</id>
     <locale lang="EN">
       <title>The Hunt for Red October</title>
@@ -626,7 +626,7 @@ El juego se divide en 5 secuencias de acción diferentes en las que se deben rea
       <control type="gamecube" required="false"/>
     </input>
   </game>
-  <game name="A Nightmare On Elm Street">
+  <game name="A Nightmare on Elm Street">
     <id>1350AA</id>
     <locale lang="EN">
       <title>A Nightmare on Elm Street</title>
@@ -661,7 +661,7 @@ Nightmare is compatible with the NES Four Score accessory, allowing up to four p
       <control type="gamecube" required="false"/>
     </input>
   </game>
-  <game name="A Ressha De Ikou">
+  <game name="A Ressha de Ikou">
     <id>59397A</id>
     <locale lang="EN">
       <title>A Ressha de Ikou</title>
@@ -1019,7 +1019,7 @@ The main difference to the other versions of this game is a unique level design.
       <control type="gamecube" required="false"/>
     </input>
   </game>
-  <game name="Advanced Dungeons And Dragons - Dragons Of Flame">
+  <game name="Advanced Dungeons &amp; Dragons - Dragons of Flame">
     <id>1791AA</id>
     <locale lang="EN">
       <title>Advanced Dungeons &amp; Dragons - Dragons of Flame</title>
@@ -1053,7 +1053,7 @@ You take control of one character at a time, with each hero having different abi
       <control type="gamecube" required="false"/>
     </input>
   </game>
-  <game name="Advanced Dungeons And Dragons - Heroes Of The Lance">
+  <game name="Advanced Dungeons &amp; Dragons - Heroes of the Lance">
     <id>1576AA</id>
     <locale lang="EN">
       <title>Advanced Dungeons &amp; Dragons - Heroes of the Lance</title>
@@ -1093,7 +1093,7 @@ One of the AD&amp;D games that takes a break from the usual RPG style.</synopsis
       <control type="gamecube" required="false"/>
     </input>
   </game>
-  <game name="Advanced Dungeons And Dragons - Hillsfar">
+  <game name="Advanced Dungeons &amp; Dragons - Hillsfar">
     <id>18705A</id>
     <locale lang="EN">
       <title>Advanced Dungeons &amp; Dragons - Hillsfar</title>
@@ -1144,10 +1144,10 @@ Le jeu se déroule dans la cité fictive de Hillsfar.</synopsis>
       <control type="gamecube" required="false"/>
     </input>
   </game>
-  <game name="Advanced Dungeons And Dragons - Pool of Radiance">
+  <game name="Advanced Dungeons &amp; Dragons - Pool of Radiance">
     <id>1640AA</id>
     <locale lang="EN">
-      <title>Advanced Dungeons &amp; Dragons : Pool of Radiance</title>
+      <title>Advanced Dungeons &amp; Dragons - Pool of Radiance</title>
       <synopsis>Located on the northern shore of the Moonsea in Forgotten Realms, Phlan was once a flourishing trade city. However, lately monsters began settling in it, gradually turning whole districts into ruins. Only New Phlan remained under human control, but its inhabitants are afraid to venture into the monster-infested areas. In order to clean the nearby Barren River and rebuild Phlan, local authorities spread rumors about alleged riches hidden somewhere in the city. A party of adventurers, attracted by these news, sails towards Phlan and accepts the quest.
 
 Pool of Radiance is the first adaptation of the Advanced Dungeons &amp; Dragons role-playing system in a computer game format. In the beginning of the game the player can use a pre-made party of six characters or create each of them from scratch. Six races (human, elf, dwarf, gnome, halfling, and half-elf) and four classes (fighter, cleric, wizard, and thief) are available. The player can tweak the attributes of the characters and assign a moral alignment to each one.
@@ -1179,10 +1179,10 @@ The NES version was substantially different from other versions. It removed refe
       <control type="gamecube" required="false"/>
     </input>
   </game>
-  <game name="Advanced Dungeons And Dragons - Dragon Strike">
+  <game name="Advanced Dungeons &amp; Dragons - Dragon Strike">
     <id>1692AA</id>
     <locale lang="EN">
-      <title>Advanced Dungeons And Dragons - Dragon Strike</title>
+      <title>Advanced Dungeons &amp; Dragons - Dragon Strike</title>
       <synopsis>Unlike its namesake on computers, this version of DragonStrike is a straight action game with a top-down perspective. Set during the War of the Lance in the Dragonlance world of Krynn, the player controls dragons in missions against the forces of evil.
 
 At the start of the game, one of three dragons can be selected (Bronze, Silver and Gold), each with different attributes in speed and armor and two different breath attacks. In each of the more than 12 missions, several objectives must be completed: enemy dragons must be hunted down, ships sunk and fortresses destroyed. The dragon can change between low and high altitudes to avoid obstacles and enemy fire and to attack certain types of enemies: ground troops can only be destroyed from the lower altitude, dragons only from the higher one. Killed enemy dragons leave power-ups that grant temporary protection, speed, or let the dragon regain health. Some of the missions include boss battles against large enemies like a giant kraken or a powerful dark wizard.
@@ -1454,7 +1454,7 @@ Bayou Billy es un juego de acción arcade con tres modalidades de juego: Peleas,
       <control type="gamecube" required="false"/>
     </input>
   </game>
-  <game name="Adventures of Dr. Franken, The">
+  <game name="The Adventures of Dr. Franken">
     <id>59411A</id>
     <locale lang="EN">
       <title>The Adventures of Dr. Franken</title>
@@ -1487,7 +1487,7 @@ The NES version was never officially released, only a prototype exists.</synopsi
     </input>
     <date year="1"/>
   </game>
-  <game name="Adventures of Gilligan's Island, The">
+  <game name="The Adventures of Gilligan's Island">
     <id>18556A</id>
     <locale lang="EN">
       <title>The Adventures of Gilligan's Island</title>
@@ -1520,7 +1520,7 @@ There are also a lot of dangers which have to be faced: wild animals and headhun
       <control type="gamecube" required="false"/>
     </input>
   </game>
-  <game name="Adventures of Lex and Grim, The">
+  <game name="The Adventures Of Lex &amp; Grim">
     <id>143751</id>
     <locale lang="EN">
       <title>The Adventures Of Lex &amp; Grim</title>
@@ -1547,7 +1547,7 @@ There are also a lot of dangers which have to be faced: wild animals and headhun
     <date year="2004"/>
     <publisher/>
   </game>
-  <game name="Adventures Of Lolo">
+  <game name="Adventures of Lolo">
     <id>1311AA</id>
     <locale lang="EN">
       <title>Adventures of Lolo</title>
@@ -1584,7 +1584,7 @@ The difficulty level increases with each room, and after a few levels there is a
       <control type="gamecube" required="false"/>
     </input>
   </game>
-  <game name="Adventures Of Lolo 2">
+  <game name="Adventures of Lolo 2">
     <id>1411AA</id>
     <locale lang="EN">
       <title>Adventures of Lolo 2</title>
@@ -1617,7 +1617,7 @@ The difficulty level increases with each room, and after a few levels there is a
       <control type="gamecube" required="false"/>
     </input>
   </game>
-  <game name="Adventures Of Lolo 3">
+  <game name="Adventures of Lolo 3">
     <id>1499AA</id>
     <locale lang="EN">
       <title>Adventures of Lolo 3</title>
@@ -1652,7 +1652,7 @@ The gameplay is very similar to the one of the two previous games. You have to c
       <control type="gamecube" required="false"/>
     </input>
   </game>
-  <game name="Adventures of Rad Gravity, The">
+  <game name="The Adventures of Rad Gravity">
     <id>1397AA</id>
     <locale lang="EN">
       <title>The Adventures of Rad Gravity</title>
@@ -1683,7 +1683,7 @@ The game is a platformer and on each world you must fight your way past many ene
       <control type="gamecube" required="false"/>
     </input>
   </game>
-  <game name="Adventures of Rocky and Bullwinkle and Friends, The">
+  <game name="The Adventures of Rocky and Bullwinkle and Friends">
     <id>1774AA</id>
     <locale lang="EN">
       <title>The Adventures of Rocky and Bullwinkle and Friends</title>
@@ -1715,7 +1715,7 @@ Bullwinkle and Rocky must track down the stolen artifacts and return order to Fr
       <control type="gamecube" required="false"/>
     </input>
   </game>
-  <game name="Adventures Of Tom Sawyer">
+  <game name="Adventures of Tom Sawyer">
     <id>1583AA</id>
     <locale lang="EN">
       <title>Adventures of Tom Sawyer</title>
@@ -2460,7 +2460,7 @@ You can play as a single player or two people, taking turns. (Player 2 starts th
       <control type="gamecube" required="false"/>
     </input>
   </game>
-  <game name="All Pro Basketball">
+  <game name="All-Pro Basketball">
     <id>1650AA</id>
     <locale lang="EN">
       <title>All-Pro Basketball</title>
@@ -2665,7 +2665,7 @@ Using your defense ship 'Syd,' you must destroy the invading forces and ground t
       <control type="gamecube" required="false"/>
     </input>
   </game>
-  <game name="America Oudan Ultra Quiz - Shijou Saidai No Tatakai">
+  <game name="America Oudan Ultra Quiz - Shijou Saidai no Tataka">
     <id>59415A</id>
     <locale lang="EN">
       <title>America Oudan Ultra Quiz - Shijou Saidai no Tataka</title>
@@ -2873,7 +2873,7 @@ Le jeu est en anglais et utilise des termes techniques (ex : noeud papillon? on 
   <game name="Arcadia 6">
     <id>59418A</id>
     <locale lang="EN">
-      <title>Arcadia  6</title>
+      <title>Arcadia 6</title>
       <synopsis>Arcadia VI is an unfinished multi-cart that was intended to be released on the NES with 6 games. The only know proto, currently only has 4 games. Of the 4 games, only one game (Tennis) has been completed. The 4 games on the cart are:
 
 Tennis
@@ -3015,10 +3015,10 @@ Explosive battles! Fire an arrow, cast a lightning bolt, or scorch your opponent
       <control type="gamecube" required="false"/>
     </input>
   </game>
-  <game name="Arctic Adventure - Penguin And Seal">
+  <game name="Arctic Adventure - Penguin &amp; Seal">
     <id>71312A</id>
     <locale lang="EN">
-      <title>Arctic Adventure, Penguin &amp; Seal </title>
+      <title>Arctic Adventure - Penguin &amp; Seal </title>
       <synopsis>Go North to the Arctic and meet Mr. Penguin. He is one of the great pioneers of the icy climate and if I may say so, a survivor.
 His game is collecting diamonds scattered in the coldest corners of the globe. Guide Mr. Penguin through each round and help him with his diamond collection.
 You must collect all the diamonds and stash them safely in your igloo. Watch out! Those nasty seals have tusks as sharp as blades. If you can't crush them with a block of ice I suggest you dive out of their way.
@@ -3359,7 +3359,7 @@ This is a traditional action platform game. Asmik can jump and exhale steam from
   <game name="Asterix">
     <id>1331AA</id>
     <locale lang="EN">
-      <title>Astérix</title>
+      <title>Asterix</title>
       <synopsis>The year is 50 BC. Gaul is entirely occupied by the Romans. Well, almost entirely... One small Gaulish village continues to defy the occupying forces, the villagers protected by a magic potion which makes them invincible. But now Obelix has vanished! The Romans have confirmed his capture and taken him to an unknown destination. 
 
 Astérix is a platform game based on the eponymous comic books, where the short and mustached Gaul has to progress through levels located all across Europe, fighting Romans and various aggressive animals along the way, to rescue his friend Obelix before Caesar throws him to the lions....</synopsis>
@@ -3641,7 +3641,7 @@ Mundo Atlético ofrece tres modos de juego, entrenamiento para principiantes y e
       <control type="gamecube" required="false"/>
     </input>
   </game>
-  <game name="Attack Of The Killer Tomatoes">
+  <game name="Attack of the Killer Tomatoes">
     <id>1389AA</id>
     <locale lang="EN">
       <title>Attack of the Killer Tomatoes</title>
@@ -3821,7 +3821,7 @@ The game is a side-scrolling platform jumping game where the main method of stop
     </input>
     <publisher>Ka Sheng</publisher>
   </game>
-  <game name="Av Mahjong Club">
+  <game name="AV Mahjong Club">
     <id>65281A</id>
     <locale lang="EN">
       <title>AV Mahjong Club</title>
@@ -4046,7 +4046,7 @@ El Juego de LJN difiere completamente de las versiones informáticas, y se juega
       <control type="gamecube" required="false"/>
     </input>
   </game>
-  <game name="Back To The Future Part 2 And 3">
+  <game name="Back to the Future Part II &amp; III">
     <id>1408AA</id>
     <locale lang="EN">
       <title>Back to the Future Part II &amp; III</title>
