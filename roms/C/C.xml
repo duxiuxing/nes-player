@@ -135,6 +135,11 @@
 		en="Contra Force"
 		zhcn="魂斗罗力量"
 	/>
+	<Game crc32="AD9D4D85" bytes="524304"
+		rom="Crash'n' the Boys - Street Challenge"
+		en="Crash'n' the Boys - Street Challenge"
+		zhcn="热血新记录" language="chinese"
+	/>
 	<Game crc32="B025152D" bytes="262160"
 		rom="Crisis Force"
 		en="Crisis Force"

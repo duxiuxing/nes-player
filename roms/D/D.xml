@@ -130,6 +130,16 @@
 		en="Donkey Kong Jr."
 		zhcn="大金刚2"
 	/>
+	<Game crc32="AED05FB2" bytes="483344"
+		rom="Downtown Nekketsu Koushinkyoku - Soreyuke Daiundoukai"
+		en="Downtown Nekketsu Koushinkyoku - Soreyuke Daiundoukai"
+		zhcn="热血进行曲" language="chinese"
+	/>
+	<Game crc32="D6E01090" bytes="393232"
+		rom="Downtown Special - Kunio-kun no Jidaigeki Dayo Zenin Shuugou!"
+		en="Downtown Special - Kunio-kun no Jidaigeki Dayo Zenin Shuugou!"
+		zhcn="热血时代剧" language="chinese"
+	/>
 	<Game crc32="F517F770" bytes="65552"
 		rom="Dr. Mario"
 		en="Dr. Mario"

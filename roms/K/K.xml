@@ -55,6 +55,16 @@
 		en="Kung Fu"
 		zhcn="成龙踢馆"
 	/>
+	<Game crc32="33CB50EC" bytes="393232"
+		rom="Kunio-kun no Nekketsu Soccer League"
+		en="Kunio-kun no Nekketsu Soccer League"
+		zhcn="热血足球联盟" language="chinese"
+	/>
+	<Game crc32="C88B6B38" bytes="393232"
+		rom="Kunio-kun no Nekketsu Soccer League"
+		en="Kunio-kun no Nekketsu Soccer League"
+		zhcn="热血足球联盟" language="chinese"
+	/>
 	<Game crc32="3F59CB21" bytes="524304"
 		rom="Kyatto Ninden Teyandee"
 		en="Kyatto Ninden Teyandee"

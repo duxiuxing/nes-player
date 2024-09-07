@@ -11344,6 +11344,9 @@ Dans la version américaine Kunio est rebaptisé Jeff "Crash" Cooney et est le l
     <locale lang="JA">
       <title>Bikkuri Nekketsu Shin Kiroku! : Harukanaru Kin Medal</title>
     </locale>
+    <locale lang="ZHCN">
+      <title>热血新记录</title>
+    </locale>
     <developer>Technos Japan</developer>
     <publisher>Arc System Works</publisher>
     <date year="1992" month="06" day="26"/>
@@ -14600,6 +14603,9 @@ Les Lycées Nekketsu (du héros Kunio), Reihou, Hanzono (de l'eternel rival Riki
     <locale lang="JA">
       <title>Downtown : Nekketsu Koushinkyoku, Soreyuke Daiundoukai</title>
     </locale>
+    <locale lang="ZHCN">
+      <title>热血进行曲</title>
+    </locale>
     <developer>Technos Japan Corp.</developer>
     <publisher>Technos Japan Corp.</publisher>
     <date year="1990" month="10" day="12"/>
@@ -14612,10 +14618,10 @@ Les Lycées Nekketsu (du héros Kunio), Reihou, Hanzono (de l'eternel rival Riki
       <control type="gamecube" required="false"/>
     </input>
   </game>
-  <game name="Downtown Special - Kunio-kun No Jidaigeki Dayo Zenin Shuugou!">
+  <game name="Downtown Special - Kunio-kun no Jidaigeki Dayo Zenin Shuugou!">
     <id>1886AA</id>
     <locale lang="EN">
-      <title>Downtown Special - Kunio-kun No Jidaigeki Dayo Zenin Shuugou!</title>
+      <title>Downtown Special - Kunio-kun no Jidaigeki Dayo Zenin Shuugou!</title>
       <synopsis>Downtown Special: Kunio-kun no Jidaigeki da yo - Zenin Shugo! is a Japanese-only sequel to the classic beat 'em up/rpg hybrid Downtown Nekketsu Monogatari aka River City Ransom.
 
 The game takes place in the Edo period of Japan, making it a prequel really, as you take control of an ancestor of Kunio (also named Kunimasa) tasked with saving the life of his ill friend. Kunimasa must traverse the Japanese countryside beating the collection of gang members and other assorted baddies in the same way as in River City Ransom. Each location is represented by a side scrolling level filled with enemies, which you must take down using a collection of attacks and special moves that can be purchased from shops scattered through the levels. 
@@ -14642,6 +14648,9 @@ Bunzo, le sensei de Kunio a été affecté par une mystérieuse maladie. Kunio e
     </locale>
     <locale lang="JA">
       <title>Downtown Special : Kunio-kun no Jidaigeki Da yo Zenin Shuugou!</title>
+    </locale>
+    <locale lang="ZHCN">
+      <title>热血时代剧</title>
     </locale>
     <developer>Million</developer>
     <publisher>Technos</publisher>
@@ -24795,6 +24804,9 @@ Quelques codes :
     <locale lang="JA">
       <title>Ike Ike! Nekketsu Hockey Bu : Subette Koronde Dai </title>
     </locale>
+    <locale lang="ZHCN">
+      <title>热血曲棍球部</title>
+    </locale>
     <developer>Technos Japan</developer>
     <publisher>Technos Japan</publisher>
     <date year="1992" month="02" day="07"/>
@@ -28748,10 +28760,10 @@ Chinese Hero is a top-down action game for one or two players, both playing on t
       <control type="gamecube" required="false"/>
     </input>
   </game>
-  <game name="Kunio-kun No Nekketsu Soccer League">
+  <game name="Kunio-kun no Nekketsu Soccer League">
     <id>18802A</id>
     <locale lang="EN">
-      <title>Kunio-kun No Nekketsu Soccer League</title>
+      <title>Kunio-kun no Nekketsu Soccer League</title>
       <synopsis>Japanese-only sequel to Nintendo World Cup which features a football-savvy Kunio joining the Japanese team for the added extra punch of gang fighting action.
 
 The game looks and plays pretty much as the original with you controlling a lead character across a side-scrolling court and  having minimal control of whether the AI players pass or shoot the ball. Unique to the sequel are more extensive fighting options and the ability to dash and jump, which opens up a whole new arsenal of moves.
@@ -28773,6 +28785,9 @@ Il s'agit d'une suite de Nintendo World Cup, connu au Japon sous le nom de Nekke
     </locale>
     <locale lang="JA">
       <title>Kunio-kun no Nekketsu Soccer League</title>
+    </locale>
+    <locale lang="ZHCN">
+      <title>热血足球联盟</title>
     </locale>
     <developer>Technos Japan Corp.</developer>
     <publisher>Technos Japan Corp.</publisher>
@@ -36373,6 +36388,9 @@ Le jeu est jouable a quatre</synopsis>
     <locale lang="JA">
       <title>Nekketsu Kakutou Densetsu</title>
     </locale>
+    <locale lang="ZHCN">
+      <title>热血格斗传说</title>
+    </locale>
     <developer>Technos Japan</developer>
     <publisher>Technos Japan</publisher>
     <date year="1992" month="12" day="23"/>
@@ -36410,6 +36428,9 @@ Le jeu est jouable à quatre simultanément.</synopsis>
     </locale>
     <locale lang="JA">
       <title>Nekketsu! Street Basket : Ganbare Dunk Heroes</title>
+    </locale>
+    <locale lang="ZHCN">
+      <title>热血街头篮球</title>
     </locale>
     <developer>Technos Japan Corp.</developer>
     <publisher>Technos Japan Corp.</publisher>
@@ -36876,6 +36897,9 @@ Le gameplay est similaire à celui des précédents jeux de la série, tout en e
     <locale lang="JA">
       <title>Ninja Ryuuken Den III : Yomi no Hakobune</title>
     </locale>
+    <locale lang="ZHCN">
+      <title>忍者龙剑传3</title>
+    </locale>
     <developer>Tecmo</developer>
     <publisher>Tecmo</publisher>
     <date year="1991" month="06" day="21"/>
@@ -37201,6 +37225,9 @@ Les scènes d'intro et les nombreux interludes ont été supprimés dans les ver
     </locale>
     <locale lang="JA">
       <title>Nekketsu Koukou Dodgeball-bu : Soccer Hen</title>
+    </locale>
+    <locale lang="ZHCN">
+      <title>热血高校躲避球部 足球篇</title>
     </locale>
     <developer>Technos Japan Corp.</developer>
     <publisher>Nintendo</publisher>
@@ -42177,6 +42204,9 @@ Dans les versions Américaines et Européennes, Kunio est appelé Alex et Riki e
     </locale>
     <locale lang="JA">
       <title>Downtown : Nekketsu Monogatari</title>
+    </locale>
+    <locale lang="ZHCN">
+      <title>热血物语</title>
     </locale>
     <developer>Technos Japan</developer>
     <publisher>Infogrames</publisher>
@@ -48350,10 +48380,10 @@ We donât exactly know what the tapes would do. The purpose of the StudyBox 
     <publisher>Retrozone</publisher>
     <date year="2007" month="" day=""/>
   </game>
-  <game name="Sugoro Quest - Dice No Senshi Tachi">
+  <game name="Sugoro Quest - Dice no Senshi Tachi">
     <id>71521A</id>
     <locale lang="EN">
-      <title>Sugoro Quest - Dice No Senshi Tachi</title>
+      <title>Sugoro Quest - Dice no Senshi Tachi</title>
       <synopsis>Sugoro Quest is a genre-bender of a game. It's an RPG, but yet it has many board game elements. It may sound like a strange combination, but it works surprisingly well. It almost comes off as a tabletop RPG simulation.The back-story is fairly simple. The Kingdom of Siland is plagued with various problems, all of which involve monsters living in caves wreaking havoc on the countryside. Of course, what kind of game would it be if there weren't fearless heroes to step in and fix things? That's where the four Dice Heroes step in. The four Dice Heroes will, of course, be under your control.The four Dice Heroes are your basic stock-issue fantasy characters. There's the fighter, he's got a moderately high amount of strength, and a decent balance of everything. There's the dwarf, who's got plenty of strength and endurance, but he's dumb as a brick. There's the elf, who's really good at magic but has no HP and very little strength. Then there's the half-elf, who's fair and balanced. You must pick one of these characters before each level, and you're stuck with them until you finish.Now, all of this may sound cliche, and you'd be correct. But all the cliches in the story are offset but the offbeat game play. Each area is made up of a path that is predetermined for the most part. Every time you move, you roll a die and move that many spaces. Some squares trigger events, which range from encounters with townsfolk, to warp tiles, to healing spring, and more. Some squares have multiple exits, and the one you end up using depends on which character you are, or how you answer a certain question. Any square without an event leads to a battle.Battle is a bit different compared to most NES role-playing games. You face monsters one-on-one, and each side rolls a die. The side that rolls the higher number gets a number of attack equal to the difference between the die rolls. So if you roll a four and the monster rolls a two, you get two attacks. The loser gets to sit there and take it. In the even of the tie, you keep the tying roll and roll again. The winner of that roll gets to attack, and the defender loses their defenses. Using magic operates on the same principal.Basically, each level continues like this until you either die, or you reach the cave where the boss resides. Then you can go back to the castle, buy some gear, and get your next assignment, until you finish the game.If you're looking for an NES role-playing game that's a welcome departure from Dragon Warrior and Final Fantasy clones, this game is right up your alley.</synopsis>
       <genre>Role playing games</genre>
     </locale>
@@ -48768,6 +48798,9 @@ Les équipes présentes sont USA, Pro All-Stars, England, India, Iceland, China,
     </locale>
     <locale lang="JA">
       <title>Nekketsu Koukou Dodgeball-bu</title>
+    </locale>
+    <locale lang="ZHCN">
+      <title>热血高校躲避球部</title>
     </locale>
     <developer>Technos Japan</developer>
     <publisher>CSG Imagesoft</publisher>

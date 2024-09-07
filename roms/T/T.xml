@@ -15,6 +15,16 @@
 		en="Teenage Mutant Ninja Turtles"
 		zhcn="忍者神龟"
 	/>
+	<Game crc32="299D1E7F" bytes="311312"
+		rom="Teenage Mutant Ninja Turtles - Tournament Fighters"
+		en="Teenage Mutant Ninja Turtles - Tournament Fighters"
+		zhcn="忍者神龟格斗" language="chinese"
+	/>
+	<Game crc32="61CC9F53" bytes="294928"
+		rom="Teenage Mutant Ninja Turtles - Tournament Fighters"
+		en="Teenage Mutant Ninja Turtles - Tournament Fighters"
+		zhcn="忍者神龟格斗" language="chinese"
+	/>
 	<Game crc32="E8F95884" bytes="524304"
 		rom="Teenage Mutant Ninja Turtles II - The Arcade Game"
 		en="Teenage Mutant Ninja Turtles II - The Arcade Game"

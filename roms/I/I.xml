@@ -20,6 +20,11 @@
         en="Ikari III - The Rescue"
         zhcn="怒三代"
     />
+    <Game crc32="7B7B436B" bytes="524304"
+        rom="Ike Ike! Nekketsu Hockey Bu - Subette Koronde Dai Rantou"
+        en="Ike Ike! Nekketsu Hockey Bu - Subette Koronde Dai Rantou"
+        zhcn="热血曲棍球部" language="chinese"
+    />
     <Game crc32="E00264B5" bytes="24592"
         rom="Ikki"
         en="Ikki"

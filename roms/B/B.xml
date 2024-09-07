@@ -70,6 +70,16 @@
 		en="Batman - The Video Game"
 		zhcn="蝙蝠侠" language="chinese"
 	/>
+	<Game crc32="0500BFBF" bytes="262160"
+		rom="Battletoads"
+		en="Battletoads"
+		zhcn="忍者蛙"
+	/>
+	<Game crc32="BA9164E7" bytes="262160"
+		rom="Battletoads"
+		en="Battletoads"
+		zhcn="忍者蛙"
+	/>
 	<Game crc32="53B02F3D" bytes="262160"
 		rom="Battletoads &amp; Double Dragon"
 		en="Battletoads &amp; Double Dragon"

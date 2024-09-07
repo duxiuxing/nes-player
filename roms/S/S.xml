@@ -140,6 +140,16 @@
 		en="Super C"
 		zhcn="超级魂斗罗"
 	/>
+	<Game crc32="362C868E" bytes="786464"
+		rom="Super Dodge Ball"
+		en="Super Dodge Ball"
+		zhcn="热血高校躲避球部" language="chinese"
+	/>
+	<Game crc32="C1B03E1C" bytes="262160"
+		rom="Super Dodge Ball"
+		en="Super Dodge Ball"
+		zhcn="热血高校躲避球部" language="chinese"
+	/>
 	<Game crc32="77F59F3E" bytes="393232"
 		rom="Super Mario Bros. 3"
 		en="Super Mario Bros. 3"

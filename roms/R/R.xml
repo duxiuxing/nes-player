@@ -5,6 +5,16 @@
 		en="Rad Racer"
 		zhcn="公路之星"
 	/>
+	<Game crc32="94DAB06A" bytes="131088"
+		rom="Renegade"
+		en="Renegade"
+		zhcn="热血硬派"
+	/>
+	<Game crc32="E09E6214" bytes="393232"
+		rom="River City Ransom"
+		en="River City Ransom"
+		zhcn="热血物语" language="chinese"
+	/>
 	<Game crc32="133E6A77" bytes="65552"
 		rom="Road Fighter"
 		en="Road Fighter"

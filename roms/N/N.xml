@@ -1,5 +1,15 @@
 <?xml version='1.0' encoding='utf-8'?>
-<Game-List name="N" rom-exists="true">
+<Game-List brief="en 以英文字母 N 开头的游戏">
+	<Game crc32="71CC0E65" bytes="408768"
+		rom="Nekketsu Kakutou Densetsu"
+		en="Nekketsu Kakutou Densetsu"
+		zhcn="热血格斗传说" language="chinese"
+	/>
+	<Game crc32="39735B13" bytes="524304"
+		rom="Nekketsu Street Basket - Ganbare Dunk Heroes"
+		en="Nekketsu Street Basket - Ganbare Dunk Heroes"
+		zhcn="热血街头篮球" language="chinese"
+	/>
 	<Game crc32="547AD500" bytes="131088"
 		rom="Ninja Crusaders"
 		en="Ninja Crusaders"
@@ -19,6 +29,16 @@
 		rom="Ninja Gaiden II - The Dark Sword of Chaos"
 		en="Ninja Gaiden II - The Dark Sword of Chaos"
 		zhcn="忍者龙剑传2" language="chinese"
+	/>
+	<Game crc32="2053E431" bytes="348817"
+		rom="Ninja Gaiden III - The Ancient Ship Of Doom"
+		en="Ninja Gaiden III - The Ancient Ship of Doom"
+		zhcn="忍者龙剑传3" language="chinese"
+	/>
+	<Game crc32="BA865119" bytes="344080"
+		rom="Ninja Gaiden III - The Ancient Ship Of Doom"
+		en="Ninja Gaiden III - The Ancient Ship of Doom"
+		zhcn="忍者龙剑传3" language="chinese"
 	/>
 	<Game crc32="7934C198" bytes="262160"
 		rom="Ninja Jajamaru - Ginga Daisakusen"
@@ -44,6 +64,11 @@
 		rom="Ninja-kun - Majou no Bouken"
 		en="Ninja-kun - Majou no Bouken"
 		zhcn="忍者君"
+	/>
+	<Game crc32="576BBAA3" bytes="917536"
+		rom="Nintendo World Cup"
+		en="Nintendo World Cup"
+		zhcn="热血高校躲避球部 足球篇" language="chinese"
 	/>
 	<Game crc32="F51355D3" bytes="24592"
 		rom="Nuts &amp; Milk"
