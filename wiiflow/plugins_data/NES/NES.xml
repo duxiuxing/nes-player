@@ -249,7 +249,7 @@ In gamble mode, 1 to 6 players start out with 500 credits to place bets on 5 hor
       <control type="gamecube" required="false"/>
     </input>
   </game>
-  <game name="1999 - Hore, Mita Koto Ka! Seikimatsu">
+  <game name="1999 - Hore, Mita koto ka! Seikimatsu">
     <id>18547A</id>
     <locale lang="EN">
       <title>1999 - Hore, Mita koto ka! Seikimatsu</title>
@@ -3018,7 +3018,7 @@ Explosive battles! Fire an arrow, cast a lightning bolt, or scorch your opponent
   <game name="Arctic Adventure - Penguin &amp; Seal">
     <id>71312A</id>
     <locale lang="EN">
-      <title>Arctic Adventure - Penguin &amp; Seal </title>
+      <title>Arctic Adventure - Penguin &amp; Seal</title>
       <synopsis>Go North to the Arctic and meet Mr. Penguin. He is one of the great pioneers of the icy climate and if I may say so, a survivor.
 His game is collecting diamonds scattered in the coldest corners of the globe. Guide Mr. Penguin through each round and help him with his diamond collection.
 You must collect all the diamonds and stash them safely in your igloo. Watch out! Those nasty seals have tusks as sharp as blades. If you can't crush them with a block of ice I suggest you dive out of their way.
@@ -4632,7 +4632,7 @@ Banana Príncipe es un juego de plataformas de acción. Viajas entre ubicaciones
   <game name="Bandai Golf - Challenge Pebble Beach">
     <id>18614A</id>
     <locale lang="EN">
-      <title>Bandai Golf : Challenge Pebble Beach</title>
+      <title>Bandai Golf - Challenge Pebble Beach</title>
       <synopsis>One or Two players can play a round on this video course modeled after the real Pebble Beach. Each player can select their own handicap. Every one of the 18 holes has familiar golf hazards - bunkers, slopes, and water hazards. You'll also have to contend with some of Mother Nature's hazards like changing wind conditions and Pebble Beach's most difficult obstacle - the ocean.
 
 Once you tee off you'll have all kinds of decisions to make. Check your score card to see how you're doing. The card tells you the distance in yards and par for each hole. The computer gives you a bird's-eye view and cross-sectional view of each hole, as well as close-ups of the green. You select the right club for each shot. Control your shot to get the power, distance, and hook or slice you want on the ball. After you've made your shot the computer tells you what kind of lie you have as well as the remaining distance to the hole.</synopsis>
@@ -4663,7 +4663,7 @@ Una vez que des el primer golpe tendrás todo tipo de decisiones que tomar. Revi
       <control type="gamecube" required="false"/>
     </input>
   </game>
-  <game name="Bandit Kings Of Ancient China">
+  <game name="Bandit Kings of Ancient China">
     <id>18586A</id>
     <locale lang="EN">
       <title>Bandit Kings of Ancient China</title>
@@ -4840,7 +4840,7 @@ Bard's Tale 2 uses the same engine as the original with similar gameplay, but ta
       <control type="gamecube" required="false"/>
     </input>
   </game>
-  <game name="Bard's Tale, The">
+  <game name="The Bard's Tale">
     <id>1595AA</id>
     <locale lang="EN">
       <title>The Bard's Tale</title>
@@ -5047,7 +5047,7 @@ Hay ocho equipos ya creados con los que también se puede jugar, como los Americ
       <control type="gamecube" required="false"/>
     </input>
   </game>
-  <game name="Baseball Stars 2">
+  <game name="Baseball Stars II">
     <id>18588A</id>
     <locale lang="EN">
       <title>Baseball Stars II</title>
@@ -5111,10 +5111,10 @@ This sequel contains 12 pre-made teams and 6 slots for user created teams. There
       <control type="gamecube" required="false"/>
     </input>
   </game>
-  <game name="Bases Loaded 2 - Second Season">
+  <game name="Bases Loaded II - Second Season">
     <id>1981AA</id>
     <locale lang="EN">
-      <title>Bases Loaded II : Second Season</title>
+      <title>Bases Loaded II - Second Season</title>
       <synopsis>In this version of Bases Loaded you coach your team through a 130-game season in either an Eastern or western division of a professional baseball league. Win the pennant and you're off to the World Series! You can also play head-to-head with a friend.
 
 Choose from six teams in each division. Once you take your place in the dugout you're the manager, juggling your own lineup and battling order. You'll also have to somewhat of a psychologists as you learn to interpret the Player Performance Ratings. This unique feature of Bases Loaded II rates each player in three categories: physical, sensitivity, and intellectual. Each rating is like a biorhythm, going up and down, just like in real life. The Player Performance Ratings simulate what players really go through - streaks and slumps.
@@ -5220,10 +5220,10 @@ Más orientado hacia el juego de arcade de ritmo rápido de simulación, Bases L
       <control type="gamecube" required="false"/>
     </input>
   </game>
-  <game name="Bio Senshi Dan - Increaser Tono Tatakai">
+  <game name="Bashi Bazook - Morphoid Masher / Bio Senshi Dan - Increaser Tono Tatakai">
     <id>18595A</id>
     <locale lang="EN">
-      <title>Bashi Bazook : Morphoid Masher</title>
+      <title>Bashi Bazook - Morphoid Masher</title>
       <synopsis>The year is 2081. The Earth has become a devastated planet, overrun by monsters, controlled by a mysterious entity known as Increaser. The only hope to save the beloved Earth lies with you, a young warrior named Dan. You are sent in a time machine to the year 1999, when the monster invasion was beginning. Your task is to find your way through monster-infested labyrinths and to defeat the Increaser  whatever he (or it) is.
 
 The game is an action platformer with more emphasis on exploration than on "jump &amp; run" gameplay. You don't die immediately if a monster touches you, but have a life bar that gets gradually depleted as you are hit. Defeated enemies bring you energy points, which you can spend to buy upgrades. You start with a sword, but later obtain other weapons as well. The game's structure is not entirely linear; many areas have different doors leading to different places.</synopsis>
@@ -5634,7 +5634,7 @@ Le deuxième opus rajoute de nouvelles fonctionnalitées comme de nouveaux types
     </input>
     <date year="2012"/>
   </game>
-  <game name="Battle of Olympus, The">
+  <game name="The Battle of Olympus">
     <id>1310AA</id>
     <locale lang="EN">
       <title>The Battle of Olympus</title>
@@ -6010,10 +6010,10 @@ El jugador tiene 3 vidas, sin continuaciones, y una cantidad limitada de combust
       <control type="gamecube" required="false"/>
     </input>
   </game>
-  <game name="Best Of The Best - Championship Karate">
+  <game name="Best of the Best - Championship Karate">
     <id>1620AA</id>
     <locale lang="EN">
-      <title>Best of the Best : Championship Karate</title>
+      <title>Best of the Best - Championship Karate</title>
       <synopsis>Best of the Best Championship Karate is a realistic fighting game.
 After you choose your fighter for his parameters (strength, stamina and resistance), you can choose from 55 different moves.
 You can now train your fighter at a gym before the real fights.
@@ -6319,7 +6319,7 @@ El juego también cuenta con dos modos de juego diferentes. El modo Relay de dos
       <control type="gamecube" required="false"/>
     </input>
   </game>
-  <game name="Big Nose The Caveman">
+  <game name="Big Nose the Caveman">
     <id>1833AA</id>
     <locale lang="EN">
       <title>Big Nose the Caveman</title>
@@ -6429,7 +6429,7 @@ This is a traditional Japanese-style RPG. You navigate your hero from a top-down
       <control type="gamecube" required="false"/>
     </input>
   </game>
-  <game name="Bill And Ted's Excellent Video Game Adventure">
+  <game name="Bill &amp; Ted's Excellent Video Game Adventure">
     <id>1681AA</id>
     <locale lang="EN">
       <title>Bill &amp; Ted's Excellent Video Game Adventure</title>
@@ -6471,7 +6471,7 @@ El jugador también debe localizar un elemento de "cebo histórico", apropiado p
       <control type="gamecube" required="false"/>
     </input>
   </game>
-  <game name="Bill Elliott's Nascar Challenge">
+  <game name="Bill Elliott's NASCAR Challenge">
     <id>1690AA</id>
     <locale lang="EN">
       <title>Bill Elliott's NASCAR Challenge</title>
@@ -6797,7 +6797,7 @@ Entre les tours de lancer, le joueur peut faire certaines sélections. Parmi les
       <control type="gamecube" required="false"/>
     </input>
   </game>
-  <game name="Black Bass, The">
+  <game name="The Black Bass">
     <id>1769AA</id>
     <locale lang="EN">
       <title>The Black Bass</title>
@@ -7071,7 +7071,7 @@ The gameplay in "Bloody Warriors" is similar to  Dragon Quest series: you travel
       <control type="gamecube" required="false"/>
     </input>
   </game>
-  <game name="Blue Marlin, The">
+  <game name="The Blue Marlin">
     <id>1929AA</id>
     <locale lang="EN">
       <title>The Blue Marlin</title>
@@ -7748,7 +7748,7 @@ Bubble Bobble is a platform game, with each level being a single screen. The ene
       <control type="coop" required="true"/>
     </input>
   </game>
-  <game name="Bubble Bobble - Part 2">
+  <game name="Bubble Bobble Part 2">
     <id>1761AA</id>
     <locale lang="EN">
       <title>Bubble Bobble Part 2</title>
@@ -7901,10 +7901,10 @@ A Warner Bros licensed game, The Bugs Bunny Birthday Blowout is a 2d side-scroll
       <control type="gamecube" required="false"/>
     </input>
   </game>
-  <game name="Bump 'n' Jump">
+  <game name="Bump'n' Jump">
     <id>1795AA</id>
     <locale lang="EN">
-      <title>Bump'n'Jump</title>
+      <title>Bump'n' Jump</title>
       <synopsis>Bump 'N' Jump is an action racing game played from a top down point of view. As you race through the treacherous and ever changing roadways, the numerous enemy cars will be trying to bump you off the road. You need to make sure you bump the cars out of the way before you get bumped and crash into the sides yourself! Your car also has the ability to jump quite high if you have enough speed. This is useful to jump over enemy cars if there are too many in the way, and must also be used to jump gaps in the roadway and other highway obstacles. As the levels progress, the road becomes narrower with more obstacles in the way, and the other cars increase in number and in aggressiveness.</synopsis>
       <genre>Race, Driving</genre>
     </locale>
@@ -7970,7 +7970,7 @@ Space Marauder es un shooter de desplazamiento con dos modos de juego. La mayor�
       <control type="gamecube" required="false"/>
     </input>
   </game>
-  <game name="Burgertime">
+  <game name="BurgerTime">
     <id>18608A</id>
     <locale lang="EN">
       <title>BurgerTime</title>
@@ -8041,7 +8041,7 @@ A lot of strategy is used when players have to make decisions and negotiate. Mes
       <control type="gamecube" required="false"/>
     </input>
   </game>
-  <game name="Buzz And Waldog">
+  <game name="Buzz &amp; Waldog">
     <id>71440A</id>
     <locale lang="EN">
       <title>Buzz &amp; Waldog</title>
@@ -8212,10 +8212,10 @@ Si consigues un nuevo récord en alguna prueba, tu nombre será grabado y mostra
       <control type="gamecube" required="false"/>
     </input>
   </game>
-  <game name="California Raisins - The Grape Escape">
+  <game name="The California Raisins - The Grape Escape">
     <id>65385A</id>
     <locale lang="EN">
-      <title>The California Raisins: The Grape Escape</title>
+      <title>The California Raisins - The Grape Escape</title>
       <synopsis>Cancelled.
 
 In the single-player side-scrolling action game the player controls a California Raisin through five stages in an effort to rescue the band and their band's musical notes that were stolen by the gang of jealous musicians. The player walk, jump, climb on vines, moonwalk (by pressing the "select" button) and shoot an unlimited supply of grape jelly beans as projectiles. As was the case with other Capcom games, such as Mega Man and DuckTales, one can play the first four levels in any order that you want, but the final level is only available after you have collected the musical notes from each of the four levels.
@@ -8414,7 +8414,7 @@ Hay muchos caminos diferentes que están disponibles desde el principio, pero si
       <control type="gamecube" required="false"/>
     </input>
   </game>
-  <game name="Captain Planet And The Planeteers">
+  <game name="Captain Planet and the Planeteers">
     <id>1421AA</id>
     <locale lang="EN">
       <title>Captain Planet and the Planeteers</title>
@@ -8615,7 +8615,7 @@ Al igual que todos los videojuegos de Captain Tsubasa nos ofrece una realidad al
       <control type="gamecube" required="false"/>
     </input>
   </game>
-  <game name="Casino Kid 2">
+  <game name="Casino Kid II">
     <id>1969AA</id>
     <locale lang="EN">
       <title>Casino Kid II</title>
@@ -8724,7 +8724,7 @@ Este es un juego de plataformas de desplazamiento lateral. Debes luchar con enem
       <control type="gamecube" required="false"/>
     </input>
   </game>
-  <game name="Castle Of Dragon">
+  <game name="Castle of Dragon">
     <id>18611A</id>
     <locale lang="EN">
       <title>Castle of Dragon</title>
@@ -8764,7 +8764,7 @@ Castle of Dragon es una aventura de acción de desplazamiento lateral en el que 
   <game name="Castle Quest">
     <id>109288</id>
     <locale lang="EN">
-      <title>Castle Quest (Japan)</title>
+      <title>Castle Quest</title>
       <synopsis>Castle Quest is a strategy game loosely based on chess by Hudson Soft. It is an interesting mix of heroic fantasy and classical chess - the player must use his pieces, a move at the time, to capture the opponent's king while protecting his own. However, Castle Quest features a lot more pieces than traditional chess such as Wizards, Ninjas, Orcs, Mummies and even Dragons.
 
 Each piece comes with a set of attributes such as Health, Magic, Defense and Attack and these lie at the center of the gameplay - unlike chess, when one piece attempts to take another they have to fight to determine who takes the square. Each fight is round based and driven by the roll of a dice (symbolized by playing cards going from 1 to 10). Some pieces can also use magic spells or special attacks - some pieces use healing powers whereas others throw fireballs or even resurrect lost pieces.</synopsis>
@@ -8800,7 +8800,7 @@ La principal diferencia con el juego original The Castle es que las habitaciones
       <control type="gamecube" required="false"/>
     </input>
   </game>
-  <game name="Castle Excellent">
+  <game name="Castlequest">
     <id>71327A</id>
     <locale lang="EN">
       <title>Castlequest</title>
@@ -9097,7 +9097,7 @@ After 14 levels there's a wedding between Mr. and Mrs. Chack'n.</synopsis>
       <control type="gamecube" required="false"/>
     </input>
   </game>
-  <game name="Challenge Of The Dragon">
+  <game name="Challenge of the Dragon">
     <id>1822AA</id>
     <locale lang="EN">
       <title>Challenge of the Dragon</title>
@@ -9448,10 +9448,10 @@ Faites attention à la police ennemie autour de vous qui augmente en nombre à c
       <control type="gamecube" required="false"/>
     </input>
   </game>
-  <game name="Cheetahmen 2">
+  <game name="Cheetahmen II">
     <id>71328A</id>
     <locale lang="EN">
-      <title>CheetahMen II</title>
+      <title>Cheetahmen II</title>
       <synopsis>Dr. Morbis is out to destroy the Cheetahmen with all new traps and dangers. It is up to the Cheetahmen to make their way to Dr. Morbis' secret (and heavily guarded) laboratory to battle Dr. Morbis and his sub-humans (including the new, powerful ape-man). Cheetahmen II is a side scrolling platform game with arcade style action. There are three different Cheetahmen to control, a different one every second level.</synopsis>
       <genre>Action,Beat'em Up,Shooter</genre>
     </locale>
@@ -9503,7 +9503,7 @@ Faites attention à la police ennemie autour de vous qui augmente en nombre à c
     </input>
     <developer>Thin Chen Enterprises</developer>
   </game>
-  <game name="Chessmaster, The">
+  <game name="The Chessmaster">
     <id>18618A</id>
     <locale lang="EN">
       <title>The Chessmaster</title>
@@ -10362,7 +10362,7 @@ Todo este jogo é um grande quebra-cabeça, e não há como vencê-lo sem um pas
       <control type="gamecube" required="false"/>
     </input>
   </game>
-  <game name="Clash At Demonhead">
+  <game name="Clash at Demonhead">
     <id>1796AA</id>
     <locale lang="EN">
       <title>Clash at Demonhead</title>
@@ -10638,7 +10638,7 @@ The entire game consists of repeating these types of levels for a grand total of
   <game name="Code Name - Viper">
     <id>1797AA</id>
     <locale lang="EN">
-      <title>Code Name : Viper</title>
+      <title>Code Name - Viper</title>
       <synopsis>Set against the backdrop of the war on drugs from the late 1980s/early 1990s, Code Name: Viper directly confronts the drug cartel at their bases in South America. You play an American secret agent who must infiltrate the cartel drug bases and mansions, free hostages and informants, and piece together clues about who the kingpin is-- and inevitably bring him down. Equip yourself with a progressively more powerful arsenal as the game progresses in standard NES side-scroller fashion.</synopsis>
       <genre>Action,Shooter</genre>
     </locale>
@@ -10668,7 +10668,7 @@ The entire game consists of repeating these types of levels for a grand total of
       <control type="gamecube" required="false"/>
     </input>
   </game>
-  <game name="Color A Dinosaur">
+  <game name="Color a Dinosaur">
     <id>18623A</id>
     <locale lang="EN">
       <title>Color a Dinosaur</title>
@@ -10863,7 +10863,7 @@ Winning any one of the first 15 scenarios yields a letter of the alphabet; toget
       <control type="gamecube" required="false"/>
     </input>
   </game>
-  <game name="Conquest Of The Crystal Palace">
+  <game name="Conquest of the Crystal Palace">
     <id>1622AA</id>
     <locale lang="EN">
       <title>Conquest of the Crystal Palace</title>
@@ -11314,10 +11314,10 @@ Crackout is an Arkanoid clone for the NES, but it's probably one of the most sin
       <control type="gamecube" required="false"/>
     </input>
   </game>
-  <game name="Crash'n The Boys Street Challenge">
+  <game name="Crash'n' the Boys - Street Challenge">
     <id>1679AA</id>
     <locale lang="EN">
-      <title>Crash 'n' the Boys : Street Challenge</title>
+      <title>Crash'n' the Boys - Street Challenge</title>
       <synopsis>Another tournament composed of several different challenges rocks the streets near Nekketsu High and since the series hero Kunio isn't going to turn down a challenge anytime soon, every gang in the city sends its team hoping to come up on top.
 
 Crash 'N the Boys: Street Challenge features the same basic gameplay engine and mechanics found in the rest of the Kunio/Nekketsu High games. The player controls a character in side-scrolling levels and try to defeat opponents using an arsenal of attacks and special moves. Unique to this game is that in order to clear the five stages, the player must also accomplish a series of sport-themed objectives. There is a throwing event, a golfing event, swimming, jumping, and all-out fighting events, all with unique twists inspired by the street/gangs theme of the game (e.g. the jumping event involves jumping across the rooftops in the city).
@@ -11609,7 +11609,7 @@ Crystalis is a top-down action RPG. Starting from the cryogenic chamber, the pla
   <game name="Cyber Stadium Series - Base Wars">
     <id>1849AA</id>
     <locale lang="EN">
-      <title>Cyber Stadium Series : Base Wars</title>
+      <title>Cyber Stadium Series - Base Wars</title>
       <synopsis>In the 24th century, the game of Baseball is very different. Tired of paying huge players salaries, the team owners got together one weekend and came up with a bold new idea, Robots. Indeed they renamed their league the Cyber League and stocked it with four robot types; Cyborg, Tank, Floater or Motorcycle, to play.  On an orbital stadium in space, these robots all play a slightly different variation of the baseball rules. Hitting the ball and catching pop-flys and making home runs are all the same, but when the call of a play is in dispute, there are no base referees; the robots engage in a one-on-one battle using any weaponry they're carrying.  Of course to make things interesting, weaponry (and other robot parts and equipment) can only be purchased with team funds during a tournament game, and team funds can only be obtained by wins. Thus the series closer is always sure to be a sold out game.</synopsis>
       <genre>Sports</genre>
     </locale>
@@ -12348,7 +12348,7 @@ The main mode of play is the J.LEAGUE mode. It is set up in a season/tournament 
     </input>
   </game>
 
-    <game name="Datach - Sd Gundam - Gundam Wars">
+    <game name="Datach - SD Gundam - Gundam Wars">
     <id>65478A</id>
     <locale lang="EN">
       <title>Datach - SD Gundam - Gundam Wars</title>
@@ -12451,7 +12451,7 @@ The main mode of play is the J.LEAGUE mode. It is set up in a season/tournament 
       <control type="gamecube" required="false"/>
     </input>
   </game>
-  <game name="Days Of Thunder">
+  <game name="Days of Thunder">
     <id>1400AA</id>
     <locale lang="EN">
       <title>Days of Thunder</title>
@@ -12718,7 +12718,7 @@ Voici un jeu d'action qui plait, essayez le !</synopsis>
       <control type="gamecube" required="false"/>
     </input>
   </game>
-  <game name="Defender 2">
+  <game name="Defender II">
     <id>1262AA</id>
     <locale lang="EN">
       <title>Defender II</title>
@@ -12751,7 +12751,7 @@ Voici un jeu d'action qui plait, essayez le !</synopsis>
       <control type="gamecube" required="false"/>
     </input>
   </game>
-  <game name="Defender Of The Crown">
+  <game name="Defender of the Crown">
     <id>1423AA</id>
     <locale lang="EN">
       <title>Defender of the Crown</title>
@@ -12791,7 +12791,7 @@ Además de la base "construir tu ejército y conquistar a tus oponentes el juego
       <control type="gamecube" required="false"/>
     </input>
   </game>
-  <game name="Defenders Of Dynatron City">
+  <game name="Defenders of Dynatron City">
     <id>1976AA</id>
     <locale lang="EN">
       <title>Defenders of Dynatron City</title>
@@ -12823,10 +12823,10 @@ When the game starts you choose your character and some others join you in your 
       <control type="gamecube" required="false"/>
     </input>
   </game>
-  <game name="Deja Vu - A Nightmare Comes True">
+  <game name="Deja Vu">
     <id>1990AA</id>
     <locale lang="EN">
-      <title>Déjà Vu</title>
+      <title>Deja Vu</title>
       <synopsis>Deja Vu was the first game ever made by ICOM, the makers of such famous adventure games as Shadowgate and Uninvited. It featured mouse support, a multi-window interface, and bitmapped graphics at a time when text-based interactive fiction was the norm. 
 
 In Deja Vu your character wakes up in a toilet stall of a sleazy pub with no memory of who you are or what you're doing there. To make matters worse, you soon stumble upon a very dead corpse upstairs with three bullets buried in him. Sure enough, you find there's a gun in your pocket with three bullets missing. From there you have to figure out what happened and who you are before whatever is happening to your brain turns you into a mindless vegatable. To make matters worse the cops would very much like to have a word with you about that stiff.
@@ -13008,7 +13008,7 @@ El modo de juego se divide en dos partes. Comienzas en el modo de simulación, c
       <control type="gamecube" required="false"/>
     </input>
   </game>
-  <game name="Destiny Of An Emperor">
+  <game name="Destiny of an Emperor">
     <id>1908AA</id>
     <locale lang="EN">
       <title>Destiny of an Emperor</title>
@@ -13352,10 +13352,10 @@ Hay 40 terroristas diseminados en todo el edificio, y la tarea es limpiar cada p
       <control type="gamecube" required="false"/>
     </input>
   </game>
-  <game name="Digger T. Rock - Legend Of The Lost City">
+  <game name="Digger T. Rock - The Legend of the Lost City">
     <id>18635A</id>
     <locale lang="EN">
-      <title>Digger : The Legend of the Lost City</title>
+      <title>Digger T. Rock - The Legend of the Lost City</title>
       <synopsis>Digger T. Rock, a brave little miner who dares to dig where no shovel has gone before! He just loves to uncover underground wonders. And he dreams of discovering a buried city bursting with golden treasures and ancient relics. On this very morning, deep within a craggy, slippery cave, Digger stumbles upon a half-hidden sign pointing way, way down...to a Lost City!</synopsis>
       <genre>Action</genre>
     </locale>
@@ -13596,7 +13596,7 @@ El tesoro que se encuentra en la arena suele ser sólo puntos de bonificación, 
       <control type="gamecube" required="false"/>
     </input>
   </game>
-  <game name="Dizzy The Adventurer">
+  <game name="Dizzy the Adventurer">
     <id>1865AA</id>
     <locale lang="EN">
       <title>Dizzy the Adventurer</title>
@@ -14335,7 +14335,7 @@ Pero ahora los dos hermanos se encuentran frente a su reto definitivo. Marian, l
       <control type="gamecube" required="false"/>
     </input>
   </game>
-  <game name="Double Dragon 4">
+  <game name="Double Dragon IV">
     <id>143316</id>
     <locale lang="EN">
       <title>Double Dragon IV</title>
@@ -14515,7 +14515,7 @@ This game is a traditional console-style RPG. Yuuru and his friends travel on th
   <game name="Double Strike - Aerial Attack Force">
     <id>1945AA</id>
     <locale lang="EN">
-      <title>Double Strike : Aerial Attack Force</title>
+      <title>Double Strike - Aerial Attack Force</title>
       <synopsis>The South Pacific contains some of the most beautiful islands in the world, and they have all been invaded by a terrorist organization called DAMED (Destructive Armed Militant Enemy Devotee). You must fly an experimental fighter jet called the Thrasher Hawk-7 to battle the enemy and rid them from nine different islands. To help out, six different power ups can be collected after destroying certain enemies which provide better weapons, bombs, or extra lives.</synopsis>
       <genre>Action</genre>
     </locale>
@@ -14818,6 +14818,9 @@ The game introduces the card RPG concept that was later used in Dragon Ball Z RP
     <locale lang="JA">
       <title>Dragon Ball : Daimaou Fukkatsu</title>
     </locale>
+    <locale lang="ZHCN">
+      <title>龙珠 大魔王复活</title>
+    </locale>
     <developer>Bandai</developer>
     <publisher>Bandai</publisher>
     <date year="1988" month="08" day="12"/>
@@ -14867,7 +14870,7 @@ Controlas a Son Goku y sus amigos Krilin y Yamcha en este juego. El modo de jueg
       <control type="gamecube" required="false"/>
     </input>
   </game>
-  <game name="Dragon Ball - Le Secret Du Dragon">
+  <game name="Dragon Power / Dragon Ball - Le Secret Du Dragon">
     <id>1283AA</id>
     <locale lang="EN">
       <title>Dragon Power</title>
@@ -14890,6 +14893,9 @@ Dragon Power es un juego basado en el anime Dragon Ball en Japón (aunque se pie
     </locale>
     <locale lang="JA">
       <title>Dragon Ball : Shen Long no Nazo</title>
+    </locale>
+    <locale lang="ZHCN">
+      <title>龙珠 神龙之谜</title>
     </locale>
     <developer>Bandai</developer>
     <publisher>Bandai</publisher>
@@ -15246,7 +15252,7 @@ El juego cuenta con seis niveles de acción: un nivel de nieve, un nivel de cuev
     <publisher>Fuzhou Waixing Computer Science &amp;amp; Technology</publisher>
     <date year="1993" month="" day=""/>
   </game>
-  <game name="Dragon Quest 8">
+  <game name="Dragon Quest VIII">
     <id>153343</id>
     <locale lang="EN">
       <title>Dragon Quest VIII</title>
@@ -15606,7 +15612,7 @@ El juego puede ser jugado por 2 jugadores turnándose. La versión PAL tiene jug
       <control type="gamecube" required="false"/>
     </input>
   </game>
-  <game name="Dragon, The">
+  <game name="The Dragon">
     <id>124474</id>
     <locale lang="EN">
       <title>The Dragon</title>
@@ -15856,7 +15862,7 @@ Aunque Duck Hunt no cuenta con un modo multijugador, el manual indica que un seg
       <control type="gamecube" required="false"/>
     </input>
   </game>
-  <game name="Disney's Ducktales">
+  <game name="Disney's DuckTales">
     <id>1263AA</id>
     <locale lang="EN">
       <title>Disney's DuckTales</title>
@@ -15904,7 +15910,7 @@ El juego cuenta con un modo de juego de plataformas de desplazamiento lateral en
       <control type="gamecube" required="false"/>
     </input>
   </game>
-  <game name="Disney's Ducktales 2">
+  <game name="Disney's DuckTales 2">
     <id>71346A</id>
     <locale lang="EN">
       <title>Disney's DuckTales 2</title>
@@ -15951,7 +15957,7 @@ Caras conocidas como Huey, Dewey y Louie, Webby, la señora Beakley y Launchpad 
       <control type="gamecube" required="false"/>
     </input>
   </game>
-  <game name="Dudes With Attitude">
+  <game name="Dudes with Attitude">
     <id>1933AA</id>
     <locale lang="EN">
       <title>Dudes with Attitude</title>
@@ -16003,10 +16009,10 @@ Caras conocidas como Huey, Dewey y Louie, Webby, la señora Beakley y Launchpad 
     </input>
     <developer>Pixel</developer>
   </game>
-  <game name="Dungeon Magic">
+  <game name="Dungeon Magic - Sword of the Elements">
     <id>1535AA</id>
     <locale lang="EN">
-      <title>Dungeon Magic : Sword of the Elements</title>
+      <title>Dungeon Magic - Sword of the Elements</title>
       <synopsis>The evil sorcerer Darces took over our world once again. The only way to defeat him is to find five elemental swords and to combine them into the ultimate weapon which is the only possibility to destroy the villain. Naturally, you, the nameless hero, are the one who is chosen to go on this dangerous journey. 
 
 "Dungeon Magic" is a first-person RPG that looks similar to  Wizardry games, but instead of the usual turn-based combat you fight your enemies in real time, parrying to avoid their blows and attacking physically or casting offensive magic to hurt them. You explore large outdoor areas, towns, and dungeons, and specialize in five kinds of magic.</synopsis>
@@ -16056,7 +16062,7 @@ Caras conocidas como Huey, Dewey y Louie, Webby, la señora Beakley y Launchpad 
     <date year=""/>
     <publisher/>
   </game>
-  <game name="Dusty Diamond's All-star Softball">
+  <game name="Dusty Diamond's All-Star Softball">
     <id>1823AA</id>
     <locale lang="EN">
       <title>Dusty Diamond's All-Star Softball</title>
@@ -16177,10 +16183,10 @@ A télécharger</synopsis>
       <control type="gamecube" required="false"/>
     </input>
   </game>
-  <game name="Dynowarz - The Destruction Of Spondylus">
+  <game name="Dynowarz - Destruction of Spondylus">
     <id>1887AA</id>
     <locale lang="EN">
-      <title>Dynowarz : Destruction of Spondylus</title>
+      <title>Dynowarz - Destruction of Spondylus</title>
       <synopsis>This is a game of combat between giant mechanized dinosaurs named robosaurs in a faraway solar system named Spondylus. Mad robosaurs have overrun the planets of this man-made solar system and it is up to Professor Proteus to take the controls of the #1 robosaur, the Cyborasaurus. The goal is to get to the center of all 7 planets in this solar system and disable the artificially intelligent life support systems, which are guarded by progressively tougher defense.
 
 Gameplay consists of getting into your robosaur, tromping across the surface of desolate planets in the solar system, fighting meaner robosaurs, and equipping better weapons along the way (you can launch your dino's fist!). Once you make it to the middle of each planet, you eject from the Cyborasaurus and head to the life support computer. Destroy the computer and get out fast.</synopsis>
@@ -16327,7 +16333,7 @@ Story mode, where story is described between levels, and Free Play mode, where t
   <game name="El Destructor">
     <id>99401A</id>
     <locale lang="EN">
-      <title>Destroyer</title>
+      <title>El Destructor</title>
       <synopsis>In 3001 A.D., the earth is close to being destroyed. The human race travels to Mars, but under the attack of terrorists, the human race sent out its space fighting elite, DESTRUCTOR, to attack again. Your challenge is to go through the meteor shower to destroy the enemy barracks.</synopsis>
       <genre>Shooter</genre>
     </locale>
@@ -16620,7 +16626,7 @@ Eight additional teams have been added, increasing the roster to 24, but some cl
       <control type="gamecube" required="false"/>
     </input>
   </game>
-  <game name="Escape from Atlantis, The">
+  <game name="The Escape from Atlantis">
     <id>79327A</id>
     <locale lang="EN">
       <title>The Escape from Atlantis</title>
@@ -16993,7 +16999,7 @@ Exerion 2 - This sequel also never made it to the NES. For years it remained as 
   <game name="F-117A Stealth Fighter">
     <id>1668AA</id>
     <locale lang="EN">
-      <title>F-117A : Stealth Fighter</title>
+      <title>F-117A Stealth Fighter</title>
       <synopsis>F-117A Stealth Fighter is a flight simulator where the player is in the cockpit of the game's eponymous jet fighter. The game revolves around flying solo punitive strike missions against various rogue nations. For example, the first mission has the player launching from a base in Sicily to strike targets in Libya. Watch out for enemy jets, of course. The 8-bit NES's input capabilities are a bit limited so this flight simulator depends on many button combinations in order to carry out various complicated actions.</synopsis>
       <genre>Simulation,Action</genre>
     </locale>
@@ -17023,10 +17029,10 @@ Exerion 2 - This sequel also never made it to the NES. For years it remained as 
       <control type="gamecube" required="false"/>
     </input>
   </game>
-  <game name="F-15 City Wars">
+  <game name="F-15 City War">
     <id>1866AA</id>
     <locale lang="EN">
-      <title>F15 City War</title>
+      <title>F-15 City War</title>
       <synopsis>F-15 City War is arcade style action game. You fly an F-15 with unlimited ammunition into battle against tanks, helicopters, gun boats, missile silos, jets, robots,  and a large boss at the end of each of five levels. Gameplay alternates between two perspectives, a 3-D view from behind your plane and a top down scrolling view.</synopsis>
       <genre>Action</genre>
     </locale>
@@ -17964,7 +17970,7 @@ Family Tennis has a few notable quirks, however. First, is that the many fiction
     <developer>Fuzhou Waixing Computer Science &amp;amp; Technology</developer>
     <publisher>Henggedianzi</publisher>
   </game>
-  <game name="Fantastic Adventures of Dizzy, The">
+  <game name="The Fantastic Adventures of Dizzy">
     <id>111293</id>
     <locale lang="EN">
       <title>The Fantastic Adventures of Dizzy</title>
@@ -18068,10 +18074,10 @@ More often than not, some large creatures will reveal a warp gate rather than a 
       <control type="gamecube" required="false"/>
     </input>
   </game>
-  <game name="Faria - A World Of Mystery And Danger!">
+  <game name="Faria - A World of Mystery &amp; Danger!">
     <id>18667A</id>
     <locale lang="EN">
-      <title>Faria : A World of Mystery &amp; Danger!</title>
+      <title>Faria - A World of Mystery &amp; Danger!</title>
       <synopsis>It was a stormy night. Cold wind raged, and rain poured over the country. The wise men understood at once: the prophecy has become reality. The spell of the Legendary Sword was lifted...
 
 Fast-forward to three months later. You are a nameless young adventurer, looking for some action. Your first task is... you guessed it, to rescue a princess. After the king gives you this assignment, you are free to roam about the world, visiting dangerous caves and towers, and fulfilling ancient prophecies..
@@ -18167,7 +18173,7 @@ As areas are completed by defeating enemies, your character rises up in levels
       <control type="gamecube" required="false"/>
     </input>
   </game>
-  <game name="Felix The Cat">
+  <game name="Felix the Cat">
     <id>1443AA</id>
     <locale lang="EN">
       <title>Felix the Cat</title>
@@ -18695,10 +18701,10 @@ In a far off land... A long peace has ended. The Palamecia Empire has summoned H
       <control type="gamecube" required="false"/>
     </input>
   </game>
-  <game name="Final Fantasy VII">
+  <game name="Final Fantasy VII - Advent Children">
     <id>71381A</id>
     <locale lang="EN">
-      <title>Final Fantasy VII: Advent Children</title>
+      <title>Final Fantasy VII - Advent Children</title>
       <synopsis>Final Fantasy VII is a Chinese unofficial, unlicensed remake of the 1997 console role playing game Final Fantasy VII, originally developed by Square for the PlayStation. The port was developed and published by the Chinese company Shenzhen Nanjing Technology Co., Ltd.</synopsis>
       <genre>Role playing games</genre>
     </locale>
@@ -18888,7 +18894,7 @@ EL juego toma lugar en mapas de batalla donde el jugador mueve sus personajes en
   <game name="Firehawk">
     <id>18670A</id>
     <locale lang="EN">
-      <title>Fire Hawk</title>
+      <title>Firehawk</title>
       <synopsis>The President of the United States has put you in charge of stopping  the trafficking of drugs into the United States. To accomplish this, you pilot a Firehawk helicopter gunship through seven missions that involve rescuing agents and destroying drug producing facilities. When flying you survey the whole landscape from a top down view. However, this view changes to a 3rd person perspective when you are extracting an agent with your helicopter winch.</synopsis>
       <genre>Action,Shooter</genre>
     </locale>
@@ -18947,10 +18953,10 @@ While the first level confines the entire neighborhood to a one-screen maze, lat
       <control type="gamecube" required="false"/>
     </input>
   </game>
-  <game name="Fisher-price I Can Remember">
+  <game name="Fisher-Price - I Can Remember">
     <id>71384A</id>
     <locale lang="EN">
-      <title>Fisher-Price : I Can Remember</title>
+      <title>Fisher-Price - I Can Remember</title>
       <synopsis>Fisher-Price: I Can Remember is a card-based game of memory transposed onto the NES. The object is to flip over pairs of cards and find pairs that match. If an unmatched pair is flipped then they get flipped back and the player must remember that data for their next turn. The game has 3 levels, with each having progressively more cards (12, 16, or 20). The cards contain pictures of Fisher-Price toys. Finding matches removes the cards from the screen which then reveals parts of a larger Fisher-Price item.
 
 The game allows a player to play alone, or it allows 2-player competitive play. Further, it also allows human vs. computer competition, where the computer player is named "Electro".</synopsis>
@@ -18984,10 +18990,10 @@ El juego permite a un jugador jugar solo, o permite un juego competitivo de 2 ju
       <control type="gamecube" required="false"/>
     </input>
   </game>
-  <game name="Fisher-price Perfect Fit">
+  <game name="Fisher-Price - Perfect Fit">
     <id>71385A</id>
     <locale lang="EN">
-      <title>Fisher-Price : Perfect Fit</title>
+      <title>Fisher-Price - Perfect Fit</title>
       <synopsis>Fisher-Price: Perfect Fit is an activity that drops shapes onto the screen (usually in the form of Fisher-Price toys) which the player must then manipulate and match onto one of a series of silhouettes. In earlier levels, this is just a matter of moving the shape around the screen. In later levels, the player must also flip the shape vertically, horizontally, or both, before it forms the perfect fit for one of the silhouettes. The games can be played against the clock. There is also 2-player alternating play, where 2 human players can compete, or a human player can square off against the computer player (named "Electro").</synopsis>
       <genre>Various,Educational</genre>
     </locale>
@@ -19017,7 +19023,7 @@ El juego permite a un jugador jugar solo, o permite un juego competitivo de 2 ju
       <control type="gamecube" required="false"/>
     </input>
   </game>
-  <game name="Fist Of The North Star">
+  <game name="Fist of the North Star">
     <id>1598AA</id>
     <locale lang="EN">
       <title>Fist of the North Star</title>
@@ -19117,7 +19123,7 @@ A couple of things set this game apart from typical Famicom games. First, in add
     </input>
     <developer>ASCII Entertainment</developer>
   </game>
-  <game name="Flight Of The Intruder">
+  <game name="Flight of the Intruder">
     <id>1880AA</id>
     <locale lang="EN">
       <title>Flight of the Intruder</title>
@@ -19150,10 +19156,10 @@ A couple of things set this game apart from typical Famicom games. First, in add
       <control type="gamecube" required="false"/>
     </input>
   </game>
-  <game name="The Flintstones - The Rescue of Dino and Hoppy">
+  <game name="The Flintstones - The Rescue of Dino &amp; Hoppy">
     <id>1512AA</id>
     <locale lang="EN">
-      <title>The Flintstones : The Rescue of Dino &amp; Hoppy</title>
+      <title>The Flintstones - The Rescue of Dino &amp; Hoppy</title>
       <synopsis>The Flintstones and the Rubbles were enjoying a fine day when suddenly, someone from the future called Dr. Butler arrived and stole their pets, Dino and Hoppy!  Butler plans to feature the pets in his intergalactic zoo, and what's worse, he's destroyed the Great Gazoo's time machine so that no-one could stop him!  It's up to everyone's favourite caveman, Fred Flintstone, to find the pieces to the time machine and repair it, so that they can travel to the future and confront Dr. Butler once and for all!
 
 The Flintstones: The Rescue of Dino &amp; Hoppy is a side-scrolling platformer for the NES.  In it, you control Fred Flintstone through various locations such as Bedrock, Reef Rock, the Jungle and more as he searches for the missing pieces of Gazoo's time machine.  Fred has his trusty club which he can use to attack with, or charge up it's power by holding B for a more deadly attack.  Fred can collect coins after defeating enemies, which are used to pay for secondary weapons like slingshots and tomahawks, as well as special abilities such as flying and diving.
@@ -19254,7 +19260,7 @@ The Surprise at Dinosaur Peak is the second Flintstones-licensed game for the NE
   <game name="Flying Dragon - The Secret Scroll">
     <id>1733AA</id>
     <locale lang="EN">
-      <title>Flying Dragon : The Secret Scroll</title>
+      <title>Flying Dragon - The Secret Scroll</title>
       <synopsis>The grand master Juan was robbed of the secret scrolls of Hiryu-no-Ken, which is the ultimate kung-fu stance that gives the impression of a flying dragon when in effect. Luckily Juan has entrusted the remaining scroll to his worthy student, Ryohi. Juan's last request was for Ryohi to visit Shorinji. Gengai, the bishop of Shorinji, took the young Ryohi under his wing.  Six years later, a letter of challenge is sent from the Tusk Soldiers, who are the enemies of Shorinji, The letter mentions the upcoming "World Tournament of Contact Sports". Ryuhi decides to take part in the tournament as a representative of Shorinji. Ryuhi also hears from  Gengai that it was the Tusk Soldiers who robbed Ryuhi's master of his scrolls and now Ryuhi plans on getting them back.
 
 The player controls Ryuhi. During the side-scrolling portion of the game the player can use kung fu to dispose of enemies. There are also miniboss type enemies (the screen turns black when they appear)  that must be defeated because they drop items that must be collected in order to continue on. The items they drop go in a sequence of power-ups which will eventually allow you to get a key to exit the level. There are some one on one duels during fighting tournaments that involve hitting a target on an opponents body while defending the target on Ryuhi's body.</synopsis>
@@ -19413,10 +19419,10 @@ You can select the F1 race track you want to race. Cars are custom made you can 
       <control type="gamecube" required="false"/>
     </input>
   </game>
-  <game name="Formula One - Built To Win">
+  <game name="Formula One - Built to Win">
     <id>18676A</id>
     <locale lang="EN">
-      <title>Formula One : Built to Win</title>
+      <title>Formula One - Built to Win</title>
       <synopsis>Formula One: Born To Win is a career racing game. The player begins with a Mini Cooper and claws up the ranks of the racing circuit starting with the lowest ranked races in the eastern part of the United States. By winning races, the player can upgrade parts on the Mini and have a better shot at more races. Win enough races and eventually earn the opportunity to race using faster cars. The other cars available in the game are the Vector W2, Ferrari F40, and of course, the Formula 1. The first races take place in New York City, Detroit, and Miami. The other locales to visit are Yellowstone, Denver, Dallas, Las Vegas, Los Angeles, San Francisco, and finally Hawaii.
 
 The primary game is the "Normal Mode" of the game. The game's main menu also offers a "Free Mode" which allows the player to freely choose any of the 4 cars in the game to race on a selection of courses, without any obstruction from other cars,</synopsis>
@@ -19486,10 +19492,10 @@ game ... set ... match</synopsis>
       <control type="gamecube" required="false"/>
     </input>
   </game>
-  <game name="Fox's Peter Pan And The Pirates - The Revenge Of Captain Hook">
+  <game name="Fox's Peter Pan &amp; the Pirates - The Revenge of Captain Hook">
     <id>18677A</id>
     <locale lang="EN">
-      <title>Fox's Peter Pan &amp; the Pirates : The Revenge of Captain Hook</title>
+      <title>Fox's Peter Pan &amp; the Pirates - The Revenge of Captain Hook</title>
       <synopsis>Captain Hook and his army of brute pirates would like nothing better than to overtake Neverland with their corruptive ways. Peter Pan, with the help of Tinkerbell and a little Pixie Dust, will attempt to stop Captain Hook once and for all by making him walk his own gangplank.
 
 The player controls Peter, whose weapon is a sword. You start with 3 lives and you can increase your life meter by collecting treasure chests or Tinkerbell fairies throughout a level. You also can collect bags of fairy dust to temporarily fly. You must defeat all the pirates present on one level to get to the next level.</synopsis>
@@ -19522,7 +19528,7 @@ Le joueur contrôle Peter Pan, armé d'une épée. Vous commencez avec 3 vies et
   <game name="Frankenstein - The Monster Returns">
     <id>1581AA</id>
     <locale lang="EN">
-      <title>Frankenstein : The Monster Returns</title>
+      <title>Frankenstein - The Monster Returns</title>
       <synopsis>The villagers thought they were safe. But now it is time they learned the terrible truth... Frankenstein has risen, laid waste to the lands surrounding the village, has amassed an evil army of unholy creatures and even gone so far as to capture a young girl.
 
 Frankenstein is a side scroller adventure against all sorts of nightmarish creatures. Some might even call it a clone of the more widely known Castlevania games of the NES. You begin the game with nothing but your fists... but may acquire a magical club from enemies. Finding additional powerups with give the club the ability to toss fireballs. There are treasure chests in various rooms as well as characters that can help you in your quest through dialog hints.</synopsis>
@@ -19607,7 +19613,7 @@ To help the player an icon can appear quickly in the lower left corner of the sc
       <control type="gamecube" required="false"/>
     </input>
   </game>
-  <game name="Friday The 13th">
+  <game name="Friday the 13th">
     <id>1456AA</id>
     <locale lang="EN">
       <title>Friday the 13th</title>
@@ -19874,10 +19880,10 @@ Use a sua tática e seja sempre o campeão!</synopsis>
       <control type="gamecube" required="false"/>
     </input>
   </game>
-  <game name="G.i. Joe - A Real American Hero">
+  <game name="G.I. Joe - A Real American Hero">
     <id>1824AA</id>
     <locale lang="EN">
-      <title>G.I. Joe : A Real American Hero</title>
+      <title>G.I. Joe - A Real American Hero</title>
       <synopsis>G.I Joe is a side-scrolling action game where you can select 3 out of a possible 5 characters to complete a mission. 
 
 Each level is in three main parts:  The fight into the mission zone, the mission zone, and the escape from the mission zone.  The stages where you fight into and escape from the mission zone are straightforward action  just fight your way to the end of the stage, and defeat the stage boss.
@@ -19925,7 +19931,7 @@ Les 6 missions que le commando G.I. Joe doit accomplir se déroulent en Amazonie
       <control type="gamecube" required="false"/>
     </input>
   </game>
-  <game name="G.i. Joe - The Atlantis Factor">
+  <game name="G.I. Joe - The Atlantis Factor">
     <id>1589AA</id>
     <locale lang="EN">
       <title>G.I. Joe - The Atlantis Factor</title>
@@ -20518,10 +20524,10 @@ Other fictional teams include: Donuts, Gyruss, Caps, Swimmers, Walls, Targets, L
       <control type="gamecube" required="false"/>
     </input>
   </game>
-  <game name="Garfield No Isshkan - A Week Of Garfield">
+  <game name="A Week of Garfield">
     <id>18686A</id>
     <locale lang="EN">
-      <title>Garfield: A Week of Garfield</title>
+      <title>A Week of Garfield</title>
       <synopsis>Garfield, the lovable fat orange cat, has gotten himself into a spot of trouble. His pal and center of abuse, the yellow dog Odie, has gone and disappeared somewhere. Their owner, Jon, is too lazy to go look for Odie himself, so he has Garfield go out and look for him. And so Garfield heads off, out into the world.
 
 A Week of Garfield is a side-scrolling platform game based on the comic strip by Jim Davis. Garfield heads to the right through various indoor and outdoor city environments, dealing with endless vermin like frogs, birds, and mice using his judo kick skills and several different weapons such as bones that can be thrown. He has a life bar that can quickly deplete if he isn't careful, but hidden all around each stage are various items, which can replenish his health, refill his weapon supplies, and give him super speed or invincibility; be careful, though, as sometimes he'll also find fish bones which will harm Garfield if eaten.
@@ -20554,7 +20560,7 @@ The game is divided into seven stages, each representing a day of the week, and 
       <control type="gamecube" required="false"/>
     </input>
   </game>
-  <game name="Gargoyle's Quest 2">
+  <game name="Gargoyle's Quest II">
     <id>71396A</id>
     <locale lang="EN">
       <title>Gargoyle's Quest II</title>
@@ -20621,7 +20627,7 @@ The graphics are taken from the original game and downgraded. The music is mostl
     <developer>Hummer Team</developer>
     <publisher>Ge De Industry Co.</publisher>
   </game>
-  <game name="Garry Kitchen's Battletank">
+  <game name="Garry Kitchen's BattleTank">
     <id>18687A</id>
     <locale lang="EN">
       <title>Garry Kitchen's BattleTank</title>
@@ -20713,7 +20719,7 @@ Treasure is abundant throughout the levels and adds to your score.</synopsis>
       <control type="coop" required="true"/>
     </input>
   </game>
-  <game name="Gauntlet 2">
+  <game name="Gauntlet II">
     <id>1328AA</id>
     <locale lang="EN">
       <title>Gauntlet II</title>
@@ -20913,10 +20919,10 @@ El foco principal del juego consiste en la gestión del territorio, ya que el ju
       <control type="gamecube" required="false"/>
     </input>
   </game>
-  <game name="Genghis Khan 2 - Clan Of The Grey Wolf">
+  <game name="Genghis Khan II - Clan of the Grey Wolf">
     <id>59417A</id>
     <locale lang="EN">
-      <title>Genghis Khan II : Clan of the Grey Wolf</title>
+      <title>Genghis Khan II - Clan of the Grey Wolf</title>
       <synopsis>As in the first part you could participate in two conquests: Mongol conquest and world conquest. In the first you must unite all the little tribes of the country. The world conquest is more complex: You must use all your senses to make the world as you wish.</synopsis>
       <genre>Strategy</genre>
     </locale>
@@ -20970,7 +20976,7 @@ The game has a physical board game component as well. Included in the box is sev
       <control type="gamecube" required="false"/>
     </input>
   </game>
-  <game name="George Foreman's Ko Boxing">
+  <game name="George Foreman's KO Boxing">
     <id>18689A</id>
     <locale lang="EN">
       <title>George Foreman's KO Boxing</title>
@@ -21206,10 +21212,10 @@ Get going! You have 129 rooms to explore and Samantha is counting on you. Good l
     </input>
   </game>
 
-    <game name="Gimmi A Break - Shijou Saikyou No Quiz Ou Ketteisen">
+    <game name="Gimmi a Break - Shijou Saikyou no Quiz Ou Ketteisen">
     <id>88306A</id>
     <locale lang="EN">
-      <title>Gimmi a Break - Shijou Saikyou no Quiz Ou Ketteise</title>
+      <title>Gimmi a Break - Shijou Saikyou no Quiz Ou Ketteisen</title>
       <genre>Quiz</genre>
       <synopsis>Gimme a Break: Shijou Saikyou no Quiz Ou Ketteisen is a Miscellaneous game, published by Yonezawa PR21, which was released in Japan in 1991.</synopsis>
     </locale>
@@ -21227,10 +21233,10 @@ Get going! You have 129 rooms to explore and Samantha is counting on you. Good l
       <control type="gamecube" required="false"/>
     </input>
   </game>
-  <game name="Gimmi A Break - Shijou Saikyou No Quiz Ou Ketteisen 2">
+  <game name="Gimmi a Break - Shijou Saikyou no Quiz Ou Ketteisen 2">
     <id>88417A</id>
     <locale lang="EN">
-      <title>Gimmi a Break - Shijou Saikyou no Quiz Ou Ketteise</title>
+      <title>Gimmi a Break - Shijou Saikyou no Quiz Ou Ketteisen 2</title>
       <genre>Quiz</genre>
       <synopsis/>
     </locale>
@@ -21339,7 +21345,7 @@ En el año 2300, la raza humana creó un gobierno de federación de la Tierra y 
     </input>
     <date year="1992"/>
   </game>
-  <game name="Goal">
+  <game name="Goal!">
     <id>1460AA</id>
     <locale lang="EN">
       <title>Goal!</title>
@@ -21372,10 +21378,10 @@ En el año 2300, la raza humana creó un gobierno de federación de la Tierra y 
       <control type="gamecube" required="false"/>
     </input>
   </game>
-  <game name="Godzilla 2 - War Of The Monsters">
+  <game name="Godzilla 2 - War of the Monsters">
     <id>18692A</id>
     <locale lang="EN">
-      <title>Godzilla 2 : War of the Monsters</title>
+      <title>Godzilla 2 - War of the Monsters</title>
       <synopsis>In a completely different style from the first Nintendo Godzilla game from Toho, you play as japanese military forces fighting against Godzilla. Because Godzilla is such a ferocious monster, this is no easy task... in fact, your attacks to Godzilla don't actually do any damage to him at all. Strategy instead becomes the main point of play as you must position forces in strategic points to route Godzilla away from important buildings and into other areas where his movement will be less destructive to the city. Actual success of these routing attacks is imperfect, if one is not careful, the whole offensive will fall apart over a single missed attack.
 Beware Godzilla!</synopsis>
       <genre>Strategy</genre>
@@ -21404,10 +21410,10 @@ La stratégie devient alors essentielle dans ce jeu car vous devez positionner d
       <control type="gamecube" required="false"/>
     </input>
   </game>
-  <game name="Godzilla - Monster Of Monsters">
+  <game name="Godzilla - Monster of Monsters">
     <id>1275AA</id>
     <locale lang="EN">
-      <title>Godzilla : Monster of Monsters</title>
+      <title>Godzilla - Monster of Monsters</title>
       <synopsis>In the year 2XXX A.D., Earth is under attack from the aliens of Planet X. Armed with monsters of terrible destructive force, the invaders establish bases on every planet of the solar system. These monsters include the foes  Gezora, Moguera, Baragon, Varan</synopsis>
       <genre>Action</genre>
     </locale>
@@ -21581,7 +21587,7 @@ The game features 4 sets of 14 different golf clubs that you can bring to the co
   <game name="Golgo 13 - Top Secret Episode">
     <id>1624AA</id>
     <locale lang="EN">
-      <title>Golgo 13 : Top Secret Episode</title>
+      <title>Golgo 13 - Top Secret Episode</title>
       <synopsis>You play as Golgo 13, the greatest assassin for hire in the world. A vial of the deadliest biological weapon known to man, codenamed "Cassandra G.", has been stolen and you need to recover it before someone uses it on the unsuspecting world.
 
 This is a traditionial side-scrolling game that uses a third-person view in cutscenes.</synopsis>
@@ -21800,7 +21806,7 @@ The game starts with a water leak at the bottom right of the screen and it's you
   <game name="Gotcha! The Sport!">
     <id>18695A</id>
     <locale lang="EN">
-      <title>Gotcha! : The Sport!</title>
+      <title>Gotcha! The Sport!</title>
       <synopsis>Gotcha! is an NES Zapper title based on the "sport" of paintball, and loosely tied into the paintball-themed movie caper of the same name. You are required to traverse three different battle zones, grab the opposing teams' flag from the opposite end of the field, and make it back to your flag without getting shot.
 
 One hand controls the Zapper while the other must hold the controller, since the D-Pad controls your movement up and down the field. Limited ammo is also a concern, as is the ability for the computer team to snag your flag and return it to their base to win. You can chase down and tag the flag carrier yourself to prevent this.
@@ -21998,7 +22004,7 @@ get the bad ending.If you enter the Pyramid before the Cave level, you will get 
     </input>
     <developer>Hect</developer>
   </game>
-  <game name="Great Waldo Search, The">
+  <game name="The Great Waldo Search">
     <id>1912AA</id>
     <locale lang="EN">
       <title>The Great Waldo Search</title>
@@ -22032,10 +22038,10 @@ In all of the stages the player must find both Waldo and a scroll to complete th
       <control type="gamecube" required="false"/>
     </input>
   </game>
-  <game name="Great Wall, The">
+  <game name="The Great Wall">
     <id>88317A</id>
     <locale lang="EN">
-      <title>Great Wall, The</title>
+      <title>The Great Wall</title>
       <genre>Puzzle</genre>
       <synopsis/>
     </locale>
@@ -22085,7 +22091,7 @@ Gameplay consists of aiming the golf ball and then swinging the chosen golf club
   <game name="Gremlins 2 - The New Batch">
     <id>1300AA</id>
     <locale lang="EN">
-      <title>Gremlins 2 : The New Batch</title>
+      <title>Gremlins 2 - The New Batch</title>
       <synopsis>As Gizmo, you must reach the Gremlin Control Centre to wipe them out. This is an isometric action game differing from the Elite title. You can gain items such as a bow and arrow and matches after each level to help. Mr Wing's Shop also contains many goodies, so watch out for its door magically appearing. Hazards include spiders, electrified wires, ground-mounted hazards, and a boss at the end of each level.</synopsis>
       <genre>Action</genre>
     </locale>
@@ -22303,10 +22309,10 @@ On the NES you can tap the A button to fire up and right, the B button to fire u
       <control type="gamecube" required="false"/>
     </input>
   </game>
-  <game name="Gunhed - Aratanaru Tatakai">
+  <game name="GunHed - Aratanaru Tatakai">
     <id>88318A</id>
     <locale lang="EN">
-      <title>GunHed: Aratanaru Tatakai</title>
+      <title>GunHed - Aratanaru Tatakai</title>
       <genre>Strategy</genre>
       <synopsis>GunHed: Aratanaru Tatakai is a Strategy game, developed by Toho and published by Varie, which was released in Japan in 1990.</synopsis>
     </locale>
