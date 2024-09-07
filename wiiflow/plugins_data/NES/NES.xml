@@ -22405,7 +22405,7 @@ On the NES you can tap the A button to fire up and right, the B button to fire u
       <control type="gamecube" required="false"/>
     </input>
   </game>
-  <game name="Hacker">
+  <game name="The Hacker">
     <id>143320</id>
     <locale lang="EN">
       <title>The Hacker</title>
@@ -22808,7 +22808,7 @@ The first segment of stage five, At School, features a volleyball minigame, in w
       <control type="gamecube" required="false"/>
     </input>
   </game>
-  <game name="Snowboard Challenge">
+  <game name="Heavy Shreddin'">
     <id>1799AA</id>
     <locale lang="EN">
       <title>Heavy Shreddin'</title>
@@ -23352,10 +23352,10 @@ Victory will earn you money and other bonuses which can be used back in town to 
     </input>
     <publisher>NTDEC</publisher>
   </game>
-  <game name="Hit The Ice - Vhl - The Video Hockey League">
+  <game name="Hit the Ice - VHL - The Video Hockey League">
     <id>88334A</id>
     <locale lang="EN">
-      <title>Hit the Ice : VHL, The Video Hockey League</title>
+      <title>Hit the Ice - VHL - The Video Hockey League</title>
       <synopsis>This radical hockey game pits you and your team against some of the toughest skaters ever to burn a hole in the ice! Victory goes to the team that kicks, punches, and high-sticks its opponent into slush. Standard hockey rules apply, plus a few surprises to stir things up. So lace on your skates and fasten your face mask - hockey is about to break loose!</synopsis>
       <genre>Sports</genre>
     </locale>
@@ -23482,10 +23482,10 @@ Le troisième est un jeu de jonglage avec des cannettes vides.</synopsis>
       <control type="gamecube" required="false"/>
     </input>
   </game>
-  <game name="Hokuto No Ken 3 - Shinseiki Souzou Seiken Retsuden">
+  <game name="Hokuto no Ken 3 - Shinseiki Souzou Seiken Retsuden">
     <id>18708A</id>
     <locale lang="EN">
-      <title>Hokuto no Ken 3: Shinseiki Souzou Seiken Retsuden</title>
+      <title>Hokuto no Ken 3 - Shinseiki Souzou Seiken Retsuden</title>
       <synopsis>This RPG is based on the animé series Hokuto no Ken, a.k.a. Fist of the North Star. In 1999, a demonic attack caused devastated the human population. In order to re-build the ruined world and to survive in a struggle against demon lords and their minions, mankind needs the power of the Northern Star. You take control of Kenshirou, the hero of the series, and his friends, in a quest to save the humanity and to defeat the evil.
 
 Roaming the wasteland, visiting towns and dangerous dungeons, Kenshirou and his friends will encounter various enemies whom they will have to defeat in turn-based battles. The battle screen shows both parties as animé-style pictures. In boss battles Kenshirou will have to defeat his foes one-on-one.</synopsis>
@@ -23518,10 +23518,10 @@ Roaming the wasteland, visiting towns and dangerous dungeons, Kenshirou and his 
       <control type="gamecube" required="false"/>
     </input>
   </game>
-  <game name="Hokuto No Ken 4 - Shichisei Haken Den - Hokuto Shinken No Kanata E">
+  <game name="Hokuto no Ken 4 - Shichisei Haken Den - Hokuto Shinken no Kanata E">
     <id>18709A</id>
     <locale lang="EN">
-      <title>Hokuto No Ken 4 - Shichisei Haken Den - Hokuto Shinken No Kanata E</title>
+      <title>Hokuto no Ken 4 - Shichisei Haken Den - Hokuto Shinken no Kanata E</title>
       <synopsis>This is a RPG set in the universe of the animé series Hokuto no Ken, known outside of Japan as Fist of the North Star. You, the nameless young hero, return to your home village after a prolonged absence, only to find out that a mysterious evil has been plaguing it, and everybody need his help. He decides to investigate the matter and starts a dangerous journey, during which he teams up with some of the characters from the animé series.
 
 The gameplay is pretty similar to  Dragon Quest: you interact with things and people by choosing commands from a menu, wander around the world map and fight random enemies from first-person perspective. The enemies and your team members are shown as animé-style pictures during battles.</synopsis>
@@ -23656,10 +23656,10 @@ Home Alone es un scroller lateral. Controlando a Kevin, el jugador debe pasear p
       <control type="gamecube" required="false"/>
     </input>
   </game>
-  <game name="Home Alone 2 - Lost In New York">
+  <game name="Home Alone 2 - Lost in New York">
     <id>1663AA</id>
     <locale lang="EN">
-      <title>Home Alone 2 : Lost in New York</title>
+      <title>Home Alone 2 - Lost in New York</title>
       <synopsis>Loosely based on the film of the same name, Kevin McAllister has arrived in New York City without his parents. However he checks himself into a hotel and begins to have fun. It isn't long before the hotel  discovers he's using stolen credit cards and begin to chase him around! On top of that, Harry and Marv the burglars he once defeated, are in town and looking for revenge.
 
 Home Alone 2 is a side scroller. Controlling Kevin McAllister, the player will need to jump over enemies and obstacles while collecting items. These items include health bonuses and a variety of weapons. Losing all of Kevin's health or being "caught" will cost a life. The player starts with three lives for play.</synopsis>
@@ -23775,10 +23775,10 @@ Home Alone 2 es un juego de acción de desplazamiento lateral. Controlas a Kevin
       <control type="gamecube" required="false"/>
     </input>
   </game>
-  <game name="Honoo No Toukyuuji - Dodge Danpei">
+  <game name="Honoo no Toukyuuji - Dodge Danpei">
     <id>88337A</id>
     <locale lang="EN">
-      <title>Honoo No Toukyuuji - Dodge Danpei</title>
+      <title>Honoo no Toukyuuji - Dodge Danpei</title>
       <synopsis>Honoo no Doukyuuji: Dodge Danpei is a Sports game, developed and published by SunSoft, which was released in Japan in 1992. It' a game about the Dodgeball, but in this game you have differents power and card for play, it's a funny game.</synopsis>
       <genre/>
     </locale>
@@ -23799,7 +23799,7 @@ Home Alone 2 es un juego de acción de desplazamiento lateral. Controlas a Kevin
       <control type="gamecube" required="false"/>
     </input>
   </game>
-  <game name="Honoo No Toukyuuji - Dodge Danpei 2">
+  <game name="Honoo no Toukyuuji - Dodge Danpei 2">
     <id>88338A</id>
     <locale lang="EN">
       <title>Honoo no Toukyuuji - Dodge Danpei 2</title>
@@ -23964,7 +23964,7 @@ Combat whisks you away from the top-down perspective to a battle view in which y
   <game name="Hot Slots">
     <id>18718A</id>
     <locale lang="EN">
-      <title>Hot Slot</title>
+      <title>Hot Slots</title>
       <synopsis>This is a simple slot machine simulation. What makes it different are the erotic pictures of naked or half-naked girls, which you get if you successfully complete a casino round and win a lot of money. There are three casinos you can play in, each one leading to different girls and different short scenes and comments from them.</synopsis>
       <genre>Simulation,Casino / Slot machine,Casino</genre>
     </locale>
@@ -24147,10 +24147,10 @@ impedir que esa diabólica máquina de hacer oro vea la luz del sol.</synopsis>
     </input>
     <developer>Use Corporation</developer>
   </game>
-  <game name="Hyaku No Sekai No Monogatari - The Tales On A Watery Wilderness">
+  <game name="Hyaku no Sekai no Monogatari - The Tales on a Watery Wilderness">
     <id>88344A</id>
     <locale lang="EN">
-      <title>Hyaku no Sekai no Monogatari : The Tales on a Watery Wilderness</title>
+      <title>Hyaku no Sekai no Monogatari - The Tales on a Watery Wilderness</title>
       <synopsis>This Famicom title by ASK combines the mechanics of a tabletop board game with the battle style and character progression of a role-playing game to create an interesting hybrid.  One to two players can embark on a great adventure to explore the realm of Yukiria and complete quests for its inhabitants, with multiple endings possible!</synopsis>
       <genre>RPG</genre>
     </locale>
@@ -24704,10 +24704,10 @@ Hect would follow up Igo Shinan with four sequels, each referring to the year in
       <control type="coop" required="true"/>
     </input>
   </game>
-  <game name="Ikari Warriors 2 - Victory Road">
+  <game name="Ikari Warriors II - Victory Road">
     <id>1772AA</id>
     <locale lang="EN">
-      <title>Ikari Warriors II : Victory Road</title>
+      <title>Ikari Warriors II - Victory Road</title>
       <synopsis>Heavy on the action, Ikari Warriors became a favorite both in the arcades and on home consoles. To fuel that frenzy, SNK and Tradewest teamed up again for a sequel, Victory Road, released later that same year.
 
 This time, the Ikari Warriors take on more cosmic foes, battling rock-headed beasts, one-eyed green men and other odd creatures.</synopsis>
@@ -24916,7 +24916,7 @@ ImageFight es un shooter espacial que se desplaza verticalmente. En cada nivel h
       <control type="gamecube" required="false"/>
     </input>
   </game>
-  <game name="Immortal, The">
+  <game name="The Immortal">
     <id>1348AA</id>
     <locale lang="EN">
       <title>The Immortal</title>
@@ -24960,7 +24960,7 @@ El calabozo no está vacío: algunos simpáticos personajes pueden tener informa
       <control type="gamecube" required="false"/>
     </input>
   </game>
-  <game name="Impossible Mission 2">
+  <game name="Impossible Mission II">
     <id>1481AA</id>
     <locale lang="EN">
       <title>Impossible Mission II</title>
@@ -24990,7 +24990,7 @@ El calabozo no está vacío: algunos simpáticos personajes pueden tener informa
       <control type="gamecube" required="false"/>
     </input>
   </game>
-  <game name="Incredible Crash Dummies, The">
+  <game name="The Incredible Crash Dummies">
     <id>1645AA</id>
     <locale lang="EN">
       <title>The Incredible Crash Dummies</title>
@@ -25022,7 +25022,7 @@ In The Incredible Crash Dummies the player alternates between Slick and Spin as 
       <control type="gamecube" required="false"/>
     </input>
   </game>
-  <game name="Indiana Jones And The Last Crusade">
+  <game name="Indiana Jones and the Last Crusade">
     <id>1433AA</id>
     <locale lang="EN">
       <title>Indiana Jones and the Last Crusade</title>
@@ -25060,7 +25060,7 @@ El juego presenta imágenes de mapa de bits de los actores reales de la películ
       <control type="gamecube" required="false"/>
     </input>
   </game>
-  <game name="Indiana Jones And The Temple Of Doom">
+  <game name="Indiana Jones and the Temple of Doom">
     <id>1520AA</id>
     <locale lang="EN">
       <title>Indiana Jones and the Temple of Doom</title>
@@ -25093,10 +25093,10 @@ With every cycle the mine &amp; mine cart levels become more complex, the layout
       <control type="gamecube" required="false"/>
     </input>
   </game>
-  <game name="Indiana Jones And The Last Crusade (Ubisoft)">
+  <game name="Indiana Jones and the Last Crusade (Ubisoft)">
     <id>71422A</id>
     <locale lang="EN">
-      <title>Indiana Jones and the Last Crusade</title>
+      <title>Indiana Jones and the Last Crusade (Ubisoft)</title>
       <synopsis>Indiana Jones and the Last Crusade differs from the two other games with the same name as it is a hybrid of various genres such as platform action, motorcycle racing, puzzle solving and even some adventure elements.
 
 In Indiana Jones and the Last Crusade you play Indy's role in his search for the Holy Grail, but this time it is you who chooses which step he will take at each part of his quest. For example, in the very beginning you receive a diary about the Grail from Indy's father, who is in Venice. At the same time, you receive a telegram from Marcus saying that the Cross of Coronado is in Portugal on a ship called Coronado, and that he'll meet Indy there. So you have to choose what you'll do first: go to Venice and check about the Grail and your father, or go to Portugal to find Marcus and the Cross of Coronado.
@@ -25280,10 +25280,10 @@ The game presents bitmapped pictures of the real movie actors, such as Harrison 
       <control type="gamecube" required="false"/>
     </input>
   </game>
-  <game name="Ironsword - Wizards And Warriors 2">
+  <game name="IronSword - Wizards &amp; Warriors II">
     <id>1363AA</id>
     <locale lang="EN">
-      <title>IronSword : Wizards &amp; Warriors II</title>
+      <title>IronSword - Wizards &amp; Warriors II</title>
       <synopsis>After the death of the evil wizard Malkil, he has returned.
 You are the mightiest warrior of them all, Kuros. And you have been summoned to the land of Sindarin to destroy Malkil "again".
 Malkil has now taken the shape of the four elements, water, wind, air and fire. To destroy the wizard this time you have to collect the shattered pieces of the Legendary Ironsword throughout the world of Sindarin. There exist four animal kings in the land and they will help you in your quest.</synopsis>
@@ -25443,7 +25443,7 @@ Armes puissance max: 6285
       <control type="gamecube" required="false"/>
     </input>
   </game>
-  <game name="Ivan 'ironman' Stewart's Super Off Road">
+  <game name="Ivan 'Ironman' Stewart's Super Off Road">
     <id>71427A</id>
     <locale lang="EN">
       <title>Ivan 'Ironman' Stewart's Super Off Road</title>
@@ -25540,10 +25540,10 @@ Chaque victoire rapporte de l'argent. Le joueur peut ensuite améliorer les perf
       <control type="gamecube" required="false"/>
     </input>
   </game>
-  <game name="Jack Nicklaus' Greatest 18 Holes Of Major Championship Golf">
+  <game name="Jack Nicklaus' Greatest 18 Holes of Major Championship Golf">
     <id>1815AA</id>
     <locale lang="EN">
-      <title>Jack Nicklaus' Greatest 18 Holes of Major Champion</title>
+      <title>Jack Nicklaus' Greatest 18 Holes of Major Championship Golf</title>
       <synopsis>Jack Nicklaus' Greatest 18 Holes of Major Championship Golf is a 3-D golf simulation featuring an 18 Hole course created by Jack Nicklaus himself. Each of the 18 holes are from famous courses around the world and include number 8 at Pebble Beach, number 18 from Muirfield, number 12 from St. Andrews, number 12 from Augusta, number 10 at Riviera, and more. Gameplay is for one to four players and can be either stroke play or a skins game.</synopsis>
       <genre>Sports</genre>
     </locale>
@@ -26053,10 +26053,10 @@ Jesus is a Japanese-style adventure game. Each area is shown with an image, and 
     <date year=""/>
     <publisher/>
   </game>
-  <game name="Jetsons - Cogswell's Caper!, The">
+  <game name="The Jetsons - Cogswell's Caper">
     <id>1837AA</id>
     <locale lang="EN">
-      <title>The Jetsons : Cogswell's Caper</title>
+      <title>The Jetsons - Cogswell's Caper</title>
       <synopsis>The Jetsons: Cogwell's Caper is based on the well-known Jetsons property from Hanna-Barbera. In this spin-off adventure, George Jetson is tasked my his employer to put a stop to the profit-making schemes of the rival Cogswell's company. To do this, George must hop from location to location in his jet and conquer each level using the resources available to him, as well as with the assistance of the other Jetson franchise characters.
 
 Cogswell's Caper is a side-scrolling action game where George Jetson can walk, crouch, and jump (actually, he's too lazy to jump and a jet pack handles the jumping duty for short bursts). Each level is littered with crates and other items that George can pick up and toss at enemies, while finding useful items (and occasionally even more enemies) underneath them. Since the game is set in the futuristic world of the Jetsons, there are also copious switches on walls which activate all kinds of features of the surroundings, such as a switch that reverses gravity for a brief time.</synopsis>
@@ -26148,7 +26148,7 @@ EiIn Schalter kehrt beispielsweise die Schwerkraft für kurze Zeit um. Bei seine
       <control type="gamecube" required="false"/>
     </input>
   </game>
-  <game name="Jimmy Connor's Tennis">
+  <game name="Jimmy Connors Tennis">
     <id>1505AA</id>
     <locale lang="EN">
       <title>Jimmy Connors Tennis</title>
@@ -26298,10 +26298,10 @@ It is very accurate when it comes to playing on different surfaces such as hard 
       <control type="gamecube" required="false"/>
     </input>
   </game>
-  <game name="Jordan Vs Bird - One On One">
+  <game name="Jordan vs Bird - One on One">
     <id>1646AA</id>
     <locale lang="EN">
-      <title>Jordan vs Bird : One On One</title>
+      <title>Jordan vs Bird - One on One</title>
       <synopsis>Two of the greatest icons of the Golden Age of the NBA match up in this game. On one side, the spectacular dunks of Michael Jordan of the Chicago Bulls; on the other, Larry Bird's incredible accuracy from the outside. 
 
 While Bird feels right home at the three-point contest, where five racks with five balls each are placed around the three-point arc and the player must pick each ball and throw in the the best timing possible to get as many points as possible during the 60 second window, only Jordan has the air-time to perform on the slam dunk contest, where the player has a number of dunks at his disposal, each requiring different timing to get the best score from all three attempts from the judges, and win the competition.
@@ -26332,7 +26332,7 @@ While they are two completely different players, they can still go one-on-one on
       <control type="gamecube" required="false"/>
     </input>
   </game>
-  <game name="Joshua And The Battle Of Jericho">
+  <game name="Joshua &amp; the Battle of Jericho">
     <id>1788AA</id>
     <locale lang="EN">
       <title>Joshua &amp; the Battle of Jericho</title>
