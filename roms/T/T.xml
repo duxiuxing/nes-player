@@ -10,6 +10,21 @@
 		en="Takahashi Meijin no Bouken-jima IV"
 		zhcn="冒险岛4"
 	/>
+	<Game crc32="83213CA0" bytes="262160"
+		rom="Teenage Mutant Ninja Turtles"
+		en="Teenage Mutant Ninja Turtles"
+		zhcn="忍者神龟"
+	/>
+	<Game crc32="E8F95884" bytes="524304"
+		rom="Teenage Mutant Ninja Turtles II - The Arcade Game"
+		en="Teenage Mutant Ninja Turtles II - The Arcade Game"
+		zhcn="忍者神龟2" language="chinese"
+	/>
+	<Game crc32="480D2753" bytes="786960"
+		rom="Teenage Mutant Ninja Turtles III - The Manhattan Project"
+		en="Teenage Mutant Ninja Turtles III - The Manhattan Project"
+		zhcn="忍者神龟3" language="chinese"
+	/>
 	<Game crc32="88F071C3" bytes="49168"
 		rom="Tetris - The Soviet Mind Game"
 		en="Tetris - The Soviet Mind Game"

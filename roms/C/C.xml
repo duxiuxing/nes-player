@@ -75,6 +75,11 @@
 		en="Circus Charlie"
 		zhcn="马戏团"
 	/>
+	<Game crc32="DDF60E0F" bytes="294944"
+		rom="Code Name - Viper"
+		en="Code Name - Viper"
+		zhcn="人间兵器" language="chinese"
+	/>
 	<Game crc32="2A39628D" bytes="393232"
 		rom="Contra"
 		en="Contra"

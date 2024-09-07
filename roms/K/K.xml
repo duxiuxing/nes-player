@@ -55,4 +55,9 @@
 		en="Kung Fu"
 		zhcn="成龙踢馆"
 	/>
+	<Game crc32="3F59CB21" bytes="524304"
+		rom="Kyatto Ninden Teyandee"
+		en="Kyatto Ninden Teyandee"
+		zhcn="忍者猫" language="chinese"
+	/>
 </Game-List>

@@ -10,6 +10,41 @@
 		en="Ninja Crusaders"
 		zhcn="龙牙"
 	/>
+	<Game crc32="BA7818A1" bytes="262160"
+		rom="Ninja Gaiden"
+		en="Ninja Gaiden"
+		zhcn="忍者龙剑传" language="chinese"
+	/>
+	<Game crc32="E3F69FA2" bytes="335888"
+		rom="Ninja Gaiden II - The Dark Sword of Chaos"
+		en="Ninja Gaiden II - The Dark Sword of Chaos"
+		zhcn="忍者龙剑传2" language="chinese"
+	/>
+	<Game crc32="7934C198" bytes="262160"
+		rom="Ninja Jajamaru - Ginga Daisakusen"
+		en="Ninja Jajamaru - Ginga Daisakusen"
+		zhcn="忍者茶茶丸 银河大作战"
+	/>
+	<Game crc32="D0D04A1F" bytes="32784"
+		rom="Ninja Jajamaru-kun"
+		en="Ninja Jajamaru-kun"
+		zhcn="忍者茶茶丸" language="chinese"
+	/>
+	<Game crc32="1294298B" bytes="131088"
+		rom="Ninja-kun - Ashura no Shou"
+		en="Ninja-kun - Ashura no Shou"
+		zhcn="忍者君2"
+	/>
+	<Game crc32="37063E51" bytes="131088"
+		rom="Ninja-kun - Ashura no Shou"
+		en="Ninja-kun - Ashura no Shou"
+		zhcn="忍者君2" language="chinese"
+	/>
+	<Game crc32="29BE6BBA" bytes="24592"
+		rom="Ninja-kun - Majou no Bouken"
+		en="Ninja-kun - Majou no Bouken"
+		zhcn="忍者君"
+	/>
 	<Game crc32="F51355D3" bytes="24592"
 		rom="Nuts &amp; Milk"
 		en="Nuts &amp; Milk"

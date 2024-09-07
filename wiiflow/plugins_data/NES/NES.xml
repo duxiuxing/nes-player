@@ -10656,6 +10656,9 @@ The entire game consists of repeating these types of levels for a grand total of
     <locale lang="JA">
       <title>Dead Fox</title>
     </locale>
+    <locale lang="ZHCN">
+      <title>人间兵器</title>
+    </locale>
     <developer>Capcom</developer>
     <publisher>Capcom</publisher>
     <date year="1990" month="02" day="23"/>
@@ -37071,6 +37074,9 @@ Ashura no Shou développe le gameplay de base présenté dans Ninjakun, en intro
     </locale>
     <locale lang="JA">
       <title>Ninja-kun : Majou no Bouken</title>
+    </locale>
+    <locale lang="ZHCN">
+      <title>忍者君</title>
     </locale>
     <developer>UPL Co., Ltd</developer>
     <publisher>Jaleco</publisher>

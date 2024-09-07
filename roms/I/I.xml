@@ -20,6 +20,11 @@
         en="Ikari III - The Rescue"
         zhcn="怒三代"
     />
+    <Game crc32="E00264B5" bytes="24592"
+        rom="Ikki"
+        en="Ikki"
+        zhcn="忍者大决战"
+    />
     <Game crc32="BD2855F2" bytes="262160"
         rom="Iron Tank"
         en="Iron Tank"
