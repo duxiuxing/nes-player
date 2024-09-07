@@ -1,5 +1,10 @@
 <?xml version='1.0' encoding='utf-8'?>
 <Game-List brief="en 以英文字母 H 开头的游戏">
+    <Game crc32="925F8061" bytes="262160"
+        rom="Heavy Barrel"
+        en="Heavy Barrel"
+        zhcn="霹雳神兵" language="chinese"
+    />
     <Game crc32="54DC10CD" bytes="131088"
         rom="Hello Kitty World"
         en="Hello Kitty World"

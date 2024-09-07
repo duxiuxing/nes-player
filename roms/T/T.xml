@@ -50,6 +50,26 @@
 		en="The Flintstones - The Surprise at Dinosaur Peak"
 		zhcn="摩登原始人2"
 	/>
+	<Game crc32="5589AF04" bytes="49168"
+		rom="The Goonies"
+		en="The Goonies"
+		zhcn="七宝奇谋"
+	/>
+	<Game crc32="C1465B4B" bytes="49296"
+		rom="The Goonies"
+		en="The Goonies"
+		zhcn="七宝奇谋"
+	/>
+	<Game crc32="AA9CA482" bytes="131088"
+		rom="The Goonies II"
+		en="The Goonies II"
+		zhcn="七宝奇谋2"
+	/>
+	<Game crc32="E7511614" bytes="655392"
+		rom="The Goonies II"
+		en="The Goonies II"
+		zhcn="七宝奇谋2"
+	/>
 	<Game crc32="77DF8D83" bytes="262160"
 		rom="The Guardian Legend"
 		en="The Guardian Legend"

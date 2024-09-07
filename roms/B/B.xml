@@ -20,6 +20,16 @@
 		en="B-Wings"
 		zhcn="B计划" language="chinese"
 	/>
+	<Game crc32="1E63AE84" bytes="24592"
+		rom="Balloon Fight"
+		en="Balloon Fight"
+		zhcn="气球大战" language="chinese"
+	/>
+	<Game crc32="3D512CEE" bytes="24592"
+		rom="Balloon Fight"
+		en="Balloon Fight"
+		zhcn="气球大战"
+	/>
 	<Game crc32="E14A7971" bytes="393232"
 		rom="Batman - Return of the Joker"
 		en="Batman - Return of the Joker"

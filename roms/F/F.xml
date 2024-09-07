@@ -30,4 +30,9 @@
 		en="Formation Z"
 		zhcn="变形战机Z"
 	/>
+	<Game crc32="B0C660BA" bytes="24592"
+		rom="Front Line"
+		en="Front Line"
+		zhcn="前线" language="chinese"
+	/>
 </Game-List>

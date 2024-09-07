@@ -10,6 +10,16 @@
 		en="Pac-Man (Namco)"
 		zhcn="吃豆小精灵"
 	/>
+	<Game crc32="BD486AED" bytes="262160"
+		rom="Parodius"
+		en="Parodius"
+		zhcn="Q版沙罗曼蛇" language="chinese"
+	/>
+	<Game crc32="EC8AEFFC" bytes="262160"
+		rom="Parodius"
+		en="Parodius"
+		zhcn="Q版沙罗曼蛇"
+	/>
 	<Game crc32="88C15CF3" bytes="24592"
 		rom="Pinball"
 		en="Pinball"
@@ -39,9 +49,5 @@
 		rom="Power Blade 2"
 		en="Power Blade 2"
 		zhcn="能源战士2"
-	/>
-	<Game crc32="925F8061" bytes="262160"
-		en="Heavy Barrel"
-		zhcn="霹雳神兵(中)"
 	/>
 </Game-List>

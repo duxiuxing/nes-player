@@ -65,6 +65,11 @@
 		en="Choujin Sentai Jetman"
 		zhcn="鸟人战队"
 	/>
+	<Game crc32="D47FFEB6" bytes="40976"
+		rom="Chubby Cherub"
+		en="Chubby Cherub"
+		zhcn="Q太郎"
+	/>
 	<Game crc32="0C2E38C2" bytes="24592"
 		rom="Circus Charlie"
 		en="Circus Charlie"
