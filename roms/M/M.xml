@@ -40,6 +40,11 @@
 		en="Mappy-Land"
 		zhcn="猫抓老鼠2" language="chinese"
 	/>
+	<Game crc32="F4951766" bytes="163856"
+		rom="Mario &amp; Yoshi"
+		en="Mario &amp; Yoshi"
+		zhcn="耀西的蛋"
+	/>
 	<Game crc32="52759369" bytes="49168"
 		rom="Mario Bros."
 		en="Mario Bros."
@@ -100,6 +105,16 @@
 		en="Metal Gear"
 		zhcn="合金装备" language="chinese"
 	/>
+	<Game crc32="4DE6A02B" bytes="131088"
+		rom="Metroid"
+		en="Metroid"
+		zhcn="银河战士"
+	/>
+	<Game crc32="2120DFEA" bytes="786448"
+		rom="Metroid - Rogue Dawn"
+		en="Metroid - Rogue Dawn"
+		zhcn="银河战士 盗贼多恩"
+	/>
 	<Game crc32="15EB0BEE" bytes="262160"
 		rom="Mighty Final Fight"
 		en="Mighty Final Fight"
@@ -129,6 +144,16 @@
 		rom="Monster in My Pocket"
 		en="Monster in My Pocket"
 		zhcn="口袋里的魔鬼" language="chinese"
+	/>
+	<Game crc32="0C4CE713" bytes="1048608"
+		rom="Moon Crystal"
+		en="Moon Crystal"
+		zhcn="月光宝石"
+	/>
+	<Game crc32="463D5C4C" bytes="524304"
+		rom="Moon Crystal"
+		en="Moon Crystal"
+		zhcn="月光宝石"
 	/>
 	<Game crc32="EEB6B362" bytes="393232"
 		rom="Mr. Gimmick"

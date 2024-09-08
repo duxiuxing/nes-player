@@ -5,6 +5,11 @@
         en="Lagrange Point"
         zhcn="拉格朗日点" language="chinese"
     />
+    <Game crc32="E9E9B7CA" bytes="131088"
+        rom="Legendary Wings"
+        en="Legendary Wings"
+        zhcn="翼人" language="chinese"
+    />
     <Game crc32="95184260" bytes="393232"
         rom="Life Force"
         en="Life Force"
@@ -39,5 +44,10 @@
         rom="Lode Runner"
         en="Lode Runner"
         zhcn="淘金者" language="chinese"
+    />
+    <Game crc32="FA96CBA2" bytes="24592"
+        rom="Lunar Pool"
+        en="Lunar Pool"
+        zhcn="月宫桌球"
     />
 </Game-List>

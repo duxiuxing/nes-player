@@ -65,6 +65,11 @@
         en="Aladdin 4"
         zhcn="阿拉丁4"
     />
+    <Game crc32="5A2CDDE8" bytes="262160"
+        rom="Alien 3"
+        en="Alien 3"
+        zhcn="异形3" language="chinese"
+    />
     <Game crc32="3AFDB6EE" bytes="65552"
         rom="Alpha Mission"
         en="Alpha Mission"

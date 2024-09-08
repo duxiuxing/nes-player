@@ -10,128 +10,19 @@
 		en="Yie Ar Kung-Fu"
 		zhcn="功夫"
 	/>
+	<Game crc32="C31C8548" bytes="524304"
+		rom="Yong Zhe Dou E Long - Dragon Quest 6"
+		en="Yong Zhe Dou E Long - Dragon Quest 6"
+		zhcn="勇者斗恶龙6" language="chinese"
+	/>
 	<Game crc32="76E7A0CC" bytes="262160"
 		rom="Yume Penguin Monogatari"
 		en="Yume Penguin Monogatari"
 		zhcn="企鹅梦物语"
 	/>
-	<Game crc32="6B8D777D" bytes="262160"
-		en="The Addams Family - Pugsley's Scavenger Hunt"
-		zhcn="亚当斯一家 帕格斯利的寻宝"
-	/>
-	<Game crc32="08E2AF80" bytes="262160"
-		en="The Addams Family"
-		zhcn="亚当斯一家"
-	/>
-	<Game crc32="394FD25A" bytes="393232"
-		en="G.I. Joe - A Real American Hero"
-		zhcn="眼镜蛇特种部队"
-	/>
-	<Game crc32="A8EFAC13" bytes="393232"
-		en="G.I. Joe - The Atlantis Factor"
-		zhcn="眼镜蛇特种部队2"
-	/>
-	<Game crc32="2100D90B" bytes="65552"
-		en="R.C. Pro-Am"
-		zhcn="遥控赛车"
-	/>
-	<Game crc32="03DB5562" bytes="262160"
-		en="R.C. Pro-Am II"
-		zhcn="遥控赛车2"
-	/>
-	<Game crc32="F4951766" bytes="163856"
-		en="Mario &amp; Yoshi"
-		zhcn="耀西的蛋"
-	/>
-	<Game crc32="DCD20EC8" bytes="262160"
-		en="Xexyz"
-		zhcn="义龟报恩"
-	/>
-	<Game crc32="5A2CDDE8" bytes="262160"
-		en="Alien 3"
-		zhcn="异形3(中)"
-	/>
-	<Game crc32="E9E9B7CA" bytes="131088"
-		en="Legendary Wings"
-		zhcn="翼人(中)"
-	/>
-	<Game crc32="D35E0AAF" bytes="131216"
-		en="Zanac"
-		zhcn="银河号"
-	/>
-	<Game crc32="B8E36AEE" bytes="524304"
-		en="Zen - Intergalactic Ninja"
-		zhcn="银河忍者(中)"
-	/>
-	<Game crc32="4DE6A02B" bytes="131216"
-		en="Metroid"
-		zhcn="银河战士"
-	/>
-	<Game crc32="2120DFEA" bytes="786448"
-		en="Metroid - Rogue Dawn"
-		zhcn="银河战士 盗贼多恩"
-	/>
-	<Game crc32="46EB0E0C" bytes="81936"
-		en="The Legend of Kage"
-		zhcn="影子传说(中)"
-	/>
-	<Game crc32="DBBD1D5C" bytes="106512"
-		en="The Legend of Kage"
-		zhcn="影子传说"
-	/>
-	<Game crc32="8B2E48A9" bytes="131088"
-		en="Cabal"
-		zhcn="勇士们"
-	/>
-	<Game crc32="4D5F2EB0" bytes="131088"
-		en="Cabal"
-		zhcn="勇士们"
-	/>
-	<Game crc32="C31C8548" bytes="524304"
-		en="Yong Zhe Dou E Long - Dragon Quest 6"
-		zhcn="勇者斗恶龙6(中)"
-	/>
 	<Game crc32="1F88FACB" bytes="655376"
-		zhcn="幽游白书 魔界最强列传(中)"
-	/>
-	<Game crc32="97C4EAC3" bytes="65552"
-		en="Gradius"
-		zhcn="宇宙巡航机"
-	/>
-	<Game crc32="EEB4A888" bytes="73744"
-		en="Gradius"
-		zhcn="宇宙巡航机"
-	/>
-	<Game crc32="D213AA0D" bytes="262160"
-		en="Gradius 2"
-		zhcn="宇宙巡航机2"
-	/>
-	<Game crc32="FF5904B0" bytes="262160"
-		en="Gradius 2"
-		zhcn="宇宙巡航机2"
-	/>
-	<Game crc32="3BF54226" bytes="393232"
-		en="Getsu Fuuma Den"
-		zhcn="月风魔传(中)"
-	/>
-	<Game crc32="FA96CBA2" bytes="24592"
-		en="Lunar Pool"
-		zhcn="月宫桌球"
-	/>
-	<Game crc32="0C4CE713" bytes="1048608"
-		en="Moon Crystal"
-		zhcn="月光宝石"
-	/>
-	<Game crc32="463D5C4C" bytes="524304"
-		en="Moon Crystal"
-		zhcn="月光宝石"
-	/>
-	<Game crc32="39A2FA8E" bytes="41104"
-		en="Excitebike"
-		zhcn="越野摩托"
-	/>
-	<Game crc32="C85BF3E3" bytes="262160"
-		en="Breakthru"
-		zhcn="越野战车"
+		rom="Yuu Yuu Hakusho Final - Makai Saikyou Retsuden"
+		en="Yuu Yuu Hakusho Final - Makai Saikyou Retsuden"
+		zhcn="幽游白书 魔界最强列传" language="chinese"
 	/>
 </Game-List>

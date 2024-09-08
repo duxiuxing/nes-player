@@ -5,4 +5,9 @@
 		en="Xevious - The Avenger"
 		zhcn="铁板阵" language="chinese"
 	/>
+	<Game crc32="DCD20EC8" bytes="262160"
+		rom="Xexyz"
+		en="Xexyz"
+		zhcn="义龟报恩"
+	/>
 </Folder>

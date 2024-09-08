@@ -12406,15 +12406,18 @@ The main mode of play is the J.LEAGUE mode. It is set up in a season/tournament 
       <control type="gamecube" required="false"/>
     </input>
   </game>
-  <game name="Datach - Yu Yu Hakusho - Bakutou Ankoku Bujutsukai">
+  <game name="Yu Yu Hakusho - Bakutou Ankoku Bujutsu Kai">
     <id>65480A</id>
     <locale lang="EN">
-      <title>Datach - Yu Yu Hakusho - Bakutou Ankoku Bujutsukai</title>
+      <title>Yu Yu Hakusho - Bakutou Ankoku Bujutsu Kai</title>
       <genre/>
       <synopsis/>
     </locale>
     <locale lang="JA">
-      <title>Datach : Yu Yu Hakusho, Bakutou Ankoku Bujutsukai</title>
+      <title>Yu Yu Hakusho - Bakutou Ankoku Bujutsu Kai</title>
+    </locale>
+    <locale lang="ZHCN">
+      <title>幽游白书 爆斗暗黑武术会</title>
     </locale>
     <publisher>Bandai</publisher>
     <date year="1993" month="10" day="22"/>
@@ -57550,6 +57553,9 @@ z sur vos gardes, pleins d'ennemis vous lancent de la bouffe pour que vous rendr
       <title>Yuu Yuu Hakusho Final - Makai Saikyou Retsuden</title>
       <genre>Fighting</genre>
       <synopsis/>
+    </locale>
+    <locale lang="ZHCN">
+      <title>幽游白书 魔界最强列传</title>
     </locale>
     <rating type="NOTE" value="">
 		</rating>

@@ -1,5 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Game-List brief="en 以英文字母 C 开头的游戏">
+	<Game crc32="4D5F2EB0" bytes="131088"
+		rom="Cabal"
+		en="Cabal"
+		zhcn="勇士们"
+	/>
+	<Game crc32="8B2E48A9" bytes="131088"
+		rom="Cabal"
+		en="Cabal"
+		zhcn="勇士们"
+	/>
 	<Game crc32="7254D53D" bytes="262160"
 		rom="Captain America and the Avengers"
 		en="Captain America and the Avengers"

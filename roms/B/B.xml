@@ -165,6 +165,11 @@
 		en="Boulder Dash"
 		zhcn="寻宝大进击" language="chinese"
 	/>
+	<Game crc32="C85BF3E3" bytes="262160"
+		rom="Breakthru"
+		en="Breakthru"
+		zhcn="越野战车"
+	/>
 	<Game crc32="505AC4F0" bytes="426000"
 		rom="Bucky O'Hare"
 		en="Bucky O'Hare"

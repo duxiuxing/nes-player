@@ -75,6 +75,16 @@
 		en="The 3D Battles of World Runner"
 		zhcn="3D世界奔跑者"
 	/>
+	<Game crc32="08E2AF80" bytes="262160"
+		rom="The Addams Family"
+		en="The Addams Family"
+		zhcn="亚当斯一家"
+	/>
+	<Game crc32="6B8D777D" bytes="262160"
+		rom="The Addams Family - Pugsley's Scavenger Hunt"
+		en="The Addams Family - Pugsley's Scavenger Hunt"
+		zhcn="亚当斯一家 帕格斯利的寻宝"
+	/>
 	<Game crc32="3B2AD28B" bytes="393232"
 		rom="The Adventures of Bayou Billy"
 		en="The Adventures of Bayou Billy"
@@ -124,6 +134,16 @@
 		rom="The Guardian Legend"
 		en="The Guardian Legend"
 		zhcn="嘉蒂外传" language="chinese"
+	/>
+	<Game crc32="46EB0E0C" bytes="81936"
+		rom="The Legend of Kage"
+		en="The Legend of Kage"
+		zhcn="影子传说" language="chinese"
+	/>
+	<Game crc32="DBBD1D5C" bytes="106512"
+		rom="The Legend of Kage"
+		en="The Legend of Kage"
+		zhcn="影子传说"
 	/>
 	<Game crc32="02BB0C56" bytes="131088"
 		rom="The Legend of Zelda"

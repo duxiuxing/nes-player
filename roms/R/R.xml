@@ -1,5 +1,15 @@
 <?xml version='1.0' encoding='utf-8'?>
 <Game-List brief="en 以英文字母 R 开头的游戏">
+	<Game crc32="2100D90B" bytes="65552"
+		rom="R.C. Pro-Am"
+		en="R.C. Pro-Am"
+		zhcn="遥控赛车"
+	/>
+	<Game crc32="03DB5562" bytes="262160"
+		rom="R.C. Pro-Am II"
+		en="R.C. Pro-Am II"
+		zhcn="遥控赛车2"
+	/>
 	<Game crc32="28699CD2" bytes="655392"
 		rom="Rad Racer"
 		en="Rad Racer"

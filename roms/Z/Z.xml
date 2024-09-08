@@ -1,5 +1,10 @@
 <?xml version='1.0' encoding='utf-8'?>
 <Game-List brief="en 以英文字母 Z 开头的游戏">
+	<Game crc32="D35E0AAF" bytes="131216"
+		rom="Zanac"
+		en="Zanac"
+		zhcn="银河号"
+	/>
 	<Game crc32="E3C788B0" bytes="262160"
 		rom="Zelda II - The Adventure of Link"
 		en="Zelda II - The Adventure of Link"
@@ -9,6 +14,11 @@
 		rom="Zelda II - The Adventure of Link"
 		en="Zelda II - The Adventure of Link"
 		zhcn="塞尔达传说2 林克的冒险" language="chinese"
+	/>
+	<Game crc32="B8E36AEE" bytes="524304"
+		rom="Zen - Intergalactic Ninja"
+		en="Zen - Intergalactic Ninja"
+		zhcn="银河忍者" language="chinese"
 	/>
 	<Game crc32="D9F13DF3" bytes="262160"
 		rom="Zoids - Mokushiroku"

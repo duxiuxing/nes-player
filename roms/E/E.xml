@@ -10,6 +10,11 @@
 		en="Elevator Action"
 		zhcn="电梯大战"
 	/>
+	<Game crc32="39A2FA8E" bytes="41104"
+		rom="Excitebike"
+		en="Excitebike"
+		zhcn="越野摩托"
+	/>
 	<Game crc32="352F9A62" bytes="24592"
 		rom="Exerion"
 		en="Exerion"
