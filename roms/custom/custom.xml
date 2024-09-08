@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Game-List brief="自制游戏">
+    <Game crc32="391E4BA0" bytes="262160"
+        rom="Contra - Revenge of the Red Falcon"
+        en="Contra - Revenge of the Red Falcon"
+        zhcn="魂斗罗 红隼的复仇"
+    />
+    <Game crc32="22CDD2F6" bytes="655376"
+        rom="Street Fighter Ⅲ"
+        en="Street Fighter Ⅲ"
+        zhcn="九人街霸(中)" language="chinese"
+    />
+    <Game crc32="52C4F765" bytes="655376"
+        rom="Street Fighter III"
+        en="Street Fighter III"
+        zhcn="九人街霸(中)" language="chinese"
+    />
+    <Game crc32="E4198A92" bytes="196624"
+        rom="Super Mario Unlimited Deluxe"
+        en="Super Mario Unlimited Deluxe"
+        zhcn="超级马里奥无限豪华版"
+    />
+    <Game crc32="444AD6B8" bytes="40976"
+        rom="炸弹人2002"
+        zhcn="炸弹人2002"
+    />
+</Game-List>

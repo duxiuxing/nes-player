@@ -15,6 +15,16 @@
 		en="Rad Racer"
 		zhcn="公路之星"
 	/>
+	<Game crc32="5D56B6A4" bytes="131088"
+		rom="Rainbow Islands - Bubble Bobble 2"
+		en="Rainbow Islands - Bubble Bobble 2"
+		zhcn="彩虹岛 泡泡龙的故事2"
+	/>
+	<Game crc32="CCA37A31" bytes="131088"
+		rom="Rainbow Islands - Bubble Bobble 2"
+		en="Rainbow Islands - Bubble Bobble 2"
+		zhcn="彩虹岛 泡泡龙的故事2"
+	/>
 	<Game crc32="94DAB06A" bytes="131088"
 		rom="Renegade"
 		en="Renegade"
@@ -34,6 +44,11 @@
 		rom="Road Fighter"
 		en="Road Fighter"
 		zhcn="火箭车"
+	/>
+	<Game crc32="8E94DDB1" bytes="131088"
+		rom="Robo Warrior"
+		en="Robo Warrior"
+		zhcn="炸弹之王"
 	/>
 	<Game crc32="33BE5CFD" bytes="262160"
 		rom="RoboCop"
@@ -71,8 +86,8 @@
 		zhcn="机械战警3"
 	/>
 	<Game crc32="F5D0E8E1" bytes="262160"
-		rom="RoboCop versus The Terminator"
-		en="RoboCop versus The Terminator"
+		rom="RoboCop Versus The Terminator"
+		en="RoboCop Versus The Terminator"
 		zhcn="机械战警对终结者"
 	/>
 	<Game crc32="E5A45F09" bytes="917536"

@@ -9247,6 +9247,9 @@ After picking a lane (5 different designs), a character (4 different characters)
     <locale lang="JA">
       <title>Championship Lode Runner</title>
     </locale>
+    <locale lang="ZHCN">
+      <title>冠军淘金者</title>
+    </locale>
     <developer>Broderbund Software</developer>
     <publisher>Broderbund Software</publisher>
     <date year="1985" month="04" day="01"/>
@@ -41801,7 +41804,7 @@ By trapping beasts under your rainbows, then jumping on them to break them you c
       <genre>Action</genre>
     </locale>
     <locale lang="ZHCN">
-      <title>彩虹岛</title>
+      <title>彩虹岛 泡泡龙的故事2</title>
     </locale>
     <developer>Ocean</developer>
     <publisher>Ocean</publisher>
@@ -48161,6 +48164,9 @@ These were the orders given to you, Operative JOE when you were ordered to infil
       <synopsis>Street Fighter II: The World Warrior is an unlicensed port of the fighting game of the same name. The game is a simplified version of the original Street Fighter II. The player can choose from 4 characters: Ryu, Chun-Li, Guile and Zangief. There is also Vega (M. Bison in Western territories) as the final boss, although his name is misspelled as "Viga" in this game. They all have their moves (although Zangief's Spinning Piledriver seems to be missing). Like in the original version, the player fights through the other selectable characters (here in a preset order), eventually reaching the final battle with M.Bison/Vega. The player only gets one continue, unlike the official game.</synopsis>
       <genre/>
     </locale>
+    <locale lang="ZHCN">
+      <title>四人街霸</title>
+    </locale>
     <publisher>Cony Soft</publisher>
     <date year="1992" month="" day=""/>
     <rating type="NOTE" value="">
@@ -48739,6 +48745,9 @@ Similar to Little Ninja Brothers before it, Super Chinese 3 incorporates role-pl
       <title>Super Contra 7</title>
       <synopsis>This game is based off the Contra series, and has a total of 5 areas with varying themes. The player starts with 4 lives as opposed to 3 (although the stat screen displays 5 lives at the start) and 6 continues instead of 3. The standard enemies are similar to those in the originals, but they speed up when they reach the middle of the screen and never shoot. The level designs are considerably more basic than those in Contra and are mostly original, although the first half of Area 4 bears a strong resemblance to Area 4 from Super C.</synopsis>
       <genre>Action,Platform</genre>
+    </locale>
+    <locale lang="ZHCN">
+      <title>魂斗罗7 超级战魂</title>
     </locale>
     <publisher>Waixing</publisher>
     <date year="1996" month="" day=""/>

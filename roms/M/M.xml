@@ -2,12 +2,12 @@
 <Game-List brief="en 以英文字母 M 开头的游戏">
 	<Game crc32="C261904E" bytes="24592"
 		rom="M.U.S.C.L.E. - Tag Team Match"
-		en="M.U.S.C.L.E. - Tag Team Matchh"
+		en="M.U.S.C.L.E. - Tag Team Match"
 		zhcn="筋肉人摔角"
 	/>
 	<Game crc32="CE52C150" bytes="24592"
 		rom="M.U.S.C.L.E. - Tag Team Match"
-		en="M.U.S.C.L.E. - Tag Team Matchh"
+		en="M.U.S.C.L.E. - Tag Team Match"
 		zhcn="筋肉人摔角"
 	/>
 	<Game crc32="A3D966DB" bytes="40976"
@@ -19,6 +19,21 @@
 		rom="Mad Max"
 		en="Mad Max"
 		zhcn="疯狂的麦克斯"
+	/>
+	<Game crc32="A80A3E98" bytes="24592"
+		rom="Magic Jewelry"
+		en="Magic Jewelry"
+		zhcn="钻石方块"
+	/>
+	<Game crc32="65B8E68B" bytes="262160"
+		rom="Magical Taruruuto-kun - Fantastic World!!"
+		en="Magical Taruruuto-kun - Fantastic World!!"
+		zhcn="小魔星达鲁鲁"
+	/>
+	<Game crc32="0EF31D50" bytes="262160"
+		rom="Magical Taruruuto-kun 2 - Mahou Daibouken"
+		en="Magical Taruruuto-kun 2 - Mahou Daibouken"
+		zhcn="小魔星达鲁鲁2"
 	/>
 	<Game crc32="56C23EF3" bytes="24592"
 		rom="Mahjong"
@@ -90,20 +105,25 @@
 		en="Mega Man 6"
 		zhcn="洛克人6" language="chinese"
 	/>
-	<Game crc32="65B8E68B" bytes="262160"
-		rom="Magical Taruruuto-kun - Fantastic World!!"
-		en="Magical Taruruuto-kun - Fantastic World!!"
-		zhcn="小魔星达鲁鲁"
-	/>
-	<Game crc32="0EF31D50" bytes="262160"
-		rom="Magical Taruruuto-kun 2 - Mahou Daibouken"
-		en="Magical Taruruuto-kun 2 - Mahou Daibouken"
-		zhcn="小魔星达鲁鲁2"
-	/>
 	<Game crc32="B4D15D85" bytes="262160"
 		rom="Metal Gear"
 		en="Metal Gear"
 		zhcn="合金装备" language="chinese"
+	/>
+	<Game crc32="8A8753F7" bytes="786448"
+		rom="Metal Max"
+		en="Metal Max"
+		zhcn="重装机兵" language="chinese"
+	/>
+	<Game crc32="98CEFA51" bytes="393232"
+		rom="Metal Storm"
+		en="Metal Storm"
+		zhcn="重力装甲"
+	/>
+	<Game crc32="7BB329F5" bytes="65552"
+		rom="Metro Cross"
+		en="Metro Cross"
+		zhcn="追赶跑跳蹦"
 	/>
 	<Game crc32="4DE6A02B" bytes="131088"
 		rom="Metroid"

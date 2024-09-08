@@ -199,7 +199,9 @@
         <Game crc32="480A29B7" zhcn="功夫(中)" />
         <Game crc32="4190108D" zhcn="街头小子(中)" />
         <Game crc32="C261904E" zhcn="筋肉人摔角" />
+        <!--
         <Game crc32="52C4F765" zhcn="九人街霸(中)" />
+        -->
         <Game crc32="61CC9F53" zhcn="忍者神龟格斗(中)" />
         <Game crc32="DEDFA5BB" zhcn="四人街霸" />
         <Game crc32="1F88FACB" zhcn="幽游白书 魔界最强列传(中)" />
@@ -274,13 +276,16 @@
         <Folder name="【系列游戏-炸弹人】">
             <Game crc32="0A2E2149" zhcn="炸弹人(中)" />
             <Game crc32="CC7BCFEB" zhcn="炸弹人2" />
+            <!--
             <Game crc32="444AD6B8" zhcn="炸弹人2002" />
+            -->
             <Game crc32="8E94DDB1" zhcn="炸弹之王" />
         </Folder>
         <Game crc32="F51355D3" zhcn="爱的小屋(中)" />
         <Game crc32="5D56B6A4" zhcn="彩虹岛" />
         <Game crc32="26016B64" zhcn="吃豆小精灵(中)" />
         <Game crc32="F4D581A4" zhcn="弹珠台(中)" />
+        <Game crc32="00DF883C" zhcn="冠军淘金者" />
         <Game crc32="FCEA0FA9" zhcn="黑白棋(中)" />
         <Game crc32="E34DA569" zhcn="花式撞球(中)" />
         <Game crc32="879E6391" zhcn="马戏团" />
@@ -322,7 +327,9 @@
         <Game crc32="5998245D" zhcn="93超级魂" />
         <Game crc32="048F7DD8" zhcn="超级魂斗罗(中)" />
         <Game crc32="3747F350" zhcn="赤影战士(中)" />
+        <!--
         <Game crc32="391E4BA0" zhcn="魂斗罗 红隼的复仇" />
+        -->
         <Game crc32="2A39628D" zhcn="魂斗罗(中)" />
         <Game crc32="7573F4E2" zhcn="魂斗罗7 超级战魂(中)" />
         <Game crc32="41231542" zhcn="魂斗罗力量(中)" />
@@ -338,7 +345,9 @@
         <Game crc32="2565A5CC" zhcn="洛克人6(中)" />
     </Folder>
     <Folder name="【系列游戏-马里奥】">
+        <!--
         <Game crc32="E4198A92" zhcn="超级马里奥无限豪华版" />
+        -->
         <Game crc32="678C530B" zhcn="超级马里奥兄弟(中)" />
         <Game crc32="34C86502" zhcn="超级马里奥兄弟 失落的关卡" />
         <Game crc32="8AA4ACE0" zhcn="超级马里奥兄弟2" />

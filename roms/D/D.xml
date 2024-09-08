@@ -195,6 +195,11 @@
 		en="Dr. Mario"
 		zhcn="马里奥医生" language="chinese"
 	/>
+	<Game crc32="D12475A8" bytes="65552"
+		rom="Dr. Mario"
+		en="Dr. Mario"
+		zhcn="马里奥医生"
+	/>
 	<Game crc32="9CF5AC17" bytes="262160"
 		rom="Dragon Ball Z - Gekitou Tenkaichi Budoukai"
 		en="Dragon Ball Z - Gekitou Tenkaichi Budoukai"

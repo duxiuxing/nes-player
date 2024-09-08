@@ -50,6 +50,16 @@
 		en="Tennis"
 		zhcn="网球"
 	/>
+	<Game crc32="C0B4BCE5" bytes="262160"
+		rom="Terminator 2 - Judgment Day"
+		en="Terminator 2 - Judgment Day"
+		zhcn="终结者2 审判日"
+	/>
+	<Game crc32="9880E334" bytes="524304"
+		rom="Tetrastar - The Fighter"
+		en="Tetrastar - The Fighter"
+		zhcn="战斗之星"
+	/>
 	<Game crc32="88F071C3" bytes="49168"
 		rom="Tetris - The Soviet Mind Game"
 		en="Tetris - The Soviet Mind Game"
@@ -165,6 +175,11 @@
 		en="The Rocketeer"
 		zhcn="火箭人"
 	/>
+	<Game crc32="E8EE7DDC" bytes="262160"
+		rom="The Ultimate Stuntman"
+		en="The Ultimate Stuntman"
+		zhcn="终极特技人"
+	/>
 	<Game crc32="78F41334" bytes="40976"
 		rom="Thexder"
 		en="Thexder"
@@ -210,6 +225,16 @@
 		rom="Tom &amp; Jerry - The Ultimate Game of Cat and Mouse!"
 		en="Tom &amp; Jerry - The Ultimate Game of Cat and Mouse!"
 		zhcn="汤姆和杰瑞" language="chinese"
+	/>
+	<Game crc32="8DD55C5F" bytes="131088"
+		rom="Top Gun"
+		en="Top Gun"
+		zhcn="壮志凌云"
+	/>
+	<Game crc32="179E6641" bytes="262160"
+		rom="Top Gun - The Second Mission"
+		en="Top Gun - The Second Mission"
+		zhcn="壮志凌云2"
 	/>
 	<Game crc32="3CEA0142" bytes="262160"
 		rom="Totally Rad"

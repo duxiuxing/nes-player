@@ -35,11 +35,6 @@
         en="Little Samson"
         zhcn="圣铃传说"
     />
-    <Game crc32="00DF883C" bytes="40976"
-        rom="Lode Runner"
-        en="Lode Runner"
-        zhcn="淘金者"
-    />
     <Game crc32="9C9875B6" bytes="24592"
         rom="Lode Runner"
         en="Lode Runner"

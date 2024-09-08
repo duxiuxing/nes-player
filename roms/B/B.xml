@@ -100,6 +100,26 @@
 		en="Battle City"
 		zhcn="坦克大战"
 	/>
+	<Game crc32="74D23949" bytes="262160"
+		rom="Battle Kid - Fortress of Peril"
+		en="Battle Kid - Fortress of Peril"
+		zhcn="战地小子"
+	/>
+	<Game crc32="DAB3E489" bytes="262160"
+		rom="Battle Kid - Fortress of Peril"
+		en="Battle Kid - Fortress of Peril"
+		zhcn="战地小子"
+	/>
+	<Game crc32="4916DC6D" bytes="524304"
+		rom="Battle Kid 2 - Mountain of Torment"
+		en="Battle Kid 2 - Mountain of Torment"
+		zhcn="战地小子2"
+	/>
+	<Game crc32="CCA8E576" bytes="524304"
+		rom="Battle Kid 2 - Mountain of Torment"
+		en="Battle Kid 2 - Mountain of Torment"
+		zhcn="战地小子2"
+	/>
 	<Game crc32="0500BFBF" bytes="262160"
 		rom="Battletoads"
 		en="Battletoads"
@@ -154,6 +174,16 @@
 		rom="Blades of Steel"
 		en="Blades of Steel"
 		zhcn="柯纳米冰球"
+	/>
+	<Game crc32="0A2E2149" bytes="24592"
+		rom="Bomberman"
+		en="Bomberman"
+		zhcn="炸弹人" language="chinese"
+	/>
+	<Game crc32="CC7BCFEB" bytes="131088"
+		rom="Bomberman II"
+		en="Bomberman II"
+		zhcn="炸弹人2"
 	/>
 	<Game crc32="7A03F696" bytes="393232"
 		rom="Bonk's Adventure"

@@ -20,6 +20,11 @@
         en="Adventure Island II"
         zhcn="冒险岛2"
     />
+    <Game crc32="B295DA9E" bytes="786464"
+        rom="Adventure Island 2"
+        en="Adventure Island II"
+        zhcn="冒险岛2"
+    />
     <Game crc32="952CDACF" bytes="262160"
         rom="Adventure Island 3"
         en="Adventure Island 3"
@@ -32,11 +37,6 @@
     />
     <Game crc32="0C9B8E57" bytes="65552"
         rom="Adventures of Dino Riki"
-        en="Adventures of Dino Riki"
-        zhcn="新人类"
-    />
-    <Game crc32="4CD73145" bytes="65552"
-        rom="Adventures Of Dino Riki"
         en="Adventures of Dino Riki"
         zhcn="新人类"
     />

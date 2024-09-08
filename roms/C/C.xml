@@ -75,6 +75,11 @@
 		en="Castlevania III - Dracula's Curse"
 		zhcn="恶魔城3"
 	/>
+	<Game crc32="00DF883C" bytes="40976"
+		rom="Championship Lode Runner"
+		en="Championship Lode Runner"
+		zhcn="冠军淘金者"
+	/>
 	<Game crc32="1C63B350" bytes="393232"
 		rom="Chip 'n Dale - Rescue Rangers"
 		en="Chip 'n Dale - Rescue Rangers"
@@ -120,15 +125,35 @@
 		en="Chubby Cherub"
 		zhcn="Q太郎"
 	/>
+	<Game crc32="1425738A" bytes="262160"
+		rom="Chuuka Taisen"
+		en="Chuuka Taisen"
+		zhcn="中华大仙"
+	/>
 	<Game crc32="0C2E38C2" bytes="24592"
 		rom="Circus Charlie"
 		en="Circus Charlie"
 		zhcn="马戏团"
 	/>
+	<Game crc32="879E6391" bytes="24592"
+		rom="Circus Charlie"
+		en="Circus Charlie"
+		zhcn="马戏团"
+	/>
+	<Game crc32="2132CD51" bytes="40976"
+		rom="Clu Clu Land"
+		en="Clu Clu Land"
+		zhcn="转转乐园"
+	/>
 	<Game crc32="DDF60E0F" bytes="294944"
 		rom="Code Name - Viper"
 		en="Code Name - Viper"
 		zhcn="人间兵器" language="chinese"
+	/>
+	<Game crc32="41492DF6" bytes="131088"
+		rom="Commando"
+		en="Commando"
+		zhcn="战场之狼"
 	/>
 	<Game crc32="2A39628D" bytes="393232"
 		rom="Contra"
@@ -149,21 +174,6 @@
 		rom="Contra"
 		en="Contra"
 		zhcn="魂斗罗"
-	/>
-	<Game crc32="391E4BA0" bytes="262160"
-		rom="Contra - Revenge of the Red Falcon"
-		en="Contra - Revenge of the Red Falcon"
-		zhcn="魂斗罗 红隼的复仇"
-	/>
-	<Game crc32="063FCAC7" bytes="262160"
-		rom="Contra 7"
-		en="Contra 7"
-		zhcn="魂斗罗7 超级战魂"
-	/>
-	<Game crc32="7573F4E2" bytes="262160"
-		rom="Contra 7"
-		en="Contra 7"
-		zhcn="魂斗罗7 超级战魂" language="chinese"
 	/>
 	<Game crc32="5998245D" bytes="131088"
 		rom="Contra 1993"

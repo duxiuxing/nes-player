@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Game-List brief="en 以英文字母 Q 开头的游戏">
+    <Game crc32="4F74715E" bytes="40976"
+        rom="Qi Wang - Chinese Chess"
+        en="Qi Wang - Chinese Chess"
+        zhcn="中国象棋" language="chinese"
+    />
+</Game-List>

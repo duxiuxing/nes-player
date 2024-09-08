@@ -45,6 +45,11 @@
 		en="SD Hero Soukessen - Taose! Aku no Gundan"
 		zhcn="SD英雄总决战"
 	/>
+	<Game crc32="3CE543E6" bytes="131088"
+		rom="Section-Z"
+		en="Section-Z"
+		zhcn="Z基地"
+	/>
 	<Game crc32="3747F350" bytes="270352"
 		rom="Shadow of the Ninja"
 		en="Shadow of the Ninja"
@@ -90,6 +95,16 @@
 		en="Side Pocket"
 		zhcn="花式撞球" language="chinese"
 	/>
+	<Game crc32="678BA36F" bytes="262160"
+		rom="Silk Worm"
+		en="Silk Worm"
+		zhcn="中东战争" language="chinese"
+	/>
+	<Game crc32="ED0ED791" bytes="393232"
+		rom="Silk Worm"
+		en="Silk Worm"
+		zhcn="中东战争" language="chinese"
+	/>
 	<Game crc32="519E4B83" bytes="65552"
 		rom="Sky Destroyer"
 		en="Sky Destroyer"
@@ -119,6 +134,11 @@
 		rom="Snow Brothers"
 		en="Snow Brothers"
 		zhcn="雪人兄弟" language="chinese"
+	/>
+	<Game crc32="820D62AB" bytes="40976"
+		rom="Soccer"
+		en="Soccer"
+		zhcn="足球"
 	/>
 	<Game crc32="09825979" bytes="262160"
 		rom="Spartan X 2"
@@ -160,16 +180,6 @@
 		en="Street Fighter 2010 - The Final Fight"
 		zhcn="街头战士2010"
 	/>
-	<Game crc32="22CDD2F6" bytes="655376"
-		rom="Street Fighter Ⅲ"
-		en="Street Fighter Ⅲ"
-		zhcn="九人街霸(中)" language="chinese"
-	/>
-	<Game crc32="52C4F765" bytes="655376"
-		rom="Street Fighter Ⅲ"
-		en="Street Fighter Ⅲ"
-		zhcn="九人街霸(中)" language="chinese"
-	/>
 	<Game crc32="87FCF1DB" bytes="786464"
 		rom="Summer Carnival '92 - Recca"
 		en="Summer Carnival '92 - Recca"
@@ -195,6 +205,16 @@
 		en="Super C"
 		zhcn="超级魂斗罗"
 	/>
+	<Game crc32="063FCAC7" bytes="262160"
+		rom="Super Contra 7"
+		en="Super Contra 7"
+		zhcn="魂斗罗7 超级战魂"
+	/>
+	<Game crc32="7573F4E2" bytes="262160"
+		rom="Super Contra 7"
+		en="Super Contra 7"
+		zhcn="魂斗罗7 超级战魂" language="chinese"
+	/>
 	<Game crc32="362C868E" bytes="786464"
 		rom="Super Dodge Ball"
 		en="Super Dodge Ball"
@@ -204,6 +224,21 @@
 		rom="Super Dodge Ball"
 		en="Super Dodge Ball"
 		zhcn="热血高校躲避球部" language="chinese"
+	/>
+	<Game crc32="678C530B" bytes="65552"
+		rom="Super Mario Bros."
+		en="Super Mario Bros."
+		zhcn="超级马里奥兄弟" language="chinese"
+	/>
+	<Game crc32="7D3F6F3D" bytes="262160"
+		rom="Super Mario Bros. 2"
+		en="Super Mario Bros. 2"
+		zhcn="超级马里奥兄弟2"
+	/>
+	<Game crc32="8AA4ACE0" bytes="262160"
+		rom="Super Mario Bros. 2"
+		en="Super Mario Bros. 2"
+		zhcn="超级马里奥兄弟2"
 	/>
 	<Game crc32="77F59F3E" bytes="393232"
 		rom="Super Mario Bros. 3"
@@ -220,20 +255,10 @@
 		en="Super Mario Bros. 3"
 		zhcn="超级马里奥兄弟3" language="chinese"
 	/>
-	<Game crc32="678C530B" bytes="65552"
-		rom="Super Mario Bros."
-		en="Super Mario Bros."
-		zhcn="超级马里奥兄弟" language="chinese"
-	/>
 	<Game crc32="34C86502" bytes="131088"
 		rom="Super Mario Bros. - The Lost Levels"
 		en="Super Mario Bros. - The Lost Levels"
 		zhcn="超级马里奥兄弟 失落的关卡"
-	/>
-	<Game crc32="E4198A92" bytes="196624"
-		rom="Super Mario Unlimited Deluxe"
-		en="Super Mario Unlimited Deluxe"
-		zhcn="超级马里奥无限豪华版"
 	/>
 	<Game crc32="6D5953A8" bytes="786448"
 		rom="Super Mario World"
