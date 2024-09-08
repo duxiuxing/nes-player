@@ -10,6 +10,11 @@
 		en="Takahashi Meijin no Bouken-jima IV"
 		zhcn="冒险岛4"
 	/>
+	<Game crc32="2FC2C26B" bytes="393232"
+		rom="Tecmo NBA Basketball"
+		en="Tecmo NBA Basketball"
+		zhcn="Tecmo NBA篮球"
+	/>
 	<Game crc32="83213CA0" bytes="262160"
 		rom="Teenage Mutant Ninja Turtles"
 		en="Teenage Mutant Ninja Turtles"
@@ -34,6 +39,11 @@
 		rom="Teenage Mutant Ninja Turtles III - The Manhattan Project"
 		en="Teenage Mutant Ninja Turtles III - The Manhattan Project"
 		zhcn="忍者神龟3" language="chinese"
+	/>
+	<Game crc32="DD4B154C" bytes="655376"
+		rom="Tenchi o Kurau II  - Shokatsu Koumei Den"
+		en="Tenchi o Kurau II - Shokatsu Koumei Den"
+		zhcn="吞食天地2 诸葛孔明传" language="chinese"
 	/>
 	<Game crc32="88F071C3" bytes="49168"
 		rom="Tetris - The Soviet Mind Game"
@@ -69,6 +79,16 @@
 		rom="The Adventures of Bayou Billy"
 		en="The Adventures of Bayou Billy"
 		zhcn="鳄鱼先生"
+	/>
+	<Game crc32="38FDB7F4" bytes="262160"
+		rom="The Bugs Bunny Birthday Blowout"
+		en="The Bugs Bunny Birthday Blowout"
+		zhcn="兔八哥 生日快乐"
+	/>
+	<Game crc32="DB0C3656" bytes="98320"
+		rom="The Bugs Bunny Crazy Castle"
+		en="The Bugs Bunny Crazy Castle"
+		zhcn="兔八哥 疯狂城堡"
 	/>
 	<Game crc32="FEDA0B39" bytes="393232"
 		rom="The Flintstones - The Surprise at Dinosaur Peak"
@@ -140,10 +160,31 @@
 		en="Thunderbirds"
 		zhcn="雷鸟号"
 	/>
+	<Game crc32="FB57B7DE" bytes="262160"
+		rom="Tiny Toon Adventures"
+		en="Tiny Toon Adventures"
+		zhcn="兔宝宝"
+	/>
+	<Game crc32="CE9AD7A1" bytes="262160"
+		rom="Tiny Toon Adventures 2 - Trouble in Wackyland"
+		en="Tiny Toon Adventures 2 - Trouble in Wackyland"
+		zhcn="兔宝宝2"
+		language="chinese"
+	/>
+	<Game crc32="476CB108" bytes="524304"
+		rom="Tiny Toon Adventures 6"
+		en="Tiny Toon Adventures 6"
+		zhcn="兔宝宝6"
+	/>
 	<Game crc32="E8CD159F" bytes="393232"
 		rom="Toki"
 		en="Toki"
 		zhcn="JuJu传说"
+	/>
+	<Game crc32="44824380" bytes="262160"
+		rom="Tom &amp; Jerry - The Ultimate Game of Cat and Mouse!"
+		en="Tom &amp; Jerry - The Ultimate Game of Cat and Mouse!"
+		zhcn="汤姆和杰瑞" language="chinese"
 	/>
 	<Game crc32="3CEA0142" bytes="262160"
 		rom="Totally Rad"
@@ -174,95 +215,5 @@
 		rom="Twinbee 3 - Poko Poko Daimao"
 		en="Twinbee 3 - Poko Poko Daimao"
 		zhcn="兵蜂3" language="chinese"
-	/>
-	<Game crc32="2FC2C26B" bytes="393232"
-		en="Tecmo NBA Basketball"
-		zhcn="Tecmo NBA篮球"
-	/>
-	<Game crc32="A30BBC68" bytes="41104"
-		zhcn="坦克大战 烟山1990(中)"
-	/>
-	<Game crc32="86D9AA5D" bytes="40976"
-		zhcn="坦克大战 烟山1990"
-	/>
-	<Game crc32="0FA8E15D" bytes="24592"
-		en="Battle City"
-		zhcn="坦克大战"
-	/>
-	<Game crc32="F599A07E" bytes="24592"
-		en="Battle City"
-		zhcn="坦克大战"
-	/>
-	<Game crc32="44824380" bytes="262160"
-		en="Tom &amp; Jerry - The Ultimate Game of Cat and Mouse!"
-		zhcn="汤姆和杰瑞(中)"
-	/>
-	<Game crc32="EFBE1395" bytes="131088"
-		en="Disney's DuckTales"
-		zhcn="唐老鸭大冒险"
-	/>
-	<Game crc32="794DBB67" bytes="262160"
-		en="Disney's DuckTales 2"
-		zhcn="唐老鸭大冒险2(中)"
-	/>
-	<Game crc32="9C9875B6" bytes="24592"
-		en="Lode Runner"
-		zhcn="淘金者(中)"
-	/>
-	<Game crc32="00DF883C" bytes="40976"
-		en="Lode Runner"
-		zhcn="淘金者"
-	/>
-	<Game crc32="A8B011D6" bytes="262160"
-		en="Shatterhand"
-		zhcn="特救指令(中)"
-	/>
-	<Game crc32="7B978BAC" bytes="262160"
-		en="KickMaster"
-		zhcn="踢王"
-	/>
-	<Game crc32="ADEA0D96" bytes="786448"
-		en="Captain Tsubasa Vol. 2 - Super Striker"
-		zhcn="天使之翼2(中)"
-	/>
-	<Game crc32="BAF7D0EB" bytes="786448"
-		en="Captain Tsubasa Vol. 2 - Super Striker"
-		zhcn="天使之翼2(中)"
-	/>
-	<Game crc32="80F392C7" bytes="40976"
-		en="Xevious - The Avenger"
-		zhcn="铁板阵(中)"
-	/>
-	<Game crc32="DB0C3656" bytes="98320"
-		en="The Bugs Bunny Crazy Castle"
-		zhcn="兔八哥 疯狂城堡"
-	/>
-	<Game crc32="38FDB7F4" bytes="262160"
-		en="The Bugs Bunny Birthday Blowout"
-		zhcn="兔八哥 生日快乐"
-	/>
-	<Game crc32="FB57B7DE" bytes="262160"
-		en="Tiny Toon Adventures"
-		zhcn="兔宝宝"
-	/>
-	<Game crc32="CE9AD7A1" bytes="262160"
-		en="Tiny Toon Adventures 2 - Trouble in Wackyland"
-		zhcn="兔宝宝2(中)"
-	/>
-	<Game crc32="476CB108" bytes="524304"
-		en="Tiny Toon Adventures 6"
-		zhcn="兔宝宝6"
-	/>
-	<Game crc32="DD4B154C" bytes="655376"
-		en="Tenchi o Kurau II  - Shokatsu Koumei Den"
-		zhcn="吞食天地2 诸葛孔明传(中)"
-	/>
-	<Game crc32="D282464B" bytes="262160"
-		en="P.O.W. - Prisoners of War"
-		zhcn="脱狱"
-	/>
-	<Game crc32="345C9FB3" bytes="262160"
-		en="Cross Fire"
-		zhcn="脱狱2"
 	/>
 </Game-List>

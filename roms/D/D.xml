@@ -80,6 +80,16 @@
 		en="Dig Dug II - Trouble in Paradise"
 		zhcn="打空气2"
 	/>
+	<Game crc32="EFBE1395" bytes="131088"
+		rom="Disney's DuckTales"
+		en="Disney's DuckTales"
+		zhcn="唐老鸭大冒险"
+	/>
+	<Game crc32="794DBB67" bytes="262160"
+		rom="Disney's DuckTales 2"
+		en="Disney's DuckTales 2"
+		zhcn="唐老鸭大冒险2" language="chinese"
+	/>
 	<Game crc32="F583796B" bytes="393232"
 		rom="Don Doko Don 2"
 		en="Don Doko Don 2"

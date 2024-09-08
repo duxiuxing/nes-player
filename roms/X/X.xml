@@ -1,5 +1,10 @@
 <?xml version='1.0' encoding='utf-8'?>
-<Folder name="X" rom-exists="true">
+<Folder brief="en 以英文字母 X 开头的游戏">
+	<Game crc32="80F392C7" bytes="40976"
+		rom="Xevious - The Avenger"
+		en="Xevious - The Avenger"
+		zhcn="铁板阵" language="chinese"
+	/>
 	<Game crc32="B150AE9A" bytes="524304"
 		en="Cowboy Kid"
 		zhcn="西部小子"

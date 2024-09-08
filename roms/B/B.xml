@@ -70,6 +70,26 @@
 		en="Batman - The Video Game"
 		zhcn="蝙蝠侠" language="chinese"
 	/>
+	<Game crc32="0FA8E15D" bytes="24592"
+		rom="Battle City"
+		en="Battle City"
+		zhcn="坦克大战"
+	/>
+	<Game crc32="86D9AA5D" bytes="40976"
+		rom="Battle City"
+		en="Battle City"
+		zhcn="坦克大战 烟山1990"
+	/>
+	<Game crc32="A30BBC68" bytes="41104"
+		rom="Battle City"
+		en="Battle City"
+		zhcn="坦克大战 烟山1990(中)"
+	/>
+	<Game crc32="F599A07E" bytes="24592"
+		rom="Battle City"
+		en="Battle City"
+		zhcn="坦克大战"
+	/>
 	<Game crc32="0500BFBF" bytes="262160"
 		rom="Battletoads"
 		en="Battletoads"

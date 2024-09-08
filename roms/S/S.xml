@@ -70,6 +70,11 @@
 		en="Shadow of the Ninja"
 		zhcn="赤影战士"
 	/>
+	<Game crc32="A8B011D6" bytes="262160"
+		rom="Shatterhand"
+		en="Shatterhand"
+		zhcn="特救指令" language="chinese"
+	/>
 	<Game crc32="183E43FF" bytes="188432"
 		rom="Side Pocket"
 		en="Side Pocket"
@@ -124,6 +129,11 @@
 		rom="Stinger"
 		en="Stinger"
 		zhcn="兵蜂2"
+	/>
+	<Game crc32="DEDFA5BB" bytes="262160"
+		rom="Street Fighter 2"
+		en="Street Fighter 2"
+		zhcn="四人街霸"
 	/>
 	<Game crc32="A7355946" bytes="262160"
 		rom="Street Fighter 2010 - The Final Fight"

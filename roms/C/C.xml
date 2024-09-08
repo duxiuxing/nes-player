@@ -10,6 +10,16 @@
 		en="Captain America and the Avengers"
 		zhcn="上尉密令" language="chinese"
 	/>
+	<Game crc32="ADEA0D96" bytes="786448"
+		rom="Captain Tsubasa Vol. 2 - Super Striker"
+		en="Captain Tsubasa Vol. 2 - Super Striker"
+		zhcn="天使之翼2" language="chinese"
+	/>
+	<Game crc32="BAF7D0EB" bytes="786448"
+		rom="Captain Tsubasa Vol. 2 - Super Striker"
+		en="Captain Tsubasa Vol. 2 - Super Striker"
+		zhcn="天使之翼2" language="chinese"
+	/>
 	<Game crc32="856114C8" bytes="131088"
 		rom="Castlevania"
 		en="Castlevania"
@@ -179,5 +189,10 @@
 		rom="Crisis Force"
 		en="Crisis Force"
 		zhcn="帝国战机" language="chinese"
+	/>
+	<Game crc32="345C9FB3" bytes="262160"
+		rom="Cross Fire"
+		en="Cross Fire"
+		zhcn="脱狱2"
 	/>
 </Game-List>

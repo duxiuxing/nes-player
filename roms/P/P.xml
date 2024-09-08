@@ -1,5 +1,10 @@
 <?xml version='1.0' encoding='utf-8'?>
 <Game-List brief="en 以英文字母 P 开头的游戏">
+	<Game crc32="D282464B" bytes="262160"
+		rom="P.O.W. - Prisoners of War"
+		en="P.O.W. - Prisoners of War"
+		zhcn="脱狱"
+	/>
 	<Game crc32="26016B64" bytes="24592"
 		rom="Pac-Man (Namco)"
 		en="Pac-Man (Namco)"
