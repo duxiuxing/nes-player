@@ -25,6 +25,11 @@
 		en="Saint Seiya - Ougon Densetsu Kanketsu Hen"
 		zhcn="圣斗士星矢 黄金传说完结篇" language="chinese"
 	/>
+	<Game crc32="6E66CF6F" bytes="262160"
+		rom="Saiyuuki World"
+		en="Saiyuuki World"
+		zhcn="西游记世界" language="chinese"
+	/>
 	<Game crc32="AC50B717" bytes="524304"
 		rom="San Goku Shi 2 - Haou no Tairiku"
 		en="San Goku Shi 2 - Haou no Tairiku"
@@ -110,10 +115,25 @@
 		en="Snake's Revenge"
 		zhcn="合金装备2"
 	/>
+	<Game crc32="1A0EAA47" bytes="393232"
+		rom="Snow Brothers"
+		en="Snow Brothers"
+		zhcn="雪人兄弟" language="chinese"
+	/>
 	<Game crc32="09825979" bytes="262160"
 		rom="Spartan X 2"
 		en="Spartan X 2"
 		zhcn="成龙踢馆2"
+	/>
+	<Game crc32="A465EA6D" bytes="24592"
+		rom="Star Force"
+		en="Star Force"
+		zhcn="星际力量"
+	/>
+	<Game crc32="B3CF12B8" bytes="65552"
+		rom="Star Force"
+		en="Star Force"
+		zhcn="星际力量"
 	/>
 	<Game crc32="EB506BF9" bytes="262160"
 		rom="Star Wars"

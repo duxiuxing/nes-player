@@ -30,6 +30,16 @@
 		en="Balloon Fight"
 		zhcn="气球大战"
 	/>
+	<Game crc32="4C7E9492" bytes="262160"
+		rom="Banana Prince"
+		en="Banana Prince"
+		zhcn="香蕉王子大冒险"
+	/>
+	<Game crc32="BBE5574F" bytes="262160"
+		rom="Banana Prince"
+		en="Banana Prince"
+		zhcn="香蕉王子大冒险"
+	/>
 	<Game crc32="E14A7971" bytes="393232"
 		rom="Batman - Return of the Joker"
 		en="Batman - Return of the Joker"
@@ -110,6 +120,16 @@
 		en="Battletoads &amp; Double Dragon"
 		zhcn="忍者蛙和双截龙"
 	/>
+	<Game crc32="6459FBCD" bytes="262160"
+		rom="Bionic Commando - Elite Forces"
+		en="Bionic Commando - Elite Forces"
+		zhcn="希魔复活"
+	/>
+	<Game crc32="653311D9" bytes="786464"
+		rom="Bionic Commando - Elite Forces"
+		en="Bionic Commando - Elite Forces"
+		zhcn="希魔复活"
+	/>
 	<Game crc32="37737FDB" bytes="393232"
 		rom="Blade Buster"
 		en="Blade Buster"
@@ -139,6 +159,11 @@
 		rom="Bonk's Adventure"
 		en="Bonk's Adventure"
 		zhcn="FC原人"
+	/>
+	<Game crc32="F682BE78" bytes="65552"
+		rom="Boulder Dash"
+		en="Boulder Dash"
+		zhcn="寻宝大进击" language="chinese"
 	/>
 	<Game crc32="505AC4F0" bytes="426000"
 		rom="Bucky O'Hare"

@@ -35,4 +35,24 @@
 		en="JJ - Tobidase Daisakusen Part 2"
 		zhcn="3D世界奔跑者2"
 	/>
+	<Game crc32="03B5D3D2" bytes="524304"
+		rom="Journey To Silius"
+		en="Journey To Silius"
+		zhcn="星际魂斗罗"
+	/>
+	<Game crc32="8F77CCE0" bytes="262160"
+		rom="Journey To Silius"
+		en="Journey To Silius"
+		zhcn="星际魂斗罗"
+	/>
+	<Game crc32="F27EB039" bytes="262160"
+		rom="Journey To Silius"
+		en="Journey To Silius"
+		zhcn="星际魂斗罗" language="chinese"
+	/>
+	<Game crc32="F34CB7FC" bytes="262160"
+		rom="Journey To Silius"
+		en="Journey To Silius"
+		zhcn="星际魂斗罗"
+	/>
 </Game-List>

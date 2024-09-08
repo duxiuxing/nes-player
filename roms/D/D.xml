@@ -90,6 +90,16 @@
 		en="Disney's DuckTales 2"
 		zhcn="唐老鸭大冒险2" language="chinese"
 	/>
+	<Game crc32="0E16247C" bytes="131088"
+		rom="Disney's The Little Mermaid"
+		en="Disney's The Little Mermaid"
+		zhcn="小美人鱼" language="chinese"
+	/>
+	<Game crc32="D61D7C2D" bytes="131088"
+		rom="Disney's The Little Mermaid"
+		en="Disney's The Little Mermaid"
+		zhcn="小美人鱼" language="chinese"
+	/>
 	<Game crc32="F583796B" bytes="393232"
 		rom="Don Doko Don 2"
 		en="Don Doko Don 2"
@@ -119,6 +129,11 @@
 		rom="Donkey Kong Jr."
 		en="Donkey Kong Jr."
 		zhcn="大金刚2"
+	/>
+	<Game crc32="67193FC8" bytes="24592"
+		rom="Donkey Kong Jr. Math"
+		en="Donkey Kong Jr. Math"
+		zhcn="小金刚算术"
 	/>
 	<Game crc32="4E9A5C38" bytes="24592"
 		rom="Donkey Kong 3"

@@ -30,6 +30,21 @@
         en="Adventure Island 3"
         zhcn="冒险岛3" language="chinese"
     />
+    <Game crc32="0C9B8E57" bytes="65552"
+        rom="Adventures of Dino Riki"
+        en="Adventures of Dino Riki"
+        zhcn="新人类"
+    />
+    <Game crc32="4CD73145" bytes="65552"
+        rom="Adventures Of Dino Riki"
+        en="Adventures of Dino Riki"
+        zhcn="新人类"
+    />
+    <Game crc32="C2A2F654" bytes="65552"
+        rom="Adventures of Dino Riki"
+        en="Adventures of Dino Riki"
+        zhcn="新人类" language="chinese"
+    />
     <Game crc32="3F7FF73A" bytes="786464"
         rom="Akumajou Special - Boku Dracula-kun"
         en="Demon Castle Special - I'm Kid Dracula"

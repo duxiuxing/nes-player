@@ -25,6 +25,16 @@
 		en="Parodius"
 		zhcn="Q版沙罗曼蛇"
 	/>
+	<Game crc32="936089F7" bytes="262160"
+		rom="Perman - Enban wo Torikaese!!"
+		en="Perman - Enban wo Torikaese!!"
+		zhcn="小超人帕门"
+	/>
+	<Game crc32="E69E224A" bytes="393232"
+		rom="Perman Part 2 - Himitsu Kessha Madoodan o Taose!"
+		en="Perman Part 2 - Himitsu Kessha Madoodan o Taose!"
+		zhcn="小超人帕门2"
+	/>
 	<Game crc32="88C15CF3" bytes="24592"
 		rom="Pinball"
 		en="Pinball"

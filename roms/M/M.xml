@@ -85,6 +85,16 @@
 		en="Mega Man 6"
 		zhcn="洛克人6" language="chinese"
 	/>
+	<Game crc32="65B8E68B" bytes="262160"
+		rom="Magical Taruruuto-kun - Fantastic World!!"
+		en="Magical Taruruuto-kun - Fantastic World!!"
+		zhcn="小魔星达鲁鲁"
+	/>
+	<Game crc32="0EF31D50" bytes="262160"
+		rom="Magical Taruruuto-kun 2 - Mahou Daibouken"
+		en="Magical Taruruuto-kun 2 - Mahou Daibouken"
+		zhcn="小魔星达鲁鲁2"
+	/>
 	<Game crc32="B4D15D85" bytes="262160"
 		rom="Metal Gear"
 		en="Metal Gear"

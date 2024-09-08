@@ -10,6 +10,11 @@
 		en="Galaga - Demons of Death"
 		zhcn="大蜜蜂" language="chinese"
 	/>
+	<Game crc32="4DE86847" bytes="24592"
+		rom="Galaxian"
+		en="Galaxian"
+		zhcn="小蜜蜂" language="chinese"
+	/>
 	<Game crc32="50FDB91F" bytes="262160"
 		rom="Ganbare Goemon! Karakuri Douchuu"
 		en="Ganbare Goemon! Karakuri Douchuu"

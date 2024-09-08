@@ -55,6 +55,11 @@
 		en="Kira Kira Star Night DX"
 		zhcn="闪亮亮星星之夜DX"
 	/>
+	<Game crc32="248C7140" bytes="786448"
+		rom="Kirby's Adventure"
+		en="Kirby's Adventure"
+		zhcn="星之卡比 梦之泉物语"
+	/>
 	<Game crc32="0D8C4182" bytes="40976"
 		rom="Kung Fu"
 		en="Kung Fu"

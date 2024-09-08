@@ -100,6 +100,11 @@
 		en="Choujin Sentai Jetman"
 		zhcn="鸟人战队"
 	/>
+	<Game crc32="90F12AC8" bytes="40976"
+		rom="Chubby Cherub"
+		en="Chubby Cherub"
+		zhcn="Q太郎"
+	/>
 	<Game crc32="D47FFEB6" bytes="40976"
 		rom="Chubby Cherub"
 		en="Chubby Cherub"
@@ -169,6 +174,11 @@
 		rom="Contra Force"
 		en="Contra Force"
 		zhcn="魂斗罗力量"
+	/>
+	<Game crc32="B150AE9A" bytes="524304"
+		rom="Cowboy Kid"
+		en="Cowboy Kid"
+		zhcn="西部小子"
 	/>
 	<Game crc32="AD9D4D85" bytes="524304"
 		rom="Crash'n' the Boys - Street Challenge"
