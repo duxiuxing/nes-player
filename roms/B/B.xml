@@ -140,4 +140,9 @@
 		en="Bonk's Adventure"
 		zhcn="FC原人"
 	/>
+	<Game crc32="505AC4F0" bytes="426000"
+		rom="Bucky O'Hare"
+		en="Bucky O'Hare"
+		zhcn="外星战将" language="chinese"
+	/>
 </Game-List>

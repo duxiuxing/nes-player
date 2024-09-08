@@ -20,6 +20,11 @@
 		en="Fire Emblem Gaiden"
 		zhcn="火焰之纹章外传" language="chinese"
 	/>
+	<Game crc32="31AD3838" bytes="40976"
+		rom="Flappy"
+		en="Flappy"
+		zhcn="顽皮精灵"
+	/>
 	<Game crc32="9B4086F5" bytes="49168"
 		rom="Formation Z"
 		en="Formation Z"

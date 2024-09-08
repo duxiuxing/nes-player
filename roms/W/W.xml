@@ -10,6 +10,16 @@
 		en="Wai Wai World 2 - Sos!! Paseri Jou"
 		zhcn="柯纳米世界2"
 	/>
+	<Game crc32="2B5083F7" bytes="524304"
+		rom="Wario's Woods"
+		en="Wario's Woods"
+		zhcn="瓦里奥森林"
+	/>
+	<Game crc32="7434DC82" bytes="262160"
+		rom="WCW - World Championship Wrestling"
+		en="WCW - World Championship Wrestling"
+		zhcn="WCW世界摔角赛"
+	/>
 	<Game crc32="AF730199" bytes="262160"
 		rom="Werewolf - The Last Warrior"
 		en="Werewolf - The Last Warrior"
@@ -24,33 +34,5 @@
 		rom="Wrecking Crew"
 		en="Wrecking Crew"
 		zhcn="马里奥兄弟拆屋工"
-	/>
-	<Game crc32="7434DC82" bytes="262160"
-		en="WCW - World Championship Wrestling"
-		zhcn="WCW世界摔角赛"
-	/>
-	<Game crc32="2B5083F7" bytes="524304"
-		en="Wario's Woods"
-		zhcn="瓦里奥森林"
-	/>
-	<Game crc32="505AC4F0" bytes="426000"
-		en="Bucky O'Hare"
-		zhcn="外星战将(中)"
-	/>
-	<Game crc32="31AD3838" bytes="40976"
-		en="Flappy"
-		zhcn="顽皮精灵"
-	/>
-	<Game crc32="5F457C00" bytes="24592"
-		en="Tennis"
-		zhcn="网球"
-	/>
-	<Game crc32="3145CED6" bytes="40976"
-		en="Gomoku Narabe Renju"
-		zhcn="五子棋"
-	/>
-	<Game crc32="28843BB1" bytes="24592"
-		en="Gomoku Narabe Renju"
-		zhcn="五子棋"
 	/>
 </Game-List>

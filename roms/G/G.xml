@@ -30,6 +30,16 @@
 		en="Ganbare Goemon 2"
 		zhcn="大盗伍佑卫门2"
 	/>
+	<Game crc32="28843BB1" bytes="24592"
+		rom="Gomoku Narabe Renju"
+		en="Gomoku Narabe Renju"
+		zhcn="五子棋"
+	/>
+	<Game crc32="3145CED6" bytes="40976"
+		rom="Gomoku Narabe Renju"
+		en="Gomoku Narabe Renju"
+		zhcn="五子棋"
+	/>
 	<Game crc32="77189DD9" bytes="262160"
 		rom="Guerrilla War"
 		en="Guerrilla War"

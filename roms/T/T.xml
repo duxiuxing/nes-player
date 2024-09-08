@@ -45,6 +45,11 @@
 		en="Tenchi o Kurau II - Shokatsu Koumei Den"
 		zhcn="吞食天地2 诸葛孔明传" language="chinese"
 	/>
+	<Game crc32="5F457C00" bytes="24592"
+		rom="Tennis"
+		en="Tennis"
+		zhcn="网球"
+	/>
 	<Game crc32="88F071C3" bytes="49168"
 		rom="Tetris - The Soviet Mind Game"
 		en="Tetris - The Soviet Mind Game"
