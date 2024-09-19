@@ -34364,6 +34364,9 @@ Millipede is the sequel to Centipede, and features similar gameplay, but with a 
     <locale lang="JA">
       <title>Meikyuu Kumikyoku : Milon no Daibouken</title>
     </locale>
+    <locale lang="ZHCN">
+      <title>迷宫组曲</title>
+    </locale>
     <developer>Hudson</developer>
     <publisher>Hudson</publisher>
     <date year="1986" month="11" day="13"/>
